@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-14/08/2010,Chelsea,West Bromwich Albion,6,0,"(6, 0, 'Florent Malouda')","(45, 0, 'Didier Drogba')","(55, 0, 'Didier Drogba')","(63, 0, 'Frank Lampard')","(68, 0, 'Didier Drogba')","(90, 0, 'Florent Malouda')"
-21/08/2010,Wigan Athletic,Chelsea,0,6,"(34, 1, 'Florent Malouda')","(48, 1, 'Nicolas Anelka')","(52, 1, 'Nicolas Anelka')","(78, 1, 'Salomon Kalou')","(90, 1, 'Yossi Benayoun')","(90, 1, 'Salomon Kalou')"
-28/08/2010,Chelsea,Stoke City,2,0,"(32, 0, 'Florent Malouda')","(77, 0, 'Didier Drogba')"
-11/09/2010,West Ham United,Chelsea,1,3,"(2, 1, 'Michael Essien')","(18, 1, 'Salomon Kalou')","(83, 1, 'Michael Essien')","(85, 0, 'Scott Parker')"
-19/09/2010,Chelsea,Blackpool,4,0,"(2, 0, 'Salomon Kalou')","(12, 0, 'Florent Malouda')","(30, 0, 'Ian Evatt')","(41, 0, 'Florent Malouda')"
-25/09/2010,Manchester City,Chelsea,1,0,"(59, 0, 'Carlos Tevez')"
-03/10/2010,Chelsea,Arsenal,2,0,"(39, 0, 'Didier Drogba')","(85, 0, ' Alex')"
-16/10/2010,Aston Villa,Chelsea,0,0
-23/10/2010,Chelsea,Wolverhampton Wanderers,2,0,"(23, 0, 'Florent Malouda')","(81, 0, 'Salomon Kalou')"
-30/10/2010,Blackburn Rovers,Chelsea,1,2,"(21, 0, ' Benjani')","(39, 1, 'Nicolas Anelka')","(84, 1, 'Branislav Ivanovic')"
-07/11/2010,Liverpool,Chelsea,2,0,"(11, 0, 'Fernando Torres')","(44, 0, 'Fernando Torres')"
-10/11/2010,Chelsea,Fulham,1,0,"(30, 0, 'Michael Essien')"
-14/11/2010,Chelsea,Sunderland,0,3,"(45, 1, 'Nedum Onuoha')","(52, 1, 'Asamoah Gyan')","(87, 1, 'Danny Welbeck')"
-20/11/2010,Birmingham City,Chelsea,1,0,"(17, 0, 'Lee Bowyer')"
-28/11/2010,Newcastle United,Chelsea,1,1,"(6, 0, 'Andy Carroll')","(45, 1, 'Salomon Kalou')"
-04/12/2010,Chelsea,Everton,1,1,"(42, 0, 'Didier Drogba')","(86, 1, 'Jermaine Beckford')"
-12/12/2010,Tottenham Hotspur,Chelsea,1,1,"(15, 0, 'Roman Pavlyuchenko')","(70, 1, 'Didier Drogba')"
-27/12/2010,Arsenal,Chelsea,3,1,"(44, 0, 'Alex Song')","(51, 0, 'Cesc Fabregas')","(53, 0, 'Theo Walcott')","(57, 1, 'Branislav Ivanovic')"
-29/12/2010,Chelsea,Bolton Wanderers,1,0,"(61, 0, 'Florent Malouda')"
-02/01/2011,Chelsea,Aston Villa,3,3,"(23, 0, 'Frank Lampard')","(41, 1, 'Ashley Young')","(47, 1, 'Emile Heskey')","(84, 0, 'Didier Drogba')","(89, 0, 'John Terry')","(90, 1, 'Ciaran Clark')"
-05/01/2011,Wolverhampton Wanderers,Chelsea,1,0,"(5, 0, 'Jose Bosingwa')"
-15/01/2011,Chelsea,Blackburn Rovers,2,0,"(57, 0, 'Branislav Ivanovic')","(76, 0, 'Nicolas Anelka')"
-24/01/2011,Bolton Wanderers,Chelsea,0,4,"(11, 1, 'Didier Drogba')","(41, 1, 'Florent Malouda')","(56, 1, 'Nicolas Anelka')","(74, 1, ' Ramires')"
-01/02/2011,Sunderland,Chelsea,2,4,"(4, 0, 'Phil Bardsley')","(15, 1, 'Frank Lampard')","(23, 1, 'Salomon Kalou')","(26, 0, 'Kieran Richardson')","(60, 1, 'John Terry')","(90, 1, 'Nicolas Anelka')"
-06/02/2011,Chelsea,Liverpool,0,1,"(69, 1, ' Raul Meireles')"
-14/02/2011,Fulham,Chelsea,0,0
-01/03/2011,Chelsea,Manchester United,2,1,"(29, 1, 'Wayne Rooney')","(54, 0, ' David Luiz')","(80, 0, 'Frank Lampard')"
-07/03/2011,Blackpool,Chelsea,1,3,"(20, 1, 'John Terry')","(62, 1, 'Frank Lampard')","(66, 1, 'Frank Lampard')","(86, 0, 'Jason Puncheon')"
-20/03/2011,Chelsea,Manchester City,2,0,"(78, 0, ' David Luiz')","(90, 0, ' Ramires')"
-02/04/2011,Stoke City,Chelsea,1,1,"(8, 0, 'Jon Walters')","(33, 1, 'Didier Drogba')"
-09/04/2011,Chelsea,Wigan Athletic,1,0,"(67, 0, 'Florent Malouda')"
-16/04/2011,West Bromwich Albion,Chelsea,1,3,"(17, 0, 'Peter Odemwingie')","(22, 1, 'Didier Drogba')","(26, 1, 'Salomon Kalou')","(45, 1, 'Frank Lampard')"
-20/04/2011,Chelsea,Birmingham City,3,1,"(3, 0, 'Florent Malouda')","(26, 0, 'Salomon Kalou')","(62, 0, 'Florent Malouda')","(76, 1, 'Seb Larsson')"
-23/04/2011,Chelsea,West Ham United,3,0,"(44, 0, 'Frank Lampard')","(84, 0, 'Fernando Torres')","(90, 0, 'Florent Malouda')"
-30/04/2011,Chelsea,Tottenham Hotspur,2,1,"(19, 1, ' Sandro')","(45, 0, 'Frank Lampard')","(89, 0, 'Salomon Kalou')"
-08/05/2011,Manchester United,Chelsea,2,1,"(1, 0, 'Javier Hernandez')","(23, 0, 'Nemanja Vidic')","(68, 1, 'Frank Lampard')"
-15/05/2011,Chelsea,Newcastle United,2,2,"(2, 0, 'Branislav Ivanovic')","(10, 1, 'Jonas Gutierrez')","(83, 0, ' Alex')","(90, 1, 'Steven Taylor')"
-22/05/2011,Everton,Chelsea,1,0,"(74, 0, 'Jermaine Beckford')"
-15/08/2010,Liverpool,Arsenal,1,1,"(46, 0, ""David N'Gog"")","(90, 1, 'Pepe Reina')"
-21/08/2010,Arsenal,Blackpool,6,0,"(12, 0, 'Theo Walcott')","(32, 0, 'Andrei Arshavin')","(39, 0, 'Theo Walcott')","(49, 0, 'Abou Diaby')","(58, 0, 'Theo Walcott')","(83, 0, 'Marouane Chamakh')"
-28/08/2010,Blackburn Rovers,Arsenal,1,2,"(20, 1, 'Theo Walcott')","(27, 0, 'Mame Biram Diouf')","(51, 1, 'Andrei Arshavin')"
-11/09/2010,Arsenal,Bolton Wanderers,4,1,"(24, 0, 'Laurent Koscielny')","(44, 1, 'Johann Elmander')","(58, 0, 'Marouane Chamakh')","(78, 0, 'Alex Song')","(83, 0, 'Carlos Vela')"
-18/09/2010,Sunderland,Arsenal,1,1,"(13, 1, 'Cesc Fabregas')","(90, 0, 'Darren Bent')"
-25/09/2010,Arsenal,West Bromwich Albion,2,3,"(50, 1, 'Peter Odemwingie')","(52, 1, 'Gonzalo Jara')","(73, 1, 'Jerome Thomas')","(75, 0, 'Samir Nasri')","(90, 0, 'Samir Nasri')"
-16/10/2010,Arsenal,Birmingham City,2,1,"(33, 1, 'Nikola Zigic')","(41, 0, 'Samir Nasri')","(47, 0, 'Marouane Chamakh')"
-24/10/2010,Manchester City,Arsenal,0,3,"(20, 1, 'Samir Nasri')","(66, 1, 'Alex Song')","(88, 1, 'Nicklas Bendtner')"
-30/10/2010,Arsenal,West Ham United,1,0,"(88, 0, 'Alex Song')"
-07/11/2010,Arsenal,Newcastle United,0,1,"(45, 1, 'Andy Carroll')"
-10/11/2010,Wolverhampton Wanderers,Arsenal,0,2,"(1, 1, 'Marouane Chamakh')","(90, 1, 'Marouane Chamakh')"
-14/11/2010,Everton,Arsenal,1,2,"(36, 1, 'Bakary Sagna')","(48, 1, 'Cesc Fabregas')","(89, 0, 'Tim Cahill')"
-20/11/2010,Arsenal,Tottenham Hotspur,2,3,"(9, 0, 'Samir Nasri')","(27, 0, 'Marouane Chamakh')","(50, 1, 'Gareth Bale')","(67, 1, 'Rafael van der Vaart')","(85, 1, 'Younes Kaboul')"
-27/11/2010,Aston Villa,Arsenal,2,4,"(39, 1, 'Andrei Arshavin')","(45, 1, 'Samir Nasri')","(52, 0, 'Ciaran Clark')","(56, 1, 'Marouane Chamakh')","(70, 0, 'Ciaran Clark')","(90, 1, 'Jack Wilshere')"
-04/12/2010,Arsenal,Fulham,2,1,"(14, 0, 'Samir Nasri')","(30, 1, 'Diomansy Kamara')","(75, 0, 'Samir Nasri')"
-13/12/2010,Manchester United,Arsenal,1,0,"(41, 0, 'PARK Ji-Sung')"
-29/12/2010,Wigan Athletic,Arsenal,2,2,"(18, 0, 'Ben Watson')","(39, 1, 'Andrei Arshavin')","(44, 1, 'Nicklas Bendtner')","(81, 0, 'Sebastien Squillaci')"
-01/01/2011,Birmingham City,Arsenal,0,3,"(13, 1, 'Robin Van Persie')","(58, 1, 'Samir Nasri')","(66, 1, 'Roger Johnson')"
-05/01/2011,Arsenal,Manchester City,0,0
-15/01/2011,West Ham United,Arsenal,0,3,"(13, 1, 'Robin Van Persie')","(41, 1, 'Theo Walcott')","(77, 1, 'Robin Van Persie')"
-22/01/2011,Arsenal,Wigan Athletic,3,0,"(21, 0, 'Robin Van Persie')","(58, 0, 'Robin Van Persie')","(85, 0, 'Robin Van Persie')"
-01/02/2011,Arsenal,Everton,2,1,"(24, 1, 'Louis Saha')","(70, 0, 'Andrei Arshavin')","(75, 0, 'Laurent Koscielny')"
-05/02/2011,Newcastle United,Arsenal,4,4,"(1, 1, 'Theo Walcott')","(3, 1, 'Johann Djourou')","(10, 1, 'Robin Van Persie')","(26, 1, 'Robin Van Persie')","(68, 0, 'Joey Barton')","(75, 0, 'Leon Best')","(83, 0, 'Joey Barton')","(87, 0, 'Cheik Tiote')"
-12/02/2011,Arsenal,Wolverhampton Wanderers,2,0,"(16, 0, 'Robin Van Persie')","(56, 0, 'Robin Van Persie')"
-23/02/2011,Arsenal,Stoke City,1,0,"(8, 0, 'Sebastien Squillaci')"
-05/03/2011,Arsenal,Sunderland,0,0
-19/03/2011,West Bromwich Albion,Arsenal,2,2,"(3, 0, 'Steven Reid')","(58, 0, 'Peter Odemwingie')","(70, 1, 'Andrei Arshavin')","(78, 1, 'Robin Van Persie')"
-02/04/2011,Arsenal,Blackburn Rovers,0,0
-10/04/2011,Blackpool,Arsenal,1,3,"(18, 1, 'Abou Diaby')","(21, 1, 'Emmanuel Eboue')","(52, 0, 'Gary Taylor-Fletcher')","(76, 1, 'Robin Van Persie')"
-17/04/2011,Arsenal,Liverpool,1,1,"(90, 0, 'Robin Van Persie')","(90, 1, 'Dirk Kuyt')"
-20/04/2011,Tottenham Hotspur,Arsenal,3,3,"(5, 1, 'Theo Walcott')","(7, 0, 'Rafael van der Vaart')","(12, 1, 'Samir Nasri')","(40, 1, 'Robin Van Persie')","(44, 0, 'Tom Huddlestone')","(70, 0, 'Rafael van der Vaart')"
-24/04/2011,Bolton Wanderers,Arsenal,2,1,"(38, 0, 'Daniel Sturridge')","(48, 1, 'Robin Van Persie')","(90, 0, 'Tamir Cohen')"
-01/05/2011,Arsenal,Manchester United,1,0,"(56, 0, 'Aaron Ramsey')"
-08/05/2011,Stoke City,Arsenal,3,1,"(28, 0, 'Kenwyne Jones')","(40, 0, 'Jermaine Pennant')","(81, 1, 'Robin Van Persie')","(82, 0, 'Jon Walters')"
-15/05/2011,Arsenal,Aston Villa,1,2,"(11, 1, 'Darren Bent')","(15, 1, 'Darren Bent')","(89, 0, 'Robin Van Persie')"
-22/05/2011,Fulham,Arsenal,2,2,"(26, 0, 'Steve Sidwell')","(29, 1, 'Robin Van Persie')","(57, 0, 'Bobby Zamora')","(89, 1, 'Theo Walcott')"
-16/08/2010,Manchester United,Newcastle United,3,0,"(33, 0, 'Dimitar Berbatov')","(41, 0, 'Darren Fletcher')","(85, 0, 'Ryan Giggs')"
-22/08/2010,Fulham,Manchester United,2,2,"(11, 1, 'Paul Scholes')","(57, 0, 'Simon Davies')","(84, 1, 'Brede Hangeland')","(89, 0, 'Brede Hangeland')"
-28/08/2010,Manchester United,West Ham United,3,0,"(33, 0, 'Wayne Rooney')","(50, 0, ' Nani')","(69, 0, 'Dimitar Berbatov')"
-11/09/2010,Everton,Manchester United,3,3,"(39, 0, 'Steven Pienaar')","(43, 1, 'Darren Fletcher')","(47, 1, 'Nemanja Vidic')","(66, 1, 'Dimitar Berbatov')","(90, 0, 'Mikel Arteta')","(90, 0, 'Tim Cahill')"
-19/09/2010,Manchester United,Liverpool,3,2,"(42, 0, 'Dimitar Berbatov')","(59, 0, 'Dimitar Berbatov')","(64, 1, 'Steven Gerrard')","(70, 1, 'Steven Gerrard')","(84, 0, 'Dimitar Berbatov')"
-26/09/2010,Bolton Wanderers,Manchester United,2,2,"(6, 0, 'Zat Knight')","(23, 1, ' Nani')","(67, 0, 'Martin Petrov')","(74, 1, 'Michael Owen')"
-02/10/2010,Sunderland,Manchester United,0,0
-16/10/2010,Manchester United,West Bromwich Albion,2,2,"(5, 0, 'Javier Hernandez')","(25, 0, ' Nani')","(50, 1, 'Patrice Evra')","(55, 1, 'Somen Tchoyi')"
-24/10/2010,Stoke City,Manchester United,1,2,"(27, 1, 'Javier Hernandez')","(81, 0, ' Tuncay Sanli')","(86, 1, 'Javier Hernandez')"
-30/10/2010,Manchester United,Tottenham Hotspur,2,0,"(31, 0, 'Nemanja Vidic')","(84, 0, ' Nani')"
-06/11/2010,Manchester United,Wolverhampton Wanderers,2,1,"(45, 0, 'PARK Ji-Sung')","(66, 1, 'Sylvan Ebanks-Blake')","(90, 0, 'PARK Ji-Sung')"
-10/11/2010,Manchester City,Manchester United,0,0
-13/11/2010,Aston Villa,Manchester United,2,2,"(72, 0, 'Ashley Young')","(76, 0, 'Marc Albrighton')","(81, 1, 'Federico Macheda')","(85, 1, 'Nemanja Vidic')"
-20/11/2010,Manchester United,Wigan Athletic,2,0,"(45, 0, 'Patrice Evra')","(77, 0, 'Javier Hernandez')"
-27/11/2010,Manchester United,Blackburn Rovers,7,1,"(2, 0, 'Dimitar Berbatov')","(23, 0, 'PARK Ji-Sung')","(27, 0, 'Dimitar Berbatov')","(47, 0, 'Dimitar Berbatov')","(48, 0, ' Nani')","(62, 0, 'Dimitar Berbatov')","(70, 0, 'Dimitar Berbatov')","(83, 1, 'Christopher Samba')"
-26/12/2010,Manchester United,Sunderland,2,0,"(5, 0, 'Dimitar Berbatov')","(57, 0, 'Anton Ferdinand')"
-28/12/2010,Birmingham City,Manchester United,1,1,"(58, 1, 'Dimitar Berbatov')","(89, 0, 'Lee Bowyer')"
-01/01/2011,West Bromwich Albion,Manchester United,1,2,"(3, 1, 'Wayne Rooney')","(14, 0, 'James Morrison')","(75, 1, 'Javier Hernandez')"
-04/01/2011,Manchester United,Stoke City,2,1,"(27, 0, 'Javier Hernandez')","(50, 1, 'Dean Whitehead')","(62, 0, ' Nani')"
-16/01/2011,Tottenham Hotspur,Manchester United,0,0
-22/01/2011,Manchester United,Birmingham City,5,0,"(2, 0, 'Dimitar Berbatov')","(31, 0, 'Dimitar Berbatov')","(45, 0, 'Ryan Giggs')","(53, 0, 'Dimitar Berbatov')","(76, 0, ' Nani')"
-25/01/2011,Blackpool,Manchester United,2,3,"(15, 0, 'Craig Cathcart')","(43, 0, 'DJ Campbell')","(72, 1, 'Dimitar Berbatov')","(74, 1, 'Javier Hernandez')","(88, 1, 'Dimitar Berbatov')"
-01/02/2011,Manchester United,Aston Villa,3,1,"(1, 0, 'Wayne Rooney')","(45, 0, 'Wayne Rooney')","(58, 1, 'Darren Bent')","(63, 0, 'Nemanja Vidic')"
-05/02/2011,Wolverhampton Wanderers,Manchester United,2,1,"(3, 1, ' Nani')","(10, 0, 'George Elokobi')","(40, 0, 'Kevin Doyle')"
-12/02/2011,Manchester United,Manchester City,2,1,"(41, 0, ' Nani')","(65, 1, 'David Silva')","(78, 0, 'Wayne Rooney')"
-26/02/2011,Wigan Athletic,Manchester United,0,4,"(17, 1, 'Javier Hernandez')","(74, 1, 'Javier Hernandez')","(84, 1, 'Wayne Rooney')","(87, 1, ' Fabio Da Silva')"
-06/03/2011,Liverpool,Manchester United,3,1,"(34, 0, 'Dirk Kuyt')","(39, 0, 'Dirk Kuyt')","(65, 0, 'Dirk Kuyt')","(90, 1, 'Javier Hernandez')"
-19/03/2011,Manchester United,Bolton Wanderers,1,0,"(88, 0, 'Dimitar Berbatov')"
-02/04/2011,West Ham United,Manchester United,2,4,"(11, 0, 'Mark Noble')","(25, 0, 'Mark Noble')","(65, 1, 'Wayne Rooney')","(73, 1, 'Wayne Rooney')","(79, 1, 'Wayne Rooney')","(84, 1, 'Javier Hernandez')"
-09/04/2011,Manchester United,Fulham,2,0,"(12, 0, 'Dimitar Berbatov')","(32, 0, 'Antonio Valencia')"
-19/04/2011,Newcastle United,Manchester United,0,0
-23/04/2011,Manchester United,Everton,1,0,"(83, 0, 'Javier Hernandez')"
-14/05/2011,Blackburn Rovers,Manchester United,1,1,"(20, 0, 'Brett Emerton')","(73, 1, 'Wayne Rooney')"
-22/05/2011,Manchester United,Blackpool,4,2,"(21, 0, 'PARK Ji-Sung')","(40, 1, 'Charlie Adam')","(57, 1, 'Gary Taylor-Fletcher')","(62, 0, ' Anderson')","(74, 0, 'Ian Evatt')","(81, 0, 'Michael Owen')"
-14/08/2010,Aston Villa,West Ham United,3,0,"(15, 0, 'Stewart Downing')","(40, 0, 'Stilian Petrov')","(66, 0, 'James Milner')"
-22/08/2010,Newcastle United,Aston Villa,6,0,"(12, 0, 'Joey Barton')","(31, 0, 'Kevin Nolan')","(34, 0, 'Andy Carroll')","(67, 0, 'Andy Carroll')","(87, 0, 'Kevin Nolan')","(90, 0, 'Andy Carroll')"
-29/08/2010,Aston Villa,Everton,1,0,"(9, 0, 'Luke Young')"
-13/09/2010,Stoke City,Aston Villa,2,1,"(35, 1, 'Stewart Downing')","(80, 0, 'Kenwyne Jones')","(90, 0, 'Robert Huth')"
-18/09/2010,Aston Villa,Bolton Wanderers,1,1,"(13, 0, 'Ashley Young')","(35, 1, 'Kevin Davies')"
-26/09/2010,Wolverhampton Wanderers,Aston Villa,1,2,"(25, 1, 'Stewart Downing')","(61, 0, 'Matt Jarvis')","(88, 1, 'Emile Heskey')"
-02/10/2010,Tottenham Hotspur,Aston Villa,2,1,"(16, 1, 'Marc Albrighton')","(45, 0, 'Rafael van der Vaart')","(75, 0, 'Rafael van der Vaart')"
-23/10/2010,Sunderland,Aston Villa,1,0,"(25, 0, 'Richard Dunne')"
-31/10/2010,Aston Villa,Birmingham City,0,0
-06/11/2010,Fulham,Aston Villa,1,1,"(41, 1, 'Marc Albrighton')","(90, 0, 'Brede Hangeland')"
-10/11/2010,Aston Villa,Blackpool,3,2,"(28, 0, 'Stewart Downing')","(45, 1, 'Marlon Harewood')","(60, 0, 'Nathan Delfouneso')","(87, 1, 'DJ Campbell')","(89, 0, 'James M Collins')"
-21/11/2010,Blackburn Rovers,Aston Villa,2,0,"(45, 0, 'Morten Gamst Pedersen')","(66, 0, 'Morten Gamst Pedersen')"
-06/12/2010,Liverpool,Aston Villa,3,0,"(14, 0, ""David N'Gog"")","(16, 0, 'Ryan Babel')","(55, 0, 'Maxi Rodriguez')"
-11/12/2010,Aston Villa,West Bromwich Albion,2,1,"(25, 0, 'Stewart Downing')","(80, 0, 'Emile Heskey')","(89, 1, 'Paul Scharner')"
-26/12/2010,Aston Villa,Tottenham Hotspur,1,2,"(23, 1, 'Rafael van der Vaart')","(67, 1, 'Rafael van der Vaart')","(82, 0, 'Marc Albrighton')"
-28/12/2010,Manchester City,Aston Villa,4,0,"(8, 0, 'Mario Balotelli')","(13, 0, 'Joleon Lescott')","(27, 0, 'Mario Balotelli')","(55, 0, 'Mario Balotelli')"
-05/01/2011,Aston Villa,Sunderland,0,1,"(80, 1, 'Phil Bardsley')"
-16/01/2011,Birmingham City,Aston Villa,1,1,"(49, 0, 'Roger Johnson')","(73, 1, 'James M Collins')"
-22/01/2011,Aston Villa,Manchester City,1,0,"(18, 0, 'Darren Bent')"
-25/01/2011,Wigan Athletic,Aston Villa,1,2,"(49, 1, 'Gabby Agbonlahor')","(62, 1, 'Ashley Young')","(80, 0, 'James McCarthy')"
-05/02/2011,Aston Villa,Fulham,2,2,"(13, 0, 'John Pantsil')","(52, 1, 'Andrew Johnson')","(72, 0, 'Kyle Walker')","(78, 1, 'Clint Dempsey')"
-12/02/2011,Blackpool,Aston Villa,1,1,"(10, 1, 'Gabby Agbonlahor')","(14, 0, 'Elliot Grandin')"
-26/02/2011,Aston Villa,Blackburn Rovers,4,1,"(49, 0, 'Ashley Young')","(62, 0, 'Grant Hanley')","(64, 0, 'Stewart Downing')","(81, 1, 'Nikola Kalinic')","(82, 0, 'Ashley Young')"
-05/03/2011,Bolton Wanderers,Aston Villa,3,2,"(15, 1, 'Darren Bent')","(45, 0, 'Gary Cahill')","(64, 1, 'Marc Albrighton')","(75, 0, 'Gary Cahill')","(86, 0, 'Ivan Klasnic')"
-19/03/2011,Aston Villa,Wolverhampton Wanderers,0,1,"(38, 1, 'Matt Jarvis')"
-02/04/2011,Everton,Aston Villa,2,2,"(38, 0, 'Leon Osman')","(47, 1, 'Darren Bent')","(68, 1, 'Darren Bent')","(83, 0, 'Leighton Baines')"
-10/04/2011,Aston Villa,Newcastle United,1,0,"(24, 0, 'James M Collins')"
-16/04/2011,West Ham United,Aston Villa,1,2,"(2, 0, 'Robbie Keane')","(36, 1, 'Darren Bent')","(90, 1, 'Gabby Agbonlahor')"
-23/04/2011,Aston Villa,Stoke City,1,1,"(20, 1, 'Kenwyne Jones')","(43, 0, 'Darren Bent')"
-30/04/2011,West Bromwich Albion,Aston Villa,2,1,"(4, 1, 'Abdoulaye Meite')","(60, 0, 'Peter Odemwingie')","(84, 0, 'Youssef Mulumbu')"
-07/05/2011,Aston Villa,Wigan Athletic,1,1,"(10, 1, ""Charles N'Zogbia"")","(17, 0, 'Ashley Young')"
-22/05/2011,Aston Villa,Liverpool,1,0,"(33, 0, 'Stewart Downing')"
-14/08/2010,Bolton Wanderers,Fulham,0,0
-21/08/2010,West Ham United,Bolton Wanderers,1,3,"(48, 1, 'Matthew Upson')","(68, 1, 'Johann Elmander')","(79, 0, 'Mark Noble')","(84, 1, 'Johann Elmander')"
-29/08/2010,Bolton Wanderers,Birmingham City,2,2,"(4, 1, 'Roger Johnson')","(50, 1, 'Craig Gardner')","(71, 0, 'Kevin Davies')","(81, 0, 'Robbie Blake')"
-02/10/2010,West Bromwich Albion,Bolton Wanderers,1,1,"(64, 1, 'Johann Elmander')","(78, 0, 'James Morrison')"
-16/10/2010,Bolton Wanderers,Stoke City,2,1,"(22, 0, 'LEE Chung-Yong')","(48, 1, 'Rory Delap')","(90, 0, 'Ivan Klasnic')"
-23/10/2010,Wigan Athletic,Bolton Wanderers,1,1,"(59, 0, 'Hugo Rodallega')","(66, 1, 'Johann Elmander')"
-31/10/2010,Bolton Wanderers,Liverpool,0,1,"(86, 1, 'Maxi Rodriguez')"
-06/11/2010,Bolton Wanderers,Tottenham Hotspur,4,2,"(31, 0, 'Kevin Davies')","(56, 0, 'Gretar Steinsson')","(76, 0, 'Kevin Davies')","(79, 1, 'Alan Hutton')","(87, 1, 'Roman Pavlyuchenko')","(90, 0, 'Martin Petrov')"
-10/11/2010,Everton,Bolton Wanderers,1,1,"(79, 1, 'Ivan Klasnic')","(90, 0, 'Jermaine Beckford')"
-13/11/2010,Wolverhampton Wanderers,Bolton Wanderers,2,3,"(1, 1, 'Richard Stearman')","(62, 1, 'Johann Elmander')","(67, 1, 'Stuart Holden')","(69, 0, 'Kevin Foley')","(77, 0, 'Steven Fletcher')"
-20/11/2010,Bolton Wanderers,Newcastle United,5,1,"(18, 0, 'Kevin Davies')","(39, 0, 'LEE Chung-Yong')","(50, 0, 'Johann Elmander')","(52, 1, 'Andy Carroll')","(72, 0, 'Johann Elmander')","(90, 0, 'Kevin Davies')"
-27/11/2010,Bolton Wanderers,Blackpool,2,2,"(28, 1, 'Ian Evatt')","(57, 1, 'Luke Varney')","(76, 0, 'Martin Petrov')","(89, 0, 'Mark Davies')"
-04/12/2010,Manchester City,Bolton Wanderers,1,0,"(4, 0, 'Carlos Tevez')"
-12/12/2010,Bolton Wanderers,Blackburn Rovers,2,1,"(65, 0, 'Fabrice Muamba')","(87, 1, 'Mame Biram Diouf')","(88, 0, 'Stuart Holden')"
-18/12/2010,Sunderland,Bolton Wanderers,1,0,"(32, 0, 'Danny Welbeck')"
-26/12/2010,Bolton Wanderers,West Bromwich Albion,2,0,"(40, 0, 'Matt Taylor')","(86, 0, 'Johann Elmander')"
-01/01/2011,Liverpool,Bolton Wanderers,2,1,"(43, 1, 'Kevin Davies')","(49, 0, 'Fernando Torres')","(90, 0, 'Joe Cole')"
-05/01/2011,Bolton Wanderers,Wigan Athletic,1,1,"(54, 0, ' Rodrigo Moreno')","(80, 1, 'Ronnie Stam')"
-15/01/2011,Stoke City,Bolton Wanderers,2,0,"(37, 0, 'Danny Higginbotham')","(63, 0, 'Matthew Etherington')"
-02/02/2011,Bolton Wanderers,Wolverhampton Wanderers,1,0,"(90, 0, 'Daniel Sturridge')"
-05/02/2011,Tottenham Hotspur,Bolton Wanderers,2,1,"(6, 0, 'Rafael van der Vaart')","(55, 1, 'Daniel Sturridge')","(90, 0, 'Niko Kranjcar')"
-13/02/2011,Bolton Wanderers,Everton,2,0,"(10, 0, 'Gary Cahill')","(67, 0, 'Daniel Sturridge')"
-26/02/2011,Newcastle United,Bolton Wanderers,1,1,"(13, 0, 'Kevin Nolan')","(38, 1, 'Daniel Sturridge')"
-02/04/2011,Birmingham City,Bolton Wanderers,2,1,"(4, 0, 'Kevin Phillips')","(59, 0, 'Craig Gardner')","(70, 1, 'Johann Elmander')"
-09/04/2011,Bolton Wanderers,West Ham United,3,0,"(14, 0, 'Daniel Sturridge')","(20, 0, 'LEE Chung-Yong')","(51, 0, 'Daniel Sturridge')"
-27/04/2011,Fulham,Bolton Wanderers,3,0,"(15, 0, 'Clint Dempsey')","(48, 0, 'Clint Dempsey')","(65, 0, 'Brede Hangeland')"
-30/04/2011,Blackburn Rovers,Bolton Wanderers,1,0,"(20, 0, 'Martin Olsson')"
-07/05/2011,Bolton Wanderers,Sunderland,1,2,"(45, 1, 'Bolo Zenden')","(87, 0, 'Ivan Klasnic')","(90, 1, 'Sulley Muntari')"
-14/05/2011,Blackpool,Bolton Wanderers,4,3,"(6, 1, 'Kevin Davies')","(9, 0, 'DJ Campbell')","(19, 0, 'Jason Puncheon')","(24, 1, 'Matt Taylor')","(45, 0, 'DJ Campbell')","(53, 1, 'Daniel Sturridge')","(63, 0, 'Charlie Adam')"
-22/05/2011,Bolton Wanderers,Manchester City,0,2,"(43, 1, 'Joleon Lescott')","(62, 1, 'Edin Dzeko')"
-14/08/2010,Sunderland,Birmingham City,2,2,"(24, 0, 'Darren Bent')","(56, 0, 'Stephen Carr')","(77, 1, 'Scott Dann')","(88, 1, 'Liam Ridgewell')"
-21/08/2010,Birmingham City,Blackburn Rovers,2,1,"(54, 1, ""Steven N'Zonzi"")","(57, 0, 'Craig Gardner')","(71, 0, 'Craig Gardner')"
-12/09/2010,Birmingham City,Liverpool,0,0
-18/09/2010,West Bromwich Albion,Birmingham City,3,1,"(15, 1, 'Cameron Jerome')","(51, 0, 'Scott Dann')","(59, 0, 'Peter Odemwingie')","(69, 0, 'Jonas Olsson')"
-25/09/2010,Birmingham City,Wigan Athletic,0,0
-02/10/2010,Birmingham City,Everton,0,2,"(54, 1, 'Roger Johnson')","(90, 1, 'Tim Cahill')"
-23/10/2010,Birmingham City,Blackpool,2,0,"(36, 0, 'Liam Ridgewell')","(56, 0, 'Nikola Zigic')"
-06/11/2010,Birmingham City,West Ham United,2,2,"(48, 1, 'Frederic Piquionne')","(58, 1, 'Valon Behrami')","(64, 0, 'Cameron Jerome')","(73, 0, 'Liam Ridgewell')"
-09/11/2010,Stoke City,Birmingham City,3,2,"(44, 0, 'Robert Huth')","(71, 0, 'Ricardo Fuller')","(74, 1, 'Keith Fahey')","(76, 1, 'Cameron Jerome')","(85, 0, 'Dean Whitehead')"
-13/11/2010,Manchester City,Birmingham City,0,0
-27/11/2010,Fulham,Birmingham City,1,1,"(20, 1, 'Seb Larsson')","(53, 0, 'Clint Dempsey')"
-04/12/2010,Birmingham City,Tottenham Hotspur,1,1,"(19, 1, 'Sebastien Bassong')","(81, 0, 'Craig Gardner')"
-12/12/2010,Wolverhampton Wanderers,Birmingham City,1,0,"(45, 0, 'Stephen Hunt')"
-04/01/2011,Blackpool,Birmingham City,1,2,"(24, 1, 'Aleksandr Hleb')","(68, 0, 'DJ Campbell')","(89, 1, 'Scott Dann')"
-02/02/2011,Birmingham City,Manchester City,2,2,"(4, 1, 'Carlos Tevez')","(23, 0, 'Nikola Zigic')","(41, 1, 'Aleksandar Kolarov')","(77, 0, 'Craig Gardner')"
-06/02/2011,West Ham United,Birmingham City,0,1,"(65, 1, 'Nikola Zigic')"
-12/02/2011,Birmingham City,Stoke City,1,0,"(90, 0, 'Nikola Zigic')"
-15/02/2011,Birmingham City,Newcastle United,0,2,"(2, 1, 'Peter Lovenkrands')","(50, 1, 'Leon Best')"
-05/03/2011,Birmingham City,West Bromwich Albion,1,3,"(47, 1, 'Youssef Mulumbu')","(48, 0, 'Jean Beausejour')","(58, 1, 'James Morrison')","(72, 1, 'Paul Scharner')"
-09/03/2011,Everton,Birmingham City,1,1,"(17, 1, 'Jean Beausejour')","(35, 0, 'Johnny Heitinga')"
-19/03/2011,Wigan Athletic,Birmingham City,2,1,"(6, 1, 'Liam Ridgewell')","(25, 0, 'Tom Cleverley')","(90, 0, 'Maynor Figueroa')"
-09/04/2011,Blackburn Rovers,Birmingham City,1,1,"(32, 1, 'Lee Bowyer')","(45, 0, 'Junior Hoilett')"
-16/04/2011,Birmingham City,Sunderland,2,0,"(41, 0, 'Seb Larsson')","(66, 0, 'Craig Gardner')"
-23/04/2011,Liverpool,Birmingham City,5,0,"(7, 0, 'Maxi Rodriguez')","(23, 0, 'Dirk Kuyt')","(66, 0, 'Maxi Rodriguez')","(73, 0, 'Maxi Rodriguez')","(86, 0, 'Joe Cole')"
-01/05/2011,Birmingham City,Wolverhampton Wanderers,1,1,"(7, 1, 'Steven Fletcher')","(27, 0, 'Seb Larsson')"
-07/05/2011,Newcastle United,Birmingham City,2,1,"(36, 0, 'Shola Ameobi')","(43, 0, 'Steven Taylor')","(45, 1, 'Lee Bowyer')"
-15/05/2011,Birmingham City,Fulham,0,2,"(5, 1, 'Brede Hangeland')","(49, 1, 'Brede Hangeland')"
-22/05/2011,Tottenham Hotspur,Birmingham City,2,1,"(49, 0, 'Roman Pavlyuchenko')","(79, 1, 'Craig Gardner')","(90, 0, 'Roman Pavlyuchenko')"
-14/08/2010,Wolverhampton Wanderers,Stoke City,2,1,"(37, 0, 'David Jones')","(39, 0, 'Steven Fletcher')","(55, 1, 'Abdoulaye Faye')"
-21/08/2010,Everton,Wolverhampton Wanderers,1,1,"(43, 0, 'Tim Cahill')","(74, 1, 'Sylvan Ebanks-Blake')"
-28/08/2010,Wolverhampton Wanderers,Newcastle United,1,1,"(43, 0, 'Sylvan Ebanks-Blake')","(62, 1, 'Andy Carroll')"
-11/09/2010,Fulham,Wolverhampton Wanderers,2,1,"(10, 1, 'Jelle Van Damme')","(49, 0, 'Moussa Dembele')","(90, 0, 'Moussa Dembele')"
-18/09/2010,Tottenham Hotspur,Wolverhampton Wanderers,3,1,"(45, 1, 'Steven Fletcher')","(77, 0, 'Rafael van der Vaart')","(87, 0, 'Roman Pavlyuchenko')","(90, 0, 'Alan Hutton')"
-02/10/2010,Wigan Athletic,Wolverhampton Wanderers,2,0,"(65, 0, 'Jordi Gomez')","(85, 0, 'Hugo Rodallega')"
-16/10/2010,Wolverhampton Wanderers,West Ham United,1,1,"(10, 0, 'Matt Jarvis')","(53, 1, 'Mark Noble')"
-30/10/2010,Wolverhampton Wanderers,Manchester City,2,1,"(23, 1, 'Emmanuel Adebayor')","(30, 0, 'Nenad Milijas')","(57, 0, 'David Edwards')"
-20/11/2010,Blackpool,Wolverhampton Wanderers,2,1,"(3, 0, 'Luke Varney')","(44, 0, 'Marlon Harewood')","(86, 1, 'Kevin Doyle')"
-27/11/2010,Wolverhampton Wanderers,Sunderland,3,2,"(50, 0, 'Kevin Foley')","(67, 1, 'Darren Bent')","(77, 1, 'Danny Welbeck')","(81, 0, 'Stephen Hunt')","(89, 0, 'Sylvan Ebanks-Blake')"
-04/12/2010,Blackburn Rovers,Wolverhampton Wanderers,3,0,"(29, 0, 'David Dunn')","(43, 0, 'Brett Emerton')","(55, 0, 'Ryan Nelsen')"
-26/12/2010,Wolverhampton Wanderers,Wigan Athletic,1,2,"(9, 1, 'Hugo Rodallega')","(20, 1, 'Tom Cleverley')","(87, 0, 'Steven Fletcher')"
-29/12/2010,Liverpool,Wolverhampton Wanderers,0,1,"(56, 1, 'Stephen Ward')"
-01/01/2011,West Ham United,Wolverhampton Wanderers,2,0,"(51, 0, 'Ronald Zubar')","(79, 0, 'Freddie Sears')"
-15/01/2011,Manchester City,Wolverhampton Wanderers,4,3,"(12, 1, 'Nenad Milijas')","(40, 0, 'Kolo Toure')","(49, 0, 'Carlos Tevez')","(54, 0, 'Yaya Toure')","(66, 0, 'Carlos Tevez')","(68, 1, 'Kevin Doyle')","(86, 1, 'Ronald Zubar')"
-22/01/2011,Wolverhampton Wanderers,Liverpool,0,3,"(36, 1, 'Fernando Torres')","(50, 1, ' Raul Meireles')","(90, 1, 'Fernando Torres')"
-20/02/2011,West Bromwich Albion,Wolverhampton Wanderers,1,1,"(39, 1, ""Jamie O'Hara"")","(90, 0, 'Carlos Vela')"
-26/02/2011,Wolverhampton Wanderers,Blackpool,4,0,"(2, 0, 'Matt Jarvis')","(54, 0, ""Jamie O'Hara"")","(78, 0, 'Sylvan Ebanks-Blake')","(90, 0, 'Sylvan Ebanks-Blake')"
-06/03/2011,Wolverhampton Wanderers,Tottenham Hotspur,3,3,"(20, 0, 'Kevin Doyle')","(30, 1, 'Jermain Defoe')","(35, 1, 'Jermain Defoe')","(40, 0, 'Kevin Doyle')","(48, 1, 'Roman Pavlyuchenko')","(87, 0, 'Steven Fletcher')"
-02/04/2011,Newcastle United,Wolverhampton Wanderers,4,1,"(22, 0, 'Kevin Nolan')","(45, 0, 'Shola Ameobi')","(50, 0, 'Peter Lovenkrands')","(58, 1, 'Sylvan Ebanks-Blake')","(90, 0, 'Jonas Gutierrez')"
-09/04/2011,Wolverhampton Wanderers,Everton,0,3,"(21, 1, 'Jermaine Beckford')","(39, 1, 'Phil Neville')","(45, 1, 'Diniyar Bilyaletdinov')"
-23/04/2011,Wolverhampton Wanderers,Fulham,1,1,"(22, 0, 'Steven Fletcher')","(80, 1, 'Andrew Johnson')"
-26/04/2011,Stoke City,Wolverhampton Wanderers,3,0,"(16, 0, 'Kenwyne Jones')","(45, 0, 'Ryan Shawcross')","(51, 0, 'Jermaine Pennant')"
-08/05/2011,Wolverhampton Wanderers,West Bromwich Albion,3,1,"(15, 0, 'Steven Fletcher')","(28, 0, 'Adlene Guedioura')","(47, 0, 'Steven Fletcher')","(55, 1, 'Peter Odemwingie')"
-14/05/2011,Sunderland,Wolverhampton Wanderers,1,3,"(22, 1, 'Jody Craddock')","(34, 0, 'Stephane Sessegnon')","(54, 1, 'Steven Fletcher')","(78, 1, 'George Elokobi')"
-22/05/2011,Wolverhampton Wanderers,Blackburn Rovers,2,3,"(22, 1, 'Jason Roberts')","(38, 1, 'Brett Emerton')","(45, 1, 'Junior Hoilett')","(73, 0, ""Jamie O'Hara"")","(87, 0, 'Stephen Hunt')"
-11/09/2010,Newcastle United,Blackpool,0,2,"(45, 1, 'Charlie Adam')","(90, 1, 'DJ Campbell')"
-18/09/2010,Everton,Newcastle United,0,1,"(45, 1, 'Hatem Ben Arfa')"
-26/09/2010,Newcastle United,Stoke City,1,2,"(43, 0, 'Kevin Nolan')","(67, 1, 'Kenwyne Jones')","(85, 1, 'James Perch')"
-03/10/2010,Manchester City,Newcastle United,2,1,"(18, 0, 'Carlos Tevez')","(24, 1, 'Jonas Gutierrez')","(75, 0, 'Adam Johnson')"
-16/10/2010,Newcastle United,Wigan Athletic,2,2,"(22, 1, ""Charles N'Zogbia"")","(23, 1, ""Charles N'Zogbia"")","(72, 0, 'Shola Ameobi')","(90, 0, 'Fabricio Coloccini')"
-23/10/2010,West Ham United,Newcastle United,1,2,"(12, 0, 'Carlton Cole')","(23, 1, 'Kevin Nolan')","(69, 1, 'Andy Carroll')"
-31/10/2010,Newcastle United,Sunderland,5,1,"(26, 0, 'Kevin Nolan')","(34, 0, 'Kevin Nolan')","(45, 0, 'Shola Ameobi')","(70, 0, 'Shola Ameobi')","(75, 0, 'Kevin Nolan')","(90, 1, 'Darren Bent')"
-10/11/2010,Newcastle United,Blackburn Rovers,1,2,"(3, 1, 'Morten Gamst Pedersen')","(47, 0, 'Andy Carroll')","(82, 1, 'Jason Roberts')"
-13/11/2010,Newcastle United,Fulham,0,0
-05/12/2010,West Bromwich Albion,Newcastle United,3,1,"(32, 0, 'Somen Tchoyi')","(71, 0, 'Peter Odemwingie')","(89, 0, 'Peter Odemwingie')","(90, 1, 'Peter Lovenkrands')"
-11/12/2010,Newcastle United,Liverpool,3,1,"(15, 0, 'Kevin Nolan')","(49, 1, 'Dirk Kuyt')","(80, 0, 'Joey Barton')","(90, 0, 'Andy Carroll')"
-26/12/2010,Newcastle United,Manchester City,1,3,"(2, 1, 'Gareth Barry')","(5, 1, 'Carlos Tevez')","(72, 0, 'Andy Carroll')","(81, 1, 'Fabricio Coloccini')"
-28/12/2010,Tottenham Hotspur,Newcastle United,2,0,"(57, 0, 'Aaron Lennon')","(81, 0, 'Gareth Bale')"
-02/01/2011,Wigan Athletic,Newcastle United,0,1,"(19, 1, 'Shola Ameobi')"
-05/01/2011,Newcastle United,West Ham United,5,0,"(18, 0, 'Leon Best')","(39, 0, 'Leon Best')","(45, 0, 'Kevin Nolan')","(60, 0, 'Leon Best')","(63, 0, 'Peter Lovenkrands')"
-16/01/2011,Sunderland,Newcastle United,1,1,"(52, 1, 'Kevin Nolan')","(90, 0, 'Asamoah Gyan')"
-22/01/2011,Newcastle United,Tottenham Hotspur,1,1,"(59, 0, 'Fabricio Coloccini')","(90, 1, 'Aaron Lennon')"
-02/02/2011,Fulham,Newcastle United,1,0,"(67, 0, 'Damien Duff')"
-12/02/2011,Blackburn Rovers,Newcastle United,0,0
-05/03/2011,Newcastle United,Everton,1,2,"(23, 0, 'Leon Best')","(31, 1, 'Leon Osman')","(36, 1, 'Phil Jagielka')"
-19/03/2011,Stoke City,Newcastle United,4,0,"(28, 0, 'Jon Walters')","(46, 0, 'Jermaine Pennant')","(49, 0, 'Danny Higginbotham')","(90, 0, 'Ricardo Fuller')"
-23/04/2011,Blackpool,Newcastle United,1,1,"(17, 1, 'Peter Lovenkrands')","(32, 0, 'DJ Campbell')"
-01/05/2011,Liverpool,Newcastle United,3,0,"(10, 0, 'Maxi Rodriguez')","(59, 0, 'Dirk Kuyt')","(65, 0, 'Luis Suarez')"
-22/05/2011,Newcastle United,West Bromwich Albion,3,3,"(16, 0, 'Steven Taylor')","(39, 0, 'Peter Lovenkrands')","(47, 0, 'Jonas Olsson')","(62, 1, 'Somen Tchoyi')","(71, 1, 'Somen Tchoyi')","(90, 1, 'Somen Tchoyi')"
-14/08/2010,Tottenham Hotspur,Manchester City,0,0
-23/08/2010,Manchester City,Liverpool,3,0,"(13, 0, 'Gareth Barry')","(52, 0, 'Carlos Tevez')","(68, 0, 'Carlos Tevez')"
-29/08/2010,Sunderland,Manchester City,1,0,"(90, 0, 'Darren Bent')"
-11/09/2010,Manchester City,Blackburn Rovers,1,1,"(25, 1, 'Nikola Kalinic')","(55, 0, 'Patrick Vieira')"
-19/09/2010,Wigan Athletic,Manchester City,0,2,"(43, 1, 'Carlos Tevez')","(70, 1, 'Yaya Toure')"
-17/10/2010,Blackpool,Manchester City,2,3,"(67, 1, 'Carlos Tevez')","(78, 0, 'Marlon Harewood')","(79, 1, 'Carlos Tevez')","(90, 0, 'Gary Taylor-Fletcher')","(90, 1, 'David Silva')"
-07/11/2010,West Bromwich Albion,Manchester City,0,2,"(20, 1, 'Mario Balotelli')","(26, 1, 'Mario Balotelli')"
-21/11/2010,Fulham,Manchester City,1,4,"(6, 1, 'Carlos Tevez')","(32, 1, 'Pablo Zabaleta')","(35, 1, 'Yaya Toure')","(56, 1, 'Carlos Tevez')","(70, 0, 'Zoltan Gera')"
-27/11/2010,Stoke City,Manchester City,1,1,"(81, 1, 'Micah Richards')","(90, 0, 'Matthew Etherington')"
-11/12/2010,West Ham United,Manchester City,1,3,"(30, 1, 'Yaya Toure')","(73, 1, 'Yaya Toure')","(81, 1, 'Adam Johnson')","(89, 0, 'James Tomkins')"
-20/12/2010,Manchester City,Everton,1,2,"(4, 1, 'Tim Cahill')","(19, 1, 'Leighton Baines')","(72, 0, 'Yaya Toure')"
-01/01/2011,Manchester City,Blackpool,1,0,"(34, 0, 'Adam Johnson')"
-05/02/2011,Manchester City,West Bromwich Albion,3,0,"(17, 0, 'Carlos Tevez')","(22, 0, 'Carlos Tevez')","(39, 0, 'Carlos Tevez')"
-27/02/2011,Manchester City,Fulham,1,1,"(26, 0, 'Mario Balotelli')","(48, 1, 'Damien Duff')"
-05/03/2011,Manchester City,Wigan Athletic,1,0,"(38, 0, 'David Silva')"
-03/04/2011,Manchester City,Sunderland,5,0,"(9, 0, 'Adam Johnson')","(15, 0, 'Carlos Tevez')","(63, 0, 'David Silva')","(67, 0, 'Patrick Vieira')","(73, 0, 'Yaya Toure')"
-11/04/2011,Liverpool,Manchester City,3,0,"(13, 0, 'Andy Carroll')","(34, 0, 'Dirk Kuyt')","(35, 0, 'Andy Carroll')"
-25/04/2011,Blackburn Rovers,Manchester City,0,1,"(75, 1, 'Edin Dzeko')"
-01/05/2011,Manchester City,West Ham United,2,1,"(10, 0, 'Nigel De Jong')","(15, 0, 'Pablo Zabaleta')","(33, 1, 'Demba Ba')"
-07/05/2011,Everton,Manchester City,2,1,"(28, 1, 'Yaya Toure')","(65, 0, 'Sylvain Distin')","(72, 0, 'Leon Osman')"
-10/05/2011,Manchester City,Tottenham Hotspur,1,0,"(30, 0, 'Peter Crouch')"
-17/05/2011,Manchester City,Stoke City,3,0,"(14, 0, 'Carlos Tevez')","(53, 0, 'Joleon Lescott')","(65, 0, 'Carlos Tevez')"
-21/08/2010,West Bromwich Albion,Sunderland,1,0,"(81, 0, 'Peter Odemwingie')"
-11/09/2010,Wigan Athletic,Sunderland,1,1,"(66, 1, 'Asamoah Gyan')","(87, 0, 'Antolin Alcaraz')"
-25/09/2010,Liverpool,Sunderland,2,2,"(5, 0, 'Dirk Kuyt')","(25, 1, 'Darren Bent')","(48, 1, 'Darren Bent')","(64, 0, 'Steven Gerrard')"
-18/10/2010,Blackburn Rovers,Sunderland,0,0
-06/11/2010,Sunderland,Stoke City,2,0,"(9, 0, 'Asamoah Gyan')","(86, 0, 'Asamoah Gyan')"
-09/11/2010,Tottenham Hotspur,Sunderland,1,1,"(64, 0, 'Rafael van der Vaart')","(67, 1, 'Asamoah Gyan')"
-22/11/2010,Sunderland,Everton,2,2,"(6, 1, 'Tim Cahill')","(23, 0, 'Danny Welbeck')","(70, 0, 'Danny Welbeck')","(83, 1, 'Mikel Arteta')"
-05/12/2010,Sunderland,West Ham United,1,0,"(34, 0, 'Jordan Henderson')"
-11/12/2010,Fulham,Sunderland,0,0
-28/12/2010,Sunderland,Blackpool,0,2,"(50, 1, 'DJ Campbell')","(90, 1, 'DJ Campbell')"
-01/01/2011,Sunderland,Blackburn Rovers,3,0,"(11, 0, 'Danny Welbeck')","(19, 0, 'Darren Bent')","(89, 0, 'Asamoah Gyan')"
-22/01/2011,Blackpool,Sunderland,1,2,"(15, 1, 'Kieran Richardson')","(36, 1, 'Kieran Richardson')","(86, 0, 'Charlie Adam')"
-05/02/2011,Stoke City,Sunderland,3,2,"(2, 1, 'Kieran Richardson')","(32, 0, 'John Carew')","(48, 1, 'Asamoah Gyan')","(83, 0, 'Robert Huth')","(90, 0, 'Robert Huth')"
-12/02/2011,Sunderland,Tottenham Hotspur,1,2,"(11, 0, 'Asamoah Gyan')","(44, 1, 'Michael Dawson')","(57, 1, 'Niko Kranjcar')"
-26/02/2011,Everton,Sunderland,2,0,"(8, 0, 'Jermaine Beckford')","(39, 0, 'Jermaine Beckford')"
-20/03/2011,Sunderland,Liverpool,0,2,"(34, 1, 'Dirk Kuyt')","(77, 1, 'Luis Suarez')"
-09/04/2011,Sunderland,West Bromwich Albion,2,3,"(10, 0, 'Nicky Shorey')","(28, 1, 'Peter Odemwingie')","(31, 0, 'Phil Bardsley')","(54, 1, 'Youssef Mulumbu')","(72, 1, 'Paul Scharner')"
-23/04/2011,Sunderland,Wigan Athletic,4,2,"(52, 1, 'Mohamed Diame')","(55, 0, 'Asamoah Gyan')","(66, 0, 'Jordan Henderson')","(73, 0, 'Stephane Sessegnon')","(77, 0, 'Jordan Henderson')","(90, 1, 'Franco Di Santo')"
-30/04/2011,Sunderland,Fulham,0,3,"(33, 1, 'Gael Kakuta')","(61, 1, 'Simon Davies')","(73, 1, 'Simon Davies')"
-22/05/2011,West Ham United,Sunderland,0,3,"(17, 1, 'Bolo Zenden')","(51, 1, 'Stephane Sessegnon')","(90, 1, 'Cristian Riveros')"
-21/08/2010,Stoke City,Tottenham Hotspur,1,2,"(19, 1, 'Gareth Bale')","(25, 0, 'Ricardo Fuller')","(30, 1, 'Gareth Bale')"
-28/08/2010,Tottenham Hotspur,Wigan Athletic,0,1,"(80, 1, 'Hugo Rodallega')"
-11/09/2010,West Bromwich Albion,Tottenham Hotspur,1,1,"(27, 1, 'Luka Modric')","(41, 0, 'Chris Brunt')"
-25/09/2010,West Ham United,Tottenham Hotspur,1,0,"(29, 0, 'Frederic Piquionne')"
-16/10/2010,Fulham,Tottenham Hotspur,1,2,"(30, 0, 'Diomansy Kamara')","(31, 1, 'Roman Pavlyuchenko')","(63, 1, 'Tom Huddlestone')"
-23/10/2010,Tottenham Hotspur,Everton,1,1,"(17, 1, 'Leighton Baines')","(20, 0, 'Rafael van der Vaart')"
-13/11/2010,Tottenham Hotspur,Blackburn Rovers,4,2,"(16, 0, 'Gareth Bale')","(42, 0, 'Roman Pavlyuchenko')","(69, 0, 'Peter Crouch')","(75, 0, 'Gareth Bale')","(80, 1, 'Ryan Nelsen')","(90, 1, 'Gael Givet')"
-28/11/2010,Tottenham Hotspur,Liverpool,2,1,"(42, 1, 'Martin Skrtel')","(65, 0, 'Martin Skrtel')","(90, 0, 'Aaron Lennon')"
-01/01/2011,Tottenham Hotspur,Fulham,1,0,"(42, 0, 'Gareth Bale')"
-05/01/2011,Everton,Tottenham Hotspur,2,1,"(3, 0, 'Louis Saha')","(11, 1, 'Rafael van der Vaart')","(75, 0, 'Seamus Coleman')"
-02/02/2011,Blackburn Rovers,Tottenham Hotspur,0,1,"(3, 1, 'Peter Crouch')"
-22/02/2011,Blackpool,Tottenham Hotspur,3,1,"(18, 0, 'Charlie Adam')","(44, 0, 'DJ Campbell')","(80, 0, 'Brett Ormerod')","(90, 1, 'Craig Cathcart')"
-19/03/2011,Tottenham Hotspur,West Ham United,0,0
-02/04/2011,Wigan Athletic,Tottenham Hotspur,0,0
-09/04/2011,Tottenham Hotspur,Stoke City,3,2,"(11, 0, 'Peter Crouch')","(18, 0, 'Luka Modric')","(27, 1, 'Matthew Etherington')","(34, 0, 'Peter Crouch')","(41, 1, 'Kenwyne Jones')"
-23/04/2011,Tottenham Hotspur,West Bromwich Albion,2,2,"(5, 1, 'Peter Odemwingie')","(27, 0, 'Roman Pavlyuchenko')","(66, 0, 'Jermain Defoe')","(81, 1, 'Simon Cox')"
-07/05/2011,Tottenham Hotspur,Blackpool,1,1,"(76, 1, 'Charlie Adam')","(89, 0, 'Jermain Defoe')"
-15/05/2011,Liverpool,Tottenham Hotspur,0,2,"(9, 1, 'Rafael van der Vaart')","(56, 1, 'Luka Modric')"
-14/08/2010,Wigan Athletic,Blackpool,0,4,"(16, 1, 'Gary Taylor-Fletcher')","(38, 1, 'Marlon Harewood')","(43, 1, 'Marlon Harewood')","(75, 1, 'Alex Baptiste')"
-28/08/2010,Blackpool,Fulham,2,2,"(35, 1, 'Bobby Zamora')","(71, 0, 'John Pantsil')","(76, 0, 'Luke Varney')","(87, 1, 'Dickson Etuhu')"
-25/09/2010,Blackpool,Blackburn Rovers,1,2,"(20, 1, 'Charlie Adam')","(85, 0, 'Matt Phillips')","(90, 1, 'Brett Emerton')"
-03/10/2010,Liverpool,Blackpool,1,2,"(29, 1, 'Charlie Adam')","(45, 1, 'Luke Varney')","(53, 0, 'Sotiris Kyrgiakos')"
-01/11/2010,Blackpool,West Bromwich Albion,2,1,"(12, 0, 'Charlie Adam')","(62, 0, 'Luke Varney')","(85, 1, 'Youssef Mulumbu')"
-06/11/2010,Blackpool,Everton,2,2,"(10, 0, 'Neal Eardley')","(13, 1, 'Tim Cahill')","(48, 0, 'David Vaughan')","(50, 1, 'Seamus Coleman')"
-13/11/2010,West Ham United,Blackpool,0,0
-11/12/2010,Stoke City,Blackpool,0,1,"(48, 1, 'DJ Campbell')"
-12/01/2011,Blackpool,Liverpool,2,1,"(3, 1, 'Fernando Torres')","(12, 0, 'Gary Taylor-Fletcher')","(69, 0, 'DJ Campbell')"
-15/01/2011,West Bromwich Albion,Blackpool,3,2,"(11, 1, 'David Vaughan')","(37, 0, 'Peter Odemwingie')","(52, 0, 'James Morrison')","(80, 1, 'Gary Taylor-Fletcher')","(87, 0, 'Peter Odemwingie')"
-02/02/2011,Blackpool,West Ham United,1,3,"(24, 1, 'Victor Obinna')","(37, 1, 'Robbie Keane')","(42, 0, 'Charlie Adam')","(44, 1, 'Victor Obinna')"
-05/02/2011,Everton,Blackpool,5,3,"(20, 0, 'Louis Saha')","(37, 1, 'Alex Baptiste')","(47, 0, 'Louis Saha')","(62, 1, 'Jason Puncheon')","(64, 1, 'Charlie Adam')","(76, 0, 'Louis Saha')","(80, 0, 'Jermaine Beckford')","(84, 0, 'Louis Saha')"
-19/03/2011,Blackburn Rovers,Blackpool,2,2,"(25, 1, 'Charlie Adam')","(29, 1, 'Charlie Adam')","(49, 0, 'Christopher Samba')","(90, 0, 'Junior Hoilett')"
-03/04/2011,Fulham,Blackpool,3,0,"(23, 0, 'Bobby Zamora')","(28, 0, 'Bobby Zamora')","(72, 0, 'Dickson Etuhu')"
-16/04/2011,Blackpool,Wigan Athletic,1,3,"(3, 1, 'Hugo Rodallega')","(45, 1, ""Charles N'Zogbia"")","(67, 1, 'Neal Eardley')","(83, 0, 'DJ Campbell')"
-30/04/2011,Blackpool,Stoke City,0,0
-29/08/2010,Liverpool,West Bromwich Albion,1,0,"(65, 0, 'Fernando Torres')"
-17/10/2010,Everton,Liverpool,2,0,"(34, 0, 'Tim Cahill')","(50, 0, 'Mikel Arteta')"
-24/10/2010,Liverpool,Blackburn Rovers,2,1,"(48, 0, 'Sotiris Kyrgiakos')","(50, 1, 'Jamie Carragher')","(53, 0, 'Fernando Torres')"
-10/11/2010,Wigan Athletic,Liverpool,1,1,"(7, 1, 'Fernando Torres')","(52, 0, 'Hugo Rodallega')"
-13/11/2010,Stoke City,Liverpool,2,0,"(56, 0, 'Ricardo Fuller')","(90, 0, 'Kenwyne Jones')"
-20/11/2010,Liverpool,West Ham United,3,0,"(18, 0, 'Glen Johnson')","(27, 0, 'Dirk Kuyt')","(38, 0, 'Maxi Rodriguez')"
-05/01/2011,Blackburn Rovers,Liverpool,3,1,"(32, 0, 'Martin Olsson')","(38, 0, ' Benjani')","(57, 0, ' Benjani')","(81, 1, 'Steven Gerrard')"
-16/01/2011,Liverpool,Everton,2,2,"(29, 0, ' Raul Meireles')","(46, 1, 'Sylvain Distin')","(52, 1, 'Jermaine Beckford')","(68, 0, 'Dirk Kuyt')"
-26/01/2011,Liverpool,Fulham,1,0,"(52, 0, 'John Pantsil')"
-02/02/2011,Liverpool,Stoke City,2,0,"(47, 0, ' Raul Meireles')","(79, 0, 'Luis Suarez')"
-12/02/2011,Liverpool,Wigan Athletic,1,1,"(24, 0, ' Raul Meireles')","(65, 1, 'Steve Gohouri')"
-27/02/2011,West Ham United,Liverpool,3,1,"(22, 0, 'Scott Parker')","(45, 0, 'Demba Ba')","(84, 1, 'Glen Johnson')","(90, 0, 'Carlton Cole')"
-02/04/2011,West Bromwich Albion,Liverpool,2,1,"(50, 1, 'Martin Skrtel')","(62, 0, 'Chris Brunt')","(88, 0, 'Chris Brunt')"
-09/05/2011,Fulham,Liverpool,2,5,"(1, 1, 'Maxi Rodriguez')","(7, 1, 'Maxi Rodriguez')","(16, 1, 'Dirk Kuyt')","(57, 0, 'Moussa Dembele')","(70, 1, 'Maxi Rodriguez')","(75, 1, 'Luis Suarez')","(86, 0, 'Steve Sidwell')"
-18/09/2010,Blackburn Rovers,Fulham,1,1,"(30, 0, 'Christopher Samba')","(56, 1, 'Clint Dempsey')"
-25/09/2010,Fulham,Everton,0,0
-02/10/2010,West Ham United,Fulham,1,1,"(33, 1, 'Clint Dempsey')","(51, 0, 'Frederic Piquionne')"
-23/10/2010,West Bromwich Albion,Fulham,2,1,"(9, 1, 'Scott Carson')","(17, 0, 'Youssef Mulumbu')","(40, 0, 'Marc Antoine Fortune')"
-30/10/2010,Fulham,Wigan Athletic,2,0,"(30, 0, 'Clint Dempsey')","(44, 0, 'Clint Dempsey')"
-26/12/2010,Fulham,West Ham United,1,3,"(11, 0, 'Aaron Hughes')","(37, 1, 'Carlton Cole')","(45, 1, 'Frederic Piquionne')","(73, 1, 'Carlton Cole')"
-28/12/2010,Stoke City,Fulham,0,2,"(4, 1, 'Chris Baird')","(10, 1, 'Chris Baird')"
-04/01/2011,Fulham,West Bromwich Albion,3,0,"(45, 0, 'Simon Davies')","(56, 0, 'Clint Dempsey')","(65, 0, 'Brede Hangeland')"
-15/01/2011,Wigan Athletic,Fulham,1,1,"(57, 0, 'Hugo Rodallega')","(86, 1, 'Andrew Johnson')"
-22/01/2011,Fulham,Stoke City,2,0,"(33, 0, 'Clint Dempsey')","(56, 0, 'Clint Dempsey')"
-05/03/2011,Fulham,Blackburn Rovers,3,2,"(37, 0, 'Damien Duff')","(45, 1, 'Brede Hangeland')","(59, 0, 'Damien Duff')","(65, 1, 'Junior Hoilett')","(89, 0, 'Bobby Zamora')"
-19/03/2011,Everton,Fulham,2,1,"(36, 0, 'Seamus Coleman')","(49, 0, 'Louis Saha')","(62, 1, 'Clint Dempsey')"
-14/08/2010,Blackburn Rovers,Everton,1,0,"(14, 0, 'Nikola Kalinic')"
-02/10/2010,Stoke City,Blackburn Rovers,1,0,"(48, 0, 'Jon Walters')"
-06/11/2010,Blackburn Rovers,Wigan Athletic,2,1,"(58, 0, 'Morten Gamst Pedersen')","(67, 0, 'Jason Roberts')","(74, 1, ""Charles N'Zogbia"")"
-18/12/2010,Blackburn Rovers,West Ham United,1,1,"(51, 0, 'Ryan Nelsen')","(78, 1, 'Junior Stanislas')"
-26/12/2010,Blackburn Rovers,Stoke City,0,2,"(51, 1, 'Robert Huth')","(90, 1, 'Marc Wilson')"
-28/12/2010,West Bromwich Albion,Blackburn Rovers,1,3,"(3, 1, 'Nikola Kalinic')","(17, 0, 'Jerome Thomas')","(53, 1, 'Nikola Kalinic')","(62, 1, 'Mame Biram Diouf')"
-23/01/2011,Blackburn Rovers,West Bromwich Albion,2,0,"(41, 0, 'Gabriel Tamas')","(47, 0, 'Junior Hoilett')"
-05/02/2011,Wigan Athletic,Blackburn Rovers,4,3,"(23, 1, 'Jason Roberts')","(35, 0, 'James McCarthy')","(50, 0, 'Hugo Rodallega')","(56, 0, 'James McCarthy')","(58, 1, 'Christopher Samba')","(65, 0, 'Ben Watson')","(81, 1, 'David Dunn')"
-16/04/2011,Everton,Blackburn Rovers,2,0,"(54, 0, 'Leon Osman')","(75, 0, 'Leighton Baines')"
-07/05/2011,West Ham United,Blackburn Rovers,1,1,"(12, 1, 'Jason Roberts')","(78, 0, 'Thomas Hitzlsperger')"
-10/11/2010,West Ham United,West Bromwich Albion,2,2,"(38, 1, 'Peter Odemwingie')","(43, 0, 'Scott Parker')","(50, 0, 'Frederic Piquionne')","(71, 1, ' Pablo Ibanez')"
-13/11/2010,Wigan Athletic,West Bromwich Albion,1,0,"(70, 0, 'Victor Moses')"
-20/11/2010,West Bromwich Albion,Stoke City,0,3,"(55, 1, 'Matthew Etherington')","(85, 1, 'Jon Walters')","(90, 1, 'Jon Walters')"
-27/11/2010,Everton,West Bromwich Albion,1,4,"(16, 1, 'Paul Scharner')","(26, 1, 'Chris Brunt')","(42, 0, 'Tim Cahill')","(76, 1, 'Somen Tchoyi')","(87, 1, 'Youssef Mulumbu')"
-01/02/2011,West Bromwich Albion,Wigan Athletic,2,2,"(5, 0, 'Peter Odemwingie')","(20, 1, ""Charles N'Zogbia"")","(43, 1, 'Ben Watson')","(79, 0, 'Marc Antoine Fortune')"
-12/02/2011,West Bromwich Albion,West Ham United,3,3,"(3, 0, 'Graeme Dorrans')","(8, 0, 'Jerome Thomas')","(32, 0, 'Winston Reid')","(50, 1, 'Demba Ba')","(58, 1, 'Carlton Cole')","(83, 1, 'Demba Ba')"
-28/02/2011,Stoke City,West Bromwich Albion,1,1,"(53, 0, 'Rory Delap')","(87, 1, 'Carlos Vela')"
-14/05/2011,West Bromwich Albion,Everton,1,0,"(10, 0, 'Youssef Mulumbu')"
-27/11/2010,West Ham United,Wigan Athletic,3,1,"(34, 0, 'Valon Behrami')","(56, 0, 'Victor Obinna')","(75, 0, 'Scott Parker')","(86, 1, 'Tom Cleverley')"
-04/12/2010,Wigan Athletic,Stoke City,2,2,"(18, 1, 'Robert Huth')","(30, 0, 'Danny Collins')","(31, 1, 'Matthew Etherington')","(40, 0, 'Rory Delap')"
-11/12/2010,Everton,Wigan Athletic,0,0
-30/04/2011,Wigan Athletic,Everton,1,1,"(21, 0, ""Charles N'Zogbia"")","(78, 1, 'Leighton Baines')"
-15/05/2011,Wigan Athletic,West Ham United,3,2,"(12, 1, 'Demba Ba')","(26, 1, 'Demba Ba')","(57, 0, ""Charles N'Zogbia"")","(68, 0, 'Conor Sammon')","(90, 0, ""Charles N'Zogbia"")"
-22/05/2011,Stoke City,Wigan Athletic,0,1,"(78, 1, 'Hugo Rodallega')"
-30/10/2010,Everton,Stoke City,1,0,"(67, 0, 'Ayegbeni Yakubu')"
-28/12/2010,West Ham United,Everton,1,1,"(16, 0, 'Tony Hibbert')","(42, 1, 'Seamus Coleman')"
-01/01/2011,Stoke City,Everton,2,0,"(23, 0, 'Kenwyne Jones')","(69, 0, 'Phil Jagielka')"
-22/01/2011,Everton,West Ham United,2,2,"(26, 1, 'Jonathan Spector')","(77, 0, 'Diniyar Bilyaletdinov')","(84, 1, 'Frederic Piquionne')","(90, 0, 'Marouane Fellaini')"
-18/09/2010,Stoke City,West Ham United,1,1,"(32, 1, 'Scott Parker')","(48, 0, 'Kenwyne Jones')"
-05/03/2011,West Ham United,Stoke City,3,0,"(21, 0, 'Demba Ba')","(29, 0, 'Manuel Da Costa')","(83, 0, 'Thomas Hitzlsperger')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+2010-08-14,Aston Villa,West Ham United,3,0,"(15, 0, 'Stewart Downing')","(40, 0, 'Stilian Petrov')","(66, 0, 'James Milner')",,,,,,,,,
+2010-08-14,Blackburn Rovers,Everton,1,0,"(14, 0, 'Nikola Kalinic')",,,,,,,,,,,
+2010-08-14,Bolton Wanderers,Fulham,0,0,,,,,,,,,,,,
+2010-08-14,Chelsea,West Bromwich Albion,6,0,"(6, 0, 'Florent Malouda')","(45, 0, 'Didier Drogba')","(55, 0, 'Didier Drogba')","(63, 0, 'Frank Lampard')","(68, 0, 'Didier Drogba')","(90, 0, 'Florent Malouda')",,,,,,
+2010-08-14,Sunderland,Birmingham City,2,2,"(24, 0, 'Darren Bent')","(56, 0, 'Stephen Carr')","(77, 1, 'Scott Dann')","(88, 1, 'Liam Ridgewell')",,,,,,,,
+2010-08-14,Tottenham Hotspur,Manchester City,0,0,,,,,,,,,,,,
+2010-08-14,Wigan Athletic,Blackpool,0,4,"(16, 1, 'Gary Taylor-Fletcher')","(38, 1, 'Marlon Harewood')","(43, 1, 'Marlon Harewood')","(75, 1, 'Alex Baptiste')",,,,,,,,
+2010-08-14,Wolverhampton Wanderers,Stoke City,2,1,"(37, 0, 'David Jones')","(39, 0, 'Steven Fletcher')","(55, 1, 'Abdoulaye Faye')",,,,,,,,,
+2010-08-15,Liverpool,Arsenal,1,1,"(46, 0, ""David N'Gog"")","(90, 1, 'Pepe Reina')",,,,,,,,,,
+2010-08-16,Manchester United,Newcastle United,3,0,"(33, 0, 'Dimitar Berbatov')","(41, 0, 'Darren Fletcher')","(85, 0, 'Ryan Giggs')",,,,,,,,,
+2010-08-21,Arsenal,Blackpool,6,0,"(12, 0, 'Theo Walcott')","(32, 0, 'Andrei Arshavin')","(39, 0, 'Theo Walcott')","(49, 0, 'Abou Diaby')","(58, 0, 'Theo Walcott')","(83, 0, 'Marouane Chamakh')",,,,,,
+2010-08-21,Birmingham City,Blackburn Rovers,2,1,"(54, 1, ""Steven N'Zonzi"")","(57, 0, 'Craig Gardner')","(71, 0, 'Craig Gardner')",,,,,,,,,
+2010-08-21,Everton,Wolverhampton Wanderers,1,1,"(43, 0, 'Tim Cahill')","(74, 1, 'Sylvan Ebanks-Blake')",,,,,,,,,,
+2010-08-21,Stoke City,Tottenham Hotspur,1,2,"(19, 1, 'Gareth Bale')","(25, 0, 'Ricardo Fuller')","(30, 1, 'Gareth Bale')",,,,,,,,,
+2010-08-21,West Bromwich Albion,Sunderland,1,0,"(81, 0, 'Peter Odemwingie')",,,,,,,,,,,
+2010-08-21,West Ham United,Bolton Wanderers,1,3,"(48, 1, 'Matthew Upson')","(68, 1, 'Johann Elmander')","(79, 0, 'Mark Noble')","(84, 1, 'Johann Elmander')",,,,,,,,
+2010-08-21,Wigan Athletic,Chelsea,0,6,"(34, 1, 'Florent Malouda')","(48, 1, 'Nicolas Anelka')","(52, 1, 'Nicolas Anelka')","(78, 1, 'Salomon Kalou')","(90, 1, 'Yossi Benayoun')","(90, 1, 'Salomon Kalou')",,,,,,
+2010-08-22,Fulham,Manchester United,2,2,"(11, 1, 'Paul Scholes')","(57, 0, 'Simon Davies')","(84, 1, 'Brede Hangeland')","(89, 0, 'Brede Hangeland')",,,,,,,,
+2010-08-22,Newcastle United,Aston Villa,6,0,"(12, 0, 'Joey Barton')","(31, 0, 'Kevin Nolan')","(34, 0, 'Andy Carroll')","(67, 0, 'Andy Carroll')","(87, 0, 'Kevin Nolan')","(90, 0, 'Andy Carroll')",,,,,,
+2010-08-23,Manchester City,Liverpool,3,0,"(13, 0, 'Gareth Barry')","(52, 0, 'Carlos Tevez')","(68, 0, 'Carlos Tevez')",,,,,,,,,
+2010-08-28,Blackburn Rovers,Arsenal,1,2,"(20, 1, 'Theo Walcott')","(27, 0, 'Mame Biram Diouf')","(51, 1, 'Andrei Arshavin')",,,,,,,,,
+2010-08-28,Blackpool,Fulham,2,2,"(35, 1, 'Bobby Zamora')","(71, 0, 'John Pantsil')","(76, 0, 'Luke Varney')","(87, 1, 'Dickson Etuhu')",,,,,,,,
+2010-08-28,Chelsea,Stoke City,2,0,"(32, 0, 'Florent Malouda')","(77, 0, 'Didier Drogba')",,,,,,,,,,
+2010-08-28,Manchester United,West Ham United,3,0,"(33, 0, 'Wayne Rooney')","(50, 0, ' Nani')","(69, 0, 'Dimitar Berbatov')",,,,,,,,,
+2010-08-28,Tottenham Hotspur,Wigan Athletic,0,1,"(80, 1, 'Hugo Rodallega')",,,,,,,,,,,
+2010-08-28,Wolverhampton Wanderers,Newcastle United,1,1,"(43, 0, 'Sylvan Ebanks-Blake')","(62, 1, 'Andy Carroll')",,,,,,,,,,
+2010-08-29,Aston Villa,Everton,1,0,"(9, 0, 'Luke Young')",,,,,,,,,,,
+2010-08-29,Bolton Wanderers,Birmingham City,2,2,"(4, 1, 'Roger Johnson')","(50, 1, 'Craig Gardner')","(71, 0, 'Kevin Davies')","(81, 0, 'Robbie Blake')",,,,,,,,
+2010-08-29,Liverpool,West Bromwich Albion,1,0,"(65, 0, 'Fernando Torres')",,,,,,,,,,,
+2010-08-29,Sunderland,Manchester City,1,0,"(90, 0, 'Darren Bent')",,,,,,,,,,,
+2010-09-11,Arsenal,Bolton Wanderers,4,1,"(24, 0, 'Laurent Koscielny')","(44, 1, 'Johann Elmander')","(58, 0, 'Marouane Chamakh')","(78, 0, 'Alex Song')","(83, 0, 'Carlos Vela')",,,,,,,
+2010-09-11,Everton,Manchester United,3,3,"(39, 0, 'Steven Pienaar')","(43, 1, 'Darren Fletcher')","(47, 1, 'Nemanja Vidic')","(66, 1, 'Dimitar Berbatov')","(90, 0, 'Mikel Arteta')","(90, 0, 'Tim Cahill')",,,,,,
+2010-09-11,Fulham,Wolverhampton Wanderers,2,1,"(10, 1, 'Jelle Van Damme')","(49, 0, 'Moussa Dembele')","(90, 0, 'Moussa Dembele')",,,,,,,,,
+2010-09-11,Manchester City,Blackburn Rovers,1,1,"(25, 1, 'Nikola Kalinic')","(55, 0, 'Patrick Vieira')",,,,,,,,,,
+2010-09-11,Newcastle United,Blackpool,0,2,"(45, 1, 'Charlie Adam')","(90, 1, 'DJ Campbell')",,,,,,,,,,
+2010-09-11,West Bromwich Albion,Tottenham Hotspur,1,1,"(27, 1, 'Luka Modric')","(41, 0, 'Chris Brunt')",,,,,,,,,,
+2010-09-11,West Ham United,Chelsea,1,3,"(2, 1, 'Michael Essien')","(18, 1, 'Salomon Kalou')","(83, 1, 'Michael Essien')","(85, 0, 'Scott Parker')",,,,,,,,
+2010-09-11,Wigan Athletic,Sunderland,1,1,"(66, 1, 'Asamoah Gyan')","(87, 0, 'Antolin Alcaraz')",,,,,,,,,,
+2010-09-12,Birmingham City,Liverpool,0,0,,,,,,,,,,,,
+2010-09-13,Stoke City,Aston Villa,2,1,"(35, 1, 'Stewart Downing')","(80, 0, 'Kenwyne Jones')","(90, 0, 'Robert Huth')",,,,,,,,,
+2010-09-18,Aston Villa,Bolton Wanderers,1,1,"(13, 0, 'Ashley Young')","(35, 1, 'Kevin Davies')",,,,,,,,,,
+2010-09-18,Blackburn Rovers,Fulham,1,1,"(30, 0, 'Christopher Samba')","(56, 1, 'Clint Dempsey')",,,,,,,,,,
+2010-09-18,Everton,Newcastle United,0,1,"(45, 1, 'Hatem Ben Arfa')",,,,,,,,,,,
+2010-09-18,Stoke City,West Ham United,1,1,"(32, 1, 'Scott Parker')","(48, 0, 'Kenwyne Jones')",,,,,,,,,,
+2010-09-18,Sunderland,Arsenal,1,1,"(13, 1, 'Cesc Fabregas')","(90, 0, 'Darren Bent')",,,,,,,,,,
+2010-09-18,Tottenham Hotspur,Wolverhampton Wanderers,3,1,"(45, 1, 'Steven Fletcher')","(77, 0, 'Rafael van der Vaart')","(87, 0, 'Roman Pavlyuchenko')","(90, 0, 'Alan Hutton')",,,,,,,,
+2010-09-18,West Bromwich Albion,Birmingham City,3,1,"(15, 1, 'Cameron Jerome')","(51, 0, 'Scott Dann')","(59, 0, 'Peter Odemwingie')","(69, 0, 'Jonas Olsson')",,,,,,,,
+2010-09-19,Chelsea,Blackpool,4,0,"(2, 0, 'Salomon Kalou')","(12, 0, 'Florent Malouda')","(30, 0, 'Ian Evatt')","(41, 0, 'Florent Malouda')",,,,,,,,
+2010-09-19,Manchester United,Liverpool,3,2,"(42, 0, 'Dimitar Berbatov')","(59, 0, 'Dimitar Berbatov')","(64, 1, 'Steven Gerrard')","(70, 1, 'Steven Gerrard')","(84, 0, 'Dimitar Berbatov')",,,,,,,
+2010-09-19,Wigan Athletic,Manchester City,0,2,"(43, 1, 'Carlos Tevez')","(70, 1, 'Yaya Toure')",,,,,,,,,,
+2010-09-25,Arsenal,West Bromwich Albion,2,3,"(50, 1, 'Peter Odemwingie')","(52, 1, 'Gonzalo Jara')","(73, 1, 'Jerome Thomas')","(75, 0, 'Samir Nasri')","(90, 0, 'Samir Nasri')",,,,,,,
+2010-09-25,Birmingham City,Wigan Athletic,0,0,,,,,,,,,,,,
+2010-09-25,Blackpool,Blackburn Rovers,1,2,"(20, 1, 'Charlie Adam')","(85, 0, 'Matt Phillips')","(90, 1, 'Brett Emerton')",,,,,,,,,
+2010-09-25,Fulham,Everton,0,0,,,,,,,,,,,,
+2010-09-25,Liverpool,Sunderland,2,2,"(5, 0, 'Dirk Kuyt')","(25, 1, 'Darren Bent')","(48, 1, 'Darren Bent')","(64, 0, 'Steven Gerrard')",,,,,,,,
+2010-09-25,Manchester City,Chelsea,1,0,"(59, 0, 'Carlos Tevez')",,,,,,,,,,,
+2010-09-25,West Ham United,Tottenham Hotspur,1,0,"(29, 0, 'Frederic Piquionne')",,,,,,,,,,,
+2010-09-26,Bolton Wanderers,Manchester United,2,2,"(6, 0, 'Zat Knight')","(23, 1, ' Nani')","(67, 0, 'Martin Petrov')","(74, 1, 'Michael Owen')",,,,,,,,
+2010-09-26,Newcastle United,Stoke City,1,2,"(43, 0, 'Kevin Nolan')","(67, 1, 'Kenwyne Jones')","(85, 1, 'James Perch')",,,,,,,,,
+2010-09-26,Wolverhampton Wanderers,Aston Villa,1,2,"(25, 1, 'Stewart Downing')","(61, 0, 'Matt Jarvis')","(88, 1, 'Emile Heskey')",,,,,,,,,
+2010-10-02,Birmingham City,Everton,0,2,"(54, 1, 'Roger Johnson')","(90, 1, 'Tim Cahill')",,,,,,,,,,
+2010-10-02,Stoke City,Blackburn Rovers,1,0,"(48, 0, 'Jon Walters')",,,,,,,,,,,
+2010-10-02,Sunderland,Manchester United,0,0,,,,,,,,,,,,
+2010-10-02,Tottenham Hotspur,Aston Villa,2,1,"(16, 1, 'Marc Albrighton')","(45, 0, 'Rafael van der Vaart')","(75, 0, 'Rafael van der Vaart')",,,,,,,,,
+2010-10-02,West Bromwich Albion,Bolton Wanderers,1,1,"(64, 1, 'Johann Elmander')","(78, 0, 'James Morrison')",,,,,,,,,,
+2010-10-02,West Ham United,Fulham,1,1,"(33, 1, 'Clint Dempsey')","(51, 0, 'Frederic Piquionne')",,,,,,,,,,
+2010-10-02,Wigan Athletic,Wolverhampton Wanderers,2,0,"(65, 0, 'Jordi Gomez')","(85, 0, 'Hugo Rodallega')",,,,,,,,,,
+2010-10-03,Chelsea,Arsenal,2,0,"(39, 0, 'Didier Drogba')","(85, 0, ' Alex')",,,,,,,,,,
+2010-10-03,Liverpool,Blackpool,1,2,"(29, 1, 'Charlie Adam')","(45, 1, 'Luke Varney')","(53, 0, 'Sotiris Kyrgiakos')",,,,,,,,,
+2010-10-03,Manchester City,Newcastle United,2,1,"(18, 0, 'Carlos Tevez')","(24, 1, 'Jonas Gutierrez')","(75, 0, 'Adam Johnson')",,,,,,,,,
+2010-10-16,Arsenal,Birmingham City,2,1,"(33, 1, 'Nikola Zigic')","(41, 0, 'Samir Nasri')","(47, 0, 'Marouane Chamakh')",,,,,,,,,
+2010-10-16,Aston Villa,Chelsea,0,0,,,,,,,,,,,,
+2010-10-16,Bolton Wanderers,Stoke City,2,1,"(22, 0, 'LEE Chung-Yong')","(48, 1, 'Rory Delap')","(90, 0, 'Ivan Klasnic')",,,,,,,,,
+2010-10-16,Fulham,Tottenham Hotspur,1,2,"(30, 0, 'Diomansy Kamara')","(31, 1, 'Roman Pavlyuchenko')","(63, 1, 'Tom Huddlestone')",,,,,,,,,
+2010-10-16,Manchester United,West Bromwich Albion,2,2,"(5, 0, 'Javier Hernandez')","(25, 0, ' Nani')","(50, 1, 'Patrice Evra')","(55, 1, 'Somen Tchoyi')",,,,,,,,
+2010-10-16,Newcastle United,Wigan Athletic,2,2,"(22, 1, ""Charles N'Zogbia"")","(23, 1, ""Charles N'Zogbia"")","(72, 0, 'Shola Ameobi')","(90, 0, 'Fabricio Coloccini')",,,,,,,,
+2010-10-16,Wolverhampton Wanderers,West Ham United,1,1,"(10, 0, 'Matt Jarvis')","(53, 1, 'Mark Noble')",,,,,,,,,,
+2010-10-17,Blackpool,Manchester City,2,3,"(67, 1, 'Carlos Tevez')","(78, 0, 'Marlon Harewood')","(79, 1, 'Carlos Tevez')","(90, 0, 'Gary Taylor-Fletcher')","(90, 1, 'David Silva')",,,,,,,
+2010-10-17,Everton,Liverpool,2,0,"(34, 0, 'Tim Cahill')","(50, 0, 'Mikel Arteta')",,,,,,,,,,
+2010-10-18,Blackburn Rovers,Sunderland,0,0,,,,,,,,,,,,
+2010-10-23,Birmingham City,Blackpool,2,0,"(36, 0, 'Liam Ridgewell')","(56, 0, 'Nikola Zigic')",,,,,,,,,,
+2010-10-23,Chelsea,Wolverhampton Wanderers,2,0,"(23, 0, 'Florent Malouda')","(81, 0, 'Salomon Kalou')",,,,,,,,,,
+2010-10-23,Sunderland,Aston Villa,1,0,"(25, 0, 'Richard Dunne')",,,,,,,,,,,
+2010-10-23,Tottenham Hotspur,Everton,1,1,"(17, 1, 'Leighton Baines')","(20, 0, 'Rafael van der Vaart')",,,,,,,,,,
+2010-10-23,West Bromwich Albion,Fulham,2,1,"(9, 1, 'Scott Carson')","(17, 0, 'Youssef Mulumbu')","(40, 0, 'Marc Antoine Fortune')",,,,,,,,,
+2010-10-23,West Ham United,Newcastle United,1,2,"(12, 0, 'Carlton Cole')","(23, 1, 'Kevin Nolan')","(69, 1, 'Andy Carroll')",,,,,,,,,
+2010-10-23,Wigan Athletic,Bolton Wanderers,1,1,"(59, 0, 'Hugo Rodallega')","(66, 1, 'Johann Elmander')",,,,,,,,,,
+2010-10-24,Liverpool,Blackburn Rovers,2,1,"(48, 0, 'Sotiris Kyrgiakos')","(50, 1, 'Jamie Carragher')","(53, 0, 'Fernando Torres')",,,,,,,,,
+2010-10-24,Manchester City,Arsenal,0,3,"(20, 1, 'Samir Nasri')","(66, 1, 'Alex Song')","(88, 1, 'Nicklas Bendtner')",,,,,,,,,
+2010-10-24,Stoke City,Manchester United,1,2,"(27, 1, 'Javier Hernandez')","(81, 0, ' Tuncay Sanli')","(86, 1, 'Javier Hernandez')",,,,,,,,,
+2010-10-30,Arsenal,West Ham United,1,0,"(88, 0, 'Alex Song')",,,,,,,,,,,
+2010-10-30,Blackburn Rovers,Chelsea,1,2,"(21, 0, ' Benjani')","(39, 1, 'Nicolas Anelka')","(84, 1, 'Branislav Ivanovic')",,,,,,,,,
+2010-10-30,Everton,Stoke City,1,0,"(67, 0, 'Ayegbeni Yakubu')",,,,,,,,,,,
+2010-10-30,Fulham,Wigan Athletic,2,0,"(30, 0, 'Clint Dempsey')","(44, 0, 'Clint Dempsey')",,,,,,,,,,
+2010-10-30,Manchester United,Tottenham Hotspur,2,0,"(31, 0, 'Nemanja Vidic')","(84, 0, ' Nani')",,,,,,,,,,
+2010-10-30,Wolverhampton Wanderers,Manchester City,2,1,"(23, 1, 'Emmanuel Adebayor')","(30, 0, 'Nenad Milijas')","(57, 0, 'David Edwards')",,,,,,,,,
+2010-10-31,Aston Villa,Birmingham City,0,0,,,,,,,,,,,,
+2010-10-31,Bolton Wanderers,Liverpool,0,1,"(86, 1, 'Maxi Rodriguez')",,,,,,,,,,,
+2010-10-31,Newcastle United,Sunderland,5,1,"(26, 0, 'Kevin Nolan')","(34, 0, 'Kevin Nolan')","(45, 0, 'Shola Ameobi')","(70, 0, 'Shola Ameobi')","(75, 0, 'Kevin Nolan')","(90, 1, 'Darren Bent')",,,,,,
+2010-11-01,Blackpool,West Bromwich Albion,2,1,"(12, 0, 'Charlie Adam')","(62, 0, 'Luke Varney')","(85, 1, 'Youssef Mulumbu')",,,,,,,,,
+2010-11-06,Birmingham City,West Ham United,2,2,"(48, 1, 'Frederic Piquionne')","(58, 1, 'Valon Behrami')","(64, 0, 'Cameron Jerome')","(73, 0, 'Liam Ridgewell')",,,,,,,,
+2010-11-06,Blackburn Rovers,Wigan Athletic,2,1,"(58, 0, 'Morten Gamst Pedersen')","(67, 0, 'Jason Roberts')","(74, 1, ""Charles N'Zogbia"")",,,,,,,,,
+2010-11-06,Blackpool,Everton,2,2,"(10, 0, 'Neal Eardley')","(13, 1, 'Tim Cahill')","(48, 0, 'David Vaughan')","(50, 1, 'Seamus Coleman')",,,,,,,,
+2010-11-06,Bolton Wanderers,Tottenham Hotspur,4,2,"(31, 0, 'Kevin Davies')","(56, 0, 'Gretar Steinsson')","(76, 0, 'Kevin Davies')","(79, 1, 'Alan Hutton')","(87, 1, 'Roman Pavlyuchenko')","(90, 0, 'Martin Petrov')",,,,,,
+2010-11-06,Fulham,Aston Villa,1,1,"(41, 1, 'Marc Albrighton')","(90, 0, 'Brede Hangeland')",,,,,,,,,,
+2010-11-06,Manchester United,Wolverhampton Wanderers,2,1,"(45, 0, 'PARK Ji-Sung')","(66, 1, 'Sylvan Ebanks-Blake')","(90, 0, 'PARK Ji-Sung')",,,,,,,,,
+2010-11-06,Sunderland,Stoke City,2,0,"(9, 0, 'Asamoah Gyan')","(86, 0, 'Asamoah Gyan')",,,,,,,,,,
+2010-11-07,Arsenal,Newcastle United,0,1,"(45, 1, 'Andy Carroll')",,,,,,,,,,,
+2010-11-07,Liverpool,Chelsea,2,0,"(11, 0, 'Fernando Torres')","(44, 0, 'Fernando Torres')",,,,,,,,,,
+2010-11-07,West Bromwich Albion,Manchester City,0,2,"(20, 1, 'Mario Balotelli')","(26, 1, 'Mario Balotelli')",,,,,,,,,,
+2010-11-09,Stoke City,Birmingham City,3,2,"(44, 0, 'Robert Huth')","(71, 0, 'Ricardo Fuller')","(74, 1, 'Keith Fahey')","(76, 1, 'Cameron Jerome')","(85, 0, 'Dean Whitehead')",,,,,,,
+2010-11-09,Tottenham Hotspur,Sunderland,1,1,"(64, 0, 'Rafael van der Vaart')","(67, 1, 'Asamoah Gyan')",,,,,,,,,,
+2010-11-10,Aston Villa,Blackpool,3,2,"(28, 0, 'Stewart Downing')","(45, 1, 'Marlon Harewood')","(60, 0, 'Nathan Delfouneso')","(87, 1, 'DJ Campbell')","(89, 0, 'James M Collins')",,,,,,,
+2010-11-10,Chelsea,Fulham,1,0,"(30, 0, 'Michael Essien')",,,,,,,,,,,
+2010-11-10,Everton,Bolton Wanderers,1,1,"(79, 1, 'Ivan Klasnic')","(90, 0, 'Jermaine Beckford')",,,,,,,,,,
+2010-11-10,Manchester City,Manchester United,0,0,,,,,,,,,,,,
+2010-11-10,Newcastle United,Blackburn Rovers,1,2,"(3, 1, 'Morten Gamst Pedersen')","(47, 0, 'Andy Carroll')","(82, 1, 'Jason Roberts')",,,,,,,,,
+2010-11-10,West Ham United,West Bromwich Albion,2,2,"(38, 1, 'Peter Odemwingie')","(43, 0, 'Scott Parker')","(50, 0, 'Frederic Piquionne')","(71, 1, ' Pablo Ibanez')",,,,,,,,
+2010-11-10,Wigan Athletic,Liverpool,1,1,"(7, 1, 'Fernando Torres')","(52, 0, 'Hugo Rodallega')",,,,,,,,,,
+2010-11-10,Wolverhampton Wanderers,Arsenal,0,2,"(1, 1, 'Marouane Chamakh')","(90, 1, 'Marouane Chamakh')",,,,,,,,,,
+2010-11-13,Aston Villa,Manchester United,2,2,"(72, 0, 'Ashley Young')","(76, 0, 'Marc Albrighton')","(81, 1, 'Federico Macheda')","(85, 1, 'Nemanja Vidic')",,,,,,,,
+2010-11-13,Manchester City,Birmingham City,0,0,,,,,,,,,,,,
+2010-11-13,Newcastle United,Fulham,0,0,,,,,,,,,,,,
+2010-11-13,Stoke City,Liverpool,2,0,"(56, 0, 'Ricardo Fuller')","(90, 0, 'Kenwyne Jones')",,,,,,,,,,
+2010-11-13,Tottenham Hotspur,Blackburn Rovers,4,2,"(16, 0, 'Gareth Bale')","(42, 0, 'Roman Pavlyuchenko')","(69, 0, 'Peter Crouch')","(75, 0, 'Gareth Bale')","(80, 1, 'Ryan Nelsen')","(90, 1, 'Gael Givet')",,,,,,
+2010-11-13,West Ham United,Blackpool,0,0,,,,,,,,,,,,
+2010-11-13,Wigan Athletic,West Bromwich Albion,1,0,"(70, 0, 'Victor Moses')",,,,,,,,,,,
+2010-11-13,Wolverhampton Wanderers,Bolton Wanderers,2,3,"(1, 1, 'Richard Stearman')","(62, 1, 'Johann Elmander')","(67, 1, 'Stuart Holden')","(69, 0, 'Kevin Foley')","(77, 0, 'Steven Fletcher')",,,,,,,
+2010-11-14,Chelsea,Sunderland,0,3,"(45, 1, 'Nedum Onuoha')","(52, 1, 'Asamoah Gyan')","(87, 1, 'Danny Welbeck')",,,,,,,,,
+2010-11-14,Everton,Arsenal,1,2,"(36, 1, 'Bakary Sagna')","(48, 1, 'Cesc Fabregas')","(89, 0, 'Tim Cahill')",,,,,,,,,
+2010-11-20,Arsenal,Tottenham Hotspur,2,3,"(9, 0, 'Samir Nasri')","(27, 0, 'Marouane Chamakh')","(50, 1, 'Gareth Bale')","(67, 1, 'Rafael van der Vaart')","(85, 1, 'Younes Kaboul')",,,,,,,
+2010-11-20,Birmingham City,Chelsea,1,0,"(17, 0, 'Lee Bowyer')",,,,,,,,,,,
+2010-11-20,Blackpool,Wolverhampton Wanderers,2,1,"(3, 0, 'Luke Varney')","(44, 0, 'Marlon Harewood')","(86, 1, 'Kevin Doyle')",,,,,,,,,
+2010-11-20,Bolton Wanderers,Newcastle United,5,1,"(18, 0, 'Kevin Davies')","(39, 0, 'LEE Chung-Yong')","(50, 0, 'Johann Elmander')","(52, 1, 'Andy Carroll')","(72, 0, 'Johann Elmander')","(90, 0, 'Kevin Davies')",,,,,,
+2010-11-20,Liverpool,West Ham United,3,0,"(18, 0, 'Glen Johnson')","(27, 0, 'Dirk Kuyt')","(38, 0, 'Maxi Rodriguez')",,,,,,,,,
+2010-11-20,Manchester United,Wigan Athletic,2,0,"(45, 0, 'Patrice Evra')","(77, 0, 'Javier Hernandez')",,,,,,,,,,
+2010-11-20,West Bromwich Albion,Stoke City,0,3,"(55, 1, 'Matthew Etherington')","(85, 1, 'Jon Walters')","(90, 1, 'Jon Walters')",,,,,,,,,
+2010-11-21,Blackburn Rovers,Aston Villa,2,0,"(45, 0, 'Morten Gamst Pedersen')","(66, 0, 'Morten Gamst Pedersen')",,,,,,,,,,
+2010-11-21,Fulham,Manchester City,1,4,"(6, 1, 'Carlos Tevez')","(32, 1, 'Pablo Zabaleta')","(35, 1, 'Yaya Toure')","(56, 1, 'Carlos Tevez')","(70, 0, 'Zoltan Gera')",,,,,,,
+2010-11-22,Sunderland,Everton,2,2,"(6, 1, 'Tim Cahill')","(23, 0, 'Danny Welbeck')","(70, 0, 'Danny Welbeck')","(83, 1, 'Mikel Arteta')",,,,,,,,
+2010-11-27,Aston Villa,Arsenal,2,4,"(39, 1, 'Andrei Arshavin')","(45, 1, 'Samir Nasri')","(52, 0, 'Ciaran Clark')","(56, 1, 'Marouane Chamakh')","(70, 0, 'Ciaran Clark')","(90, 1, 'Jack Wilshere')",,,,,,
+2010-11-27,Bolton Wanderers,Blackpool,2,2,"(28, 1, 'Ian Evatt')","(57, 1, 'Luke Varney')","(76, 0, 'Martin Petrov')","(89, 0, 'Mark Davies')",,,,,,,,
+2010-11-27,Everton,West Bromwich Albion,1,4,"(16, 1, 'Paul Scharner')","(26, 1, 'Chris Brunt')","(42, 0, 'Tim Cahill')","(76, 1, 'Somen Tchoyi')","(87, 1, 'Youssef Mulumbu')",,,,,,,
+2010-11-27,Fulham,Birmingham City,1,1,"(20, 1, 'Seb Larsson')","(53, 0, 'Clint Dempsey')",,,,,,,,,,
+2010-11-27,Manchester United,Blackburn Rovers,7,1,"(2, 0, 'Dimitar Berbatov')","(23, 0, 'PARK Ji-Sung')","(27, 0, 'Dimitar Berbatov')","(47, 0, 'Dimitar Berbatov')","(48, 0, ' Nani')","(62, 0, 'Dimitar Berbatov')","(70, 0, 'Dimitar Berbatov')","(83, 1, 'Christopher Samba')",,,,
+2010-11-27,Stoke City,Manchester City,1,1,"(81, 1, 'Micah Richards')","(90, 0, 'Matthew Etherington')",,,,,,,,,,
+2010-11-27,West Ham United,Wigan Athletic,3,1,"(34, 0, 'Valon Behrami')","(56, 0, 'Victor Obinna')","(75, 0, 'Scott Parker')","(86, 1, 'Tom Cleverley')",,,,,,,,
+2010-11-27,Wolverhampton Wanderers,Sunderland,3,2,"(50, 0, 'Kevin Foley')","(67, 1, 'Darren Bent')","(77, 1, 'Danny Welbeck')","(81, 0, 'Stephen Hunt')","(89, 0, 'Sylvan Ebanks-Blake')",,,,,,,
+2010-11-28,Newcastle United,Chelsea,1,1,"(6, 0, 'Andy Carroll')","(45, 1, 'Salomon Kalou')",,,,,,,,,,
+2010-11-28,Tottenham Hotspur,Liverpool,2,1,"(42, 1, 'Martin Skrtel')","(65, 0, 'Martin Skrtel')","(90, 0, 'Aaron Lennon')",,,,,,,,,
+2010-12-04,Arsenal,Fulham,2,1,"(14, 0, 'Samir Nasri')","(30, 1, 'Diomansy Kamara')","(75, 0, 'Samir Nasri')",,,,,,,,,
+2010-12-04,Birmingham City,Tottenham Hotspur,1,1,"(19, 1, 'Sebastien Bassong')","(81, 0, 'Craig Gardner')",,,,,,,,,,
+2010-12-04,Blackburn Rovers,Wolverhampton Wanderers,3,0,"(29, 0, 'David Dunn')","(43, 0, 'Brett Emerton')","(55, 0, 'Ryan Nelsen')",,,,,,,,,
+2010-12-04,Chelsea,Everton,1,1,"(42, 0, 'Didier Drogba')","(86, 1, 'Jermaine Beckford')",,,,,,,,,,
+2010-12-04,Manchester City,Bolton Wanderers,1,0,"(4, 0, 'Carlos Tevez')",,,,,,,,,,,
+2010-12-04,Wigan Athletic,Stoke City,2,2,"(18, 1, 'Robert Huth')","(30, 0, 'Danny Collins')","(31, 1, 'Matthew Etherington')","(40, 0, 'Rory Delap')",,,,,,,,
+2010-12-05,Sunderland,West Ham United,1,0,"(34, 0, 'Jordan Henderson')",,,,,,,,,,,
+2010-12-05,West Bromwich Albion,Newcastle United,3,1,"(32, 0, 'Somen Tchoyi')","(71, 0, 'Peter Odemwingie')","(89, 0, 'Peter Odemwingie')","(90, 1, 'Peter Lovenkrands')",,,,,,,,
+2010-12-06,Liverpool,Aston Villa,3,0,"(14, 0, ""David N'Gog"")","(16, 0, 'Ryan Babel')","(55, 0, 'Maxi Rodriguez')",,,,,,,,,
+2010-12-11,Aston Villa,West Bromwich Albion,2,1,"(25, 0, 'Stewart Downing')","(80, 0, 'Emile Heskey')","(89, 1, 'Paul Scharner')",,,,,,,,,
+2010-12-11,Everton,Wigan Athletic,0,0,,,,,,,,,,,,
+2010-12-11,Fulham,Sunderland,0,0,,,,,,,,,,,,
+2010-12-11,Newcastle United,Liverpool,3,1,"(15, 0, 'Kevin Nolan')","(49, 1, 'Dirk Kuyt')","(80, 0, 'Joey Barton')","(90, 0, 'Andy Carroll')",,,,,,,,
+2010-12-11,Stoke City,Blackpool,0,1,"(48, 1, 'DJ Campbell')",,,,,,,,,,,
+2010-12-11,West Ham United,Manchester City,1,3,"(30, 1, 'Yaya Toure')","(73, 1, 'Yaya Toure')","(81, 1, 'Adam Johnson')","(89, 0, 'James Tomkins')",,,,,,,,
+2010-12-12,Bolton Wanderers,Blackburn Rovers,2,1,"(65, 0, 'Fabrice Muamba')","(87, 1, 'Mame Biram Diouf')","(88, 0, 'Stuart Holden')",,,,,,,,,
+2010-12-12,Tottenham Hotspur,Chelsea,1,1,"(15, 0, 'Roman Pavlyuchenko')","(70, 1, 'Didier Drogba')",,,,,,,,,,
+2010-12-12,Wolverhampton Wanderers,Birmingham City,1,0,"(45, 0, 'Stephen Hunt')",,,,,,,,,,,
+2010-12-13,Manchester United,Arsenal,1,0,"(41, 0, 'PARK Ji-Sung')",,,,,,,,,,,
+2010-12-18,Blackburn Rovers,West Ham United,1,1,"(51, 0, 'Ryan Nelsen')","(78, 1, 'Junior Stanislas')",,,,,,,,,,
+2010-12-18,Sunderland,Bolton Wanderers,1,0,"(32, 0, 'Danny Welbeck')",,,,,,,,,,,
+2010-12-20,Manchester City,Everton,1,2,"(4, 1, 'Tim Cahill')","(19, 1, 'Leighton Baines')","(72, 0, 'Yaya Toure')",,,,,,,,,
+2010-12-26,Aston Villa,Tottenham Hotspur,1,2,"(23, 1, 'Rafael van der Vaart')","(67, 1, 'Rafael van der Vaart')","(82, 0, 'Marc Albrighton')",,,,,,,,,
+2010-12-26,Blackburn Rovers,Stoke City,0,2,"(51, 1, 'Robert Huth')","(90, 1, 'Marc Wilson')",,,,,,,,,,
+2010-12-26,Bolton Wanderers,West Bromwich Albion,2,0,"(40, 0, 'Matt Taylor')","(86, 0, 'Johann Elmander')",,,,,,,,,,
+2010-12-26,Fulham,West Ham United,1,3,"(11, 0, 'Aaron Hughes')","(37, 1, 'Carlton Cole')","(45, 1, 'Frederic Piquionne')","(73, 1, 'Carlton Cole')",,,,,,,,
+2010-12-26,Manchester United,Sunderland,2,0,"(5, 0, 'Dimitar Berbatov')","(57, 0, 'Anton Ferdinand')",,,,,,,,,,
+2010-12-26,Newcastle United,Manchester City,1,3,"(2, 1, 'Gareth Barry')","(5, 1, 'Carlos Tevez')","(72, 0, 'Andy Carroll')","(81, 1, 'Fabricio Coloccini')",,,,,,,,
+2010-12-26,Wolverhampton Wanderers,Wigan Athletic,1,2,"(9, 1, 'Hugo Rodallega')","(20, 1, 'Tom Cleverley')","(87, 0, 'Steven Fletcher')",,,,,,,,,
+2010-12-27,Arsenal,Chelsea,3,1,"(44, 0, 'Alex Song')","(51, 0, 'Cesc Fabregas')","(53, 0, 'Theo Walcott')","(57, 1, 'Branislav Ivanovic')",,,,,,,,
+2010-12-28,Birmingham City,Manchester United,1,1,"(58, 1, 'Dimitar Berbatov')","(89, 0, 'Lee Bowyer')",,,,,,,,,,
+2010-12-28,Manchester City,Aston Villa,4,0,"(8, 0, 'Mario Balotelli')","(13, 0, 'Joleon Lescott')","(27, 0, 'Mario Balotelli')","(55, 0, 'Mario Balotelli')",,,,,,,,
+2010-12-28,Stoke City,Fulham,0,2,"(4, 1, 'Chris Baird')","(10, 1, 'Chris Baird')",,,,,,,,,,
+2010-12-28,Sunderland,Blackpool,0,2,"(50, 1, 'DJ Campbell')","(90, 1, 'DJ Campbell')",,,,,,,,,,
+2010-12-28,Tottenham Hotspur,Newcastle United,2,0,"(57, 0, 'Aaron Lennon')","(81, 0, 'Gareth Bale')",,,,,,,,,,
+2010-12-28,West Bromwich Albion,Blackburn Rovers,1,3,"(3, 1, 'Nikola Kalinic')","(17, 0, 'Jerome Thomas')","(53, 1, 'Nikola Kalinic')","(62, 1, 'Mame Biram Diouf')",,,,,,,,
+2010-12-28,West Ham United,Everton,1,1,"(16, 0, 'Tony Hibbert')","(42, 1, 'Seamus Coleman')",,,,,,,,,,
+2010-12-29,Chelsea,Bolton Wanderers,1,0,"(61, 0, 'Florent Malouda')",,,,,,,,,,,
+2010-12-29,Liverpool,Wolverhampton Wanderers,0,1,"(56, 1, 'Stephen Ward')",,,,,,,,,,,
+2010-12-29,Wigan Athletic,Arsenal,2,2,"(18, 0, 'Ben Watson')","(39, 1, 'Andrei Arshavin')","(44, 1, 'Nicklas Bendtner')","(81, 0, 'Sebastien Squillaci')",,,,,,,,
+2011-01-01,Birmingham City,Arsenal,0,3,"(13, 1, 'Robin Van Persie')","(58, 1, 'Samir Nasri')","(66, 1, 'Roger Johnson')",,,,,,,,,
+2011-01-01,Liverpool,Bolton Wanderers,2,1,"(43, 1, 'Kevin Davies')","(49, 0, 'Fernando Torres')","(90, 0, 'Joe Cole')",,,,,,,,,
+2011-01-01,Manchester City,Blackpool,1,0,"(34, 0, 'Adam Johnson')",,,,,,,,,,,
+2011-01-01,Stoke City,Everton,2,0,"(23, 0, 'Kenwyne Jones')","(69, 0, 'Phil Jagielka')",,,,,,,,,,
+2011-01-01,Sunderland,Blackburn Rovers,3,0,"(11, 0, 'Danny Welbeck')","(19, 0, 'Darren Bent')","(89, 0, 'Asamoah Gyan')",,,,,,,,,
+2011-01-01,Tottenham Hotspur,Fulham,1,0,"(42, 0, 'Gareth Bale')",,,,,,,,,,,
+2011-01-01,West Bromwich Albion,Manchester United,1,2,"(3, 1, 'Wayne Rooney')","(14, 0, 'James Morrison')","(75, 1, 'Javier Hernandez')",,,,,,,,,
+2011-01-01,West Ham United,Wolverhampton Wanderers,2,0,"(51, 0, 'Ronald Zubar')","(79, 0, 'Freddie Sears')",,,,,,,,,,
+2011-01-02,Chelsea,Aston Villa,3,3,"(23, 0, 'Frank Lampard')","(41, 1, 'Ashley Young')","(47, 1, 'Emile Heskey')","(84, 0, 'Didier Drogba')","(89, 0, 'John Terry')","(90, 1, 'Ciaran Clark')",,,,,,
+2011-01-02,Wigan Athletic,Newcastle United,0,1,"(19, 1, 'Shola Ameobi')",,,,,,,,,,,
+2011-01-04,Blackpool,Birmingham City,1,2,"(24, 1, 'Aleksandr Hleb')","(68, 0, 'DJ Campbell')","(89, 1, 'Scott Dann')",,,,,,,,,
+2011-01-04,Fulham,West Bromwich Albion,3,0,"(45, 0, 'Simon Davies')","(56, 0, 'Clint Dempsey')","(65, 0, 'Brede Hangeland')",,,,,,,,,
+2011-01-04,Manchester United,Stoke City,2,1,"(27, 0, 'Javier Hernandez')","(50, 1, 'Dean Whitehead')","(62, 0, ' Nani')",,,,,,,,,
+2011-01-05,Arsenal,Manchester City,0,0,,,,,,,,,,,,
+2011-01-05,Aston Villa,Sunderland,0,1,"(80, 1, 'Phil Bardsley')",,,,,,,,,,,
+2011-01-05,Blackburn Rovers,Liverpool,3,1,"(32, 0, 'Martin Olsson')","(38, 0, ' Benjani')","(57, 0, ' Benjani')","(81, 1, 'Steven Gerrard')",,,,,,,,
+2011-01-05,Bolton Wanderers,Wigan Athletic,1,1,"(54, 0, ' Rodrigo Moreno')","(80, 1, 'Ronnie Stam')",,,,,,,,,,
+2011-01-05,Everton,Tottenham Hotspur,2,1,"(3, 0, 'Louis Saha')","(11, 1, 'Rafael van der Vaart')","(75, 0, 'Seamus Coleman')",,,,,,,,,
+2011-01-05,Newcastle United,West Ham United,5,0,"(18, 0, 'Leon Best')","(39, 0, 'Leon Best')","(45, 0, 'Kevin Nolan')","(60, 0, 'Leon Best')","(63, 0, 'Peter Lovenkrands')",,,,,,,
+2011-01-05,Wolverhampton Wanderers,Chelsea,1,0,"(5, 0, 'Jose Bosingwa')",,,,,,,,,,,
+2011-01-12,Blackpool,Liverpool,2,1,"(3, 1, 'Fernando Torres')","(12, 0, 'Gary Taylor-Fletcher')","(69, 0, 'DJ Campbell')",,,,,,,,,
+2011-01-15,Chelsea,Blackburn Rovers,2,0,"(57, 0, 'Branislav Ivanovic')","(76, 0, 'Nicolas Anelka')",,,,,,,,,,
+2011-01-15,Manchester City,Wolverhampton Wanderers,4,3,"(12, 1, 'Nenad Milijas')","(40, 0, 'Kolo Toure')","(49, 0, 'Carlos Tevez')","(54, 0, 'Yaya Toure')","(66, 0, 'Carlos Tevez')","(68, 1, 'Kevin Doyle')","(86, 1, 'Ronald Zubar')",,,,,
+2011-01-15,Stoke City,Bolton Wanderers,2,0,"(37, 0, 'Danny Higginbotham')","(63, 0, 'Matthew Etherington')",,,,,,,,,,
+2011-01-15,West Bromwich Albion,Blackpool,3,2,"(11, 1, 'David Vaughan')","(37, 0, 'Peter Odemwingie')","(52, 0, 'James Morrison')","(80, 1, 'Gary Taylor-Fletcher')","(87, 0, 'Peter Odemwingie')",,,,,,,
+2011-01-15,West Ham United,Arsenal,0,3,"(13, 1, 'Robin Van Persie')","(41, 1, 'Theo Walcott')","(77, 1, 'Robin Van Persie')",,,,,,,,,
+2011-01-15,Wigan Athletic,Fulham,1,1,"(57, 0, 'Hugo Rodallega')","(86, 1, 'Andrew Johnson')",,,,,,,,,,
+2011-01-16,Birmingham City,Aston Villa,1,1,"(49, 0, 'Roger Johnson')","(73, 1, 'James M Collins')",,,,,,,,,,
+2011-01-16,Liverpool,Everton,2,2,"(29, 0, ' Raul Meireles')","(46, 1, 'Sylvain Distin')","(52, 1, 'Jermaine Beckford')","(68, 0, 'Dirk Kuyt')",,,,,,,,
+2011-01-16,Sunderland,Newcastle United,1,1,"(52, 1, 'Kevin Nolan')","(90, 0, 'Asamoah Gyan')",,,,,,,,,,
+2011-01-16,Tottenham Hotspur,Manchester United,0,0,,,,,,,,,,,,
+2011-01-22,Arsenal,Wigan Athletic,3,0,"(21, 0, 'Robin Van Persie')","(58, 0, 'Robin Van Persie')","(85, 0, 'Robin Van Persie')",,,,,,,,,
+2011-01-22,Aston Villa,Manchester City,1,0,"(18, 0, 'Darren Bent')",,,,,,,,,,,
+2011-01-22,Blackpool,Sunderland,1,2,"(15, 1, 'Kieran Richardson')","(36, 1, 'Kieran Richardson')","(86, 0, 'Charlie Adam')",,,,,,,,,
+2011-01-22,Everton,West Ham United,2,2,"(26, 1, 'Jonathan Spector')","(77, 0, 'Diniyar Bilyaletdinov')","(84, 1, 'Frederic Piquionne')","(90, 0, 'Marouane Fellaini')",,,,,,,,
+2011-01-22,Fulham,Stoke City,2,0,"(33, 0, 'Clint Dempsey')","(56, 0, 'Clint Dempsey')",,,,,,,,,,
+2011-01-22,Manchester United,Birmingham City,5,0,"(2, 0, 'Dimitar Berbatov')","(31, 0, 'Dimitar Berbatov')","(45, 0, 'Ryan Giggs')","(53, 0, 'Dimitar Berbatov')","(76, 0, ' Nani')",,,,,,,
+2011-01-22,Newcastle United,Tottenham Hotspur,1,1,"(59, 0, 'Fabricio Coloccini')","(90, 1, 'Aaron Lennon')",,,,,,,,,,
+2011-01-22,Wolverhampton Wanderers,Liverpool,0,3,"(36, 1, 'Fernando Torres')","(50, 1, ' Raul Meireles')","(90, 1, 'Fernando Torres')",,,,,,,,,
+2011-01-23,Blackburn Rovers,West Bromwich Albion,2,0,"(41, 0, 'Gabriel Tamas')","(47, 0, 'Junior Hoilett')",,,,,,,,,,
+2011-01-24,Bolton Wanderers,Chelsea,0,4,"(11, 1, 'Didier Drogba')","(41, 1, 'Florent Malouda')","(56, 1, 'Nicolas Anelka')","(74, 1, ' Ramires')",,,,,,,,
+2011-01-25,Blackpool,Manchester United,2,3,"(15, 0, 'Craig Cathcart')","(43, 0, 'DJ Campbell')","(72, 1, 'Dimitar Berbatov')","(74, 1, 'Javier Hernandez')","(88, 1, 'Dimitar Berbatov')",,,,,,,
+2011-01-25,Wigan Athletic,Aston Villa,1,2,"(49, 1, 'Gabby Agbonlahor')","(62, 1, 'Ashley Young')","(80, 0, 'James McCarthy')",,,,,,,,,
+2011-01-26,Liverpool,Fulham,1,0,"(52, 0, 'John Pantsil')",,,,,,,,,,,
+2011-02-01,Arsenal,Everton,2,1,"(24, 1, 'Louis Saha')","(70, 0, 'Andrei Arshavin')","(75, 0, 'Laurent Koscielny')",,,,,,,,,
+2011-02-01,Manchester United,Aston Villa,3,1,"(1, 0, 'Wayne Rooney')","(45, 0, 'Wayne Rooney')","(58, 1, 'Darren Bent')","(63, 0, 'Nemanja Vidic')",,,,,,,,
+2011-02-01,Sunderland,Chelsea,2,4,"(4, 0, 'Phil Bardsley')","(15, 1, 'Frank Lampard')","(23, 1, 'Salomon Kalou')","(26, 0, 'Kieran Richardson')","(60, 1, 'John Terry')","(90, 1, 'Nicolas Anelka')",,,,,,
+2011-02-01,West Bromwich Albion,Wigan Athletic,2,2,"(5, 0, 'Peter Odemwingie')","(20, 1, ""Charles N'Zogbia"")","(43, 1, 'Ben Watson')","(79, 0, 'Marc Antoine Fortune')",,,,,,,,
+2011-02-02,Birmingham City,Manchester City,2,2,"(4, 1, 'Carlos Tevez')","(23, 0, 'Nikola Zigic')","(41, 1, 'Aleksandar Kolarov')","(77, 0, 'Craig Gardner')",,,,,,,,
+2011-02-02,Blackburn Rovers,Tottenham Hotspur,0,1,"(3, 1, 'Peter Crouch')",,,,,,,,,,,
+2011-02-02,Blackpool,West Ham United,1,3,"(24, 1, 'Victor Obinna')","(37, 1, 'Robbie Keane')","(42, 0, 'Charlie Adam')","(44, 1, 'Victor Obinna')",,,,,,,,
+2011-02-02,Bolton Wanderers,Wolverhampton Wanderers,1,0,"(90, 0, 'Daniel Sturridge')",,,,,,,,,,,
+2011-02-02,Fulham,Newcastle United,1,0,"(67, 0, 'Damien Duff')",,,,,,,,,,,
+2011-02-02,Liverpool,Stoke City,2,0,"(47, 0, ' Raul Meireles')","(79, 0, 'Luis Suarez')",,,,,,,,,,
+2011-02-05,Aston Villa,Fulham,2,2,"(13, 0, 'John Pantsil')","(52, 1, 'Andrew Johnson')","(72, 0, 'Kyle Walker')","(78, 1, 'Clint Dempsey')",,,,,,,,
+2011-02-05,Everton,Blackpool,5,3,"(20, 0, 'Louis Saha')","(37, 1, 'Alex Baptiste')","(47, 0, 'Louis Saha')","(62, 1, 'Jason Puncheon')","(64, 1, 'Charlie Adam')","(76, 0, 'Louis Saha')","(80, 0, 'Jermaine Beckford')","(84, 0, 'Louis Saha')",,,,
+2011-02-05,Manchester City,West Bromwich Albion,3,0,"(17, 0, 'Carlos Tevez')","(22, 0, 'Carlos Tevez')","(39, 0, 'Carlos Tevez')",,,,,,,,,
+2011-02-05,Newcastle United,Arsenal,4,4,"(1, 1, 'Theo Walcott')","(3, 1, 'Johann Djourou')","(10, 1, 'Robin Van Persie')","(26, 1, 'Robin Van Persie')","(68, 0, 'Joey Barton')","(75, 0, 'Leon Best')","(83, 0, 'Joey Barton')","(87, 0, 'Cheik Tiote')",,,,
+2011-02-05,Stoke City,Sunderland,3,2,"(2, 1, 'Kieran Richardson')","(32, 0, 'John Carew')","(48, 1, 'Asamoah Gyan')","(83, 0, 'Robert Huth')","(90, 0, 'Robert Huth')",,,,,,,
+2011-02-05,Tottenham Hotspur,Bolton Wanderers,2,1,"(6, 0, 'Rafael van der Vaart')","(55, 1, 'Daniel Sturridge')","(90, 0, 'Niko Kranjcar')",,,,,,,,,
+2011-02-05,Wigan Athletic,Blackburn Rovers,4,3,"(23, 1, 'Jason Roberts')","(35, 0, 'James McCarthy')","(50, 0, 'Hugo Rodallega')","(56, 0, 'James McCarthy')","(58, 1, 'Christopher Samba')","(65, 0, 'Ben Watson')","(81, 1, 'David Dunn')",,,,,
+2011-02-05,Wolverhampton Wanderers,Manchester United,2,1,"(3, 1, ' Nani')","(10, 0, 'George Elokobi')","(40, 0, 'Kevin Doyle')",,,,,,,,,
+2011-02-06,Chelsea,Liverpool,0,1,"(69, 1, ' Raul Meireles')",,,,,,,,,,,
+2011-02-06,West Ham United,Birmingham City,0,1,"(65, 1, 'Nikola Zigic')",,,,,,,,,,,
+2011-02-12,Arsenal,Wolverhampton Wanderers,2,0,"(16, 0, 'Robin Van Persie')","(56, 0, 'Robin Van Persie')",,,,,,,,,,
+2011-02-12,Birmingham City,Stoke City,1,0,"(90, 0, 'Nikola Zigic')",,,,,,,,,,,
+2011-02-12,Blackburn Rovers,Newcastle United,0,0,,,,,,,,,,,,
+2011-02-12,Blackpool,Aston Villa,1,1,"(10, 1, 'Gabby Agbonlahor')","(14, 0, 'Elliot Grandin')",,,,,,,,,,
+2011-02-12,Liverpool,Wigan Athletic,1,1,"(24, 0, ' Raul Meireles')","(65, 1, 'Steve Gohouri')",,,,,,,,,,
+2011-02-12,Manchester United,Manchester City,2,1,"(41, 0, ' Nani')","(65, 1, 'David Silva')","(78, 0, 'Wayne Rooney')",,,,,,,,,
+2011-02-12,Sunderland,Tottenham Hotspur,1,2,"(11, 0, 'Asamoah Gyan')","(44, 1, 'Michael Dawson')","(57, 1, 'Niko Kranjcar')",,,,,,,,,
+2011-02-12,West Bromwich Albion,West Ham United,3,3,"(3, 0, 'Graeme Dorrans')","(8, 0, 'Jerome Thomas')","(32, 0, 'Winston Reid')","(50, 1, 'Demba Ba')","(58, 1, 'Carlton Cole')","(83, 1, 'Demba Ba')",,,,,,
+2011-02-13,Bolton Wanderers,Everton,2,0,"(10, 0, 'Gary Cahill')","(67, 0, 'Daniel Sturridge')",,,,,,,,,,
+2011-02-14,Fulham,Chelsea,0,0,,,,,,,,,,,,
+2011-02-15,Birmingham City,Newcastle United,0,2,"(2, 1, 'Peter Lovenkrands')","(50, 1, 'Leon Best')",,,,,,,,,,
+2011-02-20,West Bromwich Albion,Wolverhampton Wanderers,1,1,"(39, 1, ""Jamie O'Hara"")","(90, 0, 'Carlos Vela')",,,,,,,,,,
+2011-02-22,Blackpool,Tottenham Hotspur,3,1,"(18, 0, 'Charlie Adam')","(44, 0, 'DJ Campbell')","(80, 0, 'Brett Ormerod')","(90, 1, 'Craig Cathcart')",,,,,,,,
+2011-02-23,Arsenal,Stoke City,1,0,"(8, 0, 'Sebastien Squillaci')",,,,,,,,,,,
+2011-02-26,Aston Villa,Blackburn Rovers,4,1,"(49, 0, 'Ashley Young')","(62, 0, 'Grant Hanley')","(64, 0, 'Stewart Downing')","(81, 1, 'Nikola Kalinic')","(82, 0, 'Ashley Young')",,,,,,,
+2011-02-26,Everton,Sunderland,2,0,"(8, 0, 'Jermaine Beckford')","(39, 0, 'Jermaine Beckford')",,,,,,,,,,
+2011-02-26,Newcastle United,Bolton Wanderers,1,1,"(13, 0, 'Kevin Nolan')","(38, 1, 'Daniel Sturridge')",,,,,,,,,,
+2011-02-26,Wigan Athletic,Manchester United,0,4,"(17, 1, 'Javier Hernandez')","(74, 1, 'Javier Hernandez')","(84, 1, 'Wayne Rooney')","(87, 1, ' Fabio Da Silva')",,,,,,,,
+2011-02-26,Wolverhampton Wanderers,Blackpool,4,0,"(2, 0, 'Matt Jarvis')","(54, 0, ""Jamie O'Hara"")","(78, 0, 'Sylvan Ebanks-Blake')","(90, 0, 'Sylvan Ebanks-Blake')",,,,,,,,
+2011-02-27,Manchester City,Fulham,1,1,"(26, 0, 'Mario Balotelli')","(48, 1, 'Damien Duff')",,,,,,,,,,
+2011-02-27,West Ham United,Liverpool,3,1,"(22, 0, 'Scott Parker')","(45, 0, 'Demba Ba')","(84, 1, 'Glen Johnson')","(90, 0, 'Carlton Cole')",,,,,,,,
+2011-02-28,Stoke City,West Bromwich Albion,1,1,"(53, 0, 'Rory Delap')","(87, 1, 'Carlos Vela')",,,,,,,,,,
+2011-03-01,Chelsea,Manchester United,2,1,"(29, 1, 'Wayne Rooney')","(54, 0, ' David Luiz')","(80, 0, 'Frank Lampard')",,,,,,,,,
+2011-03-05,Arsenal,Sunderland,0,0,,,,,,,,,,,,
+2011-03-05,Birmingham City,West Bromwich Albion,1,3,"(47, 1, 'Youssef Mulumbu')","(48, 0, 'Jean Beausejour')","(58, 1, 'James Morrison')","(72, 1, 'Paul Scharner')",,,,,,,,
+2011-03-05,Bolton Wanderers,Aston Villa,3,2,"(15, 1, 'Darren Bent')","(45, 0, 'Gary Cahill')","(64, 1, 'Marc Albrighton')","(75, 0, 'Gary Cahill')","(86, 0, 'Ivan Klasnic')",,,,,,,
+2011-03-05,Fulham,Blackburn Rovers,3,2,"(37, 0, 'Damien Duff')","(45, 1, 'Brede Hangeland')","(59, 0, 'Damien Duff')","(65, 1, 'Junior Hoilett')","(89, 0, 'Bobby Zamora')",,,,,,,
+2011-03-05,Manchester City,Wigan Athletic,1,0,"(38, 0, 'David Silva')",,,,,,,,,,,
+2011-03-05,Newcastle United,Everton,1,2,"(23, 0, 'Leon Best')","(31, 1, 'Leon Osman')","(36, 1, 'Phil Jagielka')",,,,,,,,,
+2011-03-05,West Ham United,Stoke City,3,0,"(21, 0, 'Demba Ba')","(29, 0, 'Manuel Da Costa')","(83, 0, 'Thomas Hitzlsperger')",,,,,,,,,
+2011-03-06,Liverpool,Manchester United,3,1,"(34, 0, 'Dirk Kuyt')","(39, 0, 'Dirk Kuyt')","(65, 0, 'Dirk Kuyt')","(90, 1, 'Javier Hernandez')",,,,,,,,
+2011-03-06,Wolverhampton Wanderers,Tottenham Hotspur,3,3,"(20, 0, 'Kevin Doyle')","(30, 1, 'Jermain Defoe')","(35, 1, 'Jermain Defoe')","(40, 0, 'Kevin Doyle')","(48, 1, 'Roman Pavlyuchenko')","(87, 0, 'Steven Fletcher')",,,,,,
+2011-03-07,Blackpool,Chelsea,1,3,"(20, 1, 'John Terry')","(62, 1, 'Frank Lampard')","(66, 1, 'Frank Lampard')","(86, 0, 'Jason Puncheon')",,,,,,,,
+2011-03-09,Everton,Birmingham City,1,1,"(17, 1, 'Jean Beausejour')","(35, 0, 'Johnny Heitinga')",,,,,,,,,,
+2011-03-19,Aston Villa,Wolverhampton Wanderers,0,1,"(38, 1, 'Matt Jarvis')",,,,,,,,,,,
+2011-03-19,Blackburn Rovers,Blackpool,2,2,"(25, 1, 'Charlie Adam')","(29, 1, 'Charlie Adam')","(49, 0, 'Christopher Samba')","(90, 0, 'Junior Hoilett')",,,,,,,,
+2011-03-19,Everton,Fulham,2,1,"(36, 0, 'Seamus Coleman')","(49, 0, 'Louis Saha')","(62, 1, 'Clint Dempsey')",,,,,,,,,
+2011-03-19,Manchester United,Bolton Wanderers,1,0,"(88, 0, 'Dimitar Berbatov')",,,,,,,,,,,
+2011-03-19,Stoke City,Newcastle United,4,0,"(28, 0, 'Jon Walters')","(46, 0, 'Jermaine Pennant')","(49, 0, 'Danny Higginbotham')","(90, 0, 'Ricardo Fuller')",,,,,,,,
+2011-03-19,Tottenham Hotspur,West Ham United,0,0,,,,,,,,,,,,
+2011-03-19,West Bromwich Albion,Arsenal,2,2,"(3, 0, 'Steven Reid')","(58, 0, 'Peter Odemwingie')","(70, 1, 'Andrei Arshavin')","(78, 1, 'Robin Van Persie')",,,,,,,,
+2011-03-19,Wigan Athletic,Birmingham City,2,1,"(6, 1, 'Liam Ridgewell')","(25, 0, 'Tom Cleverley')","(90, 0, 'Maynor Figueroa')",,,,,,,,,
+2011-03-20,Chelsea,Manchester City,2,0,"(78, 0, ' David Luiz')","(90, 0, ' Ramires')",,,,,,,,,,
+2011-03-20,Sunderland,Liverpool,0,2,"(34, 1, 'Dirk Kuyt')","(77, 1, 'Luis Suarez')",,,,,,,,,,
+2011-04-02,Arsenal,Blackburn Rovers,0,0,,,,,,,,,,,,
+2011-04-02,Birmingham City,Bolton Wanderers,2,1,"(4, 0, 'Kevin Phillips')","(59, 0, 'Craig Gardner')","(70, 1, 'Johann Elmander')",,,,,,,,,
+2011-04-02,Everton,Aston Villa,2,2,"(38, 0, 'Leon Osman')","(47, 1, 'Darren Bent')","(68, 1, 'Darren Bent')","(83, 0, 'Leighton Baines')",,,,,,,,
+2011-04-02,Newcastle United,Wolverhampton Wanderers,4,1,"(22, 0, 'Kevin Nolan')","(45, 0, 'Shola Ameobi')","(50, 0, 'Peter Lovenkrands')","(58, 1, 'Sylvan Ebanks-Blake')","(90, 0, 'Jonas Gutierrez')",,,,,,,
+2011-04-02,Stoke City,Chelsea,1,1,"(8, 0, 'Jon Walters')","(33, 1, 'Didier Drogba')",,,,,,,,,,
+2011-04-02,West Bromwich Albion,Liverpool,2,1,"(50, 1, 'Martin Skrtel')","(62, 0, 'Chris Brunt')","(88, 0, 'Chris Brunt')",,,,,,,,,
+2011-04-02,West Ham United,Manchester United,2,4,"(11, 0, 'Mark Noble')","(25, 0, 'Mark Noble')","(65, 1, 'Wayne Rooney')","(73, 1, 'Wayne Rooney')","(79, 1, 'Wayne Rooney')","(84, 1, 'Javier Hernandez')",,,,,,
+2011-04-02,Wigan Athletic,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2011-04-03,Fulham,Blackpool,3,0,"(23, 0, 'Bobby Zamora')","(28, 0, 'Bobby Zamora')","(72, 0, 'Dickson Etuhu')",,,,,,,,,
+2011-04-03,Manchester City,Sunderland,5,0,"(9, 0, 'Adam Johnson')","(15, 0, 'Carlos Tevez')","(63, 0, 'David Silva')","(67, 0, 'Patrick Vieira')","(73, 0, 'Yaya Toure')",,,,,,,
+2011-04-09,Blackburn Rovers,Birmingham City,1,1,"(32, 1, 'Lee Bowyer')","(45, 0, 'Junior Hoilett')",,,,,,,,,,
+2011-04-09,Bolton Wanderers,West Ham United,3,0,"(14, 0, 'Daniel Sturridge')","(20, 0, 'LEE Chung-Yong')","(51, 0, 'Daniel Sturridge')",,,,,,,,,
+2011-04-09,Chelsea,Wigan Athletic,1,0,"(67, 0, 'Florent Malouda')",,,,,,,,,,,
+2011-04-09,Manchester United,Fulham,2,0,"(12, 0, 'Dimitar Berbatov')","(32, 0, 'Antonio Valencia')",,,,,,,,,,
+2011-04-09,Sunderland,West Bromwich Albion,2,3,"(10, 0, 'Nicky Shorey')","(28, 1, 'Peter Odemwingie')","(31, 0, 'Phil Bardsley')","(54, 1, 'Youssef Mulumbu')","(72, 1, 'Paul Scharner')",,,,,,,
+2011-04-09,Tottenham Hotspur,Stoke City,3,2,"(11, 0, 'Peter Crouch')","(18, 0, 'Luka Modric')","(27, 1, 'Matthew Etherington')","(34, 0, 'Peter Crouch')","(41, 1, 'Kenwyne Jones')",,,,,,,
+2011-04-09,Wolverhampton Wanderers,Everton,0,3,"(21, 1, 'Jermaine Beckford')","(39, 1, 'Phil Neville')","(45, 1, 'Diniyar Bilyaletdinov')",,,,,,,,,
+2011-04-10,Aston Villa,Newcastle United,1,0,"(24, 0, 'James M Collins')",,,,,,,,,,,
+2011-04-10,Blackpool,Arsenal,1,3,"(18, 1, 'Abou Diaby')","(21, 1, 'Emmanuel Eboue')","(52, 0, 'Gary Taylor-Fletcher')","(76, 1, 'Robin Van Persie')",,,,,,,,
+2011-04-11,Liverpool,Manchester City,3,0,"(13, 0, 'Andy Carroll')","(34, 0, 'Dirk Kuyt')","(35, 0, 'Andy Carroll')",,,,,,,,,
+2011-04-16,Birmingham City,Sunderland,2,0,"(41, 0, 'Seb Larsson')","(66, 0, 'Craig Gardner')",,,,,,,,,,
+2011-04-16,Blackpool,Wigan Athletic,1,3,"(3, 1, 'Hugo Rodallega')","(45, 1, ""Charles N'Zogbia"")","(67, 1, 'Neal Eardley')","(83, 0, 'DJ Campbell')",,,,,,,,
+2011-04-16,Everton,Blackburn Rovers,2,0,"(54, 0, 'Leon Osman')","(75, 0, 'Leighton Baines')",,,,,,,,,,
+2011-04-16,West Bromwich Albion,Chelsea,1,3,"(17, 0, 'Peter Odemwingie')","(22, 1, 'Didier Drogba')","(26, 1, 'Salomon Kalou')","(45, 1, 'Frank Lampard')",,,,,,,,
+2011-04-16,West Ham United,Aston Villa,1,2,"(2, 0, 'Robbie Keane')","(36, 1, 'Darren Bent')","(90, 1, 'Gabby Agbonlahor')",,,,,,,,,
+2011-04-17,Arsenal,Liverpool,1,1,"(90, 0, 'Robin Van Persie')","(90, 1, 'Dirk Kuyt')",,,,,,,,,,
+2011-04-19,Newcastle United,Manchester United,0,0,,,,,,,,,,,,
+2011-04-20,Chelsea,Birmingham City,3,1,"(3, 0, 'Florent Malouda')","(26, 0, 'Salomon Kalou')","(62, 0, 'Florent Malouda')","(76, 1, 'Seb Larsson')",,,,,,,,
+2011-04-20,Tottenham Hotspur,Arsenal,3,3,"(5, 1, 'Theo Walcott')","(7, 0, 'Rafael van der Vaart')","(12, 1, 'Samir Nasri')","(40, 1, 'Robin Van Persie')","(44, 0, 'Tom Huddlestone')","(70, 0, 'Rafael van der Vaart')",,,,,,
+2011-04-23,Aston Villa,Stoke City,1,1,"(20, 1, 'Kenwyne Jones')","(43, 0, 'Darren Bent')",,,,,,,,,,
+2011-04-23,Blackpool,Newcastle United,1,1,"(17, 1, 'Peter Lovenkrands')","(32, 0, 'DJ Campbell')",,,,,,,,,,
+2011-04-23,Chelsea,West Ham United,3,0,"(44, 0, 'Frank Lampard')","(84, 0, 'Fernando Torres')","(90, 0, 'Florent Malouda')",,,,,,,,,
+2011-04-23,Liverpool,Birmingham City,5,0,"(7, 0, 'Maxi Rodriguez')","(23, 0, 'Dirk Kuyt')","(66, 0, 'Maxi Rodriguez')","(73, 0, 'Maxi Rodriguez')","(86, 0, 'Joe Cole')",,,,,,,
+2011-04-23,Manchester United,Everton,1,0,"(83, 0, 'Javier Hernandez')",,,,,,,,,,,
+2011-04-23,Sunderland,Wigan Athletic,4,2,"(52, 1, 'Mohamed Diame')","(55, 0, 'Asamoah Gyan')","(66, 0, 'Jordan Henderson')","(73, 0, 'Stephane Sessegnon')","(77, 0, 'Jordan Henderson')","(90, 1, 'Franco Di Santo')",,,,,,
+2011-04-23,Tottenham Hotspur,West Bromwich Albion,2,2,"(5, 1, 'Peter Odemwingie')","(27, 0, 'Roman Pavlyuchenko')","(66, 0, 'Jermain Defoe')","(81, 1, 'Simon Cox')",,,,,,,,
+2011-04-23,Wolverhampton Wanderers,Fulham,1,1,"(22, 0, 'Steven Fletcher')","(80, 1, 'Andrew Johnson')",,,,,,,,,,
+2011-04-24,Bolton Wanderers,Arsenal,2,1,"(38, 0, 'Daniel Sturridge')","(48, 1, 'Robin Van Persie')","(90, 0, 'Tamir Cohen')",,,,,,,,,
+2011-04-25,Blackburn Rovers,Manchester City,0,1,"(75, 1, 'Edin Dzeko')",,,,,,,,,,,
+2011-04-26,Stoke City,Wolverhampton Wanderers,3,0,"(16, 0, 'Kenwyne Jones')","(45, 0, 'Ryan Shawcross')","(51, 0, 'Jermaine Pennant')",,,,,,,,,
+2011-04-27,Fulham,Bolton Wanderers,3,0,"(15, 0, 'Clint Dempsey')","(48, 0, 'Clint Dempsey')","(65, 0, 'Brede Hangeland')",,,,,,,,,
+2011-04-30,Blackburn Rovers,Bolton Wanderers,1,0,"(20, 0, 'Martin Olsson')",,,,,,,,,,,
+2011-04-30,Blackpool,Stoke City,0,0,,,,,,,,,,,,
+2011-04-30,Chelsea,Tottenham Hotspur,2,1,"(19, 1, ' Sandro')","(45, 0, 'Frank Lampard')","(89, 0, 'Salomon Kalou')",,,,,,,,,
+2011-04-30,Sunderland,Fulham,0,3,"(33, 1, 'Gael Kakuta')","(61, 1, 'Simon Davies')","(73, 1, 'Simon Davies')",,,,,,,,,
+2011-04-30,West Bromwich Albion,Aston Villa,2,1,"(4, 1, 'Abdoulaye Meite')","(60, 0, 'Peter Odemwingie')","(84, 0, 'Youssef Mulumbu')",,,,,,,,,
+2011-04-30,Wigan Athletic,Everton,1,1,"(21, 0, ""Charles N'Zogbia"")","(78, 1, 'Leighton Baines')",,,,,,,,,,
+2011-05-01,Arsenal,Manchester United,1,0,"(56, 0, 'Aaron Ramsey')",,,,,,,,,,,
+2011-05-01,Birmingham City,Wolverhampton Wanderers,1,1,"(7, 1, 'Steven Fletcher')","(27, 0, 'Seb Larsson')",,,,,,,,,,
+2011-05-01,Liverpool,Newcastle United,3,0,"(10, 0, 'Maxi Rodriguez')","(59, 0, 'Dirk Kuyt')","(65, 0, 'Luis Suarez')",,,,,,,,,
+2011-05-01,Manchester City,West Ham United,2,1,"(10, 0, 'Nigel De Jong')","(15, 0, 'Pablo Zabaleta')","(33, 1, 'Demba Ba')",,,,,,,,,
+2011-05-07,Aston Villa,Wigan Athletic,1,1,"(10, 1, ""Charles N'Zogbia"")","(17, 0, 'Ashley Young')",,,,,,,,,,
+2011-05-07,Bolton Wanderers,Sunderland,1,2,"(45, 1, 'Bolo Zenden')","(87, 0, 'Ivan Klasnic')","(90, 1, 'Sulley Muntari')",,,,,,,,,
+2011-05-07,Everton,Manchester City,2,1,"(28, 1, 'Yaya Toure')","(65, 0, 'Sylvain Distin')","(72, 0, 'Leon Osman')",,,,,,,,,
+2011-05-07,Newcastle United,Birmingham City,2,1,"(36, 0, 'Shola Ameobi')","(43, 0, 'Steven Taylor')","(45, 1, 'Lee Bowyer')",,,,,,,,,
+2011-05-07,Tottenham Hotspur,Blackpool,1,1,"(76, 1, 'Charlie Adam')","(89, 0, 'Jermain Defoe')",,,,,,,,,,
+2011-05-07,West Ham United,Blackburn Rovers,1,1,"(12, 1, 'Jason Roberts')","(78, 0, 'Thomas Hitzlsperger')",,,,,,,,,,
+2011-05-08,Manchester United,Chelsea,2,1,"(1, 0, 'Javier Hernandez')","(23, 0, 'Nemanja Vidic')","(68, 1, 'Frank Lampard')",,,,,,,,,
+2011-05-08,Stoke City,Arsenal,3,1,"(28, 0, 'Kenwyne Jones')","(40, 0, 'Jermaine Pennant')","(81, 1, 'Robin Van Persie')","(82, 0, 'Jon Walters')",,,,,,,,
+2011-05-08,Wolverhampton Wanderers,West Bromwich Albion,3,1,"(15, 0, 'Steven Fletcher')","(28, 0, 'Adlene Guedioura')","(47, 0, 'Steven Fletcher')","(55, 1, 'Peter Odemwingie')",,,,,,,,
+2011-05-09,Fulham,Liverpool,2,5,"(1, 1, 'Maxi Rodriguez')","(7, 1, 'Maxi Rodriguez')","(16, 1, 'Dirk Kuyt')","(57, 0, 'Moussa Dembele')","(70, 1, 'Maxi Rodriguez')","(75, 1, 'Luis Suarez')","(86, 0, 'Steve Sidwell')",,,,,
+2011-05-10,Manchester City,Tottenham Hotspur,1,0,"(30, 0, 'Peter Crouch')",,,,,,,,,,,
+2011-05-14,Blackburn Rovers,Manchester United,1,1,"(20, 0, 'Brett Emerton')","(73, 1, 'Wayne Rooney')",,,,,,,,,,
+2011-05-14,Blackpool,Bolton Wanderers,4,3,"(6, 1, 'Kevin Davies')","(9, 0, 'DJ Campbell')","(19, 0, 'Jason Puncheon')","(24, 1, 'Matt Taylor')","(45, 0, 'DJ Campbell')","(53, 1, 'Daniel Sturridge')","(63, 0, 'Charlie Adam')",,,,,
+2011-05-14,Sunderland,Wolverhampton Wanderers,1,3,"(22, 1, 'Jody Craddock')","(34, 0, 'Stephane Sessegnon')","(54, 1, 'Steven Fletcher')","(78, 1, 'George Elokobi')",,,,,,,,
+2011-05-14,West Bromwich Albion,Everton,1,0,"(10, 0, 'Youssef Mulumbu')",,,,,,,,,,,
+2011-05-15,Arsenal,Aston Villa,1,2,"(11, 1, 'Darren Bent')","(15, 1, 'Darren Bent')","(89, 0, 'Robin Van Persie')",,,,,,,,,
+2011-05-15,Birmingham City,Fulham,0,2,"(5, 1, 'Brede Hangeland')","(49, 1, 'Brede Hangeland')",,,,,,,,,,
+2011-05-15,Chelsea,Newcastle United,2,2,"(2, 0, 'Branislav Ivanovic')","(10, 1, 'Jonas Gutierrez')","(83, 0, ' Alex')","(90, 1, 'Steven Taylor')",,,,,,,,
+2011-05-15,Liverpool,Tottenham Hotspur,0,2,"(9, 1, 'Rafael van der Vaart')","(56, 1, 'Luka Modric')",,,,,,,,,,
+2011-05-15,Wigan Athletic,West Ham United,3,2,"(12, 1, 'Demba Ba')","(26, 1, 'Demba Ba')","(57, 0, ""Charles N'Zogbia"")","(68, 0, 'Conor Sammon')","(90, 0, ""Charles N'Zogbia"")",,,,,,,
+2011-05-17,Manchester City,Stoke City,3,0,"(14, 0, 'Carlos Tevez')","(53, 0, 'Joleon Lescott')","(65, 0, 'Carlos Tevez')",,,,,,,,,
+2011-05-22,Aston Villa,Liverpool,1,0,"(33, 0, 'Stewart Downing')",,,,,,,,,,,
+2011-05-22,Bolton Wanderers,Manchester City,0,2,"(43, 1, 'Joleon Lescott')","(62, 1, 'Edin Dzeko')",,,,,,,,,,
+2011-05-22,Everton,Chelsea,1,0,"(74, 0, 'Jermaine Beckford')",,,,,,,,,,,
+2011-05-22,Fulham,Arsenal,2,2,"(26, 0, 'Steve Sidwell')","(29, 1, 'Robin Van Persie')","(57, 0, 'Bobby Zamora')","(89, 1, 'Theo Walcott')",,,,,,,,
+2011-05-22,Manchester United,Blackpool,4,2,"(21, 0, 'PARK Ji-Sung')","(40, 1, 'Charlie Adam')","(57, 1, 'Gary Taylor-Fletcher')","(62, 0, ' Anderson')","(74, 0, 'Ian Evatt')","(81, 0, 'Michael Owen')",,,,,,
+2011-05-22,Newcastle United,West Bromwich Albion,3,3,"(16, 0, 'Steven Taylor')","(39, 0, 'Peter Lovenkrands')","(47, 0, 'Jonas Olsson')","(62, 1, 'Somen Tchoyi')","(71, 1, 'Somen Tchoyi')","(90, 1, 'Somen Tchoyi')",,,,,,
+2011-05-22,Stoke City,Wigan Athletic,0,1,"(78, 1, 'Hugo Rodallega')",,,,,,,,,,,
+2011-05-22,Tottenham Hotspur,Birmingham City,2,1,"(49, 0, 'Roman Pavlyuchenko')","(79, 1, 'Craig Gardner')","(90, 0, 'Roman Pavlyuchenko')",,,,,,,,,
+2011-05-22,West Ham United,Sunderland,0,3,"(17, 1, 'Bolo Zenden')","(51, 1, 'Stephane Sessegnon')","(90, 1, 'Cristian Riveros')",,,,,,,,,
+2011-05-22,Wolverhampton Wanderers,Blackburn Rovers,2,3,"(22, 1, 'Jason Roberts')","(38, 1, 'Brett Emerton')","(45, 1, 'Junior Hoilett')","(73, 0, ""Jamie O'Hara"")","(87, 0, 'Stephen Hunt')",,,,,,,

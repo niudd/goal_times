@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-17/08/2008,Chelsea,Portsmouth,4,0,"(12, 0, 'Joe Cole')","(26, 0, 'Nicolas Anelka')","(45, 0, 'Frank Lampard')","(89, 0, ' Deco')"
-24/08/2008,Wigan Athletic,Chelsea,0,1,"(4, 1, ' Deco')"
-31/08/2008,Chelsea,Tottenham Hotspur,1,1,"(28, 0, 'Juliano Belletti')","(45, 1, 'Darren Bent')"
-13/09/2008,Manchester City,Chelsea,1,3,"(13, 0, ' Robinho')","(16, 1, 'Ricardo Carvalho')","(53, 1, 'Frank Lampard')","(69, 1, 'Nicolas Anelka')"
-21/09/2008,Chelsea,Manchester United,1,1,"(18, 1, 'PARK Ji-Sung')","(80, 0, 'Salomon Kalou')"
-27/09/2008,Stoke City,Chelsea,0,2,"(36, 1, 'Jose Bosingwa')","(76, 1, 'Nicolas Anelka')"
-05/10/2008,Chelsea,Aston Villa,2,0,"(21, 0, 'Joe Cole')","(44, 0, 'Nicolas Anelka')"
-18/10/2008,Middlesbrough,Chelsea,0,5,"(14, 1, 'Salomon Kalou')","(51, 1, 'Juliano Belletti')","(53, 1, 'David Wheater')","(63, 1, 'Frank Lampard')","(67, 1, 'Florent Malouda')"
-26/10/2008,Chelsea,Liverpool,0,1,"(10, 1, 'Jose Bosingwa')"
-29/10/2008,Hull City,Chelsea,0,3,"(3, 1, 'Frank Lampard')","(50, 1, 'Nicolas Anelka')","(75, 1, 'Florent Malouda')"
-01/11/2008,Chelsea,Sunderland,5,0,"(27, 0, ' Alex')","(30, 0, 'Nicolas Anelka')","(45, 0, 'Nicolas Anelka')","(51, 0, 'Frank Lampard')","(53, 0, 'Nicolas Anelka')"
-09/11/2008,Blackburn Rovers,Chelsea,0,2,"(40, 1, 'Nicolas Anelka')","(68, 1, 'Nicolas Anelka')"
-15/11/2008,West Bromwich Albion,Chelsea,0,3,"(34, 1, 'Jose Bosingwa')","(38, 1, 'Nicolas Anelka')","(45, 1, 'Nicolas Anelka')"
-22/11/2008,Chelsea,Newcastle United,0,0
-30/11/2008,Chelsea,Arsenal,1,2,"(31, 0, 'Johann Djourou')","(59, 1, 'Robin Van Persie')","(62, 1, 'Robin Van Persie')"
-06/12/2008,Bolton Wanderers,Chelsea,0,2,"(9, 1, 'Nicolas Anelka')","(21, 1, ' Deco')"
-14/12/2008,Chelsea,West Ham United,1,1,"(33, 1, 'Craig Bellamy')","(51, 0, 'Nicolas Anelka')"
-22/12/2008,Everton,Chelsea,0,0
-26/12/2008,Chelsea,West Bromwich Albion,2,0,"(3, 0, 'Didier Drogba')","(45, 0, 'Frank Lampard')"
-28/12/2008,Fulham,Chelsea,2,2,"(10, 0, 'Clint Dempsey')","(50, 1, 'Frank Lampard')","(72, 1, 'Frank Lampard')","(89, 0, 'Clint Dempsey')"
-11/01/2009,Manchester United,Chelsea,3,0,"(45, 0, 'Nemanja Vidic')","(63, 0, 'Wayne Rooney')","(87, 0, 'Dimitar Berbatov')"
-17/01/2009,Chelsea,Stoke City,2,1,"(60, 1, 'Rory Delap')","(88, 0, 'Juliano Belletti')","(90, 0, 'Frank Lampard')"
-28/01/2009,Chelsea,Middlesbrough,2,0,"(58, 0, 'Salomon Kalou')","(81, 0, 'Salomon Kalou')"
-01/02/2009,Liverpool,Chelsea,2,0,"(89, 0, 'Fernando Torres')","(90, 0, 'Fernando Torres')"
-07/02/2009,Chelsea,Hull City,0,0
-21/02/2009,Aston Villa,Chelsea,0,1,"(19, 1, 'Nicolas Anelka')"
-28/02/2009,Chelsea,Wigan Athletic,2,1,"(25, 0, 'John Terry')","(82, 1, 'Olivier Kapo')","(90, 0, 'Frank Lampard')"
-03/03/2009,Portsmouth,Chelsea,0,1,"(79, 1, 'Didier Drogba')"
-15/03/2009,Chelsea,Manchester City,1,0,"(18, 0, 'Michael Essien')"
-21/03/2009,Tottenham Hotspur,Chelsea,1,0,"(50, 0, 'Luka Modric')"
-04/04/2009,Newcastle United,Chelsea,0,2,"(56, 1, 'Frank Lampard')","(65, 1, 'Florent Malouda')"
-11/04/2009,Chelsea,Bolton Wanderers,4,3,"(40, 0, 'Michael Ballack')","(48, 0, 'Didier Drogba')","(60, 0, 'Frank Lampard')","(63, 0, 'Didier Drogba')","(70, 1, ""Andy O'Brien"")","(74, 1, 'Chris Basham')","(78, 1, 'Matt Taylor')"
-22/04/2009,Chelsea,Everton,0,0
-25/04/2009,West Ham United,Chelsea,0,1,"(55, 1, 'Salomon Kalou')"
-02/05/2009,Chelsea,Fulham,3,1,"(1, 0, 'Nicolas Anelka')","(4, 1, 'Erik Nevland')","(10, 0, 'Florent Malouda')","(53, 0, 'Didier Drogba')"
-10/05/2009,Arsenal,Chelsea,1,4,"(28, 1, ' Alex')","(39, 1, 'Nicolas Anelka')","(49, 1, 'Kolo Toure')","(70, 0, 'Nicklas Bendtner')","(86, 1, 'Florent Malouda')"
-17/05/2009,Chelsea,Blackburn Rovers,2,0,"(4, 0, 'Florent Malouda')","(59, 0, 'Nicolas Anelka')"
-24/05/2009,Sunderland,Chelsea,2,3,"(47, 1, 'Nicolas Anelka')","(53, 0, 'Kieran Richardson')","(74, 1, 'Salomon Kalou')","(86, 1, 'Ashley Cole')","(90, 0, 'Kenwyne Jones')"
-16/08/2008,Sunderland,Liverpool,0,1,"(83, 1, 'Fernando Torres')"
-23/08/2008,Liverpool,Middlesbrough,2,1,"(70, 1, ' Mido')","(86, 0, 'Emanuel Pogatetz')","(90, 0, 'Steven Gerrard')"
-31/08/2008,Aston Villa,Liverpool,0,0
-13/09/2008,Liverpool,Manchester United,2,1,"(3, 1, 'Carlos Tevez')","(27, 0, 'Wes Brown')","(77, 0, 'Ryan Babel')"
-20/09/2008,Liverpool,Stoke City,0,0
-27/09/2008,Everton,Liverpool,0,2,"(59, 1, 'Fernando Torres')","(62, 1, 'Fernando Torres')"
-05/10/2008,Manchester City,Liverpool,2,3,"(19, 0, 'Stephen Ireland')","(41, 0, 'Javier Garrido')","(55, 1, 'Fernando Torres')","(73, 1, 'Fernando Torres')","(90, 1, 'Dirk Kuyt')"
-18/10/2008,Liverpool,Wigan Athletic,3,2,"(29, 1, 'Amr Zaki')","(37, 0, 'Dirk Kuyt')","(45, 1, 'Amr Zaki')","(80, 0, 'Albert Riera')","(85, 0, 'Dirk Kuyt')"
-29/10/2008,Liverpool,Portsmouth,1,0,"(76, 0, 'Steven Gerrard')"
-01/11/2008,Tottenham Hotspur,Liverpool,2,1,"(3, 1, 'Dirk Kuyt')","(70, 0, 'Jamie Carragher')","(90, 0, 'Roman Pavlyuchenko')"
-08/11/2008,Liverpool,West Bromwich Albion,3,0,"(34, 0, 'Robbie Keane')","(43, 0, 'Robbie Keane')","(90, 0, 'Alvaro Arbeloa')"
-15/11/2008,Bolton Wanderers,Liverpool,0,2,"(28, 1, 'Dirk Kuyt')","(73, 1, 'Steven Gerrard')"
-22/11/2008,Liverpool,Fulham,0,0
-01/12/2008,Liverpool,West Ham United,0,0
-06/12/2008,Blackburn Rovers,Liverpool,1,3,"(69, 1, ' Xabi Alonso')","(79, 1, 'Yossi Benayoun')","(86, 0, 'Roque Santa Cruz')","(90, 1, 'Steven Gerrard')"
-13/12/2008,Liverpool,Hull City,2,2,"(12, 1, 'Paul McShane')","(22, 1, 'Jamie Carragher')","(24, 0, 'Steven Gerrard')","(32, 0, 'Steven Gerrard')"
-21/12/2008,Arsenal,Liverpool,1,1,"(24, 0, 'Robin Van Persie')","(42, 1, 'Robbie Keane')"
-26/12/2008,Liverpool,Bolton Wanderers,3,0,"(26, 0, 'Albert Riera')","(53, 0, 'Robbie Keane')","(58, 0, 'Robbie Keane')"
-28/12/2008,Newcastle United,Liverpool,1,5,"(31, 1, 'Steven Gerrard')","(36, 1, 'Sami Hyypia')","(45, 0, 'David Edgar')","(50, 1, 'Ryan Babel')","(66, 1, 'Steven Gerrard')","(77, 1, ' Xabi Alonso')"
-10/01/2009,Stoke City,Liverpool,0,0
-19/01/2009,Liverpool,Everton,1,1,"(68, 0, 'Steven Gerrard')","(87, 1, 'Tim Cahill')"
-28/01/2009,Wigan Athletic,Liverpool,1,1,"(41, 1, 'Yossi Benayoun')","(83, 0, ' Mido')"
-07/02/2009,Portsmouth,Liverpool,2,3,"(62, 0, 'David Nugent')","(69, 1, 'Fabio Aurelio')","(78, 0, 'Hermann Hreidarsson')","(85, 1, 'Dirk Kuyt')","(90, 1, 'Fernando Torres')"
-22/02/2009,Liverpool,Manchester City,1,1,"(51, 1, 'Craig Bellamy')","(78, 0, 'Dirk Kuyt')"
-28/02/2009,Middlesbrough,Liverpool,2,0,"(32, 0, ' Xabi Alonso')","(63, 0, ' Tuncay Sanli')"
-03/03/2009,Liverpool,Sunderland,2,0,"(52, 0, ""David N'Gog"")","(65, 0, 'Yossi Benayoun')"
-14/03/2009,Manchester United,Liverpool,1,4,"(23, 0, 'Cristiano Ronaldo')","(28, 1, 'Fernando Torres')","(44, 1, 'Steven Gerrard')","(77, 1, 'Fabio Aurelio')","(90, 1, 'Andrea Dossena')"
-22/03/2009,Liverpool,Aston Villa,5,0,"(8, 0, 'Dirk Kuyt')","(33, 0, 'Albert Riera')","(39, 0, 'Steven Gerrard')","(50, 0, 'Steven Gerrard')","(65, 0, 'Steven Gerrard')"
-04/04/2009,Fulham,Liverpool,0,1,"(90, 1, 'Yossi Benayoun')"
-11/04/2009,Liverpool,Blackburn Rovers,4,0,"(5, 0, 'Fernando Torres')","(33, 0, 'Fernando Torres')","(83, 0, 'Daniel Agger')","(90, 0, ""David N'Gog"")"
-21/04/2009,Liverpool,Arsenal,4,4,"(36, 1, 'Andrei Arshavin')","(49, 0, 'Fernando Torres')","(56, 0, 'Yossi Benayoun')","(67, 1, 'Andrei Arshavin')","(70, 1, 'Andrei Arshavin')","(72, 0, 'Fernando Torres')","(90, 0, 'Yossi Benayoun')","(90, 1, 'Andrei Arshavin')"
-25/04/2009,Hull City,Liverpool,1,3,"(45, 1, ' Xabi Alonso')","(63, 1, 'Dirk Kuyt')","(72, 0, ' Geovanni')","(89, 1, 'Dirk Kuyt')"
-03/05/2009,Liverpool,Newcastle United,3,0,"(22, 0, 'Yossi Benayoun')","(28, 0, 'Dirk Kuyt')","(87, 0, ' Lucas Leiva')"
-09/05/2009,West Ham United,Liverpool,0,3,"(2, 1, 'Steven Gerrard')","(38, 1, 'Steven Gerrard')","(84, 1, 'Ryan Babel')"
-17/05/2009,West Bromwich Albion,Liverpool,0,2,"(28, 1, 'Steven Gerrard')","(63, 1, 'Dirk Kuyt')"
-24/05/2009,Liverpool,Tottenham Hotspur,3,1,"(31, 0, 'Fernando Torres')","(64, 0, 'Alan Hutton')","(77, 1, 'Robbie Keane')","(81, 0, 'Yossi Benayoun')"
-17/08/2008,Aston Villa,Manchester City,4,2,"(47, 0, 'John Carew')","(64, 1, ' Elano')","(69, 0, 'Gabby Agbonlahor')","(74, 0, 'Gabby Agbonlahor')","(76, 0, 'Gabby Agbonlahor')","(89, 1, 'Vedran Corluka')"
-24/08/2008,Manchester City,West Ham United,3,0,"(65, 0, 'Daniel Sturridge')","(70, 0, ' Elano')","(76, 0, ' Elano')"
-31/08/2008,Sunderland,Manchester City,0,3,"(45, 1, 'Stephen Ireland')","(50, 1, 'Shaun Wright-Phillips')","(58, 1, 'Shaun Wright-Phillips')"
-21/09/2008,Manchester City,Portsmouth,6,0,"(13, 0, ' Jo')","(20, 0, 'Richard Dunne')","(57, 0, ' Robinho')","(68, 0, 'Shaun Wright-Phillips')","(78, 0, 'Ched Evans')","(83, 0, ' Gelson Fernandes')"
-28/09/2008,Wigan Athletic,Manchester City,2,1,"(16, 0, 'Antonio Valencia')","(22, 1, 'Vincent Kompany')","(34, 0, 'Amr Zaki')"
-20/10/2008,Newcastle United,Manchester City,2,2,"(14, 1, ' Robinho')","(44, 0, 'Shola Ameobi')","(63, 0, 'Richard Dunne')","(86, 1, 'Stephen Ireland')"
-26/10/2008,Manchester City,Stoke City,3,0,"(14, 0, ' Robinho')","(47, 0, ' Robinho')","(72, 0, ' Robinho')"
-29/10/2008,Middlesbrough,Manchester City,2,0,"(53, 0, 'Afonso Alves')","(90, 0, ""Gary O'Neil"")"
-02/11/2008,Bolton Wanderers,Manchester City,2,0,"(77, 0, 'Ricardo Gardner')","(88, 0, 'Richard Dunne')"
-09/11/2008,Manchester City,Tottenham Hotspur,1,2,"(16, 0, ' Robinho')","(29, 1, 'Darren Bent')","(64, 1, 'Darren Bent')"
-16/11/2008,Hull City,Manchester City,2,2,"(14, 0, 'Daniel Cousin')","(37, 1, 'Stephen Ireland')","(45, 1, 'Stephen Ireland')","(60, 0, ' Geovanni')"
-22/11/2008,Manchester City,Arsenal,3,0,"(45, 0, 'Stephen Ireland')","(56, 0, ' Robinho')","(90, 0, 'Daniel Sturridge')"
-30/11/2008,Manchester City,Manchester United,0,1,"(42, 1, 'Wayne Rooney')"
-06/12/2008,Fulham,Manchester City,1,1,"(6, 1, ' Benjani')","(27, 0, 'Jimmy Bullard')"
-13/12/2008,Manchester City,Everton,0,1,"(90, 1, 'Tim Cahill')"
-21/12/2008,West Bromwich Albion,Manchester City,2,1,"(69, 0, 'Luke Moore')","(86, 1, 'Felipe Caicedo')","(90, 0, 'Roman Bednar')"
-26/12/2008,Manchester City,Hull City,5,1,"(15, 0, 'Felipe Caicedo')","(27, 0, 'Felipe Caicedo')","(28, 0, ' Robinho')","(36, 0, ' Robinho')","(80, 1, 'Craig Fagan')","(82, 0, 'Stephen Ireland')"
-28/12/2008,Blackburn Rovers,Manchester City,2,2,"(45, 0, 'Benni McCarthy')","(84, 0, 'Jason Roberts')","(88, 1, 'Daniel Sturridge')","(90, 1, ' Robinho')"
-17/01/2009,Manchester City,Wigan Athletic,1,0,"(53, 0, 'Pablo Zabaleta')"
-28/01/2009,Manchester City,Newcastle United,2,1,"(17, 0, 'Shaun Wright-Phillips')","(77, 0, 'Craig Bellamy')","(81, 1, 'Andy Carroll')"
-31/01/2009,Stoke City,Manchester City,1,0,"(45, 0, 'James Beattie')"
-07/02/2009,Manchester City,Middlesbrough,1,0,"(51, 0, 'Craig Bellamy')"
-14/02/2009,Portsmouth,Manchester City,2,0,"(70, 0, 'Glen Johnson')","(75, 0, 'Hermann Hreidarsson')"
-01/03/2009,West Ham United,Manchester City,1,0,"(71, 0, 'Jack Collison')"
-04/03/2009,Manchester City,Aston Villa,2,0,"(24, 0, ' Elano')","(89, 0, 'Shaun Wright-Phillips')"
-22/03/2009,Manchester City,Sunderland,1,0,"(56, 0, 'Micah Richards')"
-04/04/2009,Arsenal,Manchester City,2,0,"(8, 0, 'Emmanuel Adebayor')","(49, 0, 'Emmanuel Adebayor')"
-12/04/2009,Manchester City,Fulham,1,3,"(28, 0, 'Stephen Ireland')","(50, 1, 'Clint Dempsey')","(59, 1, 'Dickson Etuhu')","(83, 1, 'Clint Dempsey')"
-19/04/2009,Manchester City,West Bromwich Albion,4,2,"(8, 0, ' Robinho')","(21, 0, 'Nedum Onuoha')","(37, 1, 'Chris Brunt')","(54, 1, 'Chris Brunt')","(56, 0, ' Elano')","(90, 0, 'Daniel Sturridge')"
-25/04/2009,Everton,Manchester City,1,2,"(35, 1, ' Robinho')","(54, 1, 'Stephen Ireland')","(90, 0, 'Dan Gosling')"
-02/05/2009,Manchester City,Blackburn Rovers,3,1,"(27, 0, 'Felipe Caicedo')","(34, 0, ' Robinho')","(45, 0, ' Elano')","(66, 1, 'Keith Andrews')"
-10/05/2009,Manchester United,Manchester City,2,0,"(18, 0, 'Cristiano Ronaldo')","(45, 0, 'Carlos Tevez')"
-16/05/2009,Tottenham Hotspur,Manchester City,2,1,"(29, 0, 'Jermain Defoe')","(65, 1, 'Valery Bojinov')","(86, 0, 'Robbie Keane')"
-24/05/2009,Manchester City,Bolton Wanderers,1,0,"(8, 0, 'Felipe Caicedo')"
-16/08/2008,Arsenal,West Bromwich Albion,1,0,"(4, 0, 'Samir Nasri')"
-23/08/2008,Fulham,Arsenal,1,0,"(21, 0, 'Brede Hangeland')"
-30/08/2008,Arsenal,Newcastle United,3,0,"(18, 0, 'Robin Van Persie')","(41, 0, 'Robin Van Persie')","(59, 0, ' Denilson')"
-13/09/2008,Blackburn Rovers,Arsenal,0,4,"(8, 1, 'Robin Van Persie')","(45, 1, 'Emmanuel Adebayor')","(81, 1, 'Emmanuel Adebayor')","(90, 1, 'Emmanuel Adebayor')"
-20/09/2008,Bolton Wanderers,Arsenal,1,3,"(14, 0, 'Kevin Davies')","(26, 1, 'Emmanuel Eboue')","(27, 1, 'Nicklas Bendtner')","(87, 1, ' Denilson')"
-27/09/2008,Arsenal,Hull City,1,2,"(51, 0, 'Paul McShane')","(62, 1, ' Geovanni')","(66, 1, 'Daniel Cousin')"
-04/10/2008,Sunderland,Arsenal,1,1,"(86, 0, 'Grant Leadbitter')","(90, 1, 'Cesc Fabregas')"
-18/10/2008,Arsenal,Everton,3,1,"(9, 1, 'Leon Osman')","(48, 0, 'Samir Nasri')","(70, 0, 'Robin Van Persie')","(90, 0, 'Theo Walcott')"
-26/10/2008,West Ham United,Arsenal,0,2,"(75, 1, 'Julien Faubert')","(90, 1, 'Emmanuel Adebayor')"
-29/10/2008,Arsenal,Tottenham Hotspur,4,4,"(13, 1, 'David Bentley')","(37, 0, 'Mikael Silvestre')","(46, 0, 'William Gallas')","(64, 0, 'Emmanuel Adebayor')","(67, 1, 'Darren Bent')","(68, 0, 'Robin Van Persie')","(89, 1, 'Jermaine Jenas')","(90, 1, 'Aaron Lennon')"
-01/11/2008,Stoke City,Arsenal,2,1,"(11, 0, 'Ricardo Fuller')","(73, 0, 'Seyi Olofinjana')","(90, 1, 'Gael Clichy')"
-08/11/2008,Arsenal,Manchester United,2,1,"(22, 0, 'Samir Nasri')","(48, 0, 'Samir Nasri')","(90, 1, ' Rafael Da Silva')"
-15/11/2008,Arsenal,Aston Villa,0,2,"(70, 1, 'Gael Clichy')","(80, 1, 'Gabby Agbonlahor')"
-06/12/2008,Arsenal,Wigan Athletic,1,0,"(16, 0, 'Emmanuel Adebayor')"
-13/12/2008,Middlesbrough,Arsenal,1,1,"(17, 1, 'Emmanuel Adebayor')","(29, 0, 'Jeremie Aliadiere')"
-26/12/2008,Aston Villa,Arsenal,2,2,"(40, 1, ' Denilson')","(49, 1, 'Abou Diaby')","(65, 0, 'Gareth Barry')","(90, 0, 'Zat Knight')"
-28/12/2008,Arsenal,Portsmouth,1,0,"(81, 0, 'William Gallas')"
-10/01/2009,Arsenal,Bolton Wanderers,1,0,"(84, 0, 'Nicklas Bendtner')"
-17/01/2009,Hull City,Arsenal,1,3,"(30, 1, 'Emmanuel Adebayor')","(65, 0, 'Daniel Cousin')","(82, 1, 'Samir Nasri')","(86, 1, 'Nicklas Bendtner')"
-28/01/2009,Everton,Arsenal,1,1,"(61, 0, 'Tim Cahill')","(90, 1, 'Robin Van Persie')"
-31/01/2009,Arsenal,West Ham United,0,0
-08/02/2009,Tottenham Hotspur,Arsenal,0,0
-21/02/2009,Arsenal,Sunderland,0,0
-28/02/2009,Arsenal,Fulham,0,0
-03/03/2009,West Bromwich Albion,Arsenal,1,3,"(4, 1, 'Nicklas Bendtner')","(7, 0, 'Chris Brunt')","(38, 1, 'Kolo Toure')","(44, 1, 'Nicklas Bendtner')"
-14/03/2009,Arsenal,Blackburn Rovers,4,0,"(2, 0, 'Andre Ooijer')","(65, 0, 'Andrei Arshavin')","(87, 0, 'Emmanuel Eboue')","(90, 0, 'Emmanuel Eboue')"
-21/03/2009,Newcastle United,Arsenal,1,3,"(57, 1, 'Nicklas Bendtner')","(58, 0, 'Obafemi Martins')","(64, 1, 'Abou Diaby')","(67, 1, 'Samir Nasri')"
-11/04/2009,Wigan Athletic,Arsenal,1,4,"(18, 0, ' Mido')","(61, 1, 'Theo Walcott')","(71, 1, 'Mikael Silvestre')","(89, 1, 'Andrei Arshavin')","(90, 1, 'Alex Song')"
-26/04/2009,Arsenal,Middlesbrough,2,0,"(26, 0, 'Cesc Fabregas')","(67, 0, 'Cesc Fabregas')"
-02/05/2009,Portsmouth,Arsenal,0,3,"(13, 1, 'Nicklas Bendtner')","(41, 1, 'Nicklas Bendtner')","(56, 1, 'Carlos Vela')"
-16/05/2009,Manchester United,Arsenal,0,0
-24/05/2009,Arsenal,Stoke City,4,1,"(10, 0, 'James Beattie')","(16, 0, 'Robin Van Persie')","(18, 0, 'Abou Diaby')","(31, 1, 'Ricardo Fuller')","(41, 0, 'Robin Van Persie')"
-16/08/2008,West Ham United,Wigan Athletic,2,1,"(3, 0, 'Dean Ashton')","(10, 0, 'Dean Ashton')","(47, 1, 'Amr Zaki')"
-30/08/2008,West Ham United,Blackburn Rovers,4,1,"(12, 0, 'Calum Davenport')","(20, 0, 'Christopher Samba')","(22, 1, 'Jason Roberts')","(89, 0, 'Carlton Cole')","(90, 0, 'Craig Bellamy')"
-13/09/2008,West Bromwich Albion,West Ham United,3,2,"(3, 0, 'James Morrison')","(29, 1, 'Mark Noble')","(35, 1, 'Lucas Neill')","(37, 0, 'Roman Bednar')","(83, 0, 'Chris Brunt')"
-20/09/2008,West Ham United,Newcastle United,3,1,"(8, 0, 'David Di Michele')","(37, 0, 'David Di Michele')","(53, 0, 'Matthew Etherington')","(67, 1, 'Michael Owen')"
-27/09/2008,Fulham,West Ham United,1,2,"(43, 1, 'Carlton Cole')","(45, 1, 'Matthew Etherington')","(59, 0, 'Danny Murphy')"
-05/10/2008,West Ham United,Bolton Wanderers,1,3,"(30, 1, 'Kevin Davies')","(34, 1, 'Gary Cahill')","(69, 0, 'Carlton Cole')","(86, 1, 'Matt Taylor')"
-19/10/2008,Hull City,West Ham United,1,0,"(51, 0, 'Michael Turner')"
-29/10/2008,Manchester United,West Ham United,2,0,"(14, 0, 'Cristiano Ronaldo')","(30, 0, 'Cristiano Ronaldo')"
-01/11/2008,Middlesbrough,West Ham United,1,1,"(21, 1, 'Hayden Mullins')","(83, 0, ' Mido')"
-08/11/2008,West Ham United,Everton,1,3,"(63, 0, 'Jack Collison')","(83, 1, 'Joleon Lescott')","(85, 1, 'Louis Saha')","(87, 1, 'Louis Saha')"
-15/11/2008,West Ham United,Portsmouth,0,0
-23/11/2008,Sunderland,West Ham United,0,1,"(20, 1, 'Valon Behrami')"
-08/12/2008,West Ham United,Tottenham Hotspur,0,2,"(68, 1, 'Ledley King')","(90, 1, ""Jamie O'Hara"")"
-20/12/2008,West Ham United,Aston Villa,0,1,"(78, 1, 'Lucas Neill')"
-26/12/2008,Portsmouth,West Ham United,1,4,"(8, 0, 'Nadir Belhadj')","(20, 1, 'Jack Collison')","(67, 1, 'Carlton Cole')","(70, 1, 'Craig Bellamy')","(83, 1, 'Craig Bellamy')"
-28/12/2008,West Ham United,Stoke City,2,1,"(4, 1, 'Abdoulaye Faye')","(51, 0, 'Carlton Cole')","(88, 0, 'Diego Tristan')"
-10/01/2009,Newcastle United,West Ham United,2,2,"(19, 0, 'Michael Owen')","(29, 1, 'Craig Bellamy')","(55, 1, 'Carlton Cole')","(78, 0, 'Andy Carroll')"
-18/01/2009,West Ham United,Fulham,3,1,"(7, 0, 'David Di Michele')","(22, 1, 'Paul Konchesky')","(60, 0, 'Mark Noble')","(76, 0, 'Carlton Cole')"
-28/01/2009,West Ham United,Hull City,2,0,"(33, 0, 'David Di Michele')","(51, 0, 'Carlton Cole')"
-08/02/2009,West Ham United,Manchester United,0,1,"(62, 1, 'Ryan Giggs')"
-21/02/2009,Bolton Wanderers,West Ham United,2,1,"(10, 0, 'Matt Taylor')","(11, 0, 'Kevin Davies')","(66, 1, 'Scott Parker')"
-04/03/2009,Wigan Athletic,West Ham United,0,1,"(34, 1, 'Carlton Cole')"
-16/03/2009,West Ham United,West Bromwich Albion,0,0
-21/03/2009,Blackburn Rovers,West Ham United,1,1,"(35, 1, 'Mark Noble')","(51, 0, 'Keith Andrews')"
-04/04/2009,West Ham United,Sunderland,2,0,"(42, 0, 'Junior Stanislas')","(53, 0, 'James Tomkins')"
-11/04/2009,Tottenham Hotspur,West Ham United,1,0,"(65, 0, 'Roman Pavlyuchenko')"
-18/04/2009,Aston Villa,West Ham United,1,1,"(11, 0, 'Emile Heskey')","(85, 1, 'Diego Tristan')"
-02/05/2009,Stoke City,West Ham United,0,1,"(33, 1, 'Diego Tristan')"
-16/05/2009,Everton,West Ham United,3,1,"(24, 1, 'Radoslav Kovac')","(38, 0, 'Louis Saha')","(48, 0, 'Joseph Yobo')","(76, 0, 'Louis Saha')"
-24/05/2009,West Ham United,Middlesbrough,2,1,"(33, 0, 'Carlton Cole')","(50, 1, ""Gary O'Neil"")","(58, 0, 'Junior Stanislas')"
-16/08/2008,Middlesbrough,Tottenham Hotspur,2,1,"(71, 0, 'David Wheater')","(86, 0, ' Mido')","(90, 1, 'Robert Huth')"
-30/08/2008,Middlesbrough,Stoke City,2,1,"(37, 0, 'Afonso Alves')","(71, 1, 'Justin Hoyte')","(85, 0, ' Tuncay Sanli')"
-13/09/2008,Portsmouth,Middlesbrough,2,1,"(24, 1, ' Mido')","(59, 0, 'Jermain Defoe')","(86, 0, 'Jermain Defoe')"
-20/09/2008,Sunderland,Middlesbrough,2,0,"(81, 0, 'Michael Chopra')","(90, 0, 'Michael Chopra')"
-27/09/2008,Middlesbrough,West Bromwich Albion,0,1,"(53, 1, 'Jonas Olsson')"
-04/10/2008,Wigan Athletic,Middlesbrough,0,1,"(89, 1, 'Jeremie Aliadiere')"
-25/10/2008,Blackburn Rovers,Middlesbrough,1,1,"(74, 1, 'Afonso Alves')","(90, 0, 'Benni McCarthy')"
-09/11/2008,Aston Villa,Middlesbrough,1,2,"(34, 1, ' Tuncay Sanli')","(37, 0, 'Steve Sidwell')","(88, 1, ' Tuncay Sanli')"
-16/11/2008,Everton,Middlesbrough,1,1,"(8, 1, ""Gary O'Neil"")","(65, 0, 'Ayegbeni Yakubu')"
-22/11/2008,Middlesbrough,Bolton Wanderers,1,3,"(8, 1, 'Kevin Davies')","(10, 1, 'Matt Taylor')","(77, 0, 'Emanuel Pogatetz')","(78, 1, 'Johann Elmander')"
-29/11/2008,Middlesbrough,Newcastle United,0,0
-06/12/2008,Hull City,Middlesbrough,2,1,"(79, 1, ' Tuncay Sanli')","(82, 0, 'Ross Turnbull')","(85, 0, 'Marlon King')"
-20/12/2008,Fulham,Middlesbrough,3,0,"(41, 0, 'Jimmy Bullard')","(54, 0, 'Danny Murphy')","(59, 0, 'Clint Dempsey')"
-26/12/2008,Middlesbrough,Everton,0,1,"(51, 1, 'Tim Cahill')"
-29/12/2008,Manchester United,Middlesbrough,1,0,"(69, 0, 'Dimitar Berbatov')"
-10/01/2009,Middlesbrough,Sunderland,1,1,"(45, 0, 'Afonso Alves')","(82, 1, 'Kenwyne Jones')"
-17/01/2009,West Bromwich Albion,Middlesbrough,3,0,"(4, 0, 'Tony McMahon')","(54, 0, 'Marc Antoine Fortune')","(67, 0, 'Robert Koren')"
-31/01/2009,Middlesbrough,Blackburn Rovers,0,0
-21/02/2009,Middlesbrough,Wigan Athletic,0,0
-04/03/2009,Tottenham Hotspur,Middlesbrough,4,0,"(9, 0, 'Robbie Keane')","(14, 0, 'Roman Pavlyuchenko')","(40, 0, 'Aaron Lennon')","(79, 0, 'Aaron Lennon')"
-14/03/2009,Middlesbrough,Portsmouth,1,1,"(30, 1, 'Peter Crouch')","(90, 0, 'Marlon King')"
-21/03/2009,Stoke City,Middlesbrough,1,0,"(84, 0, 'Ryan Shawcross')"
-04/04/2009,Bolton Wanderers,Middlesbrough,4,1,"(8, 0, 'Kevin Davies')","(38, 1, ""Gary O'Neil"")","(44, 0, 'Gary Cahill')","(78, 0, 'Matt Taylor')","(84, 0, 'Ricardo Gardner')"
-11/04/2009,Middlesbrough,Hull City,3,1,"(3, 0, ' Tuncay Sanli')","(9, 1, ' Manucho')","(29, 0, 'Matthew Bates')","(90, 0, 'Marlon King')"
-18/04/2009,Middlesbrough,Fulham,0,0
-02/05/2009,Middlesbrough,Manchester United,0,2,"(25, 1, 'Ryan Giggs')","(51, 1, 'PARK Ji-Sung')"
-11/05/2009,Newcastle United,Middlesbrough,3,1,"(3, 1, 'Habib Beye')","(9, 0, 'Steven Taylor')","(71, 0, 'Obafemi Martins')","(86, 0, 'Peter Lovenkrands')"
-16/05/2009,Middlesbrough,Aston Villa,1,1,"(14, 0, ' Tuncay Sanli')","(57, 1, 'John Carew')"
-23/08/2008,Stoke City,Aston Villa,3,2,"(30, 0, 'Liam Lawrence')","(63, 1, 'John Carew')","(80, 0, 'Ricardo Fuller')","(84, 1, 'Martin Laursen')","(90, 0, 'Mamady Sidibe')"
-15/09/2008,Tottenham Hotspur,Aston Villa,1,2,"(5, 1, 'Nigel Reo-Coker')","(54, 1, 'Ashley Young')","(87, 0, 'Darren Bent')"
-21/09/2008,West Bromwich Albion,Aston Villa,1,2,"(27, 1, 'John Carew')","(29, 1, 'Gabby Agbonlahor')","(34, 0, 'James Morrison')"
-27/09/2008,Aston Villa,Sunderland,2,1,"(10, 1, 'Djibril Cisse')","(18, 0, 'Ashley Young')","(33, 0, 'John Carew')"
-18/10/2008,Aston Villa,Portsmouth,0,0
-26/10/2008,Wigan Athletic,Aston Villa,0,4,"(22, 1, 'Gareth Barry')","(57, 1, 'Gabby Agbonlahor')","(62, 1, 'John Carew')","(90, 1, 'Steve Sidwell')"
-29/10/2008,Aston Villa,Blackburn Rovers,3,2,"(30, 1, 'Stephen Warnock')","(45, 0, 'Luke Young')","(65, 0, 'Gareth Barry')","(87, 0, 'Gabby Agbonlahor')","(90, 1, 'Brett Emerton')"
-03/11/2008,Newcastle United,Aston Villa,2,0,"(60, 0, 'Obafemi Martins')","(83, 0, 'Obafemi Martins')"
-22/11/2008,Aston Villa,Manchester United,0,0
-29/11/2008,Aston Villa,Fulham,0,0
-07/12/2008,Everton,Aston Villa,2,3,"(1, 1, 'Steve Sidwell')","(30, 0, 'Joleon Lescott')","(54, 1, 'Ashley Young')","(90, 0, 'Joleon Lescott')","(90, 1, 'Ashley Young')"
-13/12/2008,Aston Villa,Bolton Wanderers,4,2,"(17, 1, 'Johann Elmander')","(25, 0, 'Gabby Agbonlahor')","(40, 0, 'Kevin Davies')","(67, 0, 'Gabby Agbonlahor')","(78, 0, 'Ashley Young')","(86, 1, 'Kevin Davies')"
-30/12/2008,Hull City,Aston Villa,0,1,"(88, 1, 'Kamil Zayatte')"
-10/01/2009,Aston Villa,West Bromwich Albion,2,1,"(19, 0, 'Curtis Davies')","(41, 0, 'Gabby Agbonlahor')","(49, 1, 'James Morrison')"
-17/01/2009,Sunderland,Aston Villa,1,2,"(11, 0, 'Danny Collins')","(60, 1, 'James Milner')","(80, 1, 'Gareth Barry')"
-27/01/2009,Portsmouth,Aston Villa,0,1,"(21, 1, 'Emile Heskey')"
-31/01/2009,Aston Villa,Wigan Athletic,0,0
-07/02/2009,Blackburn Rovers,Aston Villa,0,2,"(27, 1, 'James Milner')","(90, 1, 'Gabby Agbonlahor')"
-01/03/2009,Aston Villa,Stoke City,2,2,"(45, 0, 'Stilian Petrov')","(79, 0, 'John Carew')","(88, 1, 'Ryan Shawcross')","(90, 1, 'Glenn Whelan')"
-15/03/2009,Aston Villa,Tottenham Hotspur,1,2,"(5, 1, 'Jermaine Jenas')","(50, 1, 'Darren Bent')","(85, 0, 'John Carew')"
-05/04/2009,Manchester United,Aston Villa,3,2,"(14, 0, 'Cristiano Ronaldo')","(30, 1, 'John Carew')","(58, 1, 'Gabby Agbonlahor')","(80, 0, 'Cristiano Ronaldo')","(90, 0, 'Federico Macheda')"
-12/04/2009,Aston Villa,Everton,3,3,"(19, 1, 'Marouane Fellaini')","(23, 1, 'Tim Cahill')","(33, 0, 'John Carew')","(53, 1, 'Steven Pienaar')","(55, 0, 'James Milner')","(66, 0, 'Gareth Barry')"
-25/04/2009,Bolton Wanderers,Aston Villa,1,1,"(43, 1, 'Ashley Young')","(60, 0, 'Tamir Cohen')"
-04/05/2009,Aston Villa,Hull City,1,0,"(34, 0, 'John Carew')"
-09/05/2009,Fulham,Aston Villa,3,1,"(6, 0, 'Danny Murphy')","(14, 1, 'Ashley Young')","(46, 0, 'Diomansy Kamara')","(60, 0, 'Diomansy Kamara')"
-24/05/2009,Aston Villa,Newcastle United,1,0,"(38, 0, 'Damien Duff')"
-16/08/2008,Bolton Wanderers,Stoke City,3,1,"(34, 0, 'Gretar Steinsson')","(41, 0, 'Kevin Davies')","(45, 0, 'Johann Elmander')","(90, 1, 'Ricardo Fuller')"
-23/08/2008,Newcastle United,Bolton Wanderers,1,0,"(71, 0, 'Michael Owen')"
-30/08/2008,Bolton Wanderers,West Bromwich Albion,0,0
-13/09/2008,Fulham,Bolton Wanderers,2,1,"(15, 0, 'Zoltan Gera')","(41, 0, 'Bobby Zamora')","(82, 1, 'Kevin Davies')"
-27/09/2008,Manchester United,Bolton Wanderers,2,0,"(60, 0, 'Cristiano Ronaldo')","(77, 0, 'Wayne Rooney')"
-18/10/2008,Bolton Wanderers,Blackburn Rovers,0,0
-26/10/2008,Tottenham Hotspur,Bolton Wanderers,2,0,"(17, 0, 'Roman Pavlyuchenko')","(76, 0, 'Darren Bent')"
-29/10/2008,Bolton Wanderers,Everton,0,1,"(90, 1, 'Marouane Fellaini')"
-08/11/2008,Hull City,Bolton Wanderers,0,1,"(50, 1, 'Matt Taylor')"
-29/11/2008,Sunderland,Bolton Wanderers,1,4,"(11, 0, 'Djibril Cisse')","(18, 1, 'Matt Taylor')","(21, 1, 'Gary Cahill')","(39, 1, 'Johann Elmander')","(55, 1, 'Johann Elmander')"
-20/12/2008,Bolton Wanderers,Portsmouth,2,1,"(1, 0, 'Matt Taylor')","(3, 0, 'Ricardo Gardner')","(20, 1, 'Peter Crouch')"
-28/12/2008,Bolton Wanderers,Wigan Athletic,0,1,"(44, 1, 'Amr Zaki')"
-17/01/2009,Bolton Wanderers,Manchester United,0,1,"(90, 1, 'Dimitar Berbatov')"
-28/01/2009,Blackburn Rovers,Bolton Wanderers,2,2,"(15, 1, 'Matt Taylor')","(35, 1, 'Kevin Davies')","(66, 0, 'Stephen Warnock')","(87, 0, 'Benni McCarthy')"
-31/01/2009,Bolton Wanderers,Tottenham Hotspur,3,2,"(31, 0, 'Sebastien Puygrenier')","(64, 0, 'Kevin Davies')","(73, 1, 'Darren Bent')","(75, 1, 'Darren Bent')","(87, 0, 'Kevin Davies')"
-07/02/2009,Everton,Bolton Wanderers,3,0,"(40, 0, 'Mikel Arteta')","(49, 0, ' Jo')","(90, 0, ' Jo')"
-01/03/2009,Bolton Wanderers,Newcastle United,1,0,"(47, 0, 'Ricardo Gardner')"
-04/03/2009,Stoke City,Bolton Wanderers,2,0,"(14, 0, 'James Beattie')","(73, 0, 'Ricardo Fuller')"
-14/03/2009,Bolton Wanderers,Fulham,1,3,"(42, 1, 'Andrew Johnson')","(45, 0, 'Kevin Davies')","(56, 1, 'Simon Davies')","(88, 1, 'Diomansy Kamara')"
-21/03/2009,West Bromwich Albion,Bolton Wanderers,1,1,"(67, 1, 'Matt Taylor')","(82, 0, 'Danny Shittu')"
-18/04/2009,Portsmouth,Bolton Wanderers,1,0,"(78, 0, 'Nwankwo Kanu')"
-02/05/2009,Wigan Athletic,Bolton Wanderers,0,0
-09/05/2009,Bolton Wanderers,Sunderland,0,0
-16/05/2009,Bolton Wanderers,Hull City,1,1,"(26, 0, 'Gretar Steinsson')","(47, 1, 'Craig Fagan')"
-17/08/2008,Manchester United,Newcastle United,1,1,"(22, 1, 'Obafemi Martins')","(24, 0, 'Darren Fletcher')"
-25/08/2008,Portsmouth,Manchester United,0,1,"(32, 1, 'Darren Fletcher')"
-04/10/2008,Blackburn Rovers,Manchester United,0,2,"(31, 1, 'Wes Brown')","(64, 1, 'Wayne Rooney')"
-18/10/2008,Manchester United,West Bromwich Albion,4,0,"(56, 0, 'Wayne Rooney')","(69, 0, 'Cristiano Ronaldo')","(71, 0, 'Dimitar Berbatov')","(90, 0, ' Nani')"
-25/10/2008,Everton,Manchester United,1,1,"(22, 1, 'Darren Fletcher')","(63, 0, 'Marouane Fellaini')"
-01/11/2008,Manchester United,Hull City,4,3,"(3, 0, 'Cristiano Ronaldo')","(23, 1, 'Daniel Cousin')","(29, 0, 'Michael Carrick')","(44, 0, 'Cristiano Ronaldo')","(57, 0, 'Nemanja Vidic')","(69, 1, 'Bernard Mendy')","(82, 1, ' Geovanni')"
-15/11/2008,Manchester United,Stoke City,5,0,"(3, 0, 'Cristiano Ronaldo')","(45, 0, 'Michael Carrick')","(49, 0, 'Dimitar Berbatov')","(84, 0, 'Danny Welbeck')","(89, 0, 'Cristiano Ronaldo')"
-06/12/2008,Manchester United,Sunderland,1,0,"(90, 0, 'Nemanja Vidic')"
-13/12/2008,Tottenham Hotspur,Manchester United,0,0
-26/12/2008,Stoke City,Manchester United,0,1,"(83, 1, 'Carlos Tevez')"
-14/01/2009,Manchester United,Wigan Athletic,1,0,"(1, 0, 'Wayne Rooney')"
-27/01/2009,West Bromwich Albion,Manchester United,0,5,"(22, 1, 'Dimitar Berbatov')","(44, 1, 'Carlos Tevez')","(60, 1, 'Nemanja Vidic')","(65, 1, 'Cristiano Ronaldo')","(73, 1, 'Cristiano Ronaldo')"
-31/01/2009,Manchester United,Everton,1,0,"(44, 0, 'Cristiano Ronaldo')"
-18/02/2009,Manchester United,Fulham,3,0,"(12, 0, 'Paul Scholes')","(30, 0, 'Dimitar Berbatov')","(63, 0, 'Wayne Rooney')"
-21/02/2009,Manchester United,Blackburn Rovers,2,1,"(23, 0, 'Wayne Rooney')","(32, 1, 'Roque Santa Cruz')","(60, 0, 'Cristiano Ronaldo')"
-04/03/2009,Newcastle United,Manchester United,1,2,"(9, 0, 'Peter Lovenkrands')","(20, 1, 'Wayne Rooney')","(56, 1, 'Dimitar Berbatov')"
-21/03/2009,Fulham,Manchester United,2,0,"(18, 0, 'Danny Murphy')","(87, 0, 'Zoltan Gera')"
-11/04/2009,Sunderland,Manchester United,1,2,"(19, 1, 'Paul Scholes')","(55, 0, 'Kenwyne Jones')","(76, 1, 'Federico Macheda')"
-22/04/2009,Manchester United,Portsmouth,2,0,"(9, 0, 'Wayne Rooney')","(82, 0, 'Michael Carrick')"
-25/04/2009,Manchester United,Tottenham Hotspur,5,2,"(29, 1, 'Darren Bent')","(32, 1, 'Luka Modric')","(57, 0, 'Cristiano Ronaldo')","(67, 0, 'Wayne Rooney')","(68, 0, 'Cristiano Ronaldo')","(71, 0, 'Wayne Rooney')","(79, 0, 'Dimitar Berbatov')"
-13/05/2009,Wigan Athletic,Manchester United,1,2,"(28, 0, 'Hugo Rodallega')","(61, 1, 'Carlos Tevez')","(86, 1, 'Michael Carrick')"
-24/05/2009,Hull City,Manchester United,0,1,"(24, 1, 'Darron Gibson')"
-16/08/2008,Everton,Blackburn Rovers,2,3,"(22, 1, 'David Dunn')","(45, 0, 'Mikel Arteta')","(64, 0, 'Ayegbeni Yakubu')","(66, 1, 'Roque Santa Cruz')","(90, 1, 'Andre Ooijer')"
-23/08/2008,Blackburn Rovers,Hull City,1,1,"(38, 0, 'Jason Roberts')","(40, 1, 'Richard Garcia')"
-20/09/2008,Blackburn Rovers,Fulham,1,0,"(84, 0, 'Matt Derbyshire')"
-27/09/2008,Newcastle United,Blackburn Rovers,1,2,"(31, 1, 'Christopher Samba')","(41, 1, 'Roque Santa Cruz')","(51, 0, 'Michael Owen')"
-01/11/2008,West Bromwich Albion,Blackburn Rovers,2,2,"(13, 1, 'Benni McCarthy')","(55, 0, 'Roman Bednar')","(62, 0, 'Ishmael Miller')","(89, 1, 'Keith Andrews')"
-15/11/2008,Blackburn Rovers,Sunderland,1,2,"(45, 0, 'Christopher Samba')","(49, 1, 'Kenwyne Jones')","(71, 1, 'Djibril Cisse')"
-23/11/2008,Tottenham Hotspur,Blackburn Rovers,1,0,"(9, 0, 'Roman Pavlyuchenko')"
-30/11/2008,Portsmouth,Blackburn Rovers,3,2,"(49, 0, 'Peter Crouch')","(53, 0, 'Jermain Defoe')","(62, 1, 'Matt Derbyshire')","(67, 1, ' Tugay Kerimoglu')","(79, 0, 'Sean Davis')"
-13/12/2008,Wigan Athletic,Blackburn Rovers,3,0,"(10, 0, 'Emile Heskey')","(12, 0, 'Antonio Valencia')","(77, 0, 'Lee Cattermole')"
-20/12/2008,Blackburn Rovers,Stoke City,3,0,"(9, 0, 'Benni McCarthy')","(18, 0, 'Jason Roberts')","(27, 0, 'Benni McCarthy')"
-26/12/2008,Sunderland,Blackburn Rovers,0,0
-17/01/2009,Blackburn Rovers,Newcastle United,3,0,"(61, 0, 'Benni McCarthy')","(66, 0, 'Jason Roberts')","(86, 0, 'Jason Roberts')"
-01/03/2009,Hull City,Blackburn Rovers,1,2,"(34, 1, 'Stephen Warnock')","(37, 1, 'Keith Andrews')","(79, 0, 'Ian Ashbee')"
-04/03/2009,Blackburn Rovers,Everton,0,0
-11/03/2009,Fulham,Blackburn Rovers,1,2,"(2, 0, 'Clint Dempsey')","(69, 1, 'El Hadji Diouf')","(85, 1, 'Jason Roberts')"
-04/04/2009,Blackburn Rovers,Tottenham Hotspur,2,1,"(30, 1, 'Robbie Keane')","(82, 0, 'Benni McCarthy')","(89, 0, 'Andre Ooijer')"
-18/04/2009,Stoke City,Blackburn Rovers,1,0,"(75, 0, 'Liam Lawrence')"
-26/04/2009,Blackburn Rovers,Wigan Athletic,2,0,"(45, 0, 'Benni McCarthy')","(60, 0, 'Ryan Nelsen')"
-09/05/2009,Blackburn Rovers,Portsmouth,2,0,"(31, 0, 'Morten Gamst Pedersen')","(58, 0, 'Benni McCarthy')"
-24/05/2009,Blackburn Rovers,West Bromwich Albion,0,0
-13/09/2008,Newcastle United,Hull City,1,2,"(34, 1, 'Marlon King')","(55, 1, 'Marlon King')","(82, 0, ' Xisco')"
-05/10/2008,Everton,Newcastle United,2,2,"(17, 0, 'Mikel Arteta')","(35, 0, 'Marouane Fellaini')","(45, 1, 'Steven Taylor')","(47, 1, 'Damien Duff')"
-25/10/2008,Sunderland,Newcastle United,2,1,"(20, 0, 'Djibril Cisse')","(30, 1, 'Shola Ameobi')","(75, 0, 'Kieran Richardson')"
-28/10/2008,Newcastle United,West Bromwich Albion,2,1,"(10, 0, 'Joey Barton')","(42, 0, 'Obafemi Martins')","(65, 1, 'Ishmael Miller')"
-09/11/2008,Fulham,Newcastle United,2,1,"(23, 0, 'Andrew Johnson')","(57, 1, 'Shola Ameobi')","(66, 0, 'Danny Murphy')"
-15/11/2008,Newcastle United,Wigan Athletic,2,2,"(3, 1, 'Ryan Taylor')","(80, 0, 'Michael Owen')","(87, 0, 'Obafemi Martins')","(89, 1, 'Titus Bramble')"
-06/12/2008,Newcastle United,Stoke City,2,2,"(8, 0, 'Michael Owen')","(24, 0, 'Michael Owen')","(60, 1, 'Mamady Sidibe')","(90, 1, 'Amdy Faye')"
-14/12/2008,Portsmouth,Newcastle United,0,3,"(51, 1, 'Michael Owen')","(77, 1, 'Obafemi Martins')","(89, 1, 'Danny Guthrie')"
-21/12/2008,Newcastle United,Tottenham Hotspur,2,1,"(12, 0, ""Charles N'Zogbia"")","(29, 1, 'Luka Modric')","(90, 0, 'Damien Duff')"
-26/12/2008,Wigan Athletic,Newcastle United,2,1,"(29, 0, 'Ryan Taylor')","(73, 0, 'Amr Zaki')","(88, 1, 'Danny Guthrie')"
-01/02/2009,Newcastle United,Sunderland,1,1,"(32, 1, 'Djibril Cisse')","(69, 0, 'Shola Ameobi')"
-07/02/2009,West Bromwich Albion,Newcastle United,2,3,"(2, 1, 'Damien Duff')","(4, 0, 'Marc Antoine Fortune')","(9, 1, 'Peter Lovenkrands')","(41, 1, 'Steven Taylor')","(73, 0, 'Marc Antoine Fortune')"
-22/02/2009,Newcastle United,Everton,0,0
-14/03/2009,Hull City,Newcastle United,1,1,"(9, 0, ' Geovanni')","(38, 1, 'Steven Taylor')"
-11/04/2009,Stoke City,Newcastle United,1,1,"(33, 0, 'Abdoulaye Faye')","(81, 1, 'Andy Carroll')"
-19/04/2009,Tottenham Hotspur,Newcastle United,1,0,"(24, 0, 'Darren Bent')"
-27/04/2009,Newcastle United,Portsmouth,0,0
-16/05/2009,Newcastle United,Fulham,0,1,"(41, 1, 'Diomansy Kamara')"
-16/08/2008,Hull City,Fulham,2,1,"(8, 1, 'SEOL Ki-Hyeon')","(22, 0, ' Geovanni')","(81, 0, 'Caleb Folan')"
-30/08/2008,Hull City,Wigan Athletic,0,5,"(5, 1, 'Sam Ricketts')","(13, 1, 'Antonio Valencia')","(63, 1, 'Amr Zaki')","(68, 1, 'Emile Heskey')","(81, 1, 'Amr Zaki')"
-21/09/2008,Hull City,Everton,2,2,"(18, 0, 'Michael Turner')","(50, 0, 'Phil Neville')","(73, 1, 'Tim Cahill')","(78, 1, 'Leon Osman')"
-05/10/2008,Tottenham Hotspur,Hull City,0,1,"(9, 1, ' Geovanni')"
-25/10/2008,West Bromwich Albion,Hull City,0,3,"(47, 1, 'Kamil Zayatte')","(62, 1, ' Geovanni')","(66, 1, 'Marlon King')"
-22/11/2008,Portsmouth,Hull City,2,2,"(20, 0, 'Peter Crouch')","(54, 1, 'Michael Turner')","(63, 0, 'Glen Johnson')","(89, 1, 'Dean Windass')"
-29/11/2008,Stoke City,Hull City,1,1,"(45, 1, 'Marlon King')","(73, 0, 'Ricardo Fuller')"
-20/12/2008,Hull City,Sunderland,1,4,"(10, 1, 'Steed Malbranque')","(19, 0, 'Nick Barmby')","(78, 1, 'Kamil Zayatte')","(84, 1, 'Kenwyne Jones')","(90, 1, 'Djibril Cisse')"
-10/01/2009,Everton,Hull City,2,0,"(18, 0, 'Marouane Fellaini')","(45, 0, 'Mikel Arteta')"
-31/01/2009,Hull City,West Bromwich Albion,2,2,"(44, 0, 'Bernard Mendy')","(53, 1, 'Jay Simpson')","(69, 0, 'Craig Fagan')","(73, 1, 'Chris Brunt')"
-23/02/2009,Hull City,Tottenham Hotspur,1,2,"(17, 1, 'Aaron Lennon')","(27, 0, 'Michael Turner')","(86, 1, 'Jonathan Woodgate')"
-04/03/2009,Fulham,Hull City,0,1,"(90, 1, ' Manucho')"
-22/03/2009,Wigan Athletic,Hull City,1,0,"(84, 0, 'Ben Watson')"
-04/04/2009,Hull City,Portsmouth,0,0
-18/04/2009,Sunderland,Hull City,1,0,"(45, 0, 'Djibril Cisse')"
-09/05/2009,Hull City,Stoke City,1,2,"(41, 1, 'Ricardo Fuller')","(73, 1, 'Liam Lawrence')","(90, 0, 'Andy Dawson')"
-13/09/2008,Wigan Athletic,Sunderland,1,1,"(15, 1, 'Titus Bramble')","(78, 0, 'Amr Zaki')"
-21/09/2008,Tottenham Hotspur,Wigan Athletic,0,0
-29/10/2008,Fulham,Wigan Athletic,2,0,"(11, 0, 'Andrew Johnson')","(60, 0, 'Andrew Johnson')"
-01/11/2008,Portsmouth,Wigan Athletic,1,2,"(45, 1, 'Amr Zaki')","(82, 0, 'Niko Kranjcar')","(90, 1, 'Emile Heskey')"
-08/11/2008,Wigan Athletic,Stoke City,0,0
-24/11/2008,Wigan Athletic,Everton,1,0,"(51, 0, 'Henri Camara')"
-29/11/2008,Wigan Athletic,West Bromwich Albion,2,1,"(47, 1, 'Ishmael Miller')","(61, 0, 'Henri Camara')","(87, 0, 'Emmerson Boyce')"
-11/01/2009,Wigan Athletic,Tottenham Hotspur,1,0,"(90, 0, 'Maynor Figueroa')"
-07/02/2009,Wigan Athletic,Fulham,0,0
-14/03/2009,Sunderland,Wigan Athletic,1,2,"(12, 1, 'Ben Watson')","(41, 0, 'Grant Leadbitter')","(45, 1, ""Charles N'Zogbia"")"
-05/04/2009,Everton,Wigan Athletic,4,0,"(26, 0, ' Jo')","(47, 0, 'Marouane Fellaini')","(51, 0, ' Jo')","(61, 0, 'Leon Osman')"
-09/05/2009,West Bromwich Albion,Wigan Athletic,3,1,"(8, 0, 'Marc Antoine Fortune')","(17, 1, 'Hugo Rodallega')","(59, 0, 'Chris Brunt')","(73, 0, 'Marc Antoine Fortune')"
-16/05/2009,Stoke City,Wigan Athletic,2,0,"(69, 0, 'Ricardo Fuller')","(76, 0, 'James Beattie')"
-24/05/2009,Wigan Athletic,Portsmouth,1,0,"(26, 0, 'Hugo Rodallega')"
-04/10/2008,West Bromwich Albion,Fulham,1,0,"(61, 0, 'Roman Bednar')"
-18/10/2008,Fulham,Sunderland,0,0
-26/10/2008,Portsmouth,Fulham,1,1,"(61, 0, 'Peter Crouch')","(87, 1, 'Clint Dempsey')"
-01/11/2008,Everton,Fulham,1,0,"(87, 0, 'Louis Saha')"
-15/11/2008,Fulham,Tottenham Hotspur,2,1,"(33, 0, 'Simon Davies')","(70, 0, 'Andrew Johnson')","(81, 1, 'Fraizer Campbell')"
-13/12/2008,Stoke City,Fulham,0,0
-26/12/2008,Tottenham Hotspur,Fulham,0,0
-27/01/2009,Sunderland,Fulham,1,0,"(55, 0, 'Kenwyne Jones')"
-31/01/2009,Fulham,Portsmouth,3,1,"(14, 0, 'Andrew Johnson')","(71, 0, 'Erik Nevland')","(80, 0, 'Erik Nevland')","(84, 1, 'David Nugent')"
-22/02/2009,Fulham,West Bromwich Albion,2,0,"(61, 0, 'Bobby Zamora')","(72, 0, 'Andrew Johnson')"
-25/04/2009,Fulham,Stoke City,1,0,"(29, 0, 'Erik Nevland')"
-24/05/2009,Fulham,Everton,0,2,"(45, 1, 'Leon Osman')","(88, 1, 'Leon Osman')"
-14/09/2008,Stoke City,Everton,2,3,"(41, 1, 'Ayegbeni Yakubu')","(51, 1, 'Victor Anichebe')","(55, 0, 'Seyi Olofinjana')","(63, 0, 'Phil Jagielka')","(77, 1, 'Tim Cahill')"
-05/10/2008,Portsmouth,Stoke City,2,1,"(25, 0, 'Peter Crouch')","(48, 1, 'Ricardo Fuller')","(51, 0, 'Jermain Defoe')"
-19/10/2008,Stoke City,Tottenham Hotspur,2,1,"(19, 0, 'Danny Higginbotham')","(25, 1, 'Darren Bent')","(53, 0, 'Rory Delap')"
-29/10/2008,Stoke City,Sunderland,1,0,"(78, 0, 'Ricardo Fuller')"
-22/11/2008,Stoke City,West Bromwich Albion,1,0,"(84, 0, 'Mamady Sidibe')"
-27/01/2009,Tottenham Hotspur,Stoke City,3,1,"(8, 0, 'Aaron Lennon')","(21, 0, 'Jermain Defoe')","(25, 0, 'Michael Dawson')","(57, 1, 'James Beattie')"
-07/02/2009,Sunderland,Stoke City,2,0,"(78, 0, 'Kenwyne Jones')","(90, 0, 'David Healy')"
-21/02/2009,Stoke City,Portsmouth,2,2,"(75, 1, 'Niko Kranjcar')","(78, 0, 'James Beattie')","(80, 0, 'James Beattie')","(90, 1, 'Ryan Shawcross')"
-14/03/2009,Everton,Stoke City,3,1,"(18, 0, ' Jo')","(24, 0, 'Joleon Lescott')","(52, 1, 'Ryan Shawcross')","(90, 0, 'Marouane Fellaini')"
-04/04/2009,West Bromwich Albion,Stoke City,0,2,"(2, 1, 'Ricardo Fuller')","(49, 1, 'James Beattie')"
-30/08/2008,Everton,Portsmouth,0,3,"(12, 1, 'Jermain Defoe')","(40, 1, 'Glen Johnson')","(69, 1, 'Peter Crouch')"
-28/09/2008,Portsmouth,Tottenham Hotspur,2,0,"(34, 0, 'Jermain Defoe')","(68, 0, 'Peter Crouch')"
-08/11/2008,Sunderland,Portsmouth,1,2,"(4, 0, 'Djibril Cisse')","(51, 1, 'Nadir Belhadj')","(90, 1, 'Jermain Defoe')"
-07/12/2008,West Bromwich Albion,Portsmouth,1,1,"(39, 0, 'Jonathan Greening')","(58, 1, 'Peter Crouch')"
-18/01/2009,Tottenham Hotspur,Portsmouth,1,1,"(59, 1, 'David Nugent')","(70, 0, 'Jermain Defoe')"
-21/03/2009,Portsmouth,Everton,2,1,"(4, 1, 'Leighton Baines')","(22, 0, 'Peter Crouch')","(75, 0, 'Peter Crouch')"
-11/04/2009,Portsmouth,West Bromwich Albion,2,2,"(33, 0, 'Younes Kaboul')","(48, 1, 'Jonathan Greening')","(62, 1, 'Chris Brunt')","(65, 0, 'Niko Kranjcar')"
-18/05/2009,Portsmouth,Sunderland,3,1,"(59, 1, 'Kenwyne Jones')","(60, 0, 'John Utaka')","(68, 0, 'Phil Bardsley')","(88, 0, 'Armand Traore')"
-23/08/2008,West Bromwich Albion,Everton,1,2,"(65, 1, 'Leon Osman')","(76, 1, 'Ayegbeni Yakubu')","(89, 0, 'Roman Bednar')"
-30/11/2008,Tottenham Hotspur,Everton,0,1,"(51, 1, 'Vedran Corluka')"
-28/12/2008,Everton,Sunderland,3,0,"(10, 0, 'Mikel Arteta')","(27, 0, 'Danny Collins')","(83, 0, 'Dan Gosling')"
-28/02/2009,Everton,West Bromwich Albion,2,0,"(36, 0, 'Tim Cahill')","(70, 0, 'Louis Saha')"
-03/05/2009,Sunderland,Everton,0,2,"(48, 1, 'Steven Pienaar')","(71, 1, 'Marouane Fellaini')"
-09/05/2009,Everton,Tottenham Hotspur,0,0
-23/08/2008,Tottenham Hotspur,Sunderland,1,2,"(55, 1, 'Kieran Richardson')","(73, 0, 'Jermaine Jenas')","(83, 1, 'Djibril Cisse')"
-13/12/2008,Sunderland,West Bromwich Albion,4,0,"(22, 0, 'Kenwyne Jones')","(24, 0, 'Kenwyne Jones')","(40, 0, 'Andy Reid')","(47, 0, 'Djibril Cisse')"
-07/03/2009,Sunderland,Tottenham Hotspur,1,1,"(3, 0, 'Kieran Richardson')","(89, 1, 'Robbie Keane')"
-25/04/2009,West Bromwich Albion,Sunderland,3,0,"(40, 0, 'Jonas Olsson')","(58, 0, 'Chris Brunt')","(88, 0, 'Juan Carlos Menseguez')"
-28/12/2008,West Bromwich Albion,Tottenham Hotspur,2,0,"(83, 0, 'Roman Bednar')","(90, 0, 'Craig Beattie')"
-02/05/2009,Tottenham Hotspur,West Bromwich Albion,1,0,"(43, 0, 'Jermaine Jenas')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+2008-08-16,Arsenal,West Bromwich Albion,1,0,"(4, 0, 'Samir Nasri')",,,,,,,,,,,
+2008-08-16,Bolton Wanderers,Stoke City,3,1,"(34, 0, 'Gretar Steinsson')","(41, 0, 'Kevin Davies')","(45, 0, 'Johann Elmander')","(90, 1, 'Ricardo Fuller')",,,,,,,,
+2008-08-16,Everton,Blackburn Rovers,2,3,"(22, 1, 'David Dunn')","(45, 0, 'Mikel Arteta')","(64, 0, 'Ayegbeni Yakubu')","(66, 1, 'Roque Santa Cruz')","(90, 1, 'Andre Ooijer')",,,,,,,
+2008-08-16,Hull City,Fulham,2,1,"(8, 1, 'SEOL Ki-Hyeon')","(22, 0, ' Geovanni')","(81, 0, 'Caleb Folan')",,,,,,,,,
+2008-08-16,Middlesbrough,Tottenham Hotspur,2,1,"(71, 0, 'David Wheater')","(86, 0, ' Mido')","(90, 1, 'Robert Huth')",,,,,,,,,
+2008-08-16,Sunderland,Liverpool,0,1,"(83, 1, 'Fernando Torres')",,,,,,,,,,,
+2008-08-16,West Ham United,Wigan Athletic,2,1,"(3, 0, 'Dean Ashton')","(10, 0, 'Dean Ashton')","(47, 1, 'Amr Zaki')",,,,,,,,,
+2008-08-17,Aston Villa,Manchester City,4,2,"(47, 0, 'John Carew')","(64, 1, ' Elano')","(69, 0, 'Gabby Agbonlahor')","(74, 0, 'Gabby Agbonlahor')","(76, 0, 'Gabby Agbonlahor')","(89, 1, 'Vedran Corluka')",,,,,,
+2008-08-17,Chelsea,Portsmouth,4,0,"(12, 0, 'Joe Cole')","(26, 0, 'Nicolas Anelka')","(45, 0, 'Frank Lampard')","(89, 0, ' Deco')",,,,,,,,
+2008-08-17,Manchester United,Newcastle United,1,1,"(22, 1, 'Obafemi Martins')","(24, 0, 'Darren Fletcher')",,,,,,,,,,
+2008-08-23,Blackburn Rovers,Hull City,1,1,"(38, 0, 'Jason Roberts')","(40, 1, 'Richard Garcia')",,,,,,,,,,
+2008-08-23,Fulham,Arsenal,1,0,"(21, 0, 'Brede Hangeland')",,,,,,,,,,,
+2008-08-23,Liverpool,Middlesbrough,2,1,"(70, 1, ' Mido')","(86, 0, 'Emanuel Pogatetz')","(90, 0, 'Steven Gerrard')",,,,,,,,,
+2008-08-23,Newcastle United,Bolton Wanderers,1,0,"(71, 0, 'Michael Owen')",,,,,,,,,,,
+2008-08-23,Stoke City,Aston Villa,3,2,"(30, 0, 'Liam Lawrence')","(63, 1, 'John Carew')","(80, 0, 'Ricardo Fuller')","(84, 1, 'Martin Laursen')","(90, 0, 'Mamady Sidibe')",,,,,,,
+2008-08-23,Tottenham Hotspur,Sunderland,1,2,"(55, 1, 'Kieran Richardson')","(73, 0, 'Jermaine Jenas')","(83, 1, 'Djibril Cisse')",,,,,,,,,
+2008-08-23,West Bromwich Albion,Everton,1,2,"(65, 1, 'Leon Osman')","(76, 1, 'Ayegbeni Yakubu')","(89, 0, 'Roman Bednar')",,,,,,,,,
+2008-08-24,Manchester City,West Ham United,3,0,"(65, 0, 'Daniel Sturridge')","(70, 0, ' Elano')","(76, 0, ' Elano')",,,,,,,,,
+2008-08-24,Wigan Athletic,Chelsea,0,1,"(4, 1, ' Deco')",,,,,,,,,,,
+2008-08-25,Portsmouth,Manchester United,0,1,"(32, 1, 'Darren Fletcher')",,,,,,,,,,,
+2008-08-30,Arsenal,Newcastle United,3,0,"(18, 0, 'Robin Van Persie')","(41, 0, 'Robin Van Persie')","(59, 0, ' Denilson')",,,,,,,,,
+2008-08-30,Bolton Wanderers,West Bromwich Albion,0,0,,,,,,,,,,,,
+2008-08-30,Everton,Portsmouth,0,3,"(12, 1, 'Jermain Defoe')","(40, 1, 'Glen Johnson')","(69, 1, 'Peter Crouch')",,,,,,,,,
+2008-08-30,Hull City,Wigan Athletic,0,5,"(5, 1, 'Sam Ricketts')","(13, 1, 'Antonio Valencia')","(63, 1, 'Amr Zaki')","(68, 1, 'Emile Heskey')","(81, 1, 'Amr Zaki')",,,,,,,
+2008-08-30,Middlesbrough,Stoke City,2,1,"(37, 0, 'Afonso Alves')","(71, 1, 'Justin Hoyte')","(85, 0, ' Tuncay Sanli')",,,,,,,,,
+2008-08-30,West Ham United,Blackburn Rovers,4,1,"(12, 0, 'Calum Davenport')","(20, 0, 'Christopher Samba')","(22, 1, 'Jason Roberts')","(89, 0, 'Carlton Cole')","(90, 0, 'Craig Bellamy')",,,,,,,
+2008-08-31,Aston Villa,Liverpool,0,0,,,,,,,,,,,,
+2008-08-31,Chelsea,Tottenham Hotspur,1,1,"(28, 0, 'Juliano Belletti')","(45, 1, 'Darren Bent')",,,,,,,,,,
+2008-08-31,Sunderland,Manchester City,0,3,"(45, 1, 'Stephen Ireland')","(50, 1, 'Shaun Wright-Phillips')","(58, 1, 'Shaun Wright-Phillips')",,,,,,,,,
+2008-09-13,Blackburn Rovers,Arsenal,0,4,"(8, 1, 'Robin Van Persie')","(45, 1, 'Emmanuel Adebayor')","(81, 1, 'Emmanuel Adebayor')","(90, 1, 'Emmanuel Adebayor')",,,,,,,,
+2008-09-13,Fulham,Bolton Wanderers,2,1,"(15, 0, 'Zoltan Gera')","(41, 0, 'Bobby Zamora')","(82, 1, 'Kevin Davies')",,,,,,,,,
+2008-09-13,Liverpool,Manchester United,2,1,"(3, 1, 'Carlos Tevez')","(27, 0, 'Wes Brown')","(77, 0, 'Ryan Babel')",,,,,,,,,
+2008-09-13,Manchester City,Chelsea,1,3,"(13, 0, ' Robinho')","(16, 1, 'Ricardo Carvalho')","(53, 1, 'Frank Lampard')","(69, 1, 'Nicolas Anelka')",,,,,,,,
+2008-09-13,Newcastle United,Hull City,1,2,"(34, 1, 'Marlon King')","(55, 1, 'Marlon King')","(82, 0, ' Xisco')",,,,,,,,,
+2008-09-13,Portsmouth,Middlesbrough,2,1,"(24, 1, ' Mido')","(59, 0, 'Jermain Defoe')","(86, 0, 'Jermain Defoe')",,,,,,,,,
+2008-09-13,West Bromwich Albion,West Ham United,3,2,"(3, 0, 'James Morrison')","(29, 1, 'Mark Noble')","(35, 1, 'Lucas Neill')","(37, 0, 'Roman Bednar')","(83, 0, 'Chris Brunt')",,,,,,,
+2008-09-13,Wigan Athletic,Sunderland,1,1,"(15, 1, 'Titus Bramble')","(78, 0, 'Amr Zaki')",,,,,,,,,,
+2008-09-14,Stoke City,Everton,2,3,"(41, 1, 'Ayegbeni Yakubu')","(51, 1, 'Victor Anichebe')","(55, 0, 'Seyi Olofinjana')","(63, 0, 'Phil Jagielka')","(77, 1, 'Tim Cahill')",,,,,,,
+2008-09-15,Tottenham Hotspur,Aston Villa,1,2,"(5, 1, 'Nigel Reo-Coker')","(54, 1, 'Ashley Young')","(87, 0, 'Darren Bent')",,,,,,,,,
+2008-09-20,Blackburn Rovers,Fulham,1,0,"(84, 0, 'Matt Derbyshire')",,,,,,,,,,,
+2008-09-20,Bolton Wanderers,Arsenal,1,3,"(14, 0, 'Kevin Davies')","(26, 1, 'Emmanuel Eboue')","(27, 1, 'Nicklas Bendtner')","(87, 1, ' Denilson')",,,,,,,,
+2008-09-20,Liverpool,Stoke City,0,0,,,,,,,,,,,,
+2008-09-20,Sunderland,Middlesbrough,2,0,"(81, 0, 'Michael Chopra')","(90, 0, 'Michael Chopra')",,,,,,,,,,
+2008-09-20,West Ham United,Newcastle United,3,1,"(8, 0, 'David Di Michele')","(37, 0, 'David Di Michele')","(53, 0, 'Matthew Etherington')","(67, 1, 'Michael Owen')",,,,,,,,
+2008-09-21,Chelsea,Manchester United,1,1,"(18, 1, 'PARK Ji-Sung')","(80, 0, 'Salomon Kalou')",,,,,,,,,,
+2008-09-21,Hull City,Everton,2,2,"(18, 0, 'Michael Turner')","(50, 0, 'Phil Neville')","(73, 1, 'Tim Cahill')","(78, 1, 'Leon Osman')",,,,,,,,
+2008-09-21,Manchester City,Portsmouth,6,0,"(13, 0, ' Jo')","(20, 0, 'Richard Dunne')","(57, 0, ' Robinho')","(68, 0, 'Shaun Wright-Phillips')","(78, 0, 'Ched Evans')","(83, 0, ' Gelson Fernandes')",,,,,,
+2008-09-21,Tottenham Hotspur,Wigan Athletic,0,0,,,,,,,,,,,,
+2008-09-21,West Bromwich Albion,Aston Villa,1,2,"(27, 1, 'John Carew')","(29, 1, 'Gabby Agbonlahor')","(34, 0, 'James Morrison')",,,,,,,,,
+2008-09-27,Arsenal,Hull City,1,2,"(51, 0, 'Paul McShane')","(62, 1, ' Geovanni')","(66, 1, 'Daniel Cousin')",,,,,,,,,
+2008-09-27,Aston Villa,Sunderland,2,1,"(10, 1, 'Djibril Cisse')","(18, 0, 'Ashley Young')","(33, 0, 'John Carew')",,,,,,,,,
+2008-09-27,Everton,Liverpool,0,2,"(59, 1, 'Fernando Torres')","(62, 1, 'Fernando Torres')",,,,,,,,,,
+2008-09-27,Fulham,West Ham United,1,2,"(43, 1, 'Carlton Cole')","(45, 1, 'Matthew Etherington')","(59, 0, 'Danny Murphy')",,,,,,,,,
+2008-09-27,Manchester United,Bolton Wanderers,2,0,"(60, 0, 'Cristiano Ronaldo')","(77, 0, 'Wayne Rooney')",,,,,,,,,,
+2008-09-27,Middlesbrough,West Bromwich Albion,0,1,"(53, 1, 'Jonas Olsson')",,,,,,,,,,,
+2008-09-27,Newcastle United,Blackburn Rovers,1,2,"(31, 1, 'Christopher Samba')","(41, 1, 'Roque Santa Cruz')","(51, 0, 'Michael Owen')",,,,,,,,,
+2008-09-27,Stoke City,Chelsea,0,2,"(36, 1, 'Jose Bosingwa')","(76, 1, 'Nicolas Anelka')",,,,,,,,,,
+2008-09-28,Portsmouth,Tottenham Hotspur,2,0,"(34, 0, 'Jermain Defoe')","(68, 0, 'Peter Crouch')",,,,,,,,,,
+2008-09-28,Wigan Athletic,Manchester City,2,1,"(16, 0, 'Antonio Valencia')","(22, 1, 'Vincent Kompany')","(34, 0, 'Amr Zaki')",,,,,,,,,
+2008-10-04,Blackburn Rovers,Manchester United,0,2,"(31, 1, 'Wes Brown')","(64, 1, 'Wayne Rooney')",,,,,,,,,,
+2008-10-04,Sunderland,Arsenal,1,1,"(86, 0, 'Grant Leadbitter')","(90, 1, 'Cesc Fabregas')",,,,,,,,,,
+2008-10-04,West Bromwich Albion,Fulham,1,0,"(61, 0, 'Roman Bednar')",,,,,,,,,,,
+2008-10-04,Wigan Athletic,Middlesbrough,0,1,"(89, 1, 'Jeremie Aliadiere')",,,,,,,,,,,
+2008-10-05,Chelsea,Aston Villa,2,0,"(21, 0, 'Joe Cole')","(44, 0, 'Nicolas Anelka')",,,,,,,,,,
+2008-10-05,Everton,Newcastle United,2,2,"(17, 0, 'Mikel Arteta')","(35, 0, 'Marouane Fellaini')","(45, 1, 'Steven Taylor')","(47, 1, 'Damien Duff')",,,,,,,,
+2008-10-05,Manchester City,Liverpool,2,3,"(19, 0, 'Stephen Ireland')","(41, 0, 'Javier Garrido')","(55, 1, 'Fernando Torres')","(73, 1, 'Fernando Torres')","(90, 1, 'Dirk Kuyt')",,,,,,,
+2008-10-05,Portsmouth,Stoke City,2,1,"(25, 0, 'Peter Crouch')","(48, 1, 'Ricardo Fuller')","(51, 0, 'Jermain Defoe')",,,,,,,,,
+2008-10-05,Tottenham Hotspur,Hull City,0,1,"(9, 1, ' Geovanni')",,,,,,,,,,,
+2008-10-05,West Ham United,Bolton Wanderers,1,3,"(30, 1, 'Kevin Davies')","(34, 1, 'Gary Cahill')","(69, 0, 'Carlton Cole')","(86, 1, 'Matt Taylor')",,,,,,,,
+2008-10-18,Arsenal,Everton,3,1,"(9, 1, 'Leon Osman')","(48, 0, 'Samir Nasri')","(70, 0, 'Robin Van Persie')","(90, 0, 'Theo Walcott')",,,,,,,,
+2008-10-18,Aston Villa,Portsmouth,0,0,,,,,,,,,,,,
+2008-10-18,Bolton Wanderers,Blackburn Rovers,0,0,,,,,,,,,,,,
+2008-10-18,Fulham,Sunderland,0,0,,,,,,,,,,,,
+2008-10-18,Liverpool,Wigan Athletic,3,2,"(29, 1, 'Amr Zaki')","(37, 0, 'Dirk Kuyt')","(45, 1, 'Amr Zaki')","(80, 0, 'Albert Riera')","(85, 0, 'Dirk Kuyt')",,,,,,,
+2008-10-18,Manchester United,West Bromwich Albion,4,0,"(56, 0, 'Wayne Rooney')","(69, 0, 'Cristiano Ronaldo')","(71, 0, 'Dimitar Berbatov')","(90, 0, ' Nani')",,,,,,,,
+2008-10-18,Middlesbrough,Chelsea,0,5,"(14, 1, 'Salomon Kalou')","(51, 1, 'Juliano Belletti')","(53, 1, 'David Wheater')","(63, 1, 'Frank Lampard')","(67, 1, 'Florent Malouda')",,,,,,,
+2008-10-19,Hull City,West Ham United,1,0,"(51, 0, 'Michael Turner')",,,,,,,,,,,
+2008-10-19,Stoke City,Tottenham Hotspur,2,1,"(19, 0, 'Danny Higginbotham')","(25, 1, 'Darren Bent')","(53, 0, 'Rory Delap')",,,,,,,,,
+2008-10-20,Newcastle United,Manchester City,2,2,"(14, 1, ' Robinho')","(44, 0, 'Shola Ameobi')","(63, 0, 'Richard Dunne')","(86, 1, 'Stephen Ireland')",,,,,,,,
+2008-10-25,Blackburn Rovers,Middlesbrough,1,1,"(74, 1, 'Afonso Alves')","(90, 0, 'Benni McCarthy')",,,,,,,,,,
+2008-10-25,Everton,Manchester United,1,1,"(22, 1, 'Darren Fletcher')","(63, 0, 'Marouane Fellaini')",,,,,,,,,,
+2008-10-25,Sunderland,Newcastle United,2,1,"(20, 0, 'Djibril Cisse')","(30, 1, 'Shola Ameobi')","(75, 0, 'Kieran Richardson')",,,,,,,,,
+2008-10-25,West Bromwich Albion,Hull City,0,3,"(47, 1, 'Kamil Zayatte')","(62, 1, ' Geovanni')","(66, 1, 'Marlon King')",,,,,,,,,
+2008-10-26,Chelsea,Liverpool,0,1,"(10, 1, 'Jose Bosingwa')",,,,,,,,,,,
+2008-10-26,Manchester City,Stoke City,3,0,"(14, 0, ' Robinho')","(47, 0, ' Robinho')","(72, 0, ' Robinho')",,,,,,,,,
+2008-10-26,Portsmouth,Fulham,1,1,"(61, 0, 'Peter Crouch')","(87, 1, 'Clint Dempsey')",,,,,,,,,,
+2008-10-26,Tottenham Hotspur,Bolton Wanderers,2,0,"(17, 0, 'Roman Pavlyuchenko')","(76, 0, 'Darren Bent')",,,,,,,,,,
+2008-10-26,West Ham United,Arsenal,0,2,"(75, 1, 'Julien Faubert')","(90, 1, 'Emmanuel Adebayor')",,,,,,,,,,
+2008-10-26,Wigan Athletic,Aston Villa,0,4,"(22, 1, 'Gareth Barry')","(57, 1, 'Gabby Agbonlahor')","(62, 1, 'John Carew')","(90, 1, 'Steve Sidwell')",,,,,,,,
+2008-10-28,Newcastle United,West Bromwich Albion,2,1,"(10, 0, 'Joey Barton')","(42, 0, 'Obafemi Martins')","(65, 1, 'Ishmael Miller')",,,,,,,,,
+2008-10-29,Arsenal,Tottenham Hotspur,4,4,"(13, 1, 'David Bentley')","(37, 0, 'Mikael Silvestre')","(46, 0, 'William Gallas')","(64, 0, 'Emmanuel Adebayor')","(67, 1, 'Darren Bent')","(68, 0, 'Robin Van Persie')","(89, 1, 'Jermaine Jenas')","(90, 1, 'Aaron Lennon')",,,,
+2008-10-29,Aston Villa,Blackburn Rovers,3,2,"(30, 1, 'Stephen Warnock')","(45, 0, 'Luke Young')","(65, 0, 'Gareth Barry')","(87, 0, 'Gabby Agbonlahor')","(90, 1, 'Brett Emerton')",,,,,,,
+2008-10-29,Bolton Wanderers,Everton,0,1,"(90, 1, 'Marouane Fellaini')",,,,,,,,,,,
+2008-10-29,Fulham,Wigan Athletic,2,0,"(11, 0, 'Andrew Johnson')","(60, 0, 'Andrew Johnson')",,,,,,,,,,
+2008-10-29,Hull City,Chelsea,0,3,"(3, 1, 'Frank Lampard')","(50, 1, 'Nicolas Anelka')","(75, 1, 'Florent Malouda')",,,,,,,,,
+2008-10-29,Liverpool,Portsmouth,1,0,"(76, 0, 'Steven Gerrard')",,,,,,,,,,,
+2008-10-29,Manchester United,West Ham United,2,0,"(14, 0, 'Cristiano Ronaldo')","(30, 0, 'Cristiano Ronaldo')",,,,,,,,,,
+2008-10-29,Middlesbrough,Manchester City,2,0,"(53, 0, 'Afonso Alves')","(90, 0, ""Gary O'Neil"")",,,,,,,,,,
+2008-10-29,Stoke City,Sunderland,1,0,"(78, 0, 'Ricardo Fuller')",,,,,,,,,,,
+2008-11-01,Chelsea,Sunderland,5,0,"(27, 0, ' Alex')","(30, 0, 'Nicolas Anelka')","(45, 0, 'Nicolas Anelka')","(51, 0, 'Frank Lampard')","(53, 0, 'Nicolas Anelka')",,,,,,,
+2008-11-01,Everton,Fulham,1,0,"(87, 0, 'Louis Saha')",,,,,,,,,,,
+2008-11-01,Manchester United,Hull City,4,3,"(3, 0, 'Cristiano Ronaldo')","(23, 1, 'Daniel Cousin')","(29, 0, 'Michael Carrick')","(44, 0, 'Cristiano Ronaldo')","(57, 0, 'Nemanja Vidic')","(69, 1, 'Bernard Mendy')","(82, 1, ' Geovanni')",,,,,
+2008-11-01,Middlesbrough,West Ham United,1,1,"(21, 1, 'Hayden Mullins')","(83, 0, ' Mido')",,,,,,,,,,
+2008-11-01,Portsmouth,Wigan Athletic,1,2,"(45, 1, 'Amr Zaki')","(82, 0, 'Niko Kranjcar')","(90, 1, 'Emile Heskey')",,,,,,,,,
+2008-11-01,Stoke City,Arsenal,2,1,"(11, 0, 'Ricardo Fuller')","(73, 0, 'Seyi Olofinjana')","(90, 1, 'Gael Clichy')",,,,,,,,,
+2008-11-01,Tottenham Hotspur,Liverpool,2,1,"(3, 1, 'Dirk Kuyt')","(70, 0, 'Jamie Carragher')","(90, 0, 'Roman Pavlyuchenko')",,,,,,,,,
+2008-11-01,West Bromwich Albion,Blackburn Rovers,2,2,"(13, 1, 'Benni McCarthy')","(55, 0, 'Roman Bednar')","(62, 0, 'Ishmael Miller')","(89, 1, 'Keith Andrews')",,,,,,,,
+2008-11-02,Bolton Wanderers,Manchester City,2,0,"(77, 0, 'Ricardo Gardner')","(88, 0, 'Richard Dunne')",,,,,,,,,,
+2008-11-03,Newcastle United,Aston Villa,2,0,"(60, 0, 'Obafemi Martins')","(83, 0, 'Obafemi Martins')",,,,,,,,,,
+2008-11-08,Arsenal,Manchester United,2,1,"(22, 0, 'Samir Nasri')","(48, 0, 'Samir Nasri')","(90, 1, ' Rafael Da Silva')",,,,,,,,,
+2008-11-08,Hull City,Bolton Wanderers,0,1,"(50, 1, 'Matt Taylor')",,,,,,,,,,,
+2008-11-08,Liverpool,West Bromwich Albion,3,0,"(34, 0, 'Robbie Keane')","(43, 0, 'Robbie Keane')","(90, 0, 'Alvaro Arbeloa')",,,,,,,,,
+2008-11-08,Sunderland,Portsmouth,1,2,"(4, 0, 'Djibril Cisse')","(51, 1, 'Nadir Belhadj')","(90, 1, 'Jermain Defoe')",,,,,,,,,
+2008-11-08,West Ham United,Everton,1,3,"(63, 0, 'Jack Collison')","(83, 1, 'Joleon Lescott')","(85, 1, 'Louis Saha')","(87, 1, 'Louis Saha')",,,,,,,,
+2008-11-08,Wigan Athletic,Stoke City,0,0,,,,,,,,,,,,
+2008-11-09,Aston Villa,Middlesbrough,1,2,"(34, 1, ' Tuncay Sanli')","(37, 0, 'Steve Sidwell')","(88, 1, ' Tuncay Sanli')",,,,,,,,,
+2008-11-09,Blackburn Rovers,Chelsea,0,2,"(40, 1, 'Nicolas Anelka')","(68, 1, 'Nicolas Anelka')",,,,,,,,,,
+2008-11-09,Fulham,Newcastle United,2,1,"(23, 0, 'Andrew Johnson')","(57, 1, 'Shola Ameobi')","(66, 0, 'Danny Murphy')",,,,,,,,,
+2008-11-09,Manchester City,Tottenham Hotspur,1,2,"(16, 0, ' Robinho')","(29, 1, 'Darren Bent')","(64, 1, 'Darren Bent')",,,,,,,,,
+2008-11-15,Arsenal,Aston Villa,0,2,"(70, 1, 'Gael Clichy')","(80, 1, 'Gabby Agbonlahor')",,,,,,,,,,
+2008-11-15,Blackburn Rovers,Sunderland,1,2,"(45, 0, 'Christopher Samba')","(49, 1, 'Kenwyne Jones')","(71, 1, 'Djibril Cisse')",,,,,,,,,
+2008-11-15,Bolton Wanderers,Liverpool,0,2,"(28, 1, 'Dirk Kuyt')","(73, 1, 'Steven Gerrard')",,,,,,,,,,
+2008-11-15,Fulham,Tottenham Hotspur,2,1,"(33, 0, 'Simon Davies')","(70, 0, 'Andrew Johnson')","(81, 1, 'Fraizer Campbell')",,,,,,,,,
+2008-11-15,Manchester United,Stoke City,5,0,"(3, 0, 'Cristiano Ronaldo')","(45, 0, 'Michael Carrick')","(49, 0, 'Dimitar Berbatov')","(84, 0, 'Danny Welbeck')","(89, 0, 'Cristiano Ronaldo')",,,,,,,
+2008-11-15,Newcastle United,Wigan Athletic,2,2,"(3, 1, 'Ryan Taylor')","(80, 0, 'Michael Owen')","(87, 0, 'Obafemi Martins')","(89, 1, 'Titus Bramble')",,,,,,,,
+2008-11-15,West Bromwich Albion,Chelsea,0,3,"(34, 1, 'Jose Bosingwa')","(38, 1, 'Nicolas Anelka')","(45, 1, 'Nicolas Anelka')",,,,,,,,,
+2008-11-15,West Ham United,Portsmouth,0,0,,,,,,,,,,,,
+2008-11-16,Everton,Middlesbrough,1,1,"(8, 1, ""Gary O'Neil"")","(65, 0, 'Ayegbeni Yakubu')",,,,,,,,,,
+2008-11-16,Hull City,Manchester City,2,2,"(14, 0, 'Daniel Cousin')","(37, 1, 'Stephen Ireland')","(45, 1, 'Stephen Ireland')","(60, 0, ' Geovanni')",,,,,,,,
+2008-11-22,Aston Villa,Manchester United,0,0,,,,,,,,,,,,
+2008-11-22,Chelsea,Newcastle United,0,0,,,,,,,,,,,,
+2008-11-22,Liverpool,Fulham,0,0,,,,,,,,,,,,
+2008-11-22,Manchester City,Arsenal,3,0,"(45, 0, 'Stephen Ireland')","(56, 0, ' Robinho')","(90, 0, 'Daniel Sturridge')",,,,,,,,,
+2008-11-22,Middlesbrough,Bolton Wanderers,1,3,"(8, 1, 'Kevin Davies')","(10, 1, 'Matt Taylor')","(77, 0, 'Emanuel Pogatetz')","(78, 1, 'Johann Elmander')",,,,,,,,
+2008-11-22,Portsmouth,Hull City,2,2,"(20, 0, 'Peter Crouch')","(54, 1, 'Michael Turner')","(63, 0, 'Glen Johnson')","(89, 1, 'Dean Windass')",,,,,,,,
+2008-11-22,Stoke City,West Bromwich Albion,1,0,"(84, 0, 'Mamady Sidibe')",,,,,,,,,,,
+2008-11-23,Sunderland,West Ham United,0,1,"(20, 1, 'Valon Behrami')",,,,,,,,,,,
+2008-11-23,Tottenham Hotspur,Blackburn Rovers,1,0,"(9, 0, 'Roman Pavlyuchenko')",,,,,,,,,,,
+2008-11-24,Wigan Athletic,Everton,1,0,"(51, 0, 'Henri Camara')",,,,,,,,,,,
+2008-11-29,Aston Villa,Fulham,0,0,,,,,,,,,,,,
+2008-11-29,Middlesbrough,Newcastle United,0,0,,,,,,,,,,,,
+2008-11-29,Stoke City,Hull City,1,1,"(45, 1, 'Marlon King')","(73, 0, 'Ricardo Fuller')",,,,,,,,,,
+2008-11-29,Sunderland,Bolton Wanderers,1,4,"(11, 0, 'Djibril Cisse')","(18, 1, 'Matt Taylor')","(21, 1, 'Gary Cahill')","(39, 1, 'Johann Elmander')","(55, 1, 'Johann Elmander')",,,,,,,
+2008-11-29,Wigan Athletic,West Bromwich Albion,2,1,"(47, 1, 'Ishmael Miller')","(61, 0, 'Henri Camara')","(87, 0, 'Emmerson Boyce')",,,,,,,,,
+2008-11-30,Chelsea,Arsenal,1,2,"(31, 0, 'Johann Djourou')","(59, 1, 'Robin Van Persie')","(62, 1, 'Robin Van Persie')",,,,,,,,,
+2008-11-30,Manchester City,Manchester United,0,1,"(42, 1, 'Wayne Rooney')",,,,,,,,,,,
+2008-11-30,Portsmouth,Blackburn Rovers,3,2,"(49, 0, 'Peter Crouch')","(53, 0, 'Jermain Defoe')","(62, 1, 'Matt Derbyshire')","(67, 1, ' Tugay Kerimoglu')","(79, 0, 'Sean Davis')",,,,,,,
+2008-11-30,Tottenham Hotspur,Everton,0,1,"(51, 1, 'Vedran Corluka')",,,,,,,,,,,
+2008-12-01,Liverpool,West Ham United,0,0,,,,,,,,,,,,
+2008-12-06,Arsenal,Wigan Athletic,1,0,"(16, 0, 'Emmanuel Adebayor')",,,,,,,,,,,
+2008-12-06,Blackburn Rovers,Liverpool,1,3,"(69, 1, ' Xabi Alonso')","(79, 1, 'Yossi Benayoun')","(86, 0, 'Roque Santa Cruz')","(90, 1, 'Steven Gerrard')",,,,,,,,
+2008-12-06,Bolton Wanderers,Chelsea,0,2,"(9, 1, 'Nicolas Anelka')","(21, 1, ' Deco')",,,,,,,,,,
+2008-12-06,Fulham,Manchester City,1,1,"(6, 1, ' Benjani')","(27, 0, 'Jimmy Bullard')",,,,,,,,,,
+2008-12-06,Hull City,Middlesbrough,2,1,"(79, 1, ' Tuncay Sanli')","(82, 0, 'Ross Turnbull')","(85, 0, 'Marlon King')",,,,,,,,,
+2008-12-06,Manchester United,Sunderland,1,0,"(90, 0, 'Nemanja Vidic')",,,,,,,,,,,
+2008-12-06,Newcastle United,Stoke City,2,2,"(8, 0, 'Michael Owen')","(24, 0, 'Michael Owen')","(60, 1, 'Mamady Sidibe')","(90, 1, 'Amdy Faye')",,,,,,,,
+2008-12-07,Everton,Aston Villa,2,3,"(1, 1, 'Steve Sidwell')","(30, 0, 'Joleon Lescott')","(54, 1, 'Ashley Young')","(90, 0, 'Joleon Lescott')","(90, 1, 'Ashley Young')",,,,,,,
+2008-12-07,West Bromwich Albion,Portsmouth,1,1,"(39, 0, 'Jonathan Greening')","(58, 1, 'Peter Crouch')",,,,,,,,,,
+2008-12-08,West Ham United,Tottenham Hotspur,0,2,"(68, 1, 'Ledley King')","(90, 1, ""Jamie O'Hara"")",,,,,,,,,,
+2008-12-13,Aston Villa,Bolton Wanderers,4,2,"(17, 1, 'Johann Elmander')","(25, 0, 'Gabby Agbonlahor')","(40, 0, 'Kevin Davies')","(67, 0, 'Gabby Agbonlahor')","(78, 0, 'Ashley Young')","(86, 1, 'Kevin Davies')",,,,,,
+2008-12-13,Liverpool,Hull City,2,2,"(12, 1, 'Paul McShane')","(22, 1, 'Jamie Carragher')","(24, 0, 'Steven Gerrard')","(32, 0, 'Steven Gerrard')",,,,,,,,
+2008-12-13,Manchester City,Everton,0,1,"(90, 1, 'Tim Cahill')",,,,,,,,,,,
+2008-12-13,Middlesbrough,Arsenal,1,1,"(17, 1, 'Emmanuel Adebayor')","(29, 0, 'Jeremie Aliadiere')",,,,,,,,,,
+2008-12-13,Stoke City,Fulham,0,0,,,,,,,,,,,,
+2008-12-13,Sunderland,West Bromwich Albion,4,0,"(22, 0, 'Kenwyne Jones')","(24, 0, 'Kenwyne Jones')","(40, 0, 'Andy Reid')","(47, 0, 'Djibril Cisse')",,,,,,,,
+2008-12-13,Tottenham Hotspur,Manchester United,0,0,,,,,,,,,,,,
+2008-12-13,Wigan Athletic,Blackburn Rovers,3,0,"(10, 0, 'Emile Heskey')","(12, 0, 'Antonio Valencia')","(77, 0, 'Lee Cattermole')",,,,,,,,,
+2008-12-14,Chelsea,West Ham United,1,1,"(33, 1, 'Craig Bellamy')","(51, 0, 'Nicolas Anelka')",,,,,,,,,,
+2008-12-14,Portsmouth,Newcastle United,0,3,"(51, 1, 'Michael Owen')","(77, 1, 'Obafemi Martins')","(89, 1, 'Danny Guthrie')",,,,,,,,,
+2008-12-20,Blackburn Rovers,Stoke City,3,0,"(9, 0, 'Benni McCarthy')","(18, 0, 'Jason Roberts')","(27, 0, 'Benni McCarthy')",,,,,,,,,
+2008-12-20,Bolton Wanderers,Portsmouth,2,1,"(1, 0, 'Matt Taylor')","(3, 0, 'Ricardo Gardner')","(20, 1, 'Peter Crouch')",,,,,,,,,
+2008-12-20,Fulham,Middlesbrough,3,0,"(41, 0, 'Jimmy Bullard')","(54, 0, 'Danny Murphy')","(59, 0, 'Clint Dempsey')",,,,,,,,,
+2008-12-20,Hull City,Sunderland,1,4,"(10, 1, 'Steed Malbranque')","(19, 0, 'Nick Barmby')","(78, 1, 'Kamil Zayatte')","(84, 1, 'Kenwyne Jones')","(90, 1, 'Djibril Cisse')",,,,,,,
+2008-12-20,West Ham United,Aston Villa,0,1,"(78, 1, 'Lucas Neill')",,,,,,,,,,,
+2008-12-21,Arsenal,Liverpool,1,1,"(24, 0, 'Robin Van Persie')","(42, 1, 'Robbie Keane')",,,,,,,,,,
+2008-12-21,Newcastle United,Tottenham Hotspur,2,1,"(12, 0, ""Charles N'Zogbia"")","(29, 1, 'Luka Modric')","(90, 0, 'Damien Duff')",,,,,,,,,
+2008-12-21,West Bromwich Albion,Manchester City,2,1,"(69, 0, 'Luke Moore')","(86, 1, 'Felipe Caicedo')","(90, 0, 'Roman Bednar')",,,,,,,,,
+2008-12-22,Everton,Chelsea,0,0,,,,,,,,,,,,
+2008-12-26,Aston Villa,Arsenal,2,2,"(40, 1, ' Denilson')","(49, 1, 'Abou Diaby')","(65, 0, 'Gareth Barry')","(90, 0, 'Zat Knight')",,,,,,,,
+2008-12-26,Chelsea,West Bromwich Albion,2,0,"(3, 0, 'Didier Drogba')","(45, 0, 'Frank Lampard')",,,,,,,,,,
+2008-12-26,Liverpool,Bolton Wanderers,3,0,"(26, 0, 'Albert Riera')","(53, 0, 'Robbie Keane')","(58, 0, 'Robbie Keane')",,,,,,,,,
+2008-12-26,Manchester City,Hull City,5,1,"(15, 0, 'Felipe Caicedo')","(27, 0, 'Felipe Caicedo')","(28, 0, ' Robinho')","(36, 0, ' Robinho')","(80, 1, 'Craig Fagan')","(82, 0, 'Stephen Ireland')",,,,,,
+2008-12-26,Middlesbrough,Everton,0,1,"(51, 1, 'Tim Cahill')",,,,,,,,,,,
+2008-12-26,Portsmouth,West Ham United,1,4,"(8, 0, 'Nadir Belhadj')","(20, 1, 'Jack Collison')","(67, 1, 'Carlton Cole')","(70, 1, 'Craig Bellamy')","(83, 1, 'Craig Bellamy')",,,,,,,
+2008-12-26,Stoke City,Manchester United,0,1,"(83, 1, 'Carlos Tevez')",,,,,,,,,,,
+2008-12-26,Sunderland,Blackburn Rovers,0,0,,,,,,,,,,,,
+2008-12-26,Tottenham Hotspur,Fulham,0,0,,,,,,,,,,,,
+2008-12-26,Wigan Athletic,Newcastle United,2,1,"(29, 0, 'Ryan Taylor')","(73, 0, 'Amr Zaki')","(88, 1, 'Danny Guthrie')",,,,,,,,,
+2008-12-28,Arsenal,Portsmouth,1,0,"(81, 0, 'William Gallas')",,,,,,,,,,,
+2008-12-28,Blackburn Rovers,Manchester City,2,2,"(45, 0, 'Benni McCarthy')","(84, 0, 'Jason Roberts')","(88, 1, 'Daniel Sturridge')","(90, 1, ' Robinho')",,,,,,,,
+2008-12-28,Bolton Wanderers,Wigan Athletic,0,1,"(44, 1, 'Amr Zaki')",,,,,,,,,,,
+2008-12-28,Everton,Sunderland,3,0,"(10, 0, 'Mikel Arteta')","(27, 0, 'Danny Collins')","(83, 0, 'Dan Gosling')",,,,,,,,,
+2008-12-28,Fulham,Chelsea,2,2,"(10, 0, 'Clint Dempsey')","(50, 1, 'Frank Lampard')","(72, 1, 'Frank Lampard')","(89, 0, 'Clint Dempsey')",,,,,,,,
+2008-12-28,Newcastle United,Liverpool,1,5,"(31, 1, 'Steven Gerrard')","(36, 1, 'Sami Hyypia')","(45, 0, 'David Edgar')","(50, 1, 'Ryan Babel')","(66, 1, 'Steven Gerrard')","(77, 1, ' Xabi Alonso')",,,,,,
+2008-12-28,West Bromwich Albion,Tottenham Hotspur,2,0,"(83, 0, 'Roman Bednar')","(90, 0, 'Craig Beattie')",,,,,,,,,,
+2008-12-28,West Ham United,Stoke City,2,1,"(4, 1, 'Abdoulaye Faye')","(51, 0, 'Carlton Cole')","(88, 0, 'Diego Tristan')",,,,,,,,,
+2008-12-29,Manchester United,Middlesbrough,1,0,"(69, 0, 'Dimitar Berbatov')",,,,,,,,,,,
+2008-12-30,Hull City,Aston Villa,0,1,"(88, 1, 'Kamil Zayatte')",,,,,,,,,,,
+2009-01-10,Arsenal,Bolton Wanderers,1,0,"(84, 0, 'Nicklas Bendtner')",,,,,,,,,,,
+2009-01-10,Aston Villa,West Bromwich Albion,2,1,"(19, 0, 'Curtis Davies')","(41, 0, 'Gabby Agbonlahor')","(49, 1, 'James Morrison')",,,,,,,,,
+2009-01-10,Everton,Hull City,2,0,"(18, 0, 'Marouane Fellaini')","(45, 0, 'Mikel Arteta')",,,,,,,,,,
+2009-01-10,Middlesbrough,Sunderland,1,1,"(45, 0, 'Afonso Alves')","(82, 1, 'Kenwyne Jones')",,,,,,,,,,
+2009-01-10,Newcastle United,West Ham United,2,2,"(19, 0, 'Michael Owen')","(29, 1, 'Craig Bellamy')","(55, 1, 'Carlton Cole')","(78, 0, 'Andy Carroll')",,,,,,,,
+2009-01-10,Stoke City,Liverpool,0,0,,,,,,,,,,,,
+2009-01-11,Manchester United,Chelsea,3,0,"(45, 0, 'Nemanja Vidic')","(63, 0, 'Wayne Rooney')","(87, 0, 'Dimitar Berbatov')",,,,,,,,,
+2009-01-11,Wigan Athletic,Tottenham Hotspur,1,0,"(90, 0, 'Maynor Figueroa')",,,,,,,,,,,
+2009-01-14,Manchester United,Wigan Athletic,1,0,"(1, 0, 'Wayne Rooney')",,,,,,,,,,,
+2009-01-17,Blackburn Rovers,Newcastle United,3,0,"(61, 0, 'Benni McCarthy')","(66, 0, 'Jason Roberts')","(86, 0, 'Jason Roberts')",,,,,,,,,
+2009-01-17,Bolton Wanderers,Manchester United,0,1,"(90, 1, 'Dimitar Berbatov')",,,,,,,,,,,
+2009-01-17,Chelsea,Stoke City,2,1,"(60, 1, 'Rory Delap')","(88, 0, 'Juliano Belletti')","(90, 0, 'Frank Lampard')",,,,,,,,,
+2009-01-17,Hull City,Arsenal,1,3,"(30, 1, 'Emmanuel Adebayor')","(65, 0, 'Daniel Cousin')","(82, 1, 'Samir Nasri')","(86, 1, 'Nicklas Bendtner')",,,,,,,,
+2009-01-17,Manchester City,Wigan Athletic,1,0,"(53, 0, 'Pablo Zabaleta')",,,,,,,,,,,
+2009-01-17,Sunderland,Aston Villa,1,2,"(11, 0, 'Danny Collins')","(60, 1, 'James Milner')","(80, 1, 'Gareth Barry')",,,,,,,,,
+2009-01-17,West Bromwich Albion,Middlesbrough,3,0,"(4, 0, 'Tony McMahon')","(54, 0, 'Marc Antoine Fortune')","(67, 0, 'Robert Koren')",,,,,,,,,
+2009-01-18,Tottenham Hotspur,Portsmouth,1,1,"(59, 1, 'David Nugent')","(70, 0, 'Jermain Defoe')",,,,,,,,,,
+2009-01-18,West Ham United,Fulham,3,1,"(7, 0, 'David Di Michele')","(22, 1, 'Paul Konchesky')","(60, 0, 'Mark Noble')","(76, 0, 'Carlton Cole')",,,,,,,,
+2009-01-19,Liverpool,Everton,1,1,"(68, 0, 'Steven Gerrard')","(87, 1, 'Tim Cahill')",,,,,,,,,,
+2009-01-27,Portsmouth,Aston Villa,0,1,"(21, 1, 'Emile Heskey')",,,,,,,,,,,
+2009-01-27,Sunderland,Fulham,1,0,"(55, 0, 'Kenwyne Jones')",,,,,,,,,,,
+2009-01-27,Tottenham Hotspur,Stoke City,3,1,"(8, 0, 'Aaron Lennon')","(21, 0, 'Jermain Defoe')","(25, 0, 'Michael Dawson')","(57, 1, 'James Beattie')",,,,,,,,
+2009-01-27,West Bromwich Albion,Manchester United,0,5,"(22, 1, 'Dimitar Berbatov')","(44, 1, 'Carlos Tevez')","(60, 1, 'Nemanja Vidic')","(65, 1, 'Cristiano Ronaldo')","(73, 1, 'Cristiano Ronaldo')",,,,,,,
+2009-01-28,Blackburn Rovers,Bolton Wanderers,2,2,"(15, 1, 'Matt Taylor')","(35, 1, 'Kevin Davies')","(66, 0, 'Stephen Warnock')","(87, 0, 'Benni McCarthy')",,,,,,,,
+2009-01-28,Chelsea,Middlesbrough,2,0,"(58, 0, 'Salomon Kalou')","(81, 0, 'Salomon Kalou')",,,,,,,,,,
+2009-01-28,Everton,Arsenal,1,1,"(61, 0, 'Tim Cahill')","(90, 1, 'Robin Van Persie')",,,,,,,,,,
+2009-01-28,Manchester City,Newcastle United,2,1,"(17, 0, 'Shaun Wright-Phillips')","(77, 0, 'Craig Bellamy')","(81, 1, 'Andy Carroll')",,,,,,,,,
+2009-01-28,West Ham United,Hull City,2,0,"(33, 0, 'David Di Michele')","(51, 0, 'Carlton Cole')",,,,,,,,,,
+2009-01-28,Wigan Athletic,Liverpool,1,1,"(41, 1, 'Yossi Benayoun')","(83, 0, ' Mido')",,,,,,,,,,
+2009-01-31,Arsenal,West Ham United,0,0,,,,,,,,,,,,
+2009-01-31,Aston Villa,Wigan Athletic,0,0,,,,,,,,,,,,
+2009-01-31,Bolton Wanderers,Tottenham Hotspur,3,2,"(31, 0, 'Sebastien Puygrenier')","(64, 0, 'Kevin Davies')","(73, 1, 'Darren Bent')","(75, 1, 'Darren Bent')","(87, 0, 'Kevin Davies')",,,,,,,
+2009-01-31,Fulham,Portsmouth,3,1,"(14, 0, 'Andrew Johnson')","(71, 0, 'Erik Nevland')","(80, 0, 'Erik Nevland')","(84, 1, 'David Nugent')",,,,,,,,
+2009-01-31,Hull City,West Bromwich Albion,2,2,"(44, 0, 'Bernard Mendy')","(53, 1, 'Jay Simpson')","(69, 0, 'Craig Fagan')","(73, 1, 'Chris Brunt')",,,,,,,,
+2009-01-31,Manchester United,Everton,1,0,"(44, 0, 'Cristiano Ronaldo')",,,,,,,,,,,
+2009-01-31,Middlesbrough,Blackburn Rovers,0,0,,,,,,,,,,,,
+2009-01-31,Stoke City,Manchester City,1,0,"(45, 0, 'James Beattie')",,,,,,,,,,,
+2009-02-01,Liverpool,Chelsea,2,0,"(89, 0, 'Fernando Torres')","(90, 0, 'Fernando Torres')",,,,,,,,,,
+2009-02-01,Newcastle United,Sunderland,1,1,"(32, 1, 'Djibril Cisse')","(69, 0, 'Shola Ameobi')",,,,,,,,,,
+2009-02-07,Blackburn Rovers,Aston Villa,0,2,"(27, 1, 'James Milner')","(90, 1, 'Gabby Agbonlahor')",,,,,,,,,,
+2009-02-07,Chelsea,Hull City,0,0,,,,,,,,,,,,
+2009-02-07,Everton,Bolton Wanderers,3,0,"(40, 0, 'Mikel Arteta')","(49, 0, ' Jo')","(90, 0, ' Jo')",,,,,,,,,
+2009-02-07,Manchester City,Middlesbrough,1,0,"(51, 0, 'Craig Bellamy')",,,,,,,,,,,
+2009-02-07,Portsmouth,Liverpool,2,3,"(62, 0, 'David Nugent')","(69, 1, 'Fabio Aurelio')","(78, 0, 'Hermann Hreidarsson')","(85, 1, 'Dirk Kuyt')","(90, 1, 'Fernando Torres')",,,,,,,
+2009-02-07,Sunderland,Stoke City,2,0,"(78, 0, 'Kenwyne Jones')","(90, 0, 'David Healy')",,,,,,,,,,
+2009-02-07,West Bromwich Albion,Newcastle United,2,3,"(2, 1, 'Damien Duff')","(4, 0, 'Marc Antoine Fortune')","(9, 1, 'Peter Lovenkrands')","(41, 1, 'Steven Taylor')","(73, 0, 'Marc Antoine Fortune')",,,,,,,
+2009-02-07,Wigan Athletic,Fulham,0,0,,,,,,,,,,,,
+2009-02-08,Tottenham Hotspur,Arsenal,0,0,,,,,,,,,,,,
+2009-02-08,West Ham United,Manchester United,0,1,"(62, 1, 'Ryan Giggs')",,,,,,,,,,,
+2009-02-14,Portsmouth,Manchester City,2,0,"(70, 0, 'Glen Johnson')","(75, 0, 'Hermann Hreidarsson')",,,,,,,,,,
+2009-02-18,Manchester United,Fulham,3,0,"(12, 0, 'Paul Scholes')","(30, 0, 'Dimitar Berbatov')","(63, 0, 'Wayne Rooney')",,,,,,,,,
+2009-02-21,Arsenal,Sunderland,0,0,,,,,,,,,,,,
+2009-02-21,Aston Villa,Chelsea,0,1,"(19, 1, 'Nicolas Anelka')",,,,,,,,,,,
+2009-02-21,Bolton Wanderers,West Ham United,2,1,"(10, 0, 'Matt Taylor')","(11, 0, 'Kevin Davies')","(66, 1, 'Scott Parker')",,,,,,,,,
+2009-02-21,Manchester United,Blackburn Rovers,2,1,"(23, 0, 'Wayne Rooney')","(32, 1, 'Roque Santa Cruz')","(60, 0, 'Cristiano Ronaldo')",,,,,,,,,
+2009-02-21,Middlesbrough,Wigan Athletic,0,0,,,,,,,,,,,,
+2009-02-21,Stoke City,Portsmouth,2,2,"(75, 1, 'Niko Kranjcar')","(78, 0, 'James Beattie')","(80, 0, 'James Beattie')","(90, 1, 'Ryan Shawcross')",,,,,,,,
+2009-02-22,Fulham,West Bromwich Albion,2,0,"(61, 0, 'Bobby Zamora')","(72, 0, 'Andrew Johnson')",,,,,,,,,,
+2009-02-22,Liverpool,Manchester City,1,1,"(51, 1, 'Craig Bellamy')","(78, 0, 'Dirk Kuyt')",,,,,,,,,,
+2009-02-22,Newcastle United,Everton,0,0,,,,,,,,,,,,
+2009-02-23,Hull City,Tottenham Hotspur,1,2,"(17, 1, 'Aaron Lennon')","(27, 0, 'Michael Turner')","(86, 1, 'Jonathan Woodgate')",,,,,,,,,
+2009-02-28,Arsenal,Fulham,0,0,,,,,,,,,,,,
+2009-02-28,Chelsea,Wigan Athletic,2,1,"(25, 0, 'John Terry')","(82, 1, 'Olivier Kapo')","(90, 0, 'Frank Lampard')",,,,,,,,,
+2009-02-28,Everton,West Bromwich Albion,2,0,"(36, 0, 'Tim Cahill')","(70, 0, 'Louis Saha')",,,,,,,,,,
+2009-02-28,Middlesbrough,Liverpool,2,0,"(32, 0, ' Xabi Alonso')","(63, 0, ' Tuncay Sanli')",,,,,,,,,,
+2009-03-01,Aston Villa,Stoke City,2,2,"(45, 0, 'Stilian Petrov')","(79, 0, 'John Carew')","(88, 1, 'Ryan Shawcross')","(90, 1, 'Glenn Whelan')",,,,,,,,
+2009-03-01,Bolton Wanderers,Newcastle United,1,0,"(47, 0, 'Ricardo Gardner')",,,,,,,,,,,
+2009-03-01,Hull City,Blackburn Rovers,1,2,"(34, 1, 'Stephen Warnock')","(37, 1, 'Keith Andrews')","(79, 0, 'Ian Ashbee')",,,,,,,,,
+2009-03-01,West Ham United,Manchester City,1,0,"(71, 0, 'Jack Collison')",,,,,,,,,,,
+2009-03-03,Liverpool,Sunderland,2,0,"(52, 0, ""David N'Gog"")","(65, 0, 'Yossi Benayoun')",,,,,,,,,,
+2009-03-03,Portsmouth,Chelsea,0,1,"(79, 1, 'Didier Drogba')",,,,,,,,,,,
+2009-03-03,West Bromwich Albion,Arsenal,1,3,"(4, 1, 'Nicklas Bendtner')","(7, 0, 'Chris Brunt')","(38, 1, 'Kolo Toure')","(44, 1, 'Nicklas Bendtner')",,,,,,,,
+2009-03-04,Blackburn Rovers,Everton,0,0,,,,,,,,,,,,
+2009-03-04,Fulham,Hull City,0,1,"(90, 1, ' Manucho')",,,,,,,,,,,
+2009-03-04,Manchester City,Aston Villa,2,0,"(24, 0, ' Elano')","(89, 0, 'Shaun Wright-Phillips')",,,,,,,,,,
+2009-03-04,Newcastle United,Manchester United,1,2,"(9, 0, 'Peter Lovenkrands')","(20, 1, 'Wayne Rooney')","(56, 1, 'Dimitar Berbatov')",,,,,,,,,
+2009-03-04,Stoke City,Bolton Wanderers,2,0,"(14, 0, 'James Beattie')","(73, 0, 'Ricardo Fuller')",,,,,,,,,,
+2009-03-04,Tottenham Hotspur,Middlesbrough,4,0,"(9, 0, 'Robbie Keane')","(14, 0, 'Roman Pavlyuchenko')","(40, 0, 'Aaron Lennon')","(79, 0, 'Aaron Lennon')",,,,,,,,
+2009-03-04,Wigan Athletic,West Ham United,0,1,"(34, 1, 'Carlton Cole')",,,,,,,,,,,
+2009-03-07,Sunderland,Tottenham Hotspur,1,1,"(3, 0, 'Kieran Richardson')","(89, 1, 'Robbie Keane')",,,,,,,,,,
+2009-03-11,Fulham,Blackburn Rovers,1,2,"(2, 0, 'Clint Dempsey')","(69, 1, 'El Hadji Diouf')","(85, 1, 'Jason Roberts')",,,,,,,,,
+2009-03-14,Arsenal,Blackburn Rovers,4,0,"(2, 0, 'Andre Ooijer')","(65, 0, 'Andrei Arshavin')","(87, 0, 'Emmanuel Eboue')","(90, 0, 'Emmanuel Eboue')",,,,,,,,
+2009-03-14,Bolton Wanderers,Fulham,1,3,"(42, 1, 'Andrew Johnson')","(45, 0, 'Kevin Davies')","(56, 1, 'Simon Davies')","(88, 1, 'Diomansy Kamara')",,,,,,,,
+2009-03-14,Everton,Stoke City,3,1,"(18, 0, ' Jo')","(24, 0, 'Joleon Lescott')","(52, 1, 'Ryan Shawcross')","(90, 0, 'Marouane Fellaini')",,,,,,,,
+2009-03-14,Hull City,Newcastle United,1,1,"(9, 0, ' Geovanni')","(38, 1, 'Steven Taylor')",,,,,,,,,,
+2009-03-14,Manchester United,Liverpool,1,4,"(23, 0, 'Cristiano Ronaldo')","(28, 1, 'Fernando Torres')","(44, 1, 'Steven Gerrard')","(77, 1, 'Fabio Aurelio')","(90, 1, 'Andrea Dossena')",,,,,,,
+2009-03-14,Middlesbrough,Portsmouth,1,1,"(30, 1, 'Peter Crouch')","(90, 0, 'Marlon King')",,,,,,,,,,
+2009-03-14,Sunderland,Wigan Athletic,1,2,"(12, 1, 'Ben Watson')","(41, 0, 'Grant Leadbitter')","(45, 1, ""Charles N'Zogbia"")",,,,,,,,,
+2009-03-15,Aston Villa,Tottenham Hotspur,1,2,"(5, 1, 'Jermaine Jenas')","(50, 1, 'Darren Bent')","(85, 0, 'John Carew')",,,,,,,,,
+2009-03-15,Chelsea,Manchester City,1,0,"(18, 0, 'Michael Essien')",,,,,,,,,,,
+2009-03-16,West Ham United,West Bromwich Albion,0,0,,,,,,,,,,,,
+2009-03-21,Blackburn Rovers,West Ham United,1,1,"(35, 1, 'Mark Noble')","(51, 0, 'Keith Andrews')",,,,,,,,,,
+2009-03-21,Fulham,Manchester United,2,0,"(18, 0, 'Danny Murphy')","(87, 0, 'Zoltan Gera')",,,,,,,,,,
+2009-03-21,Newcastle United,Arsenal,1,3,"(57, 1, 'Nicklas Bendtner')","(58, 0, 'Obafemi Martins')","(64, 1, 'Abou Diaby')","(67, 1, 'Samir Nasri')",,,,,,,,
+2009-03-21,Portsmouth,Everton,2,1,"(4, 1, 'Leighton Baines')","(22, 0, 'Peter Crouch')","(75, 0, 'Peter Crouch')",,,,,,,,,
+2009-03-21,Stoke City,Middlesbrough,1,0,"(84, 0, 'Ryan Shawcross')",,,,,,,,,,,
+2009-03-21,Tottenham Hotspur,Chelsea,1,0,"(50, 0, 'Luka Modric')",,,,,,,,,,,
+2009-03-21,West Bromwich Albion,Bolton Wanderers,1,1,"(67, 1, 'Matt Taylor')","(82, 0, 'Danny Shittu')",,,,,,,,,,
+2009-03-22,Liverpool,Aston Villa,5,0,"(8, 0, 'Dirk Kuyt')","(33, 0, 'Albert Riera')","(39, 0, 'Steven Gerrard')","(50, 0, 'Steven Gerrard')","(65, 0, 'Steven Gerrard')",,,,,,,
+2009-03-22,Manchester City,Sunderland,1,0,"(56, 0, 'Micah Richards')",,,,,,,,,,,
+2009-03-22,Wigan Athletic,Hull City,1,0,"(84, 0, 'Ben Watson')",,,,,,,,,,,
+2009-04-04,Arsenal,Manchester City,2,0,"(8, 0, 'Emmanuel Adebayor')","(49, 0, 'Emmanuel Adebayor')",,,,,,,,,,
+2009-04-04,Blackburn Rovers,Tottenham Hotspur,2,1,"(30, 1, 'Robbie Keane')","(82, 0, 'Benni McCarthy')","(89, 0, 'Andre Ooijer')",,,,,,,,,
+2009-04-04,Bolton Wanderers,Middlesbrough,4,1,"(8, 0, 'Kevin Davies')","(38, 1, ""Gary O'Neil"")","(44, 0, 'Gary Cahill')","(78, 0, 'Matt Taylor')","(84, 0, 'Ricardo Gardner')",,,,,,,
+2009-04-04,Fulham,Liverpool,0,1,"(90, 1, 'Yossi Benayoun')",,,,,,,,,,,
+2009-04-04,Hull City,Portsmouth,0,0,,,,,,,,,,,,
+2009-04-04,Newcastle United,Chelsea,0,2,"(56, 1, 'Frank Lampard')","(65, 1, 'Florent Malouda')",,,,,,,,,,
+2009-04-04,West Bromwich Albion,Stoke City,0,2,"(2, 1, 'Ricardo Fuller')","(49, 1, 'James Beattie')",,,,,,,,,,
+2009-04-04,West Ham United,Sunderland,2,0,"(42, 0, 'Junior Stanislas')","(53, 0, 'James Tomkins')",,,,,,,,,,
+2009-04-05,Everton,Wigan Athletic,4,0,"(26, 0, ' Jo')","(47, 0, 'Marouane Fellaini')","(51, 0, ' Jo')","(61, 0, 'Leon Osman')",,,,,,,,
+2009-04-05,Manchester United,Aston Villa,3,2,"(14, 0, 'Cristiano Ronaldo')","(30, 1, 'John Carew')","(58, 1, 'Gabby Agbonlahor')","(80, 0, 'Cristiano Ronaldo')","(90, 0, 'Federico Macheda')",,,,,,,
+2009-04-11,Chelsea,Bolton Wanderers,4,3,"(40, 0, 'Michael Ballack')","(48, 0, 'Didier Drogba')","(60, 0, 'Frank Lampard')","(63, 0, 'Didier Drogba')","(70, 1, ""Andy O'Brien"")","(74, 1, 'Chris Basham')","(78, 1, 'Matt Taylor')",,,,,
+2009-04-11,Liverpool,Blackburn Rovers,4,0,"(5, 0, 'Fernando Torres')","(33, 0, 'Fernando Torres')","(83, 0, 'Daniel Agger')","(90, 0, ""David N'Gog"")",,,,,,,,
+2009-04-11,Middlesbrough,Hull City,3,1,"(3, 0, ' Tuncay Sanli')","(9, 1, ' Manucho')","(29, 0, 'Matthew Bates')","(90, 0, 'Marlon King')",,,,,,,,
+2009-04-11,Portsmouth,West Bromwich Albion,2,2,"(33, 0, 'Younes Kaboul')","(48, 1, 'Jonathan Greening')","(62, 1, 'Chris Brunt')","(65, 0, 'Niko Kranjcar')",,,,,,,,
+2009-04-11,Stoke City,Newcastle United,1,1,"(33, 0, 'Abdoulaye Faye')","(81, 1, 'Andy Carroll')",,,,,,,,,,
+2009-04-11,Sunderland,Manchester United,1,2,"(19, 1, 'Paul Scholes')","(55, 0, 'Kenwyne Jones')","(76, 1, 'Federico Macheda')",,,,,,,,,
+2009-04-11,Tottenham Hotspur,West Ham United,1,0,"(65, 0, 'Roman Pavlyuchenko')",,,,,,,,,,,
+2009-04-11,Wigan Athletic,Arsenal,1,4,"(18, 0, ' Mido')","(61, 1, 'Theo Walcott')","(71, 1, 'Mikael Silvestre')","(89, 1, 'Andrei Arshavin')","(90, 1, 'Alex Song')",,,,,,,
+2009-04-12,Aston Villa,Everton,3,3,"(19, 1, 'Marouane Fellaini')","(23, 1, 'Tim Cahill')","(33, 0, 'John Carew')","(53, 1, 'Steven Pienaar')","(55, 0, 'James Milner')","(66, 0, 'Gareth Barry')",,,,,,
+2009-04-12,Manchester City,Fulham,1,3,"(28, 0, 'Stephen Ireland')","(50, 1, 'Clint Dempsey')","(59, 1, 'Dickson Etuhu')","(83, 1, 'Clint Dempsey')",,,,,,,,
+2009-04-18,Aston Villa,West Ham United,1,1,"(11, 0, 'Emile Heskey')","(85, 1, 'Diego Tristan')",,,,,,,,,,
+2009-04-18,Middlesbrough,Fulham,0,0,,,,,,,,,,,,
+2009-04-18,Portsmouth,Bolton Wanderers,1,0,"(78, 0, 'Nwankwo Kanu')",,,,,,,,,,,
+2009-04-18,Stoke City,Blackburn Rovers,1,0,"(75, 0, 'Liam Lawrence')",,,,,,,,,,,
+2009-04-18,Sunderland,Hull City,1,0,"(45, 0, 'Djibril Cisse')",,,,,,,,,,,
+2009-04-19,Manchester City,West Bromwich Albion,4,2,"(8, 0, ' Robinho')","(21, 0, 'Nedum Onuoha')","(37, 1, 'Chris Brunt')","(54, 1, 'Chris Brunt')","(56, 0, ' Elano')","(90, 0, 'Daniel Sturridge')",,,,,,
+2009-04-19,Tottenham Hotspur,Newcastle United,1,0,"(24, 0, 'Darren Bent')",,,,,,,,,,,
+2009-04-21,Liverpool,Arsenal,4,4,"(36, 1, 'Andrei Arshavin')","(49, 0, 'Fernando Torres')","(56, 0, 'Yossi Benayoun')","(67, 1, 'Andrei Arshavin')","(70, 1, 'Andrei Arshavin')","(72, 0, 'Fernando Torres')","(90, 0, 'Yossi Benayoun')","(90, 1, 'Andrei Arshavin')",,,,
+2009-04-22,Chelsea,Everton,0,0,,,,,,,,,,,,
+2009-04-22,Manchester United,Portsmouth,2,0,"(9, 0, 'Wayne Rooney')","(82, 0, 'Michael Carrick')",,,,,,,,,,
+2009-04-25,Bolton Wanderers,Aston Villa,1,1,"(43, 1, 'Ashley Young')","(60, 0, 'Tamir Cohen')",,,,,,,,,,
+2009-04-25,Everton,Manchester City,1,2,"(35, 1, ' Robinho')","(54, 1, 'Stephen Ireland')","(90, 0, 'Dan Gosling')",,,,,,,,,
+2009-04-25,Fulham,Stoke City,1,0,"(29, 0, 'Erik Nevland')",,,,,,,,,,,
+2009-04-25,Hull City,Liverpool,1,3,"(45, 1, ' Xabi Alonso')","(63, 1, 'Dirk Kuyt')","(72, 0, ' Geovanni')","(89, 1, 'Dirk Kuyt')",,,,,,,,
+2009-04-25,Manchester United,Tottenham Hotspur,5,2,"(29, 1, 'Darren Bent')","(32, 1, 'Luka Modric')","(57, 0, 'Cristiano Ronaldo')","(67, 0, 'Wayne Rooney')","(68, 0, 'Cristiano Ronaldo')","(71, 0, 'Wayne Rooney')","(79, 0, 'Dimitar Berbatov')",,,,,
+2009-04-25,West Bromwich Albion,Sunderland,3,0,"(40, 0, 'Jonas Olsson')","(58, 0, 'Chris Brunt')","(88, 0, 'Juan Carlos Menseguez')",,,,,,,,,
+2009-04-25,West Ham United,Chelsea,0,1,"(55, 1, 'Salomon Kalou')",,,,,,,,,,,
+2009-04-26,Arsenal,Middlesbrough,2,0,"(26, 0, 'Cesc Fabregas')","(67, 0, 'Cesc Fabregas')",,,,,,,,,,
+2009-04-26,Blackburn Rovers,Wigan Athletic,2,0,"(45, 0, 'Benni McCarthy')","(60, 0, 'Ryan Nelsen')",,,,,,,,,,
+2009-04-27,Newcastle United,Portsmouth,0,0,,,,,,,,,,,,
+2009-05-02,Chelsea,Fulham,3,1,"(1, 0, 'Nicolas Anelka')","(4, 1, 'Erik Nevland')","(10, 0, 'Florent Malouda')","(53, 0, 'Didier Drogba')",,,,,,,,
+2009-05-02,Manchester City,Blackburn Rovers,3,1,"(27, 0, 'Felipe Caicedo')","(34, 0, ' Robinho')","(45, 0, ' Elano')","(66, 1, 'Keith Andrews')",,,,,,,,
+2009-05-02,Middlesbrough,Manchester United,0,2,"(25, 1, 'Ryan Giggs')","(51, 1, 'PARK Ji-Sung')",,,,,,,,,,
+2009-05-02,Portsmouth,Arsenal,0,3,"(13, 1, 'Nicklas Bendtner')","(41, 1, 'Nicklas Bendtner')","(56, 1, 'Carlos Vela')",,,,,,,,,
+2009-05-02,Stoke City,West Ham United,0,1,"(33, 1, 'Diego Tristan')",,,,,,,,,,,
+2009-05-02,Tottenham Hotspur,West Bromwich Albion,1,0,"(43, 0, 'Jermaine Jenas')",,,,,,,,,,,
+2009-05-02,Wigan Athletic,Bolton Wanderers,0,0,,,,,,,,,,,,
+2009-05-03,Liverpool,Newcastle United,3,0,"(22, 0, 'Yossi Benayoun')","(28, 0, 'Dirk Kuyt')","(87, 0, ' Lucas Leiva')",,,,,,,,,
+2009-05-03,Sunderland,Everton,0,2,"(48, 1, 'Steven Pienaar')","(71, 1, 'Marouane Fellaini')",,,,,,,,,,
+2009-05-04,Aston Villa,Hull City,1,0,"(34, 0, 'John Carew')",,,,,,,,,,,
+2009-05-09,Blackburn Rovers,Portsmouth,2,0,"(31, 0, 'Morten Gamst Pedersen')","(58, 0, 'Benni McCarthy')",,,,,,,,,,
+2009-05-09,Bolton Wanderers,Sunderland,0,0,,,,,,,,,,,,
+2009-05-09,Everton,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2009-05-09,Fulham,Aston Villa,3,1,"(6, 0, 'Danny Murphy')","(14, 1, 'Ashley Young')","(46, 0, 'Diomansy Kamara')","(60, 0, 'Diomansy Kamara')",,,,,,,,
+2009-05-09,Hull City,Stoke City,1,2,"(41, 1, 'Ricardo Fuller')","(73, 1, 'Liam Lawrence')","(90, 0, 'Andy Dawson')",,,,,,,,,
+2009-05-09,West Bromwich Albion,Wigan Athletic,3,1,"(8, 0, 'Marc Antoine Fortune')","(17, 1, 'Hugo Rodallega')","(59, 0, 'Chris Brunt')","(73, 0, 'Marc Antoine Fortune')",,,,,,,,
+2009-05-09,West Ham United,Liverpool,0,3,"(2, 1, 'Steven Gerrard')","(38, 1, 'Steven Gerrard')","(84, 1, 'Ryan Babel')",,,,,,,,,
+2009-05-10,Arsenal,Chelsea,1,4,"(28, 1, ' Alex')","(39, 1, 'Nicolas Anelka')","(49, 1, 'Kolo Toure')","(70, 0, 'Nicklas Bendtner')","(86, 1, 'Florent Malouda')",,,,,,,
+2009-05-10,Manchester United,Manchester City,2,0,"(18, 0, 'Cristiano Ronaldo')","(45, 0, 'Carlos Tevez')",,,,,,,,,,
+2009-05-11,Newcastle United,Middlesbrough,3,1,"(3, 1, 'Habib Beye')","(9, 0, 'Steven Taylor')","(71, 0, 'Obafemi Martins')","(86, 0, 'Peter Lovenkrands')",,,,,,,,
+2009-05-13,Wigan Athletic,Manchester United,1,2,"(28, 0, 'Hugo Rodallega')","(61, 1, 'Carlos Tevez')","(86, 1, 'Michael Carrick')",,,,,,,,,
+2009-05-16,Bolton Wanderers,Hull City,1,1,"(26, 0, 'Gretar Steinsson')","(47, 1, 'Craig Fagan')",,,,,,,,,,
+2009-05-16,Everton,West Ham United,3,1,"(24, 1, 'Radoslav Kovac')","(38, 0, 'Louis Saha')","(48, 0, 'Joseph Yobo')","(76, 0, 'Louis Saha')",,,,,,,,
+2009-05-16,Manchester United,Arsenal,0,0,,,,,,,,,,,,
+2009-05-16,Middlesbrough,Aston Villa,1,1,"(14, 0, ' Tuncay Sanli')","(57, 1, 'John Carew')",,,,,,,,,,
+2009-05-16,Newcastle United,Fulham,0,1,"(41, 1, 'Diomansy Kamara')",,,,,,,,,,,
+2009-05-16,Stoke City,Wigan Athletic,2,0,"(69, 0, 'Ricardo Fuller')","(76, 0, 'James Beattie')",,,,,,,,,,
+2009-05-16,Tottenham Hotspur,Manchester City,2,1,"(29, 0, 'Jermain Defoe')","(65, 1, 'Valery Bojinov')","(86, 0, 'Robbie Keane')",,,,,,,,,
+2009-05-17,Chelsea,Blackburn Rovers,2,0,"(4, 0, 'Florent Malouda')","(59, 0, 'Nicolas Anelka')",,,,,,,,,,
+2009-05-17,West Bromwich Albion,Liverpool,0,2,"(28, 1, 'Steven Gerrard')","(63, 1, 'Dirk Kuyt')",,,,,,,,,,
+2009-05-18,Portsmouth,Sunderland,3,1,"(59, 1, 'Kenwyne Jones')","(60, 0, 'John Utaka')","(68, 0, 'Phil Bardsley')","(88, 0, 'Armand Traore')",,,,,,,,
+2009-05-24,Arsenal,Stoke City,4,1,"(10, 0, 'James Beattie')","(16, 0, 'Robin Van Persie')","(18, 0, 'Abou Diaby')","(31, 1, 'Ricardo Fuller')","(41, 0, 'Robin Van Persie')",,,,,,,
+2009-05-24,Aston Villa,Newcastle United,1,0,"(38, 0, 'Damien Duff')",,,,,,,,,,,
+2009-05-24,Blackburn Rovers,West Bromwich Albion,0,0,,,,,,,,,,,,
+2009-05-24,Fulham,Everton,0,2,"(45, 1, 'Leon Osman')","(88, 1, 'Leon Osman')",,,,,,,,,,
+2009-05-24,Hull City,Manchester United,0,1,"(24, 1, 'Darron Gibson')",,,,,,,,,,,
+2009-05-24,Liverpool,Tottenham Hotspur,3,1,"(31, 0, 'Fernando Torres')","(64, 0, 'Alan Hutton')","(77, 1, 'Robbie Keane')","(81, 0, 'Yossi Benayoun')",,,,,,,,
+2009-05-24,Manchester City,Bolton Wanderers,1,0,"(8, 0, 'Felipe Caicedo')",,,,,,,,,,,
+2009-05-24,Sunderland,Chelsea,2,3,"(47, 1, 'Nicolas Anelka')","(53, 0, 'Kieran Richardson')","(74, 1, 'Salomon Kalou')","(86, 1, 'Ashley Cole')","(90, 0, 'Kenwyne Jones')",,,,,,,
+2009-05-24,West Ham United,Middlesbrough,2,1,"(33, 0, 'Carlton Cole')","(50, 1, ""Gary O'Neil"")","(58, 0, 'Junior Stanislas')",,,,,,,,,
+2009-05-24,Wigan Athletic,Portsmouth,1,0,"(26, 0, 'Hugo Rodallega')",,,,,,,,,,,

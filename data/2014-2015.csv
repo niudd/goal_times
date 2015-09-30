@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-18/08/2014,Burnley,Chelsea,1,3,"(14, 0, 'Scott Arfield')","(17, 1, ' Diego Costa')","(21, 1, 'Andre Schurrle')","(34, 1, 'Branislav Ivanovic')"
-23/08/2014,Chelsea,Leicester City,2,0,"(63, 0, ' Diego Costa')","(77, 0, 'Eden Hazard')"
-30/08/2014,Everton,Chelsea,3,6,"(1, 1, ' Diego Costa')","(3, 1, 'Branislav Ivanovic')","(45, 0, 'Kevin Mirallas')","(67, 1, 'Seamus Coleman')","(69, 0, 'Steven Naismith')","(74, 1, 'Nemanja Matic')","(76, 0, ""Samuel Eto'o"")","(77, 1, ' Ramires')","(90, 1, ' Diego Costa')"
-13/09/2014,Chelsea,Swansea City,4,2,"(11, 1, 'John Terry')","(45, 0, ' Diego Costa')","(56, 0, ' Diego Costa')","(67, 0, ' Diego Costa')","(81, 0, 'Loic Remy')","(86, 1, 'Jonjo Shelvey')"
-21/09/2014,Manchester City,Chelsea,1,1,"(71, 1, 'Andre Schurrle')","(85, 0, 'Frank Lampard')"
-27/09/2014,Chelsea,Aston Villa,3,0,"(7, 0, ' Oscar')","(59, 0, ' Diego Costa')","(79, 0, ' Willian')"
-05/10/2014,Chelsea,Arsenal,2,0,"(27, 0, 'Eden Hazard')","(78, 0, ' Diego Costa')"
-18/10/2014,Crystal Palace,Chelsea,1,2,"(6, 1, ' Oscar')","(51, 1, 'Cesc Fabregas')","(90, 0, 'Fraizer Campbell')"
-26/10/2014,Manchester United,Chelsea,1,1,"(53, 1, 'Didier Drogba')","(90, 0, 'Robin Van Persie')"
-01/11/2014,Chelsea,Queens Park Rangers,2,1,"(32, 0, ' Oscar')","(62, 1, 'Charlie Austin')","(75, 0, 'Eden Hazard')"
-08/11/2014,Liverpool,Chelsea,1,2,"(9, 0, ' Emre Can')","(14, 1, 'Gary Cahill')","(67, 1, ' Diego Costa')"
-22/11/2014,Chelsea,West Bromwich Albion,2,0,"(11, 0, ' Diego Costa')","(25, 0, 'Eden Hazard')"
-29/11/2014,Sunderland,Chelsea,0,0
-03/12/2014,Chelsea,Tottenham Hotspur,3,0,"(19, 0, 'Eden Hazard')","(22, 0, 'Didier Drogba')","(73, 0, 'Loic Remy')"
-06/12/2014,Newcastle United,Chelsea,2,1,"(57, 0, 'Papiss Cisse')","(78, 0, 'Papiss Cisse')","(83, 1, 'Didier Drogba')"
-13/12/2014,Chelsea,Hull City,2,0,"(7, 0, 'Eden Hazard')","(68, 0, ' Diego Costa')"
-22/12/2014,Stoke City,Chelsea,0,2,"(2, 1, 'John Terry')","(78, 1, 'Cesc Fabregas')"
-26/12/2014,Chelsea,West Ham United,2,0,"(31, 0, 'John Terry')","(62, 0, ' Diego Costa')"
-28/12/2014,Southampton,Chelsea,1,1,"(17, 0, 'Sadio Mane')","(45, 1, 'Eden Hazard')"
-01/01/2015,Tottenham Hotspur,Chelsea,5,3,"(18, 1, ' Diego Costa')","(30, 0, 'Harry Kane')","(44, 0, 'Danny Rose')","(45, 0, 'Andros Townsend')","(52, 0, 'Harry Kane')","(61, 1, 'Eden Hazard')","(78, 0, 'Nacer Chadli')","(87, 1, 'John Terry')"
-10/01/2015,Chelsea,Newcastle United,2,0,"(43, 0, ' Oscar')","(59, 0, ' Diego Costa')"
-17/01/2015,Swansea City,Chelsea,0,5,"(1, 1, ' Oscar')","(20, 1, ' Diego Costa')","(34, 1, ' Diego Costa')","(36, 1, ' Oscar')","(79, 1, 'Andre Schurrle')"
-31/01/2015,Chelsea,Manchester City,1,1,"(41, 0, 'Loic Remy')","(45, 1, 'David Silva')"
-07/02/2015,Aston Villa,Chelsea,1,2,"(8, 1, 'Eden Hazard')","(48, 0, 'Jores Okore')","(66, 1, 'Branislav Ivanovic')"
-11/02/2015,Chelsea,Everton,1,0,"(89, 0, ' Willian')"
-21/02/2015,Chelsea,Burnley,1,1,"(14, 0, 'Branislav Ivanovic')","(81, 1, 'Ben Mee')"
-04/03/2015,West Ham United,Chelsea,0,1,"(22, 1, 'Eden Hazard')"
-15/03/2015,Chelsea,Southampton,1,1,"(11, 0, ' Diego Costa')","(19, 1, 'Dusan Tadic')"
-22/03/2015,Hull City,Chelsea,2,3,"(2, 1, 'Eden Hazard')","(9, 1, ' Diego Costa')","(26, 0, 'Ahmed Elmohamady')","(28, 0, 'Abel Hernandez')","(77, 1, 'Loic Remy')"
-04/04/2015,Chelsea,Stoke City,2,1,"(39, 0, 'Eden Hazard')","(44, 1, 'Charlie Adam')","(62, 0, 'Loic Remy')"
-12/04/2015,Queens Park Rangers,Chelsea,0,1,"(88, 1, 'Cesc Fabregas')"
-18/04/2015,Chelsea,Manchester United,1,0,"(38, 0, 'Eden Hazard')"
-26/04/2015,Arsenal,Chelsea,0,0
-29/04/2015,Leicester City,Chelsea,1,3,"(45, 0, 'Marc Albrighton')","(48, 1, 'Didier Drogba')","(79, 1, 'John Terry')","(83, 1, ' Ramires')"
-03/05/2015,Chelsea,Crystal Palace,1,0,"(45, 0, 'Eden Hazard')"
-10/05/2015,Chelsea,Liverpool,1,1,"(5, 0, 'John Terry')","(44, 1, 'Steven Gerrard')"
-18/05/2015,West Bromwich Albion,Chelsea,3,0,"(9, 0, 'Saido Berahino')","(47, 0, 'Saido Berahino')","(60, 0, 'Chris Brunt')"
-24/05/2015,Chelsea,Sunderland,3,1,"(26, 1, 'Steven Fletcher')","(37, 0, ' Diego Costa')","(70, 0, 'Loic Remy')","(88, 0, 'Loic Remy')"
-16/08/2014,Manchester United,Swansea City,1,2,"(28, 1, 'KI Sung-Yueng')","(53, 0, 'Wayne Rooney')","(72, 1, 'Gylfi Sigurdsson')"
-23/08/2014,Swansea City,Burnley,1,0,"(23, 0, 'Nathan Dyer')"
-30/08/2014,Swansea City,West Bromwich Albion,3,0,"(2, 0, 'Nathan Dyer')","(24, 0, 'Wayne Routledge')","(71, 0, 'Nathan Dyer')"
-20/09/2014,Swansea City,Southampton,0,1,"(80, 1, 'Victor Wanyama')"
-27/09/2014,Sunderland,Swansea City,0,0
-04/10/2014,Swansea City,Newcastle United,2,2,"(17, 0, 'Wilfried Bony')","(43, 1, 'Papiss Cisse')","(50, 0, 'Wayne Routledge')","(75, 1, 'Papiss Cisse')"
-19/10/2014,Stoke City,Swansea City,2,1,"(34, 1, 'Wilfried Bony')","(43, 0, 'Charlie Adam')","(76, 0, 'Jon Walters')"
-25/10/2014,Swansea City,Leicester City,2,0,"(34, 0, 'Wilfried Bony')","(57, 0, 'Wilfried Bony')"
-01/11/2014,Everton,Swansea City,0,0
-09/11/2014,Swansea City,Arsenal,2,1,"(63, 1, 'Alexis Sanchez')","(75, 0, 'Gylfi Sigurdsson')","(78, 0, 'Bafetimbi Gomis')"
-22/11/2014,Manchester City,Swansea City,2,1,"(9, 1, 'Wilfried Bony')","(19, 0, 'Stevan Jovetic')","(62, 0, 'Yaya Toure')"
-29/11/2014,Swansea City,Crystal Palace,1,1,"(15, 0, 'Wilfried Bony')","(25, 1, 'Mile Jedinak')"
-02/12/2014,Swansea City,Queens Park Rangers,2,0,"(78, 0, 'KI Sung-Yueng')","(83, 0, 'Wayne Routledge')"
-07/12/2014,West Ham United,Swansea City,3,1,"(19, 1, 'Wilfried Bony')","(41, 0, 'Andy Carroll')","(66, 0, 'Andy Carroll')","(87, 0, 'Diafra Sakho')"
-14/12/2014,Swansea City,Tottenham Hotspur,1,2,"(4, 1, 'Harry Kane')","(48, 0, 'Wilfried Bony')","(89, 1, 'Christian Eriksen')"
-20/12/2014,Hull City,Swansea City,0,1,"(15, 1, 'KI Sung-Yueng')"
-26/12/2014,Swansea City,Aston Villa,1,0,"(13, 0, 'Gylfi Sigurdsson')"
-29/12/2014,Liverpool,Swansea City,4,1,"(33, 0, 'Alberto Moreno')","(51, 0, 'Adam Lallana')","(52, 1, 'Gylfi Sigurdsson')","(61, 0, 'Adam Lallana')","(69, 0, 'Jonjo Shelvey')"
-01/01/2015,Queens Park Rangers,Swansea City,1,1,"(20, 0, 'Leroy Fer')","(90, 1, 'Wilfried Bony')"
-10/01/2015,Swansea City,West Ham United,1,1,"(43, 1, 'Andy Carroll')","(74, 0, 'Mark Noble')"
-01/02/2015,Southampton,Swansea City,0,1,"(83, 1, 'Jonjo Shelvey')"
-07/02/2015,Swansea City,Sunderland,1,1,"(42, 1, 'Jermain Defoe')","(66, 0, 'KI Sung-Yueng')"
-11/02/2015,West Bromwich Albion,Swansea City,2,0,"(60, 0, 'Brown Ideye')","(74, 0, 'Saido Berahino')"
-21/02/2015,Swansea City,Manchester United,2,1,"(28, 1, ' Ander Herrera')","(30, 0, 'KI Sung-Yueng')","(73, 0, 'Bafetimbi Gomis')"
-28/02/2015,Burnley,Swansea City,0,1,"(64, 1, 'Tom Heaton')"
-04/03/2015,Tottenham Hotspur,Swansea City,3,2,"(7, 0, 'Nacer Chadli')","(19, 1, 'KI Sung-Yueng')","(51, 0, 'Ryan Mason')","(60, 0, 'Andros Townsend')","(89, 1, 'Gylfi Sigurdsson')"
-16/03/2015,Swansea City,Liverpool,0,1,"(68, 1, 'Jordan Henderson')"
-21/03/2015,Aston Villa,Swansea City,0,1,"(87, 1, 'Bafetimbi Gomis')"
-04/04/2015,Swansea City,Hull City,3,1,"(18, 0, 'KI Sung-Yueng')","(37, 0, 'Bafetimbi Gomis')","(50, 1, 'Paul McShane')","(90, 0, 'Bafetimbi Gomis')"
-11/04/2015,Swansea City,Everton,1,1,"(41, 1, 'Aaron Lennon')","(69, 0, 'Jonjo Shelvey')"
-18/04/2015,Leicester City,Swansea City,2,0,"(15, 0, 'Leonardo Ulloa')","(89, 0, 'Andy King')"
-25/04/2015,Newcastle United,Swansea City,2,3,"(20, 0, 'Ayoze Perez')","(45, 1, ' Nelson Oliveira')","(49, 1, 'Gylfi Sigurdsson')","(71, 1, 'Jack Cork')","(87, 0, 'Siem De Jong')"
-02/05/2015,Swansea City,Stoke City,2,0,"(76, 0, 'Jefferson Montero')","(90, 0, 'KI Sung-Yueng')"
-11/05/2015,Arsenal,Swansea City,0,1,"(85, 1, 'Bafetimbi Gomis')"
-17/05/2015,Swansea City,Manchester City,2,4,"(21, 1, 'Yaya Toure')","(36, 1, 'James Milner')","(45, 0, 'Gylfi Sigurdsson')","(64, 0, 'Bafetimbi Gomis')","(74, 1, 'Yaya Toure')","(90, 1, 'Wilfried Bony')"
-24/05/2015,Crystal Palace,Swansea City,1,0,"(57, 0, 'Marouane Chamakh')"
-16/08/2014,Stoke City,Aston Villa,0,1,"(50, 1, 'Andi Weimann')"
-23/08/2014,Aston Villa,Newcastle United,0,0
-31/08/2014,Aston Villa,Hull City,2,1,"(14, 0, 'Gabby Agbonlahor')","(36, 0, 'Andi Weimann')","(74, 1, 'Nikica Jelavic')"
-13/09/2014,Liverpool,Aston Villa,0,1,"(9, 1, 'Gabby Agbonlahor')"
-20/09/2014,Aston Villa,Arsenal,0,3,"(32, 1, 'Mesut  Ozil')","(34, 1, 'Danny Welbeck')","(36, 1, 'Aly Cissokho')"
-04/10/2014,Aston Villa,Manchester City,0,2,"(82, 1, 'Yaya Toure')","(88, 1, 'Sergio Aguero')"
-18/10/2014,Everton,Aston Villa,3,0,"(18, 0, 'Phil Jagielka')","(48, 0, 'Romelu Lukaku')","(76, 0, 'Seamus Coleman')"
-27/10/2014,Queens Park Rangers,Aston Villa,2,0,"(17, 0, 'Charlie Austin')","(69, 0, 'Charlie Austin')"
-02/11/2014,Aston Villa,Tottenham Hotspur,1,2,"(16, 0, 'Andi Weimann')","(84, 1, 'Nacer Chadli')","(90, 1, 'Harry Kane')"
-08/11/2014,West Ham United,Aston Villa,0,0
-24/11/2014,Aston Villa,Southampton,1,1,"(29, 0, 'Gabby Agbonlahor')","(81, 1, 'Nathaniel Clyne')"
-29/11/2014,Burnley,Aston Villa,1,1,"(38, 1, 'Joe Cole')","(87, 0, 'Danny Ings')"
-02/12/2014,Crystal Palace,Aston Villa,0,1,"(32, 1, 'Christian Benteke')"
-07/12/2014,Aston Villa,Leicester City,2,1,"(13, 1, 'Leonardo Ulloa')","(17, 0, 'Ciaran Clark')","(71, 0, 'Alan Hutton')"
-13/12/2014,West Bromwich Albion,Aston Villa,1,0,"(72, 0, 'Craig Gardner')"
-20/12/2014,Aston Villa,Manchester United,1,1,"(18, 0, 'Christian Benteke')","(53, 1, 'Radamel Falcao')"
-28/12/2014,Aston Villa,Sunderland,0,0
-01/01/2015,Aston Villa,Crystal Palace,0,0
-10/01/2015,Leicester City,Aston Villa,1,0,"(45, 0, 'Paul Konchesky')"
-17/01/2015,Aston Villa,Liverpool,0,2,"(24, 1, 'Fabio Borini')","(79, 1, 'Rickie Lambert')"
-01/02/2015,Arsenal,Aston Villa,5,0,"(8, 0, 'Olivier Giroud')","(56, 0, 'Mesut  Ozil')","(63, 0, 'Theo Walcott')","(75, 0, 'Santi Cazorla')","(90, 0, 'Hector Bellerin')"
-10/02/2015,Hull City,Aston Villa,2,0,"(22, 0, 'Nikica Jelavic')","(74, 0, ""Dame N'Doye"")"
-21/02/2015,Aston Villa,Stoke City,1,2,"(20, 0, 'Scott Sinclair')","(45, 1, 'Mame Biram Diouf')","(90, 1, 'Victor Moses')"
-28/02/2015,Newcastle United,Aston Villa,1,0,"(37, 0, 'Papiss Cisse')"
-03/03/2015,Aston Villa,West Bromwich Albion,2,1,"(22, 0, 'Gabby Agbonlahor')","(66, 1, 'Saido Berahino')","(90, 0, 'Christian Benteke')"
-14/03/2015,Sunderland,Aston Villa,0,4,"(16, 1, 'Christian Benteke')","(18, 1, 'Gabby Agbonlahor')","(37, 1, 'Gabby Agbonlahor')","(44, 1, 'Christian Benteke')"
-04/04/2015,Manchester United,Aston Villa,3,1,"(43, 0, ' Ander Herrera')","(79, 0, 'Wayne Rooney')","(80, 1, 'Christian Benteke')","(90, 0, ' Ander Herrera')"
-07/04/2015,Aston Villa,Queens Park Rangers,3,3,"(7, 1, 'Matt Phillips')","(10, 0, 'Christian Benteke')","(33, 0, 'Christian Benteke')","(55, 1, 'Clint Hill')","(78, 1, 'Charlie Austin')","(83, 0, 'Christian Benteke')"
-11/04/2015,Tottenham Hotspur,Aston Villa,0,1,"(35, 1, 'Christian Benteke')"
-25/04/2015,Manchester City,Aston Villa,3,2,"(3, 0, 'Sergio Aguero')","(66, 0, 'Aleksandar Kolarov')","(68, 1, 'Tom Cleverley')","(85, 1, 'Carlos Sanchez')","(89, 0, ' Fernandinho')"
-02/05/2015,Aston Villa,Everton,3,2,"(10, 0, 'Christian Benteke')","(45, 0, 'Christian Benteke')","(59, 1, 'Romelu Lukaku')","(64, 0, 'Tom Cleverley')","(90, 1, 'Phil Jagielka')"
-09/05/2015,Aston Villa,West Ham United,1,0,"(31, 0, 'Tom Cleverley')"
-16/05/2015,Southampton,Aston Villa,6,1,"(13, 0, 'Sadio Mane')","(14, 0, 'Sadio Mane')","(16, 0, 'Sadio Mane')","(26, 0, 'Shane Long')","(38, 0, 'Shane Long')","(45, 1, 'Christian Benteke')","(81, 0, 'Graziano Pelle')"
-24/05/2015,Aston Villa,Burnley,0,1,"(6, 1, 'Danny Ings')"
-17/08/2014,Newcastle United,Manchester City,0,2,"(38, 1, 'David Silva')","(90, 1, 'Sergio Aguero')"
-25/08/2014,Manchester City,Liverpool,3,1,"(41, 0, 'Stevan Jovetic')","(55, 0, 'Stevan Jovetic')","(69, 0, 'Sergio Aguero')","(83, 1, 'Pablo Zabaleta')"
-30/08/2014,Manchester City,Stoke City,0,1,"(58, 1, 'Mame Biram Diouf')"
-13/09/2014,Arsenal,Manchester City,2,2,"(28, 1, 'Sergio Aguero')","(63, 0, 'Jack Wilshere')","(74, 0, 'Alexis Sanchez')","(83, 1, 'Martin Demichelis')"
-27/09/2014,Hull City,Manchester City,2,4,"(7, 1, 'Sergio Aguero')","(11, 1, 'Edin Dzeko')","(21, 0, 'Eliaquim Mangala')","(32, 0, 'Abel Hernandez')","(68, 1, 'Edin Dzeko')","(87, 1, 'Frank Lampard')"
-18/10/2014,Manchester City,Tottenham Hotspur,4,1,"(13, 0, 'Sergio Aguero')","(15, 1, 'Christian Eriksen')","(20, 0, 'Sergio Aguero')","(68, 0, 'Sergio Aguero')","(75, 0, 'Sergio Aguero')"
-25/10/2014,West Ham United,Manchester City,2,1,"(21, 0, 'Morgan Amalfitano')","(75, 0, 'Diafra Sakho')","(77, 1, 'David Silva')"
-02/11/2014,Manchester City,Manchester United,1,0,"(63, 0, 'Sergio Aguero')"
-08/11/2014,Queens Park Rangers,Manchester City,2,2,"(21, 0, 'Charlie Austin')","(32, 1, 'Sergio Aguero')","(76, 0, 'Martin Demichelis')","(83, 1, 'Sergio Aguero')"
-30/11/2014,Southampton,Manchester City,0,3,"(51, 1, 'Yaya Toure')","(80, 1, 'Frank Lampard')","(88, 1, 'Gael Clichy')"
-03/12/2014,Sunderland,Manchester City,1,4,"(19, 0, 'Connor Wickham')","(21, 1, 'Sergio Aguero')","(39, 1, 'Stevan Jovetic')","(55, 1, 'Pablo Zabaleta')","(71, 1, 'Sergio Aguero')"
-06/12/2014,Manchester City,Everton,1,0,"(24, 0, 'Yaya Toure')"
-13/12/2014,Leicester City,Manchester City,0,1,"(40, 1, 'Frank Lampard')"
-20/12/2014,Manchester City,Crystal Palace,3,0,"(49, 0, 'David Silva')","(61, 0, 'David Silva')","(81, 0, 'Yaya Toure')"
-26/12/2014,West Bromwich Albion,Manchester City,1,3,"(8, 1, ' Fernando')","(13, 1, 'Yaya Toure')","(34, 1, 'David Silva')","(87, 0, 'Brown Ideye')"
-28/12/2014,Manchester City,Burnley,2,2,"(23, 0, 'David Silva')","(33, 0, ' Fernandinho')","(47, 1, 'George Boyd')","(81, 1, 'Ashley Barnes')"
-01/01/2015,Manchester City,Sunderland,3,2,"(57, 0, 'Yaya Toure')","(66, 0, 'Stevan Jovetic')","(68, 1, 'Jack Rodwell')","(71, 1, 'Adam Johnson')","(73, 0, 'Frank Lampard')"
-10/01/2015,Everton,Manchester City,1,1,"(69, 1, ' Fernandinho')","(78, 0, 'Steven Naismith')"
-18/01/2015,Manchester City,Arsenal,0,2,"(24, 1, 'Santi Cazorla')","(67, 1, 'Olivier Giroud')"
-07/02/2015,Manchester City,Hull City,1,1,"(35, 1, 'David Meyler')","(90, 0, 'James Milner')"
-11/02/2015,Stoke City,Manchester City,1,4,"(33, 1, 'Sergio Aguero')","(38, 0, 'Peter Crouch')","(55, 1, 'James Milner')","(70, 1, 'Sergio Aguero')","(76, 1, 'Samir Nasri')"
-21/02/2015,Manchester City,Newcastle United,5,0,"(2, 0, 'Sergio Aguero')","(12, 0, 'Samir Nasri')","(21, 0, 'Edin Dzeko')","(51, 0, 'David Silva')","(53, 0, 'David Silva')"
-01/03/2015,Liverpool,Manchester City,2,1,"(11, 0, 'Jordan Henderson')","(25, 1, 'Edin Dzeko')","(75, 0, 'Philippe Coutinho')"
-04/03/2015,Manchester City,Leicester City,2,0,"(45, 0, 'David Silva')","(88, 0, 'James Milner')"
-14/03/2015,Burnley,Manchester City,1,0,"(61, 0, 'George Boyd')"
-21/03/2015,Manchester City,West Bromwich Albion,3,0,"(27, 0, 'Wilfried Bony')","(40, 0, ' Fernando')","(77, 0, 'David Silva')"
-06/04/2015,Crystal Palace,Manchester City,2,1,"(34, 0, 'Glenn Murray')","(48, 0, 'Jason Puncheon')","(78, 1, 'Yaya Toure')"
-12/04/2015,Manchester United,Manchester City,4,2,"(8, 1, 'Sergio Aguero')","(14, 0, 'Ashley Young')","(27, 0, 'Marouane Fellaini')","(67, 0, 'Juan Mata')","(73, 0, 'Chris Smalling')","(89, 1, 'Sergio Aguero')"
-19/04/2015,Manchester City,West Ham United,2,0,"(18, 0, 'James M Collins')","(36, 0, 'Sergio Aguero')"
-03/05/2015,Tottenham Hotspur,Manchester City,0,1,"(29, 1, 'Sergio Aguero')"
-10/05/2015,Manchester City,Queens Park Rangers,6,0,"(4, 0, 'Sergio Aguero')","(32, 0, 'Aleksandar Kolarov')","(50, 0, 'Sergio Aguero')","(65, 0, 'Sergio Aguero')","(70, 0, 'James Milner')","(87, 0, 'David Silva')"
-24/05/2015,Manchester City,Southampton,2,0,"(31, 0, 'Frank Lampard')","(88, 0, 'Sergio Aguero')"
-17/08/2014,Liverpool,Southampton,2,1,"(23, 0, 'Raheem Sterling')","(56, 1, 'Nathaniel Clyne')","(79, 0, 'Daniel Sturridge')"
-31/08/2014,Tottenham Hotspur,Liverpool,0,3,"(8, 1, 'Raheem Sterling')","(49, 1, 'Steven Gerrard')","(60, 1, 'Alberto Moreno')"
-20/09/2014,West Ham United,Liverpool,3,1,"(2, 0, 'Winston Reid')","(7, 0, 'Diafra Sakho')","(26, 1, 'Raheem Sterling')","(88, 0, 'Morgan Amalfitano')"
-27/09/2014,Liverpool,Everton,1,1,"(65, 0, 'Steven Gerrard')","(90, 1, 'Phil Jagielka')"
-04/10/2014,Liverpool,West Bromwich Albion,2,1,"(45, 0, 'Adam Lallana')","(56, 1, 'Saido Berahino')","(61, 0, 'Jordan Henderson')"
-19/10/2014,Queens Park Rangers,Liverpool,2,3,"(67, 1, 'Richard Dunne')","(87, 0, 'Eduardo Vargas')","(90, 0, 'Steven Gerrard')","(90, 1, 'Steven Caulker')","(90, 1, 'Philippe Coutinho')"
-25/10/2014,Liverpool,Hull City,0,0
-01/11/2014,Newcastle United,Liverpool,1,0,"(73, 0, 'Ayoze Perez')"
-23/11/2014,Crystal Palace,Liverpool,3,1,"(2, 1, 'Rickie Lambert')","(17, 0, 'Dwight Gayle')","(78, 0, 'Joe Ledley')","(81, 0, 'Mile Jedinak')"
-29/11/2014,Liverpool,Stoke City,1,0,"(85, 0, 'Glen Johnson')"
-02/12/2014,Leicester City,Liverpool,1,3,"(22, 0, 'Simon Mignolet')","(26, 1, 'Adam Lallana')","(54, 1, 'Steven Gerrard')","(83, 1, 'Jordan Henderson')"
-06/12/2014,Liverpool,Sunderland,0,0
-14/12/2014,Manchester United,Liverpool,3,0,"(12, 0, 'Wayne Rooney')","(40, 0, 'Juan Mata')","(71, 0, 'Robin Van Persie')"
-21/12/2014,Liverpool,Arsenal,2,2,"(45, 0, 'Philippe Coutinho')","(45, 1, 'Mathieu Debuchy')","(64, 1, 'Olivier Giroud')","(90, 0, 'Martin Skrtel')"
-26/12/2014,Burnley,Liverpool,0,1,"(62, 1, 'Raheem Sterling')"
-01/01/2015,Liverpool,Leicester City,2,2,"(17, 0, 'Steven Gerrard')","(40, 0, 'Steven Gerrard')","(58, 1, 'David Nugent')","(60, 1, 'Jeff Schlupp')"
-10/01/2015,Sunderland,Liverpool,0,1,"(9, 1, 'Lazar Markovic')"
-31/01/2015,Liverpool,West Ham United,2,0,"(51, 0, 'Raheem Sterling')","(80, 0, 'Daniel Sturridge')"
-07/02/2015,Everton,Liverpool,0,0
-10/02/2015,Liverpool,Tottenham Hotspur,3,2,"(15, 0, 'Lazar Markovic')","(26, 1, 'Harry Kane')","(53, 0, 'Steven Gerrard')","(61, 1, 'Moussa Dembele')","(83, 0, 'Mario Balotelli')"
-22/02/2015,Southampton,Liverpool,0,2,"(3, 1, 'Philippe Coutinho')","(73, 1, 'Raheem Sterling')"
-04/03/2015,Liverpool,Burnley,2,0,"(29, 0, 'Jordan Henderson')","(51, 0, 'Daniel Sturridge')"
-22/03/2015,Liverpool,Manchester United,1,2,"(14, 1, 'Juan Mata')","(59, 1, 'Juan Mata')","(69, 0, 'Daniel Sturridge')"
-04/04/2015,Arsenal,Liverpool,4,1,"(37, 0, 'Hector Bellerin')","(40, 0, 'Mesut  Ozil')","(45, 0, 'Alexis Sanchez')","(76, 1, 'Jordan Henderson')","(90, 0, 'Olivier Giroud')"
-13/04/2015,Liverpool,Newcastle United,2,0,"(9, 0, 'Raheem Sterling')","(70, 0, 'Joe Allen')"
-25/04/2015,West Bromwich Albion,Liverpool,0,0
-28/04/2015,Hull City,Liverpool,1,0,"(37, 0, 'Michael Dawson')"
-02/05/2015,Liverpool,Queens Park Rangers,2,1,"(19, 0, 'Philippe Coutinho')","(73, 1, 'Leroy Fer')","(87, 0, 'Steven Gerrard')"
-16/05/2015,Liverpool,Crystal Palace,1,3,"(26, 0, 'Adam Lallana')","(43, 1, 'Jason Puncheon')","(60, 1, 'Wilfried Zaha')","(90, 1, 'Glenn Murray')"
-24/05/2015,Stoke City,Liverpool,6,1,"(22, 0, 'Mame Biram Diouf')","(26, 0, 'Mame Biram Diouf')","(30, 0, 'Jon Walters')","(41, 0, 'Charlie Adam')","(45, 0, ""Steven N'Zonzi"")","(70, 1, 'Steven Gerrard')","(86, 0, 'Peter Crouch')"
-16/08/2014,West Ham United,Tottenham Hotspur,0,1,"(90, 1, 'Eric Dier')"
-24/08/2014,Tottenham Hotspur,Queens Park Rangers,4,0,"(12, 0, 'Nacer Chadli')","(30, 0, 'Eric Dier')","(37, 0, 'Nacer Chadli')","(65, 0, 'Emmanuel Adebayor')"
-13/09/2014,Sunderland,Tottenham Hotspur,2,2,"(2, 1, 'Nacer Chadli')","(4, 0, 'Adam Johnson')","(48, 1, 'Christian Eriksen')","(82, 0, 'Harry Kane')"
-21/09/2014,Tottenham Hotspur,West Bromwich Albion,0,1,"(74, 1, 'James Morrison')"
-27/09/2014,Arsenal,Tottenham Hotspur,1,1,"(56, 1, 'Nacer Chadli')","(74, 0, 'Alex Oxlade-Chamberlain')"
-05/10/2014,Tottenham Hotspur,Southampton,1,0,"(40, 0, 'Christian Eriksen')"
-26/10/2014,Tottenham Hotspur,Newcastle United,1,2,"(18, 0, 'Emmanuel Adebayor')","(46, 1, 'Sammy Ameobi')","(58, 1, 'Ayoze Perez')"
-09/11/2014,Tottenham Hotspur,Stoke City,1,2,"(6, 1, 'Bojan Krkic')","(33, 1, 'Jon Walters')","(77, 0, 'Nacer Chadli')"
-23/11/2014,Hull City,Tottenham Hotspur,1,2,"(8, 0, 'Jake Livermore')","(61, 1, 'Harry Kane')","(90, 1, 'Christian Eriksen')"
-30/11/2014,Tottenham Hotspur,Everton,2,1,"(15, 1, 'Kevin Mirallas')","(21, 0, 'Christian Eriksen')","(45, 0, 'Roberto Soldado')"
-06/12/2014,Tottenham Hotspur,Crystal Palace,0,0
-20/12/2014,Tottenham Hotspur,Burnley,2,1,"(21, 0, 'Harry Kane')","(27, 1, 'Ashley Barnes')","(35, 0, 'Erik Lamela')"
-26/12/2014,Leicester City,Tottenham Hotspur,1,2,"(1, 1, 'Harry Kane')","(48, 0, 'Leonardo Ulloa')","(71, 1, 'Christian Eriksen')"
-28/12/2014,Tottenham Hotspur,Manchester United,0,0
-10/01/2015,Crystal Palace,Tottenham Hotspur,2,1,"(49, 1, 'Harry Kane')","(69, 0, 'Dwight Gayle')","(80, 0, 'Jason Puncheon')"
-17/01/2015,Tottenham Hotspur,Sunderland,2,1,"(3, 0, ""John O'Shea"")","(31, 1, 'Seb Larsson')","(88, 0, 'Christian Eriksen')"
-31/01/2015,West Bromwich Albion,Tottenham Hotspur,0,3,"(6, 1, 'Christian Eriksen')","(15, 1, 'Harry Kane')","(64, 1, 'Harry Kane')"
-07/02/2015,Tottenham Hotspur,Arsenal,2,1,"(11, 1, 'Mesut  Ozil')","(56, 0, 'Harry Kane')","(86, 0, 'Harry Kane')"
-22/02/2015,Tottenham Hotspur,West Ham United,2,2,"(22, 1, 'Cheikhou Kouyate')","(62, 1, 'Diafra Sakho')","(81, 0, 'Danny Rose')","(90, 0, 'Harry Kane')"
-07/03/2015,Queens Park Rangers,Tottenham Hotspur,1,2,"(34, 1, 'Harry Kane')","(68, 1, 'Harry Kane')","(75, 0, ' Sandro')"
-15/03/2015,Manchester United,Tottenham Hotspur,3,0,"(9, 0, 'Marouane Fellaini')","(19, 0, 'Michael Carrick')","(34, 0, 'Wayne Rooney')"
-21/03/2015,Tottenham Hotspur,Leicester City,4,3,"(6, 0, 'Harry Kane')","(13, 0, 'Harry Kane')","(38, 1, 'Jamie Vardy')","(50, 1, 'Wes Morgan')","(64, 0, 'Harry Kane')","(85, 0, 'Jeff Schlupp')","(90, 1, 'David Nugent')"
-05/04/2015,Burnley,Tottenham Hotspur,0,0
-19/04/2015,Newcastle United,Tottenham Hotspur,1,3,"(30, 1, 'Nacer Chadli')","(46, 0, 'Jack Colback')","(53, 1, 'Christian Eriksen')","(90, 1, 'Harry Kane')"
-25/04/2015,Southampton,Tottenham Hotspur,2,2,"(29, 0, 'Graziano Pelle')","(43, 1, 'Erik Lamela')","(65, 0, 'Graziano Pelle')","(70, 1, 'Nacer Chadli')"
-09/05/2015,Stoke City,Tottenham Hotspur,3,0,"(21, 0, 'Charlie Adam')","(32, 0, ""Steven N'Zonzi"")","(86, 0, 'Jan Vertonghen')"
-16/05/2015,Tottenham Hotspur,Hull City,2,0,"(54, 0, 'Nacer Chadli')","(61, 0, 'Danny Rose')"
-24/05/2015,Everton,Tottenham Hotspur,0,1,"(24, 1, 'Harry Kane')"
-16/08/2014,Arsenal,Crystal Palace,2,1,"(35, 1, 'Brede Hangeland')","(45, 0, 'Laurent Koscielny')","(90, 0, 'Aaron Ramsey')"
-23/08/2014,Everton,Arsenal,2,2,"(19, 0, 'Seamus Coleman')","(45, 0, 'Steven Naismith')","(83, 1, 'Aaron Ramsey')","(90, 1, 'Olivier Giroud')"
-31/08/2014,Leicester City,Arsenal,1,1,"(20, 1, 'Alexis Sanchez')","(22, 0, 'Leonardo Ulloa')"
-18/10/2014,Arsenal,Hull City,2,2,"(13, 0, 'Alexis Sanchez')","(17, 1, 'Mohamed Diame')","(46, 1, 'Abel Hernandez')","(90, 0, 'Danny Welbeck')"
-25/10/2014,Sunderland,Arsenal,0,2,"(30, 1, 'Alexis Sanchez')","(90, 1, 'Alexis Sanchez')"
-01/11/2014,Arsenal,Burnley,3,0,"(70, 0, 'Alexis Sanchez')","(72, 0, 'Calum Chambers')","(90, 0, 'Alexis Sanchez')"
-22/11/2014,Arsenal,Manchester United,1,2,"(56, 1, 'Kieran Gibbs')","(85, 1, 'Wayne Rooney')","(90, 0, 'Olivier Giroud')"
-29/11/2014,West Bromwich Albion,Arsenal,0,1,"(60, 1, 'Danny Welbeck')"
-03/12/2014,Arsenal,Southampton,1,0,"(89, 0, 'Alexis Sanchez')"
-06/12/2014,Stoke City,Arsenal,3,2,"(1, 0, 'Peter Crouch')","(35, 0, 'Bojan Krkic')","(45, 0, 'Jon Walters')","(68, 1, 'Santi Cazorla')","(70, 1, 'Aaron Ramsey')"
-13/12/2014,Arsenal,Newcastle United,4,1,"(15, 0, 'Olivier Giroud')","(54, 0, 'Santi Cazorla')","(58, 0, 'Olivier Giroud')","(63, 1, 'Ayoze Perez')","(88, 0, 'Santi Cazorla')"
-26/12/2014,Arsenal,Queens Park Rangers,2,1,"(37, 0, 'Alexis Sanchez')","(65, 0, 'Tomas Rosicky')","(79, 1, 'Charlie Austin')"
-28/12/2014,West Ham United,Arsenal,1,2,"(41, 1, 'Santi Cazorla')","(44, 1, 'Danny Welbeck')","(54, 0, 'Cheikhou Kouyate')"
-01/01/2015,Southampton,Arsenal,2,0,"(34, 0, 'Sadio Mane')","(56, 0, 'Dusan Tadic')"
-11/01/2015,Arsenal,Stoke City,3,0,"(6, 0, 'Laurent Koscielny')","(33, 0, 'Alexis Sanchez')","(49, 0, 'Alexis Sanchez')"
-10/02/2015,Arsenal,Leicester City,2,1,"(27, 0, 'Laurent Koscielny')","(41, 0, 'Theo Walcott')","(61, 1, 'Andrej Kramaric')"
-21/02/2015,Crystal Palace,Arsenal,1,2,"(8, 1, 'Santi Cazorla')","(45, 1, 'Olivier Giroud')","(90, 0, 'Glenn Murray')"
-01/03/2015,Arsenal,Everton,2,0,"(39, 0, 'Olivier Giroud')","(89, 0, 'Tomas Rosicky')"
-04/03/2015,Queens Park Rangers,Arsenal,1,2,"(64, 1, 'Olivier Giroud')","(69, 1, 'Alexis Sanchez')","(82, 0, 'Charlie Austin')"
-14/03/2015,Arsenal,West Ham United,3,0,"(45, 0, 'Olivier Giroud')","(81, 0, 'Aaron Ramsey')","(84, 0, 'Mathieu Flamini')"
-21/03/2015,Newcastle United,Arsenal,1,2,"(24, 1, 'Olivier Giroud')","(28, 1, 'Olivier Giroud')","(48, 0, 'Moussa Sissoko')"
-11/04/2015,Burnley,Arsenal,0,1,"(12, 1, 'Aaron Ramsey')"
-04/05/2015,Hull City,Arsenal,1,3,"(28, 1, 'Alexis Sanchez')","(33, 1, 'Aaron Ramsey')","(45, 1, 'Alexis Sanchez')","(56, 0, 'Stephen Quinn')"
-17/05/2015,Manchester United,Arsenal,1,1,"(30, 0, ' Ander Herrera')","(82, 1, 'Tyler Blackett')"
-20/05/2015,Arsenal,Sunderland,0,0
-24/05/2015,Arsenal,West Bromwich Albion,4,1,"(4, 0, 'Theo Walcott')","(14, 0, 'Theo Walcott')","(17, 0, 'Jack Wilshere')","(37, 0, 'Theo Walcott')","(57, 1, 'Gareth McAuley')"
-23/08/2014,Southampton,West Bromwich Albion,0,0
-30/08/2014,West Ham United,Southampton,1,3,"(27, 0, 'Mark Noble')","(45, 1, 'Morgan Schneiderlin')","(68, 1, 'Morgan Schneiderlin')","(83, 1, 'Graziano Pelle')"
-13/09/2014,Southampton,Newcastle United,4,0,"(6, 0, 'Graziano Pelle')","(19, 0, 'Graziano Pelle')","(54, 0, 'Jack Cork')","(90, 0, 'Morgan Schneiderlin')"
-27/09/2014,Southampton,Queens Park Rangers,2,1,"(54, 0, 'Ryan Bertrand')","(66, 1, 'Charlie Austin')","(68, 0, 'Graziano Pelle')"
-18/10/2014,Southampton,Sunderland,8,0,"(12, 0, 'Santiago Vergini')","(18, 0, 'Graziano Pelle')","(37, 0, 'Jack Cork')","(63, 0, 'Liam Bridcutt')","(69, 0, 'Graziano Pelle')","(78, 0, 'Dusan Tadic')","(79, 0, 'Victor Wanyama')","(86, 0, 'Patrick Van Aanholt')"
-25/10/2014,Southampton,Stoke City,1,0,"(33, 0, 'Sadio Mane')"
-01/11/2014,Hull City,Southampton,0,1,"(3, 1, 'Victor Wanyama')"
-08/11/2014,Southampton,Leicester City,2,0,"(75, 0, 'Shane Long')","(80, 0, 'Shane Long')"
-08/12/2014,Southampton,Manchester United,1,2,"(12, 1, 'Robin Van Persie')","(31, 0, 'Graziano Pelle')","(71, 1, 'Robin Van Persie')"
-13/12/2014,Burnley,Southampton,1,0,"(73, 0, 'Ashley Barnes')"
-20/12/2014,Southampton,Everton,3,0,"(38, 0, 'Romelu Lukaku')","(65, 0, 'Graziano Pelle')","(82, 0, 'Maya Yoshida')"
-26/12/2014,Crystal Palace,Southampton,1,3,"(17, 1, 'Sadio Mane')","(48, 1, 'Ryan Bertrand')","(53, 1, 'Toby Alderweireld')","(86, 0, 'Scott Dann')"
-11/01/2015,Manchester United,Southampton,0,1,"(69, 1, 'Dusan Tadic')"
-17/01/2015,Newcastle United,Southampton,1,2,"(14, 1, 'Eljero Elia')","(29, 0, 'Yoan Gouffran')","(62, 1, 'Eljero Elia')"
-07/02/2015,Queens Park Rangers,Southampton,0,1,"(90, 1, 'Sadio Mane')"
-11/02/2015,Southampton,West Ham United,0,0
-28/02/2015,West Bromwich Albion,Southampton,1,0,"(2, 0, 'Saido Berahino')"
-03/03/2015,Southampton,Crystal Palace,1,0,"(83, 0, 'Sadio Mane')"
-21/03/2015,Southampton,Burnley,2,0,"(37, 0, 'Shane Long')","(58, 0, 'Jason Shackell')"
-04/04/2015,Everton,Southampton,1,0,"(16, 0, 'Phil Jagielka')"
-11/04/2015,Southampton,Hull City,2,0,"(56, 0, 'James Ward-Prowse')","(81, 0, 'Graziano Pelle')"
-18/04/2015,Stoke City,Southampton,2,1,"(22, 1, 'Morgan Schneiderlin')","(47, 0, 'Mame Biram Diouf')","(84, 0, 'Charlie Adam')"
-02/05/2015,Sunderland,Southampton,2,1,"(21, 0, 'Jordi Gomez')","(22, 1, 'Sadio Mane')","(55, 0, 'Jordi Gomez')"
-09/05/2015,Leicester City,Southampton,2,0,"(7, 0, 'Riyad Mahrez')","(19, 0, 'Riyad Mahrez')"
-16/08/2014,Queens Park Rangers,Hull City,0,1,"(52, 1, 'James Chester')"
-24/08/2014,Hull City,Stoke City,1,1,"(42, 0, 'Nikica Jelavic')","(83, 1, 'Ryan Shawcross')"
-15/09/2014,Hull City,West Ham United,2,2,"(39, 0, 'Abel Hernandez')","(50, 1, 'Enner Valencia')","(64, 0, 'Mohamed Diame')","(67, 1, 'Diafra Sakho')"
-20/09/2014,Newcastle United,Hull City,2,2,"(48, 1, 'Nikica Jelavic')","(68, 1, 'Mohamed Diame')","(73, 0, 'Papiss Cisse')","(87, 0, 'Papiss Cisse')"
-04/10/2014,Hull City,Crystal Palace,2,0,"(60, 0, 'Mohamed Diame')","(89, 0, 'Nikica Jelavic')"
-08/11/2014,Burnley,Hull City,1,0,"(50, 0, 'Ashley Barnes')"
-29/11/2014,Manchester United,Hull City,3,0,"(16, 0, 'Chris Smalling')","(42, 0, 'Wayne Rooney')","(66, 0, 'Robin Van Persie')"
-03/12/2014,Everton,Hull City,1,1,"(34, 0, 'Romelu Lukaku')","(59, 1, 'Sone Aluko')"
-06/12/2014,Hull City,West Bromwich Albion,0,0
-26/12/2014,Sunderland,Hull City,1,3,"(1, 0, 'Adam Johnson')","(32, 1, 'Gaston Ramirez')","(51, 1, 'James Chester')","(90, 1, 'Nikica Jelavic')"
-28/12/2014,Hull City,Leicester City,0,1,"(32, 1, 'Riyad Mahrez')"
-01/01/2015,Hull City,Everton,2,0,"(33, 0, 'Ahmed Elmohamady')","(43, 0, 'Nikica Jelavic')"
-10/01/2015,West Bromwich Albion,Hull City,1,0,"(78, 0, 'Saido Berahino')"
-18/01/2015,West Ham United,Hull City,3,0,"(49, 0, 'Andy Carroll')","(69, 0, 'Morgan Amalfitano')","(72, 0, 'Stewart Downing')"
-31/01/2015,Hull City,Newcastle United,0,3,"(40, 1, 'Remy Cabella')","(50, 1, 'Sammy Ameobi')","(78, 1, 'Yoan Gouffran')"
-21/02/2015,Hull City,Queens Park Rangers,2,1,"(16, 0, 'Nikica Jelavic')","(39, 1, 'Charlie Austin')","(89, 0, ""Dame N'Doye"")"
-28/02/2015,Stoke City,Hull City,1,0,"(71, 0, 'Peter Crouch')"
-03/03/2015,Hull City,Sunderland,1,1,"(15, 0, ""Dame N'Doye"")","(77, 1, 'Jack Rodwell')"
-14/03/2015,Leicester City,Hull City,0,0
-25/04/2015,Crystal Palace,Hull City,0,2,"(51, 1, ""Dame N'Doye"")","(90, 1, ""Dame N'Doye"")"
-09/05/2015,Hull City,Burnley,0,1,"(62, 1, 'Danny Ings')"
-24/05/2015,Hull City,Manchester United,0,0
-13/09/2014,Stoke City,Leicester City,0,1,"(64, 1, 'Leonardo Ulloa')"
-20/09/2014,Queens Park Rangers,Stoke City,2,2,"(11, 1, 'Mame Biram Diouf')","(42, 0, 'Steven Caulker')","(51, 1, 'Peter Crouch')","(88, 0, 'Niko Kranjcar')"
-29/09/2014,Stoke City,Newcastle United,1,0,"(15, 0, 'Peter Crouch')"
-04/10/2014,Sunderland,Stoke City,3,1,"(4, 0, 'Connor Wickham')","(15, 1, 'Charlie Adam')","(23, 0, 'Steven Fletcher')","(79, 0, 'Steven Fletcher')"
-01/11/2014,Stoke City,West Ham United,2,2,"(33, 0, 'Victor Moses')","(56, 0, 'Mame Biram Diouf')","(60, 1, 'Enner Valencia')","(73, 1, 'Stewart Downing')"
-22/11/2014,Stoke City,Burnley,1,2,"(12, 1, 'Danny Ings')","(13, 1, 'Danny Ings')","(32, 0, 'Jon Walters')"
-02/12/2014,Manchester United,Stoke City,2,1,"(21, 0, 'Marouane Fellaini')","(39, 1, ""Steven N'Zonzi"")","(59, 0, 'Juan Mata')"
-13/12/2014,Crystal Palace,Stoke City,1,1,"(11, 0, 'James McArthur')","(13, 1, 'Peter Crouch')"
-26/12/2014,Everton,Stoke City,0,1,"(38, 1, 'Bojan Krkic')"
-28/12/2014,Stoke City,West Bromwich Albion,2,0,"(51, 0, 'Mame Biram Diouf')","(66, 0, 'Mame Biram Diouf')"
-01/01/2015,Stoke City,Manchester United,1,1,"(2, 0, 'Ryan Shawcross')","(26, 1, 'Radamel Falcao')"
-17/01/2015,Leicester City,Stoke City,0,1,"(63, 1, 'Bojan Krkic')"
-31/01/2015,Stoke City,Queens Park Rangers,3,1,"(21, 0, 'Jon Walters')","(34, 0, 'Jon Walters')","(36, 1, 'Niko Kranjcar')","(90, 0, 'Jon Walters')"
-08/02/2015,Newcastle United,Stoke City,1,1,"(74, 0, 'Jack Colback')","(90, 1, 'Peter Crouch')"
-04/03/2015,Stoke City,Everton,2,0,"(32, 0, 'Victor Moses')","(84, 0, 'Mame Biram Diouf')"
-14/03/2015,West Bromwich Albion,Stoke City,1,0,"(19, 0, 'Brown Ideye')"
-21/03/2015,Stoke City,Crystal Palace,1,2,"(14, 0, 'Mame Biram Diouf')","(41, 1, 'Glenn Murray')","(45, 1, 'Wilfried Zaha')"
-11/04/2015,West Ham United,Stoke City,1,1,"(7, 0, 'Aaron Cresswell')","(90, 1, 'Marko Arnautovic')"
-25/04/2015,Stoke City,Sunderland,1,1,"(1, 1, 'Connor Wickham')","(27, 0, 'Charlie Adam')"
-16/05/2015,Burnley,Stoke City,0,0
-23/08/2014,Crystal Palace,West Ham United,1,3,"(34, 1, 'Mauro Zarate')","(37, 1, 'Stewart Downing')","(48, 0, 'Marouane Chamakh')","(62, 1, 'Carlton Cole')"
-27/09/2014,Manchester United,West Ham United,2,1,"(5, 0, 'Wayne Rooney')","(22, 0, 'Robin Van Persie')","(37, 1, 'Diafra Sakho')"
-05/10/2014,West Ham United,Queens Park Rangers,2,0,"(5, 0, 'Nedum Onuoha')","(59, 0, 'Diafra Sakho')"
-18/10/2014,Burnley,West Ham United,1,3,"(49, 1, 'Diafra Sakho')","(54, 1, 'Enner Valencia')","(60, 0, 'George Boyd')","(70, 1, 'Carlton Cole')"
-22/11/2014,Everton,West Ham United,2,1,"(26, 0, 'Romelu Lukaku')","(56, 1, 'Mauro Zarate')","(73, 0, 'Leon Osman')"
-29/11/2014,West Ham United,Newcastle United,1,0,"(56, 0, 'Aaron Cresswell')"
-02/12/2014,West Bromwich Albion,West Ham United,1,2,"(10, 0, 'Craig Dawson')","(35, 1, 'Kevin Nolan')","(45, 1, 'James Tomkins')"
-13/12/2014,Sunderland,West Ham United,1,1,"(22, 0, 'Jordi Gomez')","(29, 1, 'Stewart Downing')"
-20/12/2014,West Ham United,Leicester City,2,0,"(24, 0, 'Andy Carroll')","(56, 0, 'Stewart Downing')"
-01/01/2015,West Ham United,West Bromwich Albion,1,1,"(10, 0, 'Diafra Sakho')","(42, 1, 'Saido Berahino')"
-08/02/2015,West Ham United,Manchester United,1,1,"(49, 0, 'Cheikhou Kouyate')","(90, 1, 'Daley Blind')"
-28/02/2015,West Ham United,Crystal Palace,1,3,"(41, 1, 'Glenn Murray')","(51, 1, 'Scott Dann')","(63, 1, 'Glenn Murray')","(76, 0, 'Enner Valencia')"
-21/03/2015,West Ham United,Sunderland,1,0,"(88, 0, 'Diafra Sakho')"
-04/04/2015,Leicester City,West Ham United,2,1,"(12, 0, 'Esteban Cambiasso')","(32, 1, 'Cheikhou Kouyate')","(86, 0, 'Andy King')"
-25/04/2015,Queens Park Rangers,West Ham United,0,0
-02/05/2015,West Ham United,Burnley,1,0,"(24, 0, 'Mark Noble')"
-16/05/2015,West Ham United,Everton,1,2,"(62, 0, 'Stewart Downing')","(68, 1, 'Leon Osman')","(90, 1, 'Romelu Lukaku')"
-24/05/2015,Newcastle United,West Ham United,2,0,"(54, 0, 'Moussa Sissoko')","(85, 0, 'Jonas Gutierrez')"
-30/08/2014,Queens Park Rangers,Sunderland,1,0,"(45, 0, 'Charlie Austin')"
-14/09/2014,Manchester United,Queens Park Rangers,4,0,"(24, 0, 'Angel Di Maria')","(36, 0, ' Ander Herrera')","(44, 0, 'Wayne Rooney')","(58, 0, 'Juan Mata')"
-22/11/2014,Newcastle United,Queens Park Rangers,1,0,"(78, 0, 'Moussa Sissoko')"
-29/11/2014,Queens Park Rangers,Leicester City,3,2,"(4, 1, 'Esteban Cambiasso')","(37, 0, 'Wes Morgan')","(45, 0, 'Leroy Fer')","(67, 1, 'Jeff Schlupp')","(73, 0, 'Charlie Austin')"
-06/12/2014,Queens Park Rangers,Burnley,2,0,"(51, 0, 'Leroy Fer')","(74, 0, 'Charlie Austin')"
-15/12/2014,Everton,Queens Park Rangers,3,1,"(33, 0, 'Ross Barkley')","(43, 0, 'Kevin Mirallas')","(53, 0, 'Nedum Onuoha')","(80, 1, 'Bobby Zamora')"
-20/12/2014,Queens Park Rangers,West Bromwich Albion,3,2,"(10, 1, 'Joleon Lescott')","(20, 1, ' Silvestre Varela')","(24, 0, 'Charlie Austin')","(48, 0, 'Charlie Austin')","(86, 0, 'Charlie Austin')"
-28/12/2014,Queens Park Rangers,Crystal Palace,0,0
-10/01/2015,Burnley,Queens Park Rangers,2,1,"(12, 0, 'Scott Arfield')","(33, 1, 'Charlie Austin')","(37, 0, 'Danny Ings')"
-17/01/2015,Queens Park Rangers,Manchester United,0,2,"(58, 1, 'Marouane Fellaini')","(90, 1, 'James Wilson')"
-10/02/2015,Sunderland,Queens Park Rangers,0,2,"(17, 1, 'Leroy Fer')","(45, 1, 'Bobby Zamora')"
-14/03/2015,Crystal Palace,Queens Park Rangers,3,1,"(21, 0, 'Wilfried Zaha')","(40, 0, 'James McArthur')","(42, 0, 'Joel Ward')","(83, 1, 'Matt Phillips')"
-22/03/2015,Queens Park Rangers,Everton,1,2,"(18, 1, 'Seamus Coleman')","(65, 0, 'Eduardo Vargas')","(77, 1, 'Aaron Lennon')"
-04/04/2015,West Bromwich Albion,Queens Park Rangers,1,4,"(15, 1, 'Eduardo Vargas')","(37, 1, 'Charlie Austin')","(43, 1, 'Bobby Zamora')","(58, 0, 'Victor Anichebe')","(90, 1, 'Joey Barton')"
-16/05/2015,Queens Park Rangers,Newcastle United,2,1,"(24, 1, 'Emmanuel Riviere')","(54, 0, 'Matt Phillips')","(61, 0, 'Leroy Fer')"
-24/05/2015,Leicester City,Queens Park Rangers,5,1,"(16, 0, 'Jamie Vardy')","(43, 0, 'Marc Albrighton')","(51, 0, 'Leonardo Ulloa')","(52, 0, 'Esteban Cambiasso')","(57, 1, 'Charlie Austin')","(86, 0, 'Andrej Kramaric')"
-16/08/2014,West Bromwich Albion,Sunderland,2,2,"(5, 1, 'Lee Cattermole')","(42, 0, 'Saido Berahino')","(74, 0, 'Saido Berahino')","(85, 1, 'Seb Larsson')"
-24/08/2014,Sunderland,Manchester United,1,1,"(17, 1, 'Juan Mata')","(30, 0, 'Jack Rodwell')"
-20/09/2014,Burnley,Sunderland,0,0
-03/11/2014,Crystal Palace,Sunderland,1,3,"(31, 1, 'Steven Fletcher')","(55, 0, 'Wes Brown')","(79, 1, 'Jordi Gomez')","(90, 1, 'Steven Fletcher')"
-09/11/2014,Sunderland,Everton,1,1,"(67, 0, 'Seb Larsson')","(76, 1, 'Leighton Baines')"
-22/11/2014,Leicester City,Sunderland,0,0
-21/12/2014,Newcastle United,Sunderland,0,1,"(90, 1, 'Adam Johnson')"
-31/01/2015,Sunderland,Burnley,2,0,"(20, 0, 'Connor Wickham')","(34, 0, 'Jermain Defoe')"
-21/02/2015,Sunderland,West Bromwich Albion,0,0
-28/02/2015,Manchester United,Sunderland,2,0,"(66, 0, 'Wayne Rooney')","(84, 0, 'Wayne Rooney')"
-05/04/2015,Sunderland,Newcastle United,1,0,"(45, 0, 'Jermain Defoe')"
-11/04/2015,Sunderland,Crystal Palace,1,4,"(48, 1, 'Glenn Murray')","(51, 1, 'Yannick Bolasie')","(53, 1, 'Yannick Bolasie')","(62, 1, 'Yannick Bolasie')","(90, 0, 'Connor Wickham')"
-09/05/2015,Everton,Sunderland,0,2,"(53, 1, 'Danny Graham')","(85, 1, 'Jermain Defoe')"
-16/05/2015,Sunderland,Leicester City,0,0
-30/08/2014,Burnley,Manchester United,0,0
-21/09/2014,Leicester City,Manchester United,5,3,"(13, 1, 'Robin Van Persie')","(16, 1, 'Angel Di Maria')","(17, 0, 'Leonardo Ulloa')","(57, 1, ' Ander Herrera')","(62, 0, 'David Nugent')","(64, 0, 'Esteban Cambiasso')","(79, 0, 'Jamie Vardy')","(83, 0, 'Leonardo Ulloa')"
-05/10/2014,Manchester United,Everton,2,1,"(27, 0, 'Angel Di Maria')","(55, 1, 'Steven Naismith')","(62, 0, 'Radamel Falcao')"
-20/10/2014,West Bromwich Albion,Manchester United,2,2,"(8, 0, 'Stephane Sessegnon')","(48, 1, 'Marouane Fellaini')","(66, 0, 'Saido Berahino')","(87, 1, 'Daley Blind')"
-08/11/2014,Manchester United,Crystal Palace,1,0,"(67, 0, 'Juan Mata')"
-26/12/2014,Manchester United,Newcastle United,3,1,"(23, 0, 'Wayne Rooney')","(36, 0, 'Wayne Rooney')","(53, 0, 'Robin Van Persie')","(87, 1, 'Papiss Cisse')"
-31/01/2015,Manchester United,Leicester City,3,1,"(27, 0, 'Robin Van Persie')","(32, 0, 'Radamel Falcao')","(44, 0, 'Wes Morgan')","(80, 1, 'Marcin Wasilewski')"
-11/02/2015,Manchester United,Burnley,3,1,"(6, 0, 'Chris Smalling')","(12, 1, 'Danny Ings')","(45, 0, 'Chris Smalling')","(82, 0, 'Robin Van Persie')"
-04/03/2015,Newcastle United,Manchester United,0,1,"(89, 1, 'Ashley Young')"
-26/04/2015,Everton,Manchester United,3,0,"(5, 0, 'James McCarthy')","(35, 0, 'John Stones')","(74, 0, 'Kevin Mirallas')"
-02/05/2015,Manchester United,West Bromwich Albion,0,1,"(63, 1, 'Jonas Olsson')"
-09/05/2015,Crystal Palace,Manchester United,1,2,"(19, 1, 'Juan Mata')","(57, 0, 'Jason Puncheon')","(78, 1, 'Marouane Fellaini')"
-16/08/2014,Leicester City,Everton,2,2,"(20, 1, 'Aiden McGeady')","(22, 0, 'Leonardo Ulloa')","(45, 1, 'Steven Naismith')","(86, 0, 'Chris Wood')"
-27/09/2014,Crystal Palace,Leicester City,2,0,"(51, 0, 'Fraizer Campbell')","(54, 0, 'Mile Jedinak')"
-04/10/2014,Leicester City,Burnley,2,2,"(33, 0, 'Jeff Schlupp')","(39, 1, 'Michael Kightly')","(40, 0, 'Riyad Mahrez')","(90, 1, 'Ross Wallace')"
-18/10/2014,Newcastle United,Leicester City,1,0,"(71, 0, 'Gabriel Obertan')"
-01/11/2014,Leicester City,West Bromwich Albion,0,1,"(47, 1, 'Esteban Cambiasso')"
-07/02/2015,Leicester City,Crystal Palace,0,1,"(55, 1, 'Joe Ledley')"
-22/02/2015,Everton,Leicester City,2,2,"(57, 0, 'Steven Naismith')","(63, 1, 'David Nugent')","(70, 1, 'Esteban Cambiasso')","(88, 0, 'Matthew Upson')"
-11/04/2015,West Bromwich Albion,Leicester City,2,3,"(8, 0, 'Darren Fletcher')","(20, 1, 'David Nugent')","(26, 0, 'Craig Gardner')","(80, 1, 'Robert Huth')","(90, 1, 'Jamie Vardy')"
-25/04/2015,Burnley,Leicester City,0,1,"(60, 1, 'Jamie Vardy')"
-02/05/2015,Leicester City,Newcastle United,3,0,"(1, 0, 'Leonardo Ulloa')","(17, 0, 'Wes Morgan')","(48, 0, 'Leonardo Ulloa')"
-30/08/2014,Newcastle United,Crystal Palace,3,3,"(1, 1, 'Dwight Gayle')","(37, 0, 'Daryl Janmaat')","(48, 1, 'Jason Puncheon')","(73, 0, 'Rolando Aarons')","(88, 0, 'Mike Williamson')","(90, 1, 'Wilfried Zaha')"
-09/11/2014,West Bromwich Albion,Newcastle United,0,2,"(45, 1, 'Ayoze Perez')","(62, 1, 'Fabricio Coloccini')"
-02/12/2014,Burnley,Newcastle United,1,1,"(34, 0, 'George Boyd')","(48, 1, 'Papiss Cisse')"
-28/12/2014,Newcastle United,Everton,3,2,"(5, 1, 'Arouna Kone')","(34, 0, 'Papiss Cisse')","(51, 0, 'Ayoze Perez')","(68, 0, 'Jack Colback')","(84, 1, 'Kevin Mirallas')"
-01/01/2015,Newcastle United,Burnley,3,3,"(15, 0, 'Steven Taylor')","(19, 1, 'Paul Dummett')","(26, 0, 'Jack Colback')","(66, 1, 'Danny Ings')","(78, 0, 'Moussa Sissoko')","(86, 1, 'George Boyd')"
-11/02/2015,Crystal Palace,Newcastle United,1,1,"(42, 1, 'Papiss Cisse')","(71, 0, 'Fraizer Campbell')"
-15/03/2015,Everton,Newcastle United,3,0,"(20, 0, 'James McCarthy')","(56, 0, 'Romelu Lukaku')","(90, 0, 'Ross Barkley')"
-09/05/2015,Newcastle United,West Bromwich Albion,1,1,"(32, 1, 'Victor Anichebe')","(41, 0, 'Ayoze Perez')"
-13/09/2014,West Bromwich Albion,Everton,0,2,"(2, 1, 'Romelu Lukaku')","(66, 1, 'Kevin Mirallas')"
-21/09/2014,Everton,Crystal Palace,2,3,"(9, 0, 'Romelu Lukaku')","(30, 1, 'Mile Jedinak')","(54, 1, 'Fraizer Campbell')","(69, 1, 'Yannick Bolasie')","(83, 0, 'Leighton Baines')"
-26/10/2014,Burnley,Everton,1,3,"(4, 1, ""Samuel Eto'o"")","(20, 0, 'Danny Ings')","(29, 1, 'Romelu Lukaku')","(85, 1, ""Samuel Eto'o"")"
-19/01/2015,Everton,West Bromwich Albion,0,0
-31/01/2015,Crystal Palace,Everton,0,1,"(2, 1, 'Romelu Lukaku')"
-18/04/2015,Everton,Burnley,1,0,"(29, 0, 'Kevin Mirallas')"
-28/09/2014,West Bromwich Albion,Burnley,4,0,"(30, 0, 'Craig Dawson')","(45, 0, 'Saido Berahino')","(56, 0, 'Saido Berahino')","(90, 0, 'Graeme Dorrans')"
-25/10/2014,West Bromwich Albion,Crystal Palace,2,2,"(16, 1, 'Brede Hangeland')","(45, 1, 'Mile Jedinak')","(51, 0, 'Victor Anichebe')","(90, 0, 'Saido Berahino')"
-08/02/2015,Burnley,West Bromwich Albion,2,2,"(11, 0, 'Ashley Barnes')","(32, 0, 'Danny Ings')","(45, 1, 'Chris Brunt')","(67, 1, 'Brown Ideye')"
-18/04/2015,Crystal Palace,West Bromwich Albion,0,2,"(2, 1, 'James Morrison')","(53, 1, 'Craig Gardner')"
-13/09/2014,Crystal Palace,Burnley,0,0
-17/01/2015,Burnley,Crystal Palace,2,3,"(12, 0, 'Ben Mee')","(16, 0, 'Danny Ings')","(28, 1, 'Dwight Gayle')","(48, 1, 'Jason Puncheon')","(87, 1, 'Dwight Gayle')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+2014-08-16,Arsenal,Crystal Palace,2,1,"(35, 1, 'Brede Hangeland')","(45, 0, 'Laurent Koscielny')","(90, 0, 'Aaron Ramsey')",,,,,,,,,
+2014-08-16,Leicester City,Everton,2,2,"(20, 1, 'Aiden McGeady')","(22, 0, 'Leonardo Ulloa')","(45, 1, 'Steven Naismith')","(86, 0, 'Chris Wood')",,,,,,,,
+2014-08-16,Manchester United,Swansea City,1,2,"(28, 1, 'KI Sung-Yueng')","(53, 0, 'Wayne Rooney')","(72, 1, 'Gylfi Sigurdsson')",,,,,,,,,
+2014-08-16,Queens Park Rangers,Hull City,0,1,"(52, 1, 'James Chester')",,,,,,,,,,,
+2014-08-16,Stoke City,Aston Villa,0,1,"(50, 1, 'Andi Weimann')",,,,,,,,,,,
+2014-08-16,West Bromwich Albion,Sunderland,2,2,"(5, 1, 'Lee Cattermole')","(42, 0, 'Saido Berahino')","(74, 0, 'Saido Berahino')","(85, 1, 'Seb Larsson')",,,,,,,,
+2014-08-16,West Ham United,Tottenham Hotspur,0,1,"(90, 1, 'Eric Dier')",,,,,,,,,,,
+2014-08-17,Liverpool,Southampton,2,1,"(23, 0, 'Raheem Sterling')","(56, 1, 'Nathaniel Clyne')","(79, 0, 'Daniel Sturridge')",,,,,,,,,
+2014-08-17,Newcastle United,Manchester City,0,2,"(38, 1, 'David Silva')","(90, 1, 'Sergio Aguero')",,,,,,,,,,
+2014-08-18,Burnley,Chelsea,1,3,"(14, 0, 'Scott Arfield')","(17, 1, ' Diego Costa')","(21, 1, 'Andre Schurrle')","(34, 1, 'Branislav Ivanovic')",,,,,,,,
+2014-08-23,Aston Villa,Newcastle United,0,0,,,,,,,,,,,,
+2014-08-23,Chelsea,Leicester City,2,0,"(63, 0, ' Diego Costa')","(77, 0, 'Eden Hazard')",,,,,,,,,,
+2014-08-23,Crystal Palace,West Ham United,1,3,"(34, 1, 'Mauro Zarate')","(37, 1, 'Stewart Downing')","(48, 0, 'Marouane Chamakh')","(62, 1, 'Carlton Cole')",,,,,,,,
+2014-08-23,Everton,Arsenal,2,2,"(19, 0, 'Seamus Coleman')","(45, 0, 'Steven Naismith')","(83, 1, 'Aaron Ramsey')","(90, 1, 'Olivier Giroud')",,,,,,,,
+2014-08-23,Southampton,West Bromwich Albion,0,0,,,,,,,,,,,,
+2014-08-23,Swansea City,Burnley,1,0,"(23, 0, 'Nathan Dyer')",,,,,,,,,,,
+2014-08-24,Hull City,Stoke City,1,1,"(42, 0, 'Nikica Jelavic')","(83, 1, 'Ryan Shawcross')",,,,,,,,,,
+2014-08-24,Sunderland,Manchester United,1,1,"(17, 1, 'Juan Mata')","(30, 0, 'Jack Rodwell')",,,,,,,,,,
+2014-08-24,Tottenham Hotspur,Queens Park Rangers,4,0,"(12, 0, 'Nacer Chadli')","(30, 0, 'Eric Dier')","(37, 0, 'Nacer Chadli')","(65, 0, 'Emmanuel Adebayor')",,,,,,,,
+2014-08-25,Manchester City,Liverpool,3,1,"(41, 0, 'Stevan Jovetic')","(55, 0, 'Stevan Jovetic')","(69, 0, 'Sergio Aguero')","(83, 1, 'Pablo Zabaleta')",,,,,,,,
+2014-08-30,Burnley,Manchester United,0,0,,,,,,,,,,,,
+2014-08-30,Everton,Chelsea,3,6,"(1, 1, ' Diego Costa')","(3, 1, 'Branislav Ivanovic')","(45, 0, 'Kevin Mirallas')","(67, 1, 'Seamus Coleman')","(69, 0, 'Steven Naismith')","(74, 1, 'Nemanja Matic')","(76, 0, ""Samuel Eto'o"")","(77, 1, ' Ramires')","(90, 1, ' Diego Costa')",,,
+2014-08-30,Manchester City,Stoke City,0,1,"(58, 1, 'Mame Biram Diouf')",,,,,,,,,,,
+2014-08-30,Newcastle United,Crystal Palace,3,3,"(1, 1, 'Dwight Gayle')","(37, 0, 'Daryl Janmaat')","(48, 1, 'Jason Puncheon')","(73, 0, 'Rolando Aarons')","(88, 0, 'Mike Williamson')","(90, 1, 'Wilfried Zaha')",,,,,,
+2014-08-30,Queens Park Rangers,Sunderland,1,0,"(45, 0, 'Charlie Austin')",,,,,,,,,,,
+2014-08-30,Swansea City,West Bromwich Albion,3,0,"(2, 0, 'Nathan Dyer')","(24, 0, 'Wayne Routledge')","(71, 0, 'Nathan Dyer')",,,,,,,,,
+2014-08-30,West Ham United,Southampton,1,3,"(27, 0, 'Mark Noble')","(45, 1, 'Morgan Schneiderlin')","(68, 1, 'Morgan Schneiderlin')","(83, 1, 'Graziano Pelle')",,,,,,,,
+2014-08-31,Aston Villa,Hull City,2,1,"(14, 0, 'Gabby Agbonlahor')","(36, 0, 'Andi Weimann')","(74, 1, 'Nikica Jelavic')",,,,,,,,,
+2014-08-31,Leicester City,Arsenal,1,1,"(20, 1, 'Alexis Sanchez')","(22, 0, 'Leonardo Ulloa')",,,,,,,,,,
+2014-08-31,Tottenham Hotspur,Liverpool,0,3,"(8, 1, 'Raheem Sterling')","(49, 1, 'Steven Gerrard')","(60, 1, 'Alberto Moreno')",,,,,,,,,
+2014-09-13,Arsenal,Manchester City,2,2,"(28, 1, 'Sergio Aguero')","(63, 0, 'Jack Wilshere')","(74, 0, 'Alexis Sanchez')","(83, 1, 'Martin Demichelis')",,,,,,,,
+2014-09-13,Chelsea,Swansea City,4,2,"(11, 1, 'John Terry')","(45, 0, ' Diego Costa')","(56, 0, ' Diego Costa')","(67, 0, ' Diego Costa')","(81, 0, 'Loic Remy')","(86, 1, 'Jonjo Shelvey')",,,,,,
+2014-09-13,Crystal Palace,Burnley,0,0,,,,,,,,,,,,
+2014-09-13,Liverpool,Aston Villa,0,1,"(9, 1, 'Gabby Agbonlahor')",,,,,,,,,,,
+2014-09-13,Southampton,Newcastle United,4,0,"(6, 0, 'Graziano Pelle')","(19, 0, 'Graziano Pelle')","(54, 0, 'Jack Cork')","(90, 0, 'Morgan Schneiderlin')",,,,,,,,
+2014-09-13,Stoke City,Leicester City,0,1,"(64, 1, 'Leonardo Ulloa')",,,,,,,,,,,
+2014-09-13,Sunderland,Tottenham Hotspur,2,2,"(2, 1, 'Nacer Chadli')","(4, 0, 'Adam Johnson')","(48, 1, 'Christian Eriksen')","(82, 0, 'Harry Kane')",,,,,,,,
+2014-09-13,West Bromwich Albion,Everton,0,2,"(2, 1, 'Romelu Lukaku')","(66, 1, 'Kevin Mirallas')",,,,,,,,,,
+2014-09-14,Manchester United,Queens Park Rangers,4,0,"(24, 0, 'Angel Di Maria')","(36, 0, ' Ander Herrera')","(44, 0, 'Wayne Rooney')","(58, 0, 'Juan Mata')",,,,,,,,
+2014-09-15,Hull City,West Ham United,2,2,"(39, 0, 'Abel Hernandez')","(50, 1, 'Enner Valencia')","(64, 0, 'Mohamed Diame')","(67, 1, 'Diafra Sakho')",,,,,,,,
+2014-09-20,Aston Villa,Arsenal,0,3,"(32, 1, 'Mesut  Ozil')","(34, 1, 'Danny Welbeck')","(36, 1, 'Aly Cissokho')",,,,,,,,,
+2014-09-20,Burnley,Sunderland,0,0,,,,,,,,,,,,
+2014-09-20,Newcastle United,Hull City,2,2,"(48, 1, 'Nikica Jelavic')","(68, 1, 'Mohamed Diame')","(73, 0, 'Papiss Cisse')","(87, 0, 'Papiss Cisse')",,,,,,,,
+2014-09-20,Queens Park Rangers,Stoke City,2,2,"(11, 1, 'Mame Biram Diouf')","(42, 0, 'Steven Caulker')","(51, 1, 'Peter Crouch')","(88, 0, 'Niko Kranjcar')",,,,,,,,
+2014-09-20,Swansea City,Southampton,0,1,"(80, 1, 'Victor Wanyama')",,,,,,,,,,,
+2014-09-20,West Ham United,Liverpool,3,1,"(2, 0, 'Winston Reid')","(7, 0, 'Diafra Sakho')","(26, 1, 'Raheem Sterling')","(88, 0, 'Morgan Amalfitano')",,,,,,,,
+2014-09-21,Everton,Crystal Palace,2,3,"(9, 0, 'Romelu Lukaku')","(30, 1, 'Mile Jedinak')","(54, 1, 'Fraizer Campbell')","(69, 1, 'Yannick Bolasie')","(83, 0, 'Leighton Baines')",,,,,,,
+2014-09-21,Leicester City,Manchester United,5,3,"(13, 1, 'Robin Van Persie')","(16, 1, 'Angel Di Maria')","(17, 0, 'Leonardo Ulloa')","(57, 1, ' Ander Herrera')","(62, 0, 'David Nugent')","(64, 0, 'Esteban Cambiasso')","(79, 0, 'Jamie Vardy')","(83, 0, 'Leonardo Ulloa')",,,,
+2014-09-21,Manchester City,Chelsea,1,1,"(71, 1, 'Andre Schurrle')","(85, 0, 'Frank Lampard')",,,,,,,,,,
+2014-09-21,Tottenham Hotspur,West Bromwich Albion,0,1,"(74, 1, 'James Morrison')",,,,,,,,,,,
+2014-09-27,Arsenal,Tottenham Hotspur,1,1,"(56, 1, 'Nacer Chadli')","(74, 0, 'Alex Oxlade-Chamberlain')",,,,,,,,,,
+2014-09-27,Chelsea,Aston Villa,3,0,"(7, 0, ' Oscar')","(59, 0, ' Diego Costa')","(79, 0, ' Willian')",,,,,,,,,
+2014-09-27,Crystal Palace,Leicester City,2,0,"(51, 0, 'Fraizer Campbell')","(54, 0, 'Mile Jedinak')",,,,,,,,,,
+2014-09-27,Hull City,Manchester City,2,4,"(7, 1, 'Sergio Aguero')","(11, 1, 'Edin Dzeko')","(21, 0, 'Eliaquim Mangala')","(32, 0, 'Abel Hernandez')","(68, 1, 'Edin Dzeko')","(87, 1, 'Frank Lampard')",,,,,,
+2014-09-27,Liverpool,Everton,1,1,"(65, 0, 'Steven Gerrard')","(90, 1, 'Phil Jagielka')",,,,,,,,,,
+2014-09-27,Manchester United,West Ham United,2,1,"(5, 0, 'Wayne Rooney')","(22, 0, 'Robin Van Persie')","(37, 1, 'Diafra Sakho')",,,,,,,,,
+2014-09-27,Southampton,Queens Park Rangers,2,1,"(54, 0, 'Ryan Bertrand')","(66, 1, 'Charlie Austin')","(68, 0, 'Graziano Pelle')",,,,,,,,,
+2014-09-27,Sunderland,Swansea City,0,0,,,,,,,,,,,,
+2014-09-28,West Bromwich Albion,Burnley,4,0,"(30, 0, 'Craig Dawson')","(45, 0, 'Saido Berahino')","(56, 0, 'Saido Berahino')","(90, 0, 'Graeme Dorrans')",,,,,,,,
+2014-09-29,Stoke City,Newcastle United,1,0,"(15, 0, 'Peter Crouch')",,,,,,,,,,,
+2014-10-04,Aston Villa,Manchester City,0,2,"(82, 1, 'Yaya Toure')","(88, 1, 'Sergio Aguero')",,,,,,,,,,
+2014-10-04,Hull City,Crystal Palace,2,0,"(60, 0, 'Mohamed Diame')","(89, 0, 'Nikica Jelavic')",,,,,,,,,,
+2014-10-04,Leicester City,Burnley,2,2,"(33, 0, 'Jeff Schlupp')","(39, 1, 'Michael Kightly')","(40, 0, 'Riyad Mahrez')","(90, 1, 'Ross Wallace')",,,,,,,,
+2014-10-04,Liverpool,West Bromwich Albion,2,1,"(45, 0, 'Adam Lallana')","(56, 1, 'Saido Berahino')","(61, 0, 'Jordan Henderson')",,,,,,,,,
+2014-10-04,Sunderland,Stoke City,3,1,"(4, 0, 'Connor Wickham')","(15, 1, 'Charlie Adam')","(23, 0, 'Steven Fletcher')","(79, 0, 'Steven Fletcher')",,,,,,,,
+2014-10-04,Swansea City,Newcastle United,2,2,"(17, 0, 'Wilfried Bony')","(43, 1, 'Papiss Cisse')","(50, 0, 'Wayne Routledge')","(75, 1, 'Papiss Cisse')",,,,,,,,
+2014-10-05,Chelsea,Arsenal,2,0,"(27, 0, 'Eden Hazard')","(78, 0, ' Diego Costa')",,,,,,,,,,
+2014-10-05,Manchester United,Everton,2,1,"(27, 0, 'Angel Di Maria')","(55, 1, 'Steven Naismith')","(62, 0, 'Radamel Falcao')",,,,,,,,,
+2014-10-05,Tottenham Hotspur,Southampton,1,0,"(40, 0, 'Christian Eriksen')",,,,,,,,,,,
+2014-10-05,West Ham United,Queens Park Rangers,2,0,"(5, 0, 'Nedum Onuoha')","(59, 0, 'Diafra Sakho')",,,,,,,,,,
+2014-10-18,Arsenal,Hull City,2,2,"(13, 0, 'Alexis Sanchez')","(17, 1, 'Mohamed Diame')","(46, 1, 'Abel Hernandez')","(90, 0, 'Danny Welbeck')",,,,,,,,
+2014-10-18,Burnley,West Ham United,1,3,"(49, 1, 'Diafra Sakho')","(54, 1, 'Enner Valencia')","(60, 0, 'George Boyd')","(70, 1, 'Carlton Cole')",,,,,,,,
+2014-10-18,Crystal Palace,Chelsea,1,2,"(6, 1, ' Oscar')","(51, 1, 'Cesc Fabregas')","(90, 0, 'Fraizer Campbell')",,,,,,,,,
+2014-10-18,Everton,Aston Villa,3,0,"(18, 0, 'Phil Jagielka')","(48, 0, 'Romelu Lukaku')","(76, 0, 'Seamus Coleman')",,,,,,,,,
+2014-10-18,Manchester City,Tottenham Hotspur,4,1,"(13, 0, 'Sergio Aguero')","(15, 1, 'Christian Eriksen')","(20, 0, 'Sergio Aguero')","(68, 0, 'Sergio Aguero')","(75, 0, 'Sergio Aguero')",,,,,,,
+2014-10-18,Newcastle United,Leicester City,1,0,"(71, 0, 'Gabriel Obertan')",,,,,,,,,,,
+2014-10-18,Southampton,Sunderland,8,0,"(12, 0, 'Santiago Vergini')","(18, 0, 'Graziano Pelle')","(37, 0, 'Jack Cork')","(63, 0, 'Liam Bridcutt')","(69, 0, 'Graziano Pelle')","(78, 0, 'Dusan Tadic')","(79, 0, 'Victor Wanyama')","(86, 0, 'Patrick Van Aanholt')",,,,
+2014-10-19,Queens Park Rangers,Liverpool,2,3,"(67, 1, 'Richard Dunne')","(87, 0, 'Eduardo Vargas')","(90, 0, 'Steven Gerrard')","(90, 1, 'Steven Caulker')","(90, 1, 'Philippe Coutinho')",,,,,,,
+2014-10-19,Stoke City,Swansea City,2,1,"(34, 1, 'Wilfried Bony')","(43, 0, 'Charlie Adam')","(76, 0, 'Jon Walters')",,,,,,,,,
+2014-10-20,West Bromwich Albion,Manchester United,2,2,"(8, 0, 'Stephane Sessegnon')","(48, 1, 'Marouane Fellaini')","(66, 0, 'Saido Berahino')","(87, 1, 'Daley Blind')",,,,,,,,
+2014-10-25,Liverpool,Hull City,0,0,,,,,,,,,,,,
+2014-10-25,Southampton,Stoke City,1,0,"(33, 0, 'Sadio Mane')",,,,,,,,,,,
+2014-10-25,Sunderland,Arsenal,0,2,"(30, 1, 'Alexis Sanchez')","(90, 1, 'Alexis Sanchez')",,,,,,,,,,
+2014-10-25,Swansea City,Leicester City,2,0,"(34, 0, 'Wilfried Bony')","(57, 0, 'Wilfried Bony')",,,,,,,,,,
+2014-10-25,West Bromwich Albion,Crystal Palace,2,2,"(16, 1, 'Brede Hangeland')","(45, 1, 'Mile Jedinak')","(51, 0, 'Victor Anichebe')","(90, 0, 'Saido Berahino')",,,,,,,,
+2014-10-25,West Ham United,Manchester City,2,1,"(21, 0, 'Morgan Amalfitano')","(75, 0, 'Diafra Sakho')","(77, 1, 'David Silva')",,,,,,,,,
+2014-10-26,Burnley,Everton,1,3,"(4, 1, ""Samuel Eto'o"")","(20, 0, 'Danny Ings')","(29, 1, 'Romelu Lukaku')","(85, 1, ""Samuel Eto'o"")",,,,,,,,
+2014-10-26,Manchester United,Chelsea,1,1,"(53, 1, 'Didier Drogba')","(90, 0, 'Robin Van Persie')",,,,,,,,,,
+2014-10-26,Tottenham Hotspur,Newcastle United,1,2,"(18, 0, 'Emmanuel Adebayor')","(46, 1, 'Sammy Ameobi')","(58, 1, 'Ayoze Perez')",,,,,,,,,
+2014-10-27,Queens Park Rangers,Aston Villa,2,0,"(17, 0, 'Charlie Austin')","(69, 0, 'Charlie Austin')",,,,,,,,,,
+2014-11-01,Arsenal,Burnley,3,0,"(70, 0, 'Alexis Sanchez')","(72, 0, 'Calum Chambers')","(90, 0, 'Alexis Sanchez')",,,,,,,,,
+2014-11-01,Chelsea,Queens Park Rangers,2,1,"(32, 0, ' Oscar')","(62, 1, 'Charlie Austin')","(75, 0, 'Eden Hazard')",,,,,,,,,
+2014-11-01,Everton,Swansea City,0,0,,,,,,,,,,,,
+2014-11-01,Hull City,Southampton,0,1,"(3, 1, 'Victor Wanyama')",,,,,,,,,,,
+2014-11-01,Leicester City,West Bromwich Albion,0,1,"(47, 1, 'Esteban Cambiasso')",,,,,,,,,,,
+2014-11-01,Newcastle United,Liverpool,1,0,"(73, 0, 'Ayoze Perez')",,,,,,,,,,,
+2014-11-01,Stoke City,West Ham United,2,2,"(33, 0, 'Victor Moses')","(56, 0, 'Mame Biram Diouf')","(60, 1, 'Enner Valencia')","(73, 1, 'Stewart Downing')",,,,,,,,
+2014-11-02,Aston Villa,Tottenham Hotspur,1,2,"(16, 0, 'Andi Weimann')","(84, 1, 'Nacer Chadli')","(90, 1, 'Harry Kane')",,,,,,,,,
+2014-11-02,Manchester City,Manchester United,1,0,"(63, 0, 'Sergio Aguero')",,,,,,,,,,,
+2014-11-03,Crystal Palace,Sunderland,1,3,"(31, 1, 'Steven Fletcher')","(55, 0, 'Wes Brown')","(79, 1, 'Jordi Gomez')","(90, 1, 'Steven Fletcher')",,,,,,,,
+2014-11-08,Burnley,Hull City,1,0,"(50, 0, 'Ashley Barnes')",,,,,,,,,,,
+2014-11-08,Liverpool,Chelsea,1,2,"(9, 0, ' Emre Can')","(14, 1, 'Gary Cahill')","(67, 1, ' Diego Costa')",,,,,,,,,
+2014-11-08,Manchester United,Crystal Palace,1,0,"(67, 0, 'Juan Mata')",,,,,,,,,,,
+2014-11-08,Queens Park Rangers,Manchester City,2,2,"(21, 0, 'Charlie Austin')","(32, 1, 'Sergio Aguero')","(76, 0, 'Martin Demichelis')","(83, 1, 'Sergio Aguero')",,,,,,,,
+2014-11-08,Southampton,Leicester City,2,0,"(75, 0, 'Shane Long')","(80, 0, 'Shane Long')",,,,,,,,,,
+2014-11-08,West Ham United,Aston Villa,0,0,,,,,,,,,,,,
+2014-11-09,Sunderland,Everton,1,1,"(67, 0, 'Seb Larsson')","(76, 1, 'Leighton Baines')",,,,,,,,,,
+2014-11-09,Swansea City,Arsenal,2,1,"(63, 1, 'Alexis Sanchez')","(75, 0, 'Gylfi Sigurdsson')","(78, 0, 'Bafetimbi Gomis')",,,,,,,,,
+2014-11-09,Tottenham Hotspur,Stoke City,1,2,"(6, 1, 'Bojan Krkic')","(33, 1, 'Jon Walters')","(77, 0, 'Nacer Chadli')",,,,,,,,,
+2014-11-09,West Bromwich Albion,Newcastle United,0,2,"(45, 1, 'Ayoze Perez')","(62, 1, 'Fabricio Coloccini')",,,,,,,,,,
+2014-11-22,Arsenal,Manchester United,1,2,"(56, 1, 'Kieran Gibbs')","(85, 1, 'Wayne Rooney')","(90, 0, 'Olivier Giroud')",,,,,,,,,
+2014-11-22,Chelsea,West Bromwich Albion,2,0,"(11, 0, ' Diego Costa')","(25, 0, 'Eden Hazard')",,,,,,,,,,
+2014-11-22,Everton,West Ham United,2,1,"(26, 0, 'Romelu Lukaku')","(56, 1, 'Mauro Zarate')","(73, 0, 'Leon Osman')",,,,,,,,,
+2014-11-22,Leicester City,Sunderland,0,0,,,,,,,,,,,,
+2014-11-22,Manchester City,Swansea City,2,1,"(9, 1, 'Wilfried Bony')","(19, 0, 'Stevan Jovetic')","(62, 0, 'Yaya Toure')",,,,,,,,,
+2014-11-22,Newcastle United,Queens Park Rangers,1,0,"(78, 0, 'Moussa Sissoko')",,,,,,,,,,,
+2014-11-22,Stoke City,Burnley,1,2,"(12, 1, 'Danny Ings')","(13, 1, 'Danny Ings')","(32, 0, 'Jon Walters')",,,,,,,,,
+2014-11-23,Crystal Palace,Liverpool,3,1,"(2, 1, 'Rickie Lambert')","(17, 0, 'Dwight Gayle')","(78, 0, 'Joe Ledley')","(81, 0, 'Mile Jedinak')",,,,,,,,
+2014-11-23,Hull City,Tottenham Hotspur,1,2,"(8, 0, 'Jake Livermore')","(61, 1, 'Harry Kane')","(90, 1, 'Christian Eriksen')",,,,,,,,,
+2014-11-24,Aston Villa,Southampton,1,1,"(29, 0, 'Gabby Agbonlahor')","(81, 1, 'Nathaniel Clyne')",,,,,,,,,,
+2014-11-29,Burnley,Aston Villa,1,1,"(38, 1, 'Joe Cole')","(87, 0, 'Danny Ings')",,,,,,,,,,
+2014-11-29,Liverpool,Stoke City,1,0,"(85, 0, 'Glen Johnson')",,,,,,,,,,,
+2014-11-29,Manchester United,Hull City,3,0,"(16, 0, 'Chris Smalling')","(42, 0, 'Wayne Rooney')","(66, 0, 'Robin Van Persie')",,,,,,,,,
+2014-11-29,Queens Park Rangers,Leicester City,3,2,"(4, 1, 'Esteban Cambiasso')","(37, 0, 'Wes Morgan')","(45, 0, 'Leroy Fer')","(67, 1, 'Jeff Schlupp')","(73, 0, 'Charlie Austin')",,,,,,,
+2014-11-29,Sunderland,Chelsea,0,0,,,,,,,,,,,,
+2014-11-29,Swansea City,Crystal Palace,1,1,"(15, 0, 'Wilfried Bony')","(25, 1, 'Mile Jedinak')",,,,,,,,,,
+2014-11-29,West Bromwich Albion,Arsenal,0,1,"(60, 1, 'Danny Welbeck')",,,,,,,,,,,
+2014-11-29,West Ham United,Newcastle United,1,0,"(56, 0, 'Aaron Cresswell')",,,,,,,,,,,
+2014-11-30,Southampton,Manchester City,0,3,"(51, 1, 'Yaya Toure')","(80, 1, 'Frank Lampard')","(88, 1, 'Gael Clichy')",,,,,,,,,
+2014-11-30,Tottenham Hotspur,Everton,2,1,"(15, 1, 'Kevin Mirallas')","(21, 0, 'Christian Eriksen')","(45, 0, 'Roberto Soldado')",,,,,,,,,
+2014-12-02,Burnley,Newcastle United,1,1,"(34, 0, 'George Boyd')","(48, 1, 'Papiss Cisse')",,,,,,,,,,
+2014-12-02,Crystal Palace,Aston Villa,0,1,"(32, 1, 'Christian Benteke')",,,,,,,,,,,
+2014-12-02,Leicester City,Liverpool,1,3,"(22, 0, 'Simon Mignolet')","(26, 1, 'Adam Lallana')","(54, 1, 'Steven Gerrard')","(83, 1, 'Jordan Henderson')",,,,,,,,
+2014-12-02,Manchester United,Stoke City,2,1,"(21, 0, 'Marouane Fellaini')","(39, 1, ""Steven N'Zonzi"")","(59, 0, 'Juan Mata')",,,,,,,,,
+2014-12-02,Swansea City,Queens Park Rangers,2,0,"(78, 0, 'KI Sung-Yueng')","(83, 0, 'Wayne Routledge')",,,,,,,,,,
+2014-12-02,West Bromwich Albion,West Ham United,1,2,"(10, 0, 'Craig Dawson')","(35, 1, 'Kevin Nolan')","(45, 1, 'James Tomkins')",,,,,,,,,
+2014-12-03,Arsenal,Southampton,1,0,"(89, 0, 'Alexis Sanchez')",,,,,,,,,,,
+2014-12-03,Chelsea,Tottenham Hotspur,3,0,"(19, 0, 'Eden Hazard')","(22, 0, 'Didier Drogba')","(73, 0, 'Loic Remy')",,,,,,,,,
+2014-12-03,Everton,Hull City,1,1,"(34, 0, 'Romelu Lukaku')","(59, 1, 'Sone Aluko')",,,,,,,,,,
+2014-12-03,Sunderland,Manchester City,1,4,"(19, 0, 'Connor Wickham')","(21, 1, 'Sergio Aguero')","(39, 1, 'Stevan Jovetic')","(55, 1, 'Pablo Zabaleta')","(71, 1, 'Sergio Aguero')",,,,,,,
+2014-12-06,Hull City,West Bromwich Albion,0,0,,,,,,,,,,,,
+2014-12-06,Liverpool,Sunderland,0,0,,,,,,,,,,,,
+2014-12-06,Manchester City,Everton,1,0,"(24, 0, 'Yaya Toure')",,,,,,,,,,,
+2014-12-06,Newcastle United,Chelsea,2,1,"(57, 0, 'Papiss Cisse')","(78, 0, 'Papiss Cisse')","(83, 1, 'Didier Drogba')",,,,,,,,,
+2014-12-06,Queens Park Rangers,Burnley,2,0,"(51, 0, 'Leroy Fer')","(74, 0, 'Charlie Austin')",,,,,,,,,,
+2014-12-06,Stoke City,Arsenal,3,2,"(1, 0, 'Peter Crouch')","(35, 0, 'Bojan Krkic')","(45, 0, 'Jon Walters')","(68, 1, 'Santi Cazorla')","(70, 1, 'Aaron Ramsey')",,,,,,,
+2014-12-06,Tottenham Hotspur,Crystal Palace,0,0,,,,,,,,,,,,
+2014-12-07,Aston Villa,Leicester City,2,1,"(13, 1, 'Leonardo Ulloa')","(17, 0, 'Ciaran Clark')","(71, 0, 'Alan Hutton')",,,,,,,,,
+2014-12-07,West Ham United,Swansea City,3,1,"(19, 1, 'Wilfried Bony')","(41, 0, 'Andy Carroll')","(66, 0, 'Andy Carroll')","(87, 0, 'Diafra Sakho')",,,,,,,,
+2014-12-08,Southampton,Manchester United,1,2,"(12, 1, 'Robin Van Persie')","(31, 0, 'Graziano Pelle')","(71, 1, 'Robin Van Persie')",,,,,,,,,
+2014-12-13,Arsenal,Newcastle United,4,1,"(15, 0, 'Olivier Giroud')","(54, 0, 'Santi Cazorla')","(58, 0, 'Olivier Giroud')","(63, 1, 'Ayoze Perez')","(88, 0, 'Santi Cazorla')",,,,,,,
+2014-12-13,Burnley,Southampton,1,0,"(73, 0, 'Ashley Barnes')",,,,,,,,,,,
+2014-12-13,Chelsea,Hull City,2,0,"(7, 0, 'Eden Hazard')","(68, 0, ' Diego Costa')",,,,,,,,,,
+2014-12-13,Crystal Palace,Stoke City,1,1,"(11, 0, 'James McArthur')","(13, 1, 'Peter Crouch')",,,,,,,,,,
+2014-12-13,Leicester City,Manchester City,0,1,"(40, 1, 'Frank Lampard')",,,,,,,,,,,
+2014-12-13,Sunderland,West Ham United,1,1,"(22, 0, 'Jordi Gomez')","(29, 1, 'Stewart Downing')",,,,,,,,,,
+2014-12-13,West Bromwich Albion,Aston Villa,1,0,"(72, 0, 'Craig Gardner')",,,,,,,,,,,
+2014-12-14,Manchester United,Liverpool,3,0,"(12, 0, 'Wayne Rooney')","(40, 0, 'Juan Mata')","(71, 0, 'Robin Van Persie')",,,,,,,,,
+2014-12-14,Swansea City,Tottenham Hotspur,1,2,"(4, 1, 'Harry Kane')","(48, 0, 'Wilfried Bony')","(89, 1, 'Christian Eriksen')",,,,,,,,,
+2014-12-15,Everton,Queens Park Rangers,3,1,"(33, 0, 'Ross Barkley')","(43, 0, 'Kevin Mirallas')","(53, 0, 'Nedum Onuoha')","(80, 1, 'Bobby Zamora')",,,,,,,,
+2014-12-20,Aston Villa,Manchester United,1,1,"(18, 0, 'Christian Benteke')","(53, 1, 'Radamel Falcao')",,,,,,,,,,
+2014-12-20,Hull City,Swansea City,0,1,"(15, 1, 'KI Sung-Yueng')",,,,,,,,,,,
+2014-12-20,Manchester City,Crystal Palace,3,0,"(49, 0, 'David Silva')","(61, 0, 'David Silva')","(81, 0, 'Yaya Toure')",,,,,,,,,
+2014-12-20,Queens Park Rangers,West Bromwich Albion,3,2,"(10, 1, 'Joleon Lescott')","(20, 1, ' Silvestre Varela')","(24, 0, 'Charlie Austin')","(48, 0, 'Charlie Austin')","(86, 0, 'Charlie Austin')",,,,,,,
+2014-12-20,Southampton,Everton,3,0,"(38, 0, 'Romelu Lukaku')","(65, 0, 'Graziano Pelle')","(82, 0, 'Maya Yoshida')",,,,,,,,,
+2014-12-20,Tottenham Hotspur,Burnley,2,1,"(21, 0, 'Harry Kane')","(27, 1, 'Ashley Barnes')","(35, 0, 'Erik Lamela')",,,,,,,,,
+2014-12-20,West Ham United,Leicester City,2,0,"(24, 0, 'Andy Carroll')","(56, 0, 'Stewart Downing')",,,,,,,,,,
+2014-12-21,Liverpool,Arsenal,2,2,"(45, 0, 'Philippe Coutinho')","(45, 1, 'Mathieu Debuchy')","(64, 1, 'Olivier Giroud')","(90, 0, 'Martin Skrtel')",,,,,,,,
+2014-12-21,Newcastle United,Sunderland,0,1,"(90, 1, 'Adam Johnson')",,,,,,,,,,,
+2014-12-22,Stoke City,Chelsea,0,2,"(2, 1, 'John Terry')","(78, 1, 'Cesc Fabregas')",,,,,,,,,,
+2014-12-26,Arsenal,Queens Park Rangers,2,1,"(37, 0, 'Alexis Sanchez')","(65, 0, 'Tomas Rosicky')","(79, 1, 'Charlie Austin')",,,,,,,,,
+2014-12-26,Burnley,Liverpool,0,1,"(62, 1, 'Raheem Sterling')",,,,,,,,,,,
+2014-12-26,Chelsea,West Ham United,2,0,"(31, 0, 'John Terry')","(62, 0, ' Diego Costa')",,,,,,,,,,
+2014-12-26,Crystal Palace,Southampton,1,3,"(17, 1, 'Sadio Mane')","(48, 1, 'Ryan Bertrand')","(53, 1, 'Toby Alderweireld')","(86, 0, 'Scott Dann')",,,,,,,,
+2014-12-26,Everton,Stoke City,0,1,"(38, 1, 'Bojan Krkic')",,,,,,,,,,,
+2014-12-26,Leicester City,Tottenham Hotspur,1,2,"(1, 1, 'Harry Kane')","(48, 0, 'Leonardo Ulloa')","(71, 1, 'Christian Eriksen')",,,,,,,,,
+2014-12-26,Manchester United,Newcastle United,3,1,"(23, 0, 'Wayne Rooney')","(36, 0, 'Wayne Rooney')","(53, 0, 'Robin Van Persie')","(87, 1, 'Papiss Cisse')",,,,,,,,
+2014-12-26,Sunderland,Hull City,1,3,"(1, 0, 'Adam Johnson')","(32, 1, 'Gaston Ramirez')","(51, 1, 'James Chester')","(90, 1, 'Nikica Jelavic')",,,,,,,,
+2014-12-26,Swansea City,Aston Villa,1,0,"(13, 0, 'Gylfi Sigurdsson')",,,,,,,,,,,
+2014-12-26,West Bromwich Albion,Manchester City,1,3,"(8, 1, ' Fernando')","(13, 1, 'Yaya Toure')","(34, 1, 'David Silva')","(87, 0, 'Brown Ideye')",,,,,,,,
+2014-12-28,Aston Villa,Sunderland,0,0,,,,,,,,,,,,
+2014-12-28,Hull City,Leicester City,0,1,"(32, 1, 'Riyad Mahrez')",,,,,,,,,,,
+2014-12-28,Manchester City,Burnley,2,2,"(23, 0, 'David Silva')","(33, 0, ' Fernandinho')","(47, 1, 'George Boyd')","(81, 1, 'Ashley Barnes')",,,,,,,,
+2014-12-28,Newcastle United,Everton,3,2,"(5, 1, 'Arouna Kone')","(34, 0, 'Papiss Cisse')","(51, 0, 'Ayoze Perez')","(68, 0, 'Jack Colback')","(84, 1, 'Kevin Mirallas')",,,,,,,
+2014-12-28,Queens Park Rangers,Crystal Palace,0,0,,,,,,,,,,,,
+2014-12-28,Southampton,Chelsea,1,1,"(17, 0, 'Sadio Mane')","(45, 1, 'Eden Hazard')",,,,,,,,,,
+2014-12-28,Stoke City,West Bromwich Albion,2,0,"(51, 0, 'Mame Biram Diouf')","(66, 0, 'Mame Biram Diouf')",,,,,,,,,,
+2014-12-28,Tottenham Hotspur,Manchester United,0,0,,,,,,,,,,,,
+2014-12-28,West Ham United,Arsenal,1,2,"(41, 1, 'Santi Cazorla')","(44, 1, 'Danny Welbeck')","(54, 0, 'Cheikhou Kouyate')",,,,,,,,,
+2014-12-29,Liverpool,Swansea City,4,1,"(33, 0, 'Alberto Moreno')","(51, 0, 'Adam Lallana')","(52, 1, 'Gylfi Sigurdsson')","(61, 0, 'Adam Lallana')","(69, 0, 'Jonjo Shelvey')",,,,,,,
+2015-01-01,Aston Villa,Crystal Palace,0,0,,,,,,,,,,,,
+2015-01-01,Hull City,Everton,2,0,"(33, 0, 'Ahmed Elmohamady')","(43, 0, 'Nikica Jelavic')",,,,,,,,,,
+2015-01-01,Liverpool,Leicester City,2,2,"(17, 0, 'Steven Gerrard')","(40, 0, 'Steven Gerrard')","(58, 1, 'David Nugent')","(60, 1, 'Jeff Schlupp')",,,,,,,,
+2015-01-01,Manchester City,Sunderland,3,2,"(57, 0, 'Yaya Toure')","(66, 0, 'Stevan Jovetic')","(68, 1, 'Jack Rodwell')","(71, 1, 'Adam Johnson')","(73, 0, 'Frank Lampard')",,,,,,,
+2015-01-01,Newcastle United,Burnley,3,3,"(15, 0, 'Steven Taylor')","(19, 1, 'Paul Dummett')","(26, 0, 'Jack Colback')","(66, 1, 'Danny Ings')","(78, 0, 'Moussa Sissoko')","(86, 1, 'George Boyd')",,,,,,
+2015-01-01,Queens Park Rangers,Swansea City,1,1,"(20, 0, 'Leroy Fer')","(90, 1, 'Wilfried Bony')",,,,,,,,,,
+2015-01-01,Southampton,Arsenal,2,0,"(34, 0, 'Sadio Mane')","(56, 0, 'Dusan Tadic')",,,,,,,,,,
+2015-01-01,Stoke City,Manchester United,1,1,"(2, 0, 'Ryan Shawcross')","(26, 1, 'Radamel Falcao')",,,,,,,,,,
+2015-01-01,Tottenham Hotspur,Chelsea,5,3,"(18, 1, ' Diego Costa')","(30, 0, 'Harry Kane')","(44, 0, 'Danny Rose')","(45, 0, 'Andros Townsend')","(52, 0, 'Harry Kane')","(61, 1, 'Eden Hazard')","(78, 0, 'Nacer Chadli')","(87, 1, 'John Terry')",,,,
+2015-01-01,West Ham United,West Bromwich Albion,1,1,"(10, 0, 'Diafra Sakho')","(42, 1, 'Saido Berahino')",,,,,,,,,,
+2015-01-10,Burnley,Queens Park Rangers,2,1,"(12, 0, 'Scott Arfield')","(33, 1, 'Charlie Austin')","(37, 0, 'Danny Ings')",,,,,,,,,
+2015-01-10,Chelsea,Newcastle United,2,0,"(43, 0, ' Oscar')","(59, 0, ' Diego Costa')",,,,,,,,,,
+2015-01-10,Crystal Palace,Tottenham Hotspur,2,1,"(49, 1, 'Harry Kane')","(69, 0, 'Dwight Gayle')","(80, 0, 'Jason Puncheon')",,,,,,,,,
+2015-01-10,Everton,Manchester City,1,1,"(69, 1, ' Fernandinho')","(78, 0, 'Steven Naismith')",,,,,,,,,,
+2015-01-10,Leicester City,Aston Villa,1,0,"(45, 0, 'Paul Konchesky')",,,,,,,,,,,
+2015-01-10,Sunderland,Liverpool,0,1,"(9, 1, 'Lazar Markovic')",,,,,,,,,,,
+2015-01-10,Swansea City,West Ham United,1,1,"(43, 1, 'Andy Carroll')","(74, 0, 'Mark Noble')",,,,,,,,,,
+2015-01-10,West Bromwich Albion,Hull City,1,0,"(78, 0, 'Saido Berahino')",,,,,,,,,,,
+2015-01-11,Arsenal,Stoke City,3,0,"(6, 0, 'Laurent Koscielny')","(33, 0, 'Alexis Sanchez')","(49, 0, 'Alexis Sanchez')",,,,,,,,,
+2015-01-11,Manchester United,Southampton,0,1,"(69, 1, 'Dusan Tadic')",,,,,,,,,,,
+2015-01-17,Aston Villa,Liverpool,0,2,"(24, 1, 'Fabio Borini')","(79, 1, 'Rickie Lambert')",,,,,,,,,,
+2015-01-17,Burnley,Crystal Palace,2,3,"(12, 0, 'Ben Mee')","(16, 0, 'Danny Ings')","(28, 1, 'Dwight Gayle')","(48, 1, 'Jason Puncheon')","(87, 1, 'Dwight Gayle')",,,,,,,
+2015-01-17,Leicester City,Stoke City,0,1,"(63, 1, 'Bojan Krkic')",,,,,,,,,,,
+2015-01-17,Newcastle United,Southampton,1,2,"(14, 1, 'Eljero Elia')","(29, 0, 'Yoan Gouffran')","(62, 1, 'Eljero Elia')",,,,,,,,,
+2015-01-17,Queens Park Rangers,Manchester United,0,2,"(58, 1, 'Marouane Fellaini')","(90, 1, 'James Wilson')",,,,,,,,,,
+2015-01-17,Swansea City,Chelsea,0,5,"(1, 1, ' Oscar')","(20, 1, ' Diego Costa')","(34, 1, ' Diego Costa')","(36, 1, ' Oscar')","(79, 1, 'Andre Schurrle')",,,,,,,
+2015-01-17,Tottenham Hotspur,Sunderland,2,1,"(3, 0, ""John O'Shea"")","(31, 1, 'Seb Larsson')","(88, 0, 'Christian Eriksen')",,,,,,,,,
+2015-01-18,Manchester City,Arsenal,0,2,"(24, 1, 'Santi Cazorla')","(67, 1, 'Olivier Giroud')",,,,,,,,,,
+2015-01-18,West Ham United,Hull City,3,0,"(49, 0, 'Andy Carroll')","(69, 0, 'Morgan Amalfitano')","(72, 0, 'Stewart Downing')",,,,,,,,,
+2015-01-19,Everton,West Bromwich Albion,0,0,,,,,,,,,,,,
+2015-01-31,Chelsea,Manchester City,1,1,"(41, 0, 'Loic Remy')","(45, 1, 'David Silva')",,,,,,,,,,
+2015-01-31,Crystal Palace,Everton,0,1,"(2, 1, 'Romelu Lukaku')",,,,,,,,,,,
+2015-01-31,Hull City,Newcastle United,0,3,"(40, 1, 'Remy Cabella')","(50, 1, 'Sammy Ameobi')","(78, 1, 'Yoan Gouffran')",,,,,,,,,
+2015-01-31,Liverpool,West Ham United,2,0,"(51, 0, 'Raheem Sterling')","(80, 0, 'Daniel Sturridge')",,,,,,,,,,
+2015-01-31,Manchester United,Leicester City,3,1,"(27, 0, 'Robin Van Persie')","(32, 0, 'Radamel Falcao')","(44, 0, 'Wes Morgan')","(80, 1, 'Marcin Wasilewski')",,,,,,,,
+2015-01-31,Stoke City,Queens Park Rangers,3,1,"(21, 0, 'Jon Walters')","(34, 0, 'Jon Walters')","(36, 1, 'Niko Kranjcar')","(90, 0, 'Jon Walters')",,,,,,,,
+2015-01-31,Sunderland,Burnley,2,0,"(20, 0, 'Connor Wickham')","(34, 0, 'Jermain Defoe')",,,,,,,,,,
+2015-01-31,West Bromwich Albion,Tottenham Hotspur,0,3,"(6, 1, 'Christian Eriksen')","(15, 1, 'Harry Kane')","(64, 1, 'Harry Kane')",,,,,,,,,
+2015-02-01,Arsenal,Aston Villa,5,0,"(8, 0, 'Olivier Giroud')","(56, 0, 'Mesut  Ozil')","(63, 0, 'Theo Walcott')","(75, 0, 'Santi Cazorla')","(90, 0, 'Hector Bellerin')",,,,,,,
+2015-02-01,Southampton,Swansea City,0,1,"(83, 1, 'Jonjo Shelvey')",,,,,,,,,,,
+2015-02-07,Aston Villa,Chelsea,1,2,"(8, 1, 'Eden Hazard')","(48, 0, 'Jores Okore')","(66, 1, 'Branislav Ivanovic')",,,,,,,,,
+2015-02-07,Everton,Liverpool,0,0,,,,,,,,,,,,
+2015-02-07,Leicester City,Crystal Palace,0,1,"(55, 1, 'Joe Ledley')",,,,,,,,,,,
+2015-02-07,Manchester City,Hull City,1,1,"(35, 1, 'David Meyler')","(90, 0, 'James Milner')",,,,,,,,,,
+2015-02-07,Queens Park Rangers,Southampton,0,1,"(90, 1, 'Sadio Mane')",,,,,,,,,,,
+2015-02-07,Swansea City,Sunderland,1,1,"(42, 1, 'Jermain Defoe')","(66, 0, 'KI Sung-Yueng')",,,,,,,,,,
+2015-02-07,Tottenham Hotspur,Arsenal,2,1,"(11, 1, 'Mesut  Ozil')","(56, 0, 'Harry Kane')","(86, 0, 'Harry Kane')",,,,,,,,,
+2015-02-08,Burnley,West Bromwich Albion,2,2,"(11, 0, 'Ashley Barnes')","(32, 0, 'Danny Ings')","(45, 1, 'Chris Brunt')","(67, 1, 'Brown Ideye')",,,,,,,,
+2015-02-08,Newcastle United,Stoke City,1,1,"(74, 0, 'Jack Colback')","(90, 1, 'Peter Crouch')",,,,,,,,,,
+2015-02-08,West Ham United,Manchester United,1,1,"(49, 0, 'Cheikhou Kouyate')","(90, 1, 'Daley Blind')",,,,,,,,,,
+2015-02-10,Arsenal,Leicester City,2,1,"(27, 0, 'Laurent Koscielny')","(41, 0, 'Theo Walcott')","(61, 1, 'Andrej Kramaric')",,,,,,,,,
+2015-02-10,Hull City,Aston Villa,2,0,"(22, 0, 'Nikica Jelavic')","(74, 0, ""Dame N'Doye"")",,,,,,,,,,
+2015-02-10,Liverpool,Tottenham Hotspur,3,2,"(15, 0, 'Lazar Markovic')","(26, 1, 'Harry Kane')","(53, 0, 'Steven Gerrard')","(61, 1, 'Moussa Dembele')","(83, 0, 'Mario Balotelli')",,,,,,,
+2015-02-10,Sunderland,Queens Park Rangers,0,2,"(17, 1, 'Leroy Fer')","(45, 1, 'Bobby Zamora')",,,,,,,,,,
+2015-02-11,Chelsea,Everton,1,0,"(89, 0, ' Willian')",,,,,,,,,,,
+2015-02-11,Crystal Palace,Newcastle United,1,1,"(42, 1, 'Papiss Cisse')","(71, 0, 'Fraizer Campbell')",,,,,,,,,,
+2015-02-11,Manchester United,Burnley,3,1,"(6, 0, 'Chris Smalling')","(12, 1, 'Danny Ings')","(45, 0, 'Chris Smalling')","(82, 0, 'Robin Van Persie')",,,,,,,,
+2015-02-11,Southampton,West Ham United,0,0,,,,,,,,,,,,
+2015-02-11,Stoke City,Manchester City,1,4,"(33, 1, 'Sergio Aguero')","(38, 0, 'Peter Crouch')","(55, 1, 'James Milner')","(70, 1, 'Sergio Aguero')","(76, 1, 'Samir Nasri')",,,,,,,
+2015-02-11,West Bromwich Albion,Swansea City,2,0,"(60, 0, 'Brown Ideye')","(74, 0, 'Saido Berahino')",,,,,,,,,,
+2015-02-21,Aston Villa,Stoke City,1,2,"(20, 0, 'Scott Sinclair')","(45, 1, 'Mame Biram Diouf')","(90, 1, 'Victor Moses')",,,,,,,,,
+2015-02-21,Chelsea,Burnley,1,1,"(14, 0, 'Branislav Ivanovic')","(81, 1, 'Ben Mee')",,,,,,,,,,
+2015-02-21,Crystal Palace,Arsenal,1,2,"(8, 1, 'Santi Cazorla')","(45, 1, 'Olivier Giroud')","(90, 0, 'Glenn Murray')",,,,,,,,,
+2015-02-21,Hull City,Queens Park Rangers,2,1,"(16, 0, 'Nikica Jelavic')","(39, 1, 'Charlie Austin')","(89, 0, ""Dame N'Doye"")",,,,,,,,,
+2015-02-21,Manchester City,Newcastle United,5,0,"(2, 0, 'Sergio Aguero')","(12, 0, 'Samir Nasri')","(21, 0, 'Edin Dzeko')","(51, 0, 'David Silva')","(53, 0, 'David Silva')",,,,,,,
+2015-02-21,Sunderland,West Bromwich Albion,0,0,,,,,,,,,,,,
+2015-02-21,Swansea City,Manchester United,2,1,"(28, 1, ' Ander Herrera')","(30, 0, 'KI Sung-Yueng')","(73, 0, 'Bafetimbi Gomis')",,,,,,,,,
+2015-02-22,Everton,Leicester City,2,2,"(57, 0, 'Steven Naismith')","(63, 1, 'David Nugent')","(70, 1, 'Esteban Cambiasso')","(88, 0, 'Matthew Upson')",,,,,,,,
+2015-02-22,Southampton,Liverpool,0,2,"(3, 1, 'Philippe Coutinho')","(73, 1, 'Raheem Sterling')",,,,,,,,,,
+2015-02-22,Tottenham Hotspur,West Ham United,2,2,"(22, 1, 'Cheikhou Kouyate')","(62, 1, 'Diafra Sakho')","(81, 0, 'Danny Rose')","(90, 0, 'Harry Kane')",,,,,,,,
+2015-02-28,Burnley,Swansea City,0,1,"(64, 1, 'Tom Heaton')",,,,,,,,,,,
+2015-02-28,Manchester United,Sunderland,2,0,"(66, 0, 'Wayne Rooney')","(84, 0, 'Wayne Rooney')",,,,,,,,,,
+2015-02-28,Newcastle United,Aston Villa,1,0,"(37, 0, 'Papiss Cisse')",,,,,,,,,,,
+2015-02-28,Stoke City,Hull City,1,0,"(71, 0, 'Peter Crouch')",,,,,,,,,,,
+2015-02-28,West Bromwich Albion,Southampton,1,0,"(2, 0, 'Saido Berahino')",,,,,,,,,,,
+2015-02-28,West Ham United,Crystal Palace,1,3,"(41, 1, 'Glenn Murray')","(51, 1, 'Scott Dann')","(63, 1, 'Glenn Murray')","(76, 0, 'Enner Valencia')",,,,,,,,
+2015-03-01,Arsenal,Everton,2,0,"(39, 0, 'Olivier Giroud')","(89, 0, 'Tomas Rosicky')",,,,,,,,,,
+2015-03-01,Liverpool,Manchester City,2,1,"(11, 0, 'Jordan Henderson')","(25, 1, 'Edin Dzeko')","(75, 0, 'Philippe Coutinho')",,,,,,,,,
+2015-03-03,Aston Villa,West Bromwich Albion,2,1,"(22, 0, 'Gabby Agbonlahor')","(66, 1, 'Saido Berahino')","(90, 0, 'Christian Benteke')",,,,,,,,,
+2015-03-03,Hull City,Sunderland,1,1,"(15, 0, ""Dame N'Doye"")","(77, 1, 'Jack Rodwell')",,,,,,,,,,
+2015-03-03,Southampton,Crystal Palace,1,0,"(83, 0, 'Sadio Mane')",,,,,,,,,,,
+2015-03-04,Liverpool,Burnley,2,0,"(29, 0, 'Jordan Henderson')","(51, 0, 'Daniel Sturridge')",,,,,,,,,,
+2015-03-04,Manchester City,Leicester City,2,0,"(45, 0, 'David Silva')","(88, 0, 'James Milner')",,,,,,,,,,
+2015-03-04,Newcastle United,Manchester United,0,1,"(89, 1, 'Ashley Young')",,,,,,,,,,,
+2015-03-04,Queens Park Rangers,Arsenal,1,2,"(64, 1, 'Olivier Giroud')","(69, 1, 'Alexis Sanchez')","(82, 0, 'Charlie Austin')",,,,,,,,,
+2015-03-04,Stoke City,Everton,2,0,"(32, 0, 'Victor Moses')","(84, 0, 'Mame Biram Diouf')",,,,,,,,,,
+2015-03-04,Tottenham Hotspur,Swansea City,3,2,"(7, 0, 'Nacer Chadli')","(19, 1, 'KI Sung-Yueng')","(51, 0, 'Ryan Mason')","(60, 0, 'Andros Townsend')","(89, 1, 'Gylfi Sigurdsson')",,,,,,,
+2015-03-04,West Ham United,Chelsea,0,1,"(22, 1, 'Eden Hazard')",,,,,,,,,,,
+2015-03-07,Queens Park Rangers,Tottenham Hotspur,1,2,"(34, 1, 'Harry Kane')","(68, 1, 'Harry Kane')","(75, 0, ' Sandro')",,,,,,,,,
+2015-03-14,Arsenal,West Ham United,3,0,"(45, 0, 'Olivier Giroud')","(81, 0, 'Aaron Ramsey')","(84, 0, 'Mathieu Flamini')",,,,,,,,,
+2015-03-14,Burnley,Manchester City,1,0,"(61, 0, 'George Boyd')",,,,,,,,,,,
+2015-03-14,Crystal Palace,Queens Park Rangers,3,1,"(21, 0, 'Wilfried Zaha')","(40, 0, 'James McArthur')","(42, 0, 'Joel Ward')","(83, 1, 'Matt Phillips')",,,,,,,,
+2015-03-14,Leicester City,Hull City,0,0,,,,,,,,,,,,
+2015-03-14,Sunderland,Aston Villa,0,4,"(16, 1, 'Christian Benteke')","(18, 1, 'Gabby Agbonlahor')","(37, 1, 'Gabby Agbonlahor')","(44, 1, 'Christian Benteke')",,,,,,,,
+2015-03-14,West Bromwich Albion,Stoke City,1,0,"(19, 0, 'Brown Ideye')",,,,,,,,,,,
+2015-03-15,Chelsea,Southampton,1,1,"(11, 0, ' Diego Costa')","(19, 1, 'Dusan Tadic')",,,,,,,,,,
+2015-03-15,Everton,Newcastle United,3,0,"(20, 0, 'James McCarthy')","(56, 0, 'Romelu Lukaku')","(90, 0, 'Ross Barkley')",,,,,,,,,
+2015-03-15,Manchester United,Tottenham Hotspur,3,0,"(9, 0, 'Marouane Fellaini')","(19, 0, 'Michael Carrick')","(34, 0, 'Wayne Rooney')",,,,,,,,,
+2015-03-16,Swansea City,Liverpool,0,1,"(68, 1, 'Jordan Henderson')",,,,,,,,,,,
+2015-03-21,Aston Villa,Swansea City,0,1,"(87, 1, 'Bafetimbi Gomis')",,,,,,,,,,,
+2015-03-21,Manchester City,West Bromwich Albion,3,0,"(27, 0, 'Wilfried Bony')","(40, 0, ' Fernando')","(77, 0, 'David Silva')",,,,,,,,,
+2015-03-21,Newcastle United,Arsenal,1,2,"(24, 1, 'Olivier Giroud')","(28, 1, 'Olivier Giroud')","(48, 0, 'Moussa Sissoko')",,,,,,,,,
+2015-03-21,Southampton,Burnley,2,0,"(37, 0, 'Shane Long')","(58, 0, 'Jason Shackell')",,,,,,,,,,
+2015-03-21,Stoke City,Crystal Palace,1,2,"(14, 0, 'Mame Biram Diouf')","(41, 1, 'Glenn Murray')","(45, 1, 'Wilfried Zaha')",,,,,,,,,
+2015-03-21,Tottenham Hotspur,Leicester City,4,3,"(6, 0, 'Harry Kane')","(13, 0, 'Harry Kane')","(38, 1, 'Jamie Vardy')","(50, 1, 'Wes Morgan')","(64, 0, 'Harry Kane')","(85, 0, 'Jeff Schlupp')","(90, 1, 'David Nugent')",,,,,
+2015-03-21,West Ham United,Sunderland,1,0,"(88, 0, 'Diafra Sakho')",,,,,,,,,,,
+2015-03-22,Hull City,Chelsea,2,3,"(2, 1, 'Eden Hazard')","(9, 1, ' Diego Costa')","(26, 0, 'Ahmed Elmohamady')","(28, 0, 'Abel Hernandez')","(77, 1, 'Loic Remy')",,,,,,,
+2015-03-22,Liverpool,Manchester United,1,2,"(14, 1, 'Juan Mata')","(59, 1, 'Juan Mata')","(69, 0, 'Daniel Sturridge')",,,,,,,,,
+2015-03-22,Queens Park Rangers,Everton,1,2,"(18, 1, 'Seamus Coleman')","(65, 0, 'Eduardo Vargas')","(77, 1, 'Aaron Lennon')",,,,,,,,,
+2015-04-04,Arsenal,Liverpool,4,1,"(37, 0, 'Hector Bellerin')","(40, 0, 'Mesut  Ozil')","(45, 0, 'Alexis Sanchez')","(76, 1, 'Jordan Henderson')","(90, 0, 'Olivier Giroud')",,,,,,,
+2015-04-04,Chelsea,Stoke City,2,1,"(39, 0, 'Eden Hazard')","(44, 1, 'Charlie Adam')","(62, 0, 'Loic Remy')",,,,,,,,,
+2015-04-04,Everton,Southampton,1,0,"(16, 0, 'Phil Jagielka')",,,,,,,,,,,
+2015-04-04,Leicester City,West Ham United,2,1,"(12, 0, 'Esteban Cambiasso')","(32, 1, 'Cheikhou Kouyate')","(86, 0, 'Andy King')",,,,,,,,,
+2015-04-04,Manchester United,Aston Villa,3,1,"(43, 0, ' Ander Herrera')","(79, 0, 'Wayne Rooney')","(80, 1, 'Christian Benteke')","(90, 0, ' Ander Herrera')",,,,,,,,
+2015-04-04,Swansea City,Hull City,3,1,"(18, 0, 'KI Sung-Yueng')","(37, 0, 'Bafetimbi Gomis')","(50, 1, 'Paul McShane')","(90, 0, 'Bafetimbi Gomis')",,,,,,,,
+2015-04-04,West Bromwich Albion,Queens Park Rangers,1,4,"(15, 1, 'Eduardo Vargas')","(37, 1, 'Charlie Austin')","(43, 1, 'Bobby Zamora')","(58, 0, 'Victor Anichebe')","(90, 1, 'Joey Barton')",,,,,,,
+2015-04-05,Burnley,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2015-04-05,Sunderland,Newcastle United,1,0,"(45, 0, 'Jermain Defoe')",,,,,,,,,,,
+2015-04-06,Crystal Palace,Manchester City,2,1,"(34, 0, 'Glenn Murray')","(48, 0, 'Jason Puncheon')","(78, 1, 'Yaya Toure')",,,,,,,,,
+2015-04-07,Aston Villa,Queens Park Rangers,3,3,"(7, 1, 'Matt Phillips')","(10, 0, 'Christian Benteke')","(33, 0, 'Christian Benteke')","(55, 1, 'Clint Hill')","(78, 1, 'Charlie Austin')","(83, 0, 'Christian Benteke')",,,,,,
+2015-04-11,Burnley,Arsenal,0,1,"(12, 1, 'Aaron Ramsey')",,,,,,,,,,,
+2015-04-11,Southampton,Hull City,2,0,"(56, 0, 'James Ward-Prowse')","(81, 0, 'Graziano Pelle')",,,,,,,,,,
+2015-04-11,Sunderland,Crystal Palace,1,4,"(48, 1, 'Glenn Murray')","(51, 1, 'Yannick Bolasie')","(53, 1, 'Yannick Bolasie')","(62, 1, 'Yannick Bolasie')","(90, 0, 'Connor Wickham')",,,,,,,
+2015-04-11,Swansea City,Everton,1,1,"(41, 1, 'Aaron Lennon')","(69, 0, 'Jonjo Shelvey')",,,,,,,,,,
+2015-04-11,Tottenham Hotspur,Aston Villa,0,1,"(35, 1, 'Christian Benteke')",,,,,,,,,,,
+2015-04-11,West Bromwich Albion,Leicester City,2,3,"(8, 0, 'Darren Fletcher')","(20, 1, 'David Nugent')","(26, 0, 'Craig Gardner')","(80, 1, 'Robert Huth')","(90, 1, 'Jamie Vardy')",,,,,,,
+2015-04-11,West Ham United,Stoke City,1,1,"(7, 0, 'Aaron Cresswell')","(90, 1, 'Marko Arnautovic')",,,,,,,,,,
+2015-04-12,Manchester United,Manchester City,4,2,"(8, 1, 'Sergio Aguero')","(14, 0, 'Ashley Young')","(27, 0, 'Marouane Fellaini')","(67, 0, 'Juan Mata')","(73, 0, 'Chris Smalling')","(89, 1, 'Sergio Aguero')",,,,,,
+2015-04-12,Queens Park Rangers,Chelsea,0,1,"(88, 1, 'Cesc Fabregas')",,,,,,,,,,,
+2015-04-13,Liverpool,Newcastle United,2,0,"(9, 0, 'Raheem Sterling')","(70, 0, 'Joe Allen')",,,,,,,,,,
+2015-04-18,Chelsea,Manchester United,1,0,"(38, 0, 'Eden Hazard')",,,,,,,,,,,
+2015-04-18,Crystal Palace,West Bromwich Albion,0,2,"(2, 1, 'James Morrison')","(53, 1, 'Craig Gardner')",,,,,,,,,,
+2015-04-18,Everton,Burnley,1,0,"(29, 0, 'Kevin Mirallas')",,,,,,,,,,,
+2015-04-18,Leicester City,Swansea City,2,0,"(15, 0, 'Leonardo Ulloa')","(89, 0, 'Andy King')",,,,,,,,,,
+2015-04-18,Stoke City,Southampton,2,1,"(22, 1, 'Morgan Schneiderlin')","(47, 0, 'Mame Biram Diouf')","(84, 0, 'Charlie Adam')",,,,,,,,,
+2015-04-19,Manchester City,West Ham United,2,0,"(18, 0, 'James M Collins')","(36, 0, 'Sergio Aguero')",,,,,,,,,,
+2015-04-19,Newcastle United,Tottenham Hotspur,1,3,"(30, 1, 'Nacer Chadli')","(46, 0, 'Jack Colback')","(53, 1, 'Christian Eriksen')","(90, 1, 'Harry Kane')",,,,,,,,
+2015-04-25,Burnley,Leicester City,0,1,"(60, 1, 'Jamie Vardy')",,,,,,,,,,,
+2015-04-25,Crystal Palace,Hull City,0,2,"(51, 1, ""Dame N'Doye"")","(90, 1, ""Dame N'Doye"")",,,,,,,,,,
+2015-04-25,Manchester City,Aston Villa,3,2,"(3, 0, 'Sergio Aguero')","(66, 0, 'Aleksandar Kolarov')","(68, 1, 'Tom Cleverley')","(85, 1, 'Carlos Sanchez')","(89, 0, ' Fernandinho')",,,,,,,
+2015-04-25,Newcastle United,Swansea City,2,3,"(20, 0, 'Ayoze Perez')","(45, 1, ' Nelson Oliveira')","(49, 1, 'Gylfi Sigurdsson')","(71, 1, 'Jack Cork')","(87, 0, 'Siem De Jong')",,,,,,,
+2015-04-25,Queens Park Rangers,West Ham United,0,0,,,,,,,,,,,,
+2015-04-25,Southampton,Tottenham Hotspur,2,2,"(29, 0, 'Graziano Pelle')","(43, 1, 'Erik Lamela')","(65, 0, 'Graziano Pelle')","(70, 1, 'Nacer Chadli')",,,,,,,,
+2015-04-25,Stoke City,Sunderland,1,1,"(1, 1, 'Connor Wickham')","(27, 0, 'Charlie Adam')",,,,,,,,,,
+2015-04-25,West Bromwich Albion,Liverpool,0,0,,,,,,,,,,,,
+2015-04-26,Arsenal,Chelsea,0,0,,,,,,,,,,,,
+2015-04-26,Everton,Manchester United,3,0,"(5, 0, 'James McCarthy')","(35, 0, 'John Stones')","(74, 0, 'Kevin Mirallas')",,,,,,,,,
+2015-04-28,Hull City,Liverpool,1,0,"(37, 0, 'Michael Dawson')",,,,,,,,,,,
+2015-04-29,Leicester City,Chelsea,1,3,"(45, 0, 'Marc Albrighton')","(48, 1, 'Didier Drogba')","(79, 1, 'John Terry')","(83, 1, ' Ramires')",,,,,,,,
+2015-05-02,Aston Villa,Everton,3,2,"(10, 0, 'Christian Benteke')","(45, 0, 'Christian Benteke')","(59, 1, 'Romelu Lukaku')","(64, 0, 'Tom Cleverley')","(90, 1, 'Phil Jagielka')",,,,,,,
+2015-05-02,Leicester City,Newcastle United,3,0,"(1, 0, 'Leonardo Ulloa')","(17, 0, 'Wes Morgan')","(48, 0, 'Leonardo Ulloa')",,,,,,,,,
+2015-05-02,Liverpool,Queens Park Rangers,2,1,"(19, 0, 'Philippe Coutinho')","(73, 1, 'Leroy Fer')","(87, 0, 'Steven Gerrard')",,,,,,,,,
+2015-05-02,Manchester United,West Bromwich Albion,0,1,"(63, 1, 'Jonas Olsson')",,,,,,,,,,,
+2015-05-02,Sunderland,Southampton,2,1,"(21, 0, 'Jordi Gomez')","(22, 1, 'Sadio Mane')","(55, 0, 'Jordi Gomez')",,,,,,,,,
+2015-05-02,Swansea City,Stoke City,2,0,"(76, 0, 'Jefferson Montero')","(90, 0, 'KI Sung-Yueng')",,,,,,,,,,
+2015-05-02,West Ham United,Burnley,1,0,"(24, 0, 'Mark Noble')",,,,,,,,,,,
+2015-05-03,Chelsea,Crystal Palace,1,0,"(45, 0, 'Eden Hazard')",,,,,,,,,,,
+2015-05-03,Tottenham Hotspur,Manchester City,0,1,"(29, 1, 'Sergio Aguero')",,,,,,,,,,,
+2015-05-04,Hull City,Arsenal,1,3,"(28, 1, 'Alexis Sanchez')","(33, 1, 'Aaron Ramsey')","(45, 1, 'Alexis Sanchez')","(56, 0, 'Stephen Quinn')",,,,,,,,
+2015-05-09,Aston Villa,West Ham United,1,0,"(31, 0, 'Tom Cleverley')",,,,,,,,,,,
+2015-05-09,Crystal Palace,Manchester United,1,2,"(19, 1, 'Juan Mata')","(57, 0, 'Jason Puncheon')","(78, 1, 'Marouane Fellaini')",,,,,,,,,
+2015-05-09,Everton,Sunderland,0,2,"(53, 1, 'Danny Graham')","(85, 1, 'Jermain Defoe')",,,,,,,,,,
+2015-05-09,Hull City,Burnley,0,1,"(62, 1, 'Danny Ings')",,,,,,,,,,,
+2015-05-09,Leicester City,Southampton,2,0,"(7, 0, 'Riyad Mahrez')","(19, 0, 'Riyad Mahrez')",,,,,,,,,,
+2015-05-09,Newcastle United,West Bromwich Albion,1,1,"(32, 1, 'Victor Anichebe')","(41, 0, 'Ayoze Perez')",,,,,,,,,,
+2015-05-09,Stoke City,Tottenham Hotspur,3,0,"(21, 0, 'Charlie Adam')","(32, 0, ""Steven N'Zonzi"")","(86, 0, 'Jan Vertonghen')",,,,,,,,,
+2015-05-10,Chelsea,Liverpool,1,1,"(5, 0, 'John Terry')","(44, 1, 'Steven Gerrard')",,,,,,,,,,
+2015-05-10,Manchester City,Queens Park Rangers,6,0,"(4, 0, 'Sergio Aguero')","(32, 0, 'Aleksandar Kolarov')","(50, 0, 'Sergio Aguero')","(65, 0, 'Sergio Aguero')","(70, 0, 'James Milner')","(87, 0, 'David Silva')",,,,,,
+2015-05-11,Arsenal,Swansea City,0,1,"(85, 1, 'Bafetimbi Gomis')",,,,,,,,,,,
+2015-05-16,Burnley,Stoke City,0,0,,,,,,,,,,,,
+2015-05-16,Liverpool,Crystal Palace,1,3,"(26, 0, 'Adam Lallana')","(43, 1, 'Jason Puncheon')","(60, 1, 'Wilfried Zaha')","(90, 1, 'Glenn Murray')",,,,,,,,
+2015-05-16,Queens Park Rangers,Newcastle United,2,1,"(24, 1, 'Emmanuel Riviere')","(54, 0, 'Matt Phillips')","(61, 0, 'Leroy Fer')",,,,,,,,,
+2015-05-16,Southampton,Aston Villa,6,1,"(13, 0, 'Sadio Mane')","(14, 0, 'Sadio Mane')","(16, 0, 'Sadio Mane')","(26, 0, 'Shane Long')","(38, 0, 'Shane Long')","(45, 1, 'Christian Benteke')","(81, 0, 'Graziano Pelle')",,,,,
+2015-05-16,Sunderland,Leicester City,0,0,,,,,,,,,,,,
+2015-05-16,Tottenham Hotspur,Hull City,2,0,"(54, 0, 'Nacer Chadli')","(61, 0, 'Danny Rose')",,,,,,,,,,
+2015-05-16,West Ham United,Everton,1,2,"(62, 0, 'Stewart Downing')","(68, 1, 'Leon Osman')","(90, 1, 'Romelu Lukaku')",,,,,,,,,
+2015-05-17,Manchester United,Arsenal,1,1,"(30, 0, ' Ander Herrera')","(82, 1, 'Tyler Blackett')",,,,,,,,,,
+2015-05-17,Swansea City,Manchester City,2,4,"(21, 1, 'Yaya Toure')","(36, 1, 'James Milner')","(45, 0, 'Gylfi Sigurdsson')","(64, 0, 'Bafetimbi Gomis')","(74, 1, 'Yaya Toure')","(90, 1, 'Wilfried Bony')",,,,,,
+2015-05-18,West Bromwich Albion,Chelsea,3,0,"(9, 0, 'Saido Berahino')","(47, 0, 'Saido Berahino')","(60, 0, 'Chris Brunt')",,,,,,,,,
+2015-05-20,Arsenal,Sunderland,0,0,,,,,,,,,,,,
+2015-05-24,Arsenal,West Bromwich Albion,4,1,"(4, 0, 'Theo Walcott')","(14, 0, 'Theo Walcott')","(17, 0, 'Jack Wilshere')","(37, 0, 'Theo Walcott')","(57, 1, 'Gareth McAuley')",,,,,,,
+2015-05-24,Aston Villa,Burnley,0,1,"(6, 1, 'Danny Ings')",,,,,,,,,,,
+2015-05-24,Chelsea,Sunderland,3,1,"(26, 1, 'Steven Fletcher')","(37, 0, ' Diego Costa')","(70, 0, 'Loic Remy')","(88, 0, 'Loic Remy')",,,,,,,,
+2015-05-24,Crystal Palace,Swansea City,1,0,"(57, 0, 'Marouane Chamakh')",,,,,,,,,,,
+2015-05-24,Everton,Tottenham Hotspur,0,1,"(24, 1, 'Harry Kane')",,,,,,,,,,,
+2015-05-24,Hull City,Manchester United,0,0,,,,,,,,,,,,
+2015-05-24,Leicester City,Queens Park Rangers,5,1,"(16, 0, 'Jamie Vardy')","(43, 0, 'Marc Albrighton')","(51, 0, 'Leonardo Ulloa')","(52, 0, 'Esteban Cambiasso')","(57, 1, 'Charlie Austin')","(86, 0, 'Andrej Kramaric')",,,,,,
+2015-05-24,Manchester City,Southampton,2,0,"(31, 0, 'Frank Lampard')","(88, 0, 'Sergio Aguero')",,,,,,,,,,
+2015-05-24,Newcastle United,West Ham United,2,0,"(54, 0, 'Moussa Sissoko')","(85, 0, 'Jonas Gutierrez')",,,,,,,,,,
+2015-05-24,Stoke City,Liverpool,6,1,"(22, 0, 'Mame Biram Diouf')","(26, 0, 'Mame Biram Diouf')","(30, 0, 'Jon Walters')","(41, 0, 'Charlie Adam')","(45, 0, ""Steven N'Zonzi"")","(70, 1, 'Steven Gerrard')","(86, 0, 'Peter Crouch')",,,,,

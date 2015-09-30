@@ -1,463 +1,463 @@
-Date,Home,Away,FTHG,FTAG
-15/08/1992,Arsenal,Norwich City,2,4,"(28, 0, 'Steve Bould')","(39, 0, 'Kevin Campbell')","(69, 1, 'Mark Robins')","(72, 1, 'David Phillips')","(84, 1, 'Ruel Fox')","(84, 1, 'Mark Robins')"
-19/08/1992,Norwich City,Chelsea,2,1,"(15, 1, 'Graham Stuart')","(57, 0, 'David Phillips')","(59, 0, 'Mark Robins')"
-22/08/1992,Norwich City,Everton,1,1,"(55, 1, 'Peter Beardsley')","(67, 0, 'Ruel Fox')"
-26/08/1992,Manchester City,Norwich City,3,1,"(45, 0, 'David White')","(58, 1, 'Gary Megson')","(80, 0, 'David White')","(90, 0, 'Steve McMahon')"
-29/08/1992,Crystal Palace,Norwich City,1,2,"(16, 1, 'Lee Power')","(20, 0, 'Eddie McGoldrick')","(74, 1, 'David Phillips')"
-31/08/1992,Norwich City,Nottingham Forest,3,1,"(2, 0, 'Ian Crook')","(31, 1, 'Nigel Clough')","(76, 0, 'Lee Power')","(89, 0, 'David Phillips')"
-05/09/1992,Norwich City,Southampton,1,0,"(87, 0, 'Mark Robins')"
-12/09/1992,Chelsea,Norwich City,2,3,"(2, 0, 'Mick Harford')","(29, 0, 'Andy Townsend')","(46, 1, 'Mark Robins')","(74, 1, 'Mark Robins')","(79, 1, 'David Phillips')"
-19/09/1992,Norwich City,Sheffield Wednesday,1,0,"(44, 0, 'Rob Newman')"
-26/09/1992,Coventry City,Norwich City,1,1,"(13, 1, 'Ian Crook')","(37, 0, 'Peter Ndlovu')"
-03/10/1992,Blackburn Rovers,Norwich City,7,1,"(8, 0, 'Roy Wegerle')","(27, 0, 'Tim Sherwood')","(32, 0, 'Roy Wegerle')","(39, 1, 'Rob Newman')","(43, 0, 'Alan Shearer')","(63, 0, 'Gordon Cowans')","(70, 0, 'Stuart Ripley')","(76, 0, 'Alan Shearer')"
-17/10/1992,Norwich City,Queens Park Rangers,2,1,"(53, 0, 'Mark Bowen')","(64, 0, 'Chris Sutton')","(77, 1, 'Bradley Allen')"
-25/10/1992,Liverpool,Norwich City,4,1,"(2, 1, 'Ian Butterworth')","(15, 0, 'Michael Thomas')","(20, 0, 'Don Hutchison')","(52, 0, 'David Burrows')","(89, 0, 'Mark Walters')"
-31/10/1992,Norwich City,Middlesbrough,1,1,"(64, 1, 'Paul Wilkinson')","(86, 0, 'Daryl Sutch')"
-09/11/1992,Oldham Athletic,Norwich City,2,3,"(14, 1, 'Mark Robins')","(25, 0, 'Graeme Sharp')","(28, 1, 'Mark Robins')","(43, 0, 'Ian Marshall')","(89, 1, 'Mark Robins')"
-21/11/1992,Norwich City,Sheffield United,2,1,"(60, 0, 'Paul Beesley')","(71, 1, 'Alan Cork')","(80, 0, 'Mark Robins')"
-28/11/1992,Aston Villa,Norwich City,2,3,"(17, 1, 'David Phillips')","(30, 1, 'Darren Beckford')","(45, 0, 'Ray Houghton')","(46, 0, 'Dean Saunders')","(49, 1, 'Daryl Sutch')"
-05/12/1992,Norwich City,Wimbledon,2,1,"(53, 1, 'Lawrie Sanchez')","(77, 0, 'Mark Robins')","(88, 0, 'David Phillips')"
-12/12/1992,Manchester United,Norwich City,1,0,"(59, 0, 'Mark Hughes')"
-21/12/1992,Norwich City,Ipswich Town,0,2,"(51, 1, 'Chris Kiwomya')","(87, 1, 'Neil Thompson')"
-26/12/1992,Norwich City,Tottenham Hotspur,0,0
-28/12/1992,Leeds United,Norwich City,0,0
-10/01/1993,Sheffield Wednesday,Norwich City,1,0,"(42, 0, 'Nigel Worthington')"
-16/01/1993,Norwich City,Coventry City,1,1,"(13, 0, 'Chris Sutton')","(57, 1, 'Mick Quinn')"
-27/01/1993,Norwich City,Crystal Palace,4,2,"(2, 1, 'Chris Armstrong')","(9, 0, 'Lee Power')","(26, 0, 'Chris Sutton')","(45, 1, 'Geoff Thomas')","(50, 0, 'Jeremy Goss')","(89, 0, 'Lee Power')"
-30/01/1993,Everton,Norwich City,0,1,"(16, 1, 'Chris Sutton')"
-10/02/1993,Southampton,Norwich City,3,0,"(9, 0, 'Richard Hall')","(25, 0, 'Micky Adams')","(79, 0, 'Nicky Banger')"
-20/02/1993,Norwich City,Manchester City,2,1,"(28, 0, 'Mark Robins')","(29, 0, 'Lee Power')","(46, 1, 'Mike Sheron')"
-28/02/1993,Norwich City,Blackburn Rovers,0,0
-03/03/1993,Norwich City,Arsenal,1,1,"(35, 0, 'Ruel Fox')","(81, 1, 'Ian Wright')"
-06/03/1993,Queens Park Rangers,Norwich City,3,1,"(18, 0, 'Les Ferdinand')","(34, 0, 'Les Ferdinand')","(41, 1, 'Mark Robins')","(78, 0, 'Clive Wilson')"
-10/03/1993,Sheffield United,Norwich City,0,1,"(55, 1, 'Ruel Fox')"
-13/03/1993,Norwich City,Oldham Athletic,1,0,"(12, 0, 'David Phillips')"
-17/03/1993,Nottingham Forest,Norwich City,0,3,"(45, 1, 'Mark Robins')","(73, 1, 'Lee Power')","(78, 1, 'Ian Crook')"
-20/03/1993,Wimbledon,Norwich City,3,0,"(16, 0, 'Dean Holdsworth')","(29, 0, 'Neal Ardley')","(82, 0, 'Dean Holdsworth')"
-24/03/1993,Norwich City,Aston Villa,1,0,"(81, 0, 'John Polston')"
-05/04/1993,Norwich City,Manchester United,1,3,"(12, 1, 'Ryan Giggs')","(19, 1, 'Andrei Kanchelskis')","(20, 1, 'Eric Cantona')","(60, 0, 'Mark Robins')"
-09/04/1993,Tottenham Hotspur,Norwich City,5,1,"(26, 0, 'Neil Ruddock')","(30, 0, 'Teddy Sheringham')","(54, 0, 'Nick Barmby')","(76, 0, 'Teddy Sheringham')","(82, 0, 'Mohamed Nayim')","(85, 1, 'Efan Ekoku')"
-14/04/1993,Norwich City,Leeds United,4,2,"(2, 1, 'Lee Chapman')","(10, 0, 'Chris Sutton')","(13, 0, 'Chris Sutton')","(15, 0, 'David Phillips')","(46, 1, 'Rodney Wallace')","(78, 0, 'Chris Sutton')"
-19/04/1993,Ipswich Town,Norwich City,3,1,"(21, 0, 'Jason Dozzell')","(25, 0, 'Micky Stockwell')","(41, 1, 'Chris Sutton')","(57, 0, 'Jason Dozzell')"
-01/05/1993,Norwich City,Liverpool,1,0,"(61, 0, 'David Phillips')"
-08/05/1993,Middlesbrough,Norwich City,3,3,"(14, 1, 'Efan Ekoku')","(34, 0, 'Willie Falconer')","(64, 0, 'Paul Wilkinson')","(65, 1, 'Efan Ekoku')","(68, 1, 'Andy Johnson')","(72, 0, 'John Hendrie')"
-15/08/1992,Crystal Palace,Blackburn Rovers,3,3,"(37, 0, 'Mark Bright')","(42, 1, 'Stuart Ripley')","(62, 1, 'Alan Shearer')","(63, 0, 'Gareth Southgate')","(81, 1, 'Alan Shearer')","(90, 0, 'Simon Osborn')"
-18/08/1992,Blackburn Rovers,Arsenal,1,0,"(84, 0, 'Alan Shearer')"
-22/08/1992,Blackburn Rovers,Manchester City,1,0,"(69, 0, 'Mike Newell')"
-26/08/1992,Chelsea,Blackburn Rovers,0,0
-29/08/1992,Coventry City,Blackburn Rovers,0,2,"(69, 1, 'Alan Shearer')","(79, 1, 'Mark Atkins')"
-05/09/1992,Blackburn Rovers,Nottingham Forest,4,1,"(3, 0, 'Alan Shearer')","(15, 1, 'Gary Bannister')","(52, 0, 'Mark Atkins')","(59, 0, 'Alan Shearer')","(62, 0, 'Mark Crossley')"
-12/09/1992,Arsenal,Blackburn Rovers,0,1,"(71, 1, 'Mike Newell')"
-15/09/1992,Blackburn Rovers,Everton,2,3,"(12, 0, 'Alan Shearer')","(22, 1, 'Tony Cottee')","(39, 1, 'John Ebbrell')","(74, 0, 'Alan Shearer')","(81, 1, 'Tony Cottee')"
-19/09/1992,Wimbledon,Blackburn Rovers,1,1,"(24, 0, 'Neal Ardley')","(32, 1, 'Alan Shearer')"
-26/09/1992,Blackburn Rovers,Oldham Athletic,2,0,"(30, 0, 'Alan Shearer')","(61, 0, 'Stuart Ripley')"
-19/10/1992,Aston Villa,Blackburn Rovers,0,0
-24/10/1992,Blackburn Rovers,Manchester United,0,0
-31/10/1992,Sheffield Wednesday,Blackburn Rovers,0,0
-07/11/1992,Blackburn Rovers,Tottenham Hotspur,0,2,"(67, 1, 'David Howells')","(81, 1, 'Teddy Sheringham')"
-22/11/1992,Southampton,Blackburn Rovers,1,1,"(22, 0, 'Matt Le Tissier')","(38, 1, 'Kevin Moran')"
-28/11/1992,Blackburn Rovers,Queens Park Rangers,1,0,"(17, 0, 'Alan Shearer')"
-05/12/1992,Middlesbrough,Blackburn Rovers,3,2,"(44, 1, 'Jason Wilcox')","(52, 0, 'John Hendrie')","(55, 0, 'John Hendrie')","(66, 0, 'John Hendrie')","(74, 1, 'Jimmy Phillips')"
-13/12/1992,Liverpool,Blackburn Rovers,2,1,"(77, 0, 'Mark Walters')","(80, 1, 'Alan Shearer')","(85, 0, 'Mark Walters')"
-19/12/1992,Blackburn Rovers,Sheffield United,1,0,"(27, 0, 'Kevin Moran')"
-26/12/1992,Blackburn Rovers,Leeds United,3,1,"(8, 0, 'Jason Wilcox')","(37, 1, 'Gary McAllister')","(45, 0, 'Alan Shearer')","(58, 0, 'Alan Shearer')"
-28/12/1992,Ipswich Town,Blackburn Rovers,2,1,"(72, 1, 'Roy Wegerle')","(79, 0, 'Bontcho Guentchev')","(81, 0, 'Chris Kiwomya')"
-09/01/1993,Blackburn Rovers,Wimbledon,0,0
-16/01/1993,Oldham Athletic,Blackburn Rovers,0,1,"(80, 1, 'Stuart Ripley')"
-26/01/1993,Blackburn Rovers,Coventry City,2,5,"(13, 0, 'Mike Newell')","(19, 1, 'David May')","(44, 1, 'Lee Hurst')","(48, 1, 'John Williams')","(71, 0, 'Colin Hendry')","(85, 1, 'Mick Quinn')","(89, 1, 'Mick Quinn')"
-30/01/1993,Manchester City,Blackburn Rovers,3,2,"(4, 1, 'Mike Newell')","(14, 1, 'Terry Phelan')","(33, 0, 'Mike Sheron')","(74, 0, 'Keith Curle')","(78, 0, 'David White')"
-02/02/1993,Blackburn Rovers,Crystal Palace,1,2,"(9, 1, 'Chris Armstrong')","(16, 0, 'Roy Wegerle')","(59, 1, 'Simon Rodger')"
-21/02/1993,Blackburn Rovers,Chelsea,2,0,"(8, 0, 'Mike Newell')","(63, 0, 'Mike Newell')"
-03/03/1993,Everton,Blackburn Rovers,2,1,"(42, 1, 'David May')","(56, 0, 'Colin Hendry')","(71, 0, 'Tony Cottee')"
-09/03/1993,Blackburn Rovers,Southampton,0,0
-20/03/1993,Blackburn Rovers,Middlesbrough,1,1,"(23, 0, 'Mark Atkins')","(32, 1, 'John Hendrie')"
-24/03/1993,Queens Park Rangers,Blackburn Rovers,0,3,"(23, 1, 'Stuart Ripley')","(55, 1, 'Kevin Moran')","(65, 1, 'Mark Atkins')"
-03/04/1993,Blackburn Rovers,Liverpool,4,1,"(13, 0, 'Mike Newell')","(25, 0, 'Kevin Moran')","(41, 0, 'Kevin Gallacher')","(65, 0, 'Jason Wilcox')","(84, 1, 'Ian Rush')"
-07/04/1993,Nottingham Forest,Blackburn Rovers,1,3,"(7, 1, 'Jason Wilcox')","(51, 0, 'Nigel Clough')","(67, 1, 'Stuart Ripley')","(76, 1, 'Mike Newell')"
-10/04/1993,Leeds United,Blackburn Rovers,5,2,"(10, 0, 'Gordon Strachan')","(28, 0, 'Gordon Strachan')","(50, 0, 'Gordon Strachan')","(67, 0, 'Rodney Wallace')","(72, 1, 'Kevin Gallacher')","(84, 1, 'Mike Newell')","(89, 0, 'Lee Chapman')"
-12/04/1993,Blackburn Rovers,Ipswich Town,2,1,"(6, 0, 'Stuart Ripley')","(43, 0, 'Phil Whelan')","(68, 1, 'Simon Milton')"
-17/04/1993,Sheffield United,Blackburn Rovers,1,3,"(8, 0, 'Glyn Hodges')","(39, 1, 'Kevin Gallacher')","(54, 1, 'Mike Newell')","(68, 1, 'Tim Sherwood')"
-21/04/1993,Blackburn Rovers,Aston Villa,3,0,"(9, 0, 'Mike Newell')","(15, 0, 'Kevin Gallacher')","(40, 0, 'Mike Newell')"
-03/05/1993,Manchester United,Blackburn Rovers,3,1,"(8, 1, 'Kevin Gallacher')","(21, 0, 'Ryan Giggs')","(59, 0, 'Paul Ince')","(90, 0, 'Gary Pallister')"
-05/05/1993,Tottenham Hotspur,Blackburn Rovers,1,2,"(22, 1, 'Mike Newell')","(56, 1, 'Mike Newell')","(88, 0, 'Darren Anderton')"
-08/05/1993,Blackburn Rovers,Sheffield Wednesday,1,0,"(65, 0, 'Tim Sherwood')"
-17/08/1992,Manchester City,Queens Park Rangers,1,1,"(37, 0, 'David White')","(47, 1, 'Andy Sinton')"
-19/08/1992,Queens Park Rangers,Southampton,3,1,"(31, 1, 'Matt Le Tissier')","(58, 0, 'Les Ferdinand')","(70, 0, 'David Bardsley')","(86, 0, 'Les Ferdinand')"
-22/08/1992,Queens Park Rangers,Sheffield United,3,2,"(3, 0, 'Les Ferdinand')","(4, 1, 'Alan Cork')","(14, 0, 'Simon Barker')","(63, 1, 'Brian Deane')","(84, 0, 'Dennis Bailey')"
-26/08/1992,Coventry City,Queens Park Rangers,0,1,"(45, 1, 'Andy Impey')"
-29/08/1992,Chelsea,Queens Park Rangers,1,0,"(59, 0, 'Mick Harford')"
-02/09/1992,Queens Park Rangers,Arsenal,0,0
-05/09/1992,Queens Park Rangers,Ipswich Town,0,0
-12/09/1992,Southampton,Queens Park Rangers,1,2,"(11, 0, 'Matt Le Tissier')","(53, 1, 'Andy Sinton')","(56, 1, 'Justin Channing')"
-19/09/1992,Queens Park Rangers,Middlesbrough,3,3,"(37, 1, 'Alan Kernaghan')","(57, 0, 'Les Ferdinand')","(58, 1, 'Tommy Wright')","(73, 0, 'Gary Penrice')","(86, 1, 'Willie Falconer')","(90, 0, 'Andy Sinton')"
-26/09/1992,Manchester United,Queens Park Rangers,0,0
-03/10/1992,Queens Park Rangers,Tottenham Hotspur,4,1,"(28, 1, 'Teddy Sheringham')","(52, 0, 'Ian Holloway')","(59, 0, 'Ray Wilkins')","(67, 0, 'Gary Penrice')","(79, 0, 'Gary Penrice')"
-24/10/1992,Queens Park Rangers,Leeds United,2,1,"(57, 1, 'Gordon Strachan')","(73, 0, 'David Bardsley')","(85, 0, 'Les Ferdinand')"
-01/11/1992,Aston Villa,Queens Park Rangers,2,0,"(43, 0, 'Dean Saunders')","(79, 0, 'Dalian Atkinson')"
-07/11/1992,Wimbledon,Queens Park Rangers,0,2,"(25, 1, 'Bradley Allen')","(42, 1, 'Ray Wilkins')"
-23/11/1992,Queens Park Rangers,Liverpool,0,1,"(87, 1, 'Ronny Rosenthal')"
-05/12/1992,Queens Park Rangers,Oldham Athletic,3,2,"(24, 0, 'Les Ferdinand')","(33, 0, 'Gary Penrice')","(41, 1, 'Neil Adams')","(46, 1, 'Ian Olney')","(52, 0, 'Les Ferdinand')"
-12/12/1992,Queens Park Rangers,Crystal Palace,1,3,"(26, 0, 'Gary Penrice')","(46, 1, 'Eddie McGoldrick')","(71, 1, 'Chris Armstrong')","(89, 1, 'Eddie McGoldrick')"
-19/12/1992,Sheffield Wednesday,Queens Park Rangers,1,0,"(39, 0, 'Mark Bright')"
-28/12/1992,Queens Park Rangers,Everton,4,2,"(27, 0, 'Andy Sinton')","(46, 0, 'Gary Penrice')","(51, 0, 'Andy Sinton')","(65, 1, 'Stuart Barlow')","(72, 1, 'Stuart Barlow')","(88, 0, 'Andy Sinton')"
-09/01/1993,Middlesbrough,Queens Park Rangers,0,1,"(72, 1, 'Les Ferdinand')"
-18/01/1993,Queens Park Rangers,Manchester United,1,3,"(26, 1, 'Paul Ince')","(30, 1, 'Ryan Giggs')","(42, 0, 'Bradley Allen')","(48, 1, 'Andrei Kanchelskis')"
-27/01/1993,Queens Park Rangers,Chelsea,1,1,"(47, 1, 'John Spencer')","(88, 0, 'Bradley Allen')"
-30/01/1993,Sheffield United,Queens Park Rangers,1,2,"(19, 1, 'Bradley Allen')","(75, 1, 'Ian Holloway')","(88, 0, 'Jamie Hoyland')"
-06/02/1993,Queens Park Rangers,Manchester City,1,1,"(66, 0, 'Clive Wilson')","(77, 1, 'Mike Sheron')"
-09/02/1993,Ipswich Town,Queens Park Rangers,1,1,"(40, 0, 'Neil Thompson')","(80, 1, 'Devon White')"
-20/02/1993,Queens Park Rangers,Coventry City,2,0,"(34, 0, 'Andy Pearce')","(41, 0, 'Darren Peacock')"
-24/02/1993,Nottingham Forest,Queens Park Rangers,1,0,"(70, 0, 'Gary Crosby')"
-27/02/1993,Tottenham Hotspur,Queens Park Rangers,3,2,"(8, 0, 'Teddy Sheringham')","(34, 0, 'Teddy Sheringham')","(61, 0, 'Darren Anderton')","(87, 1, 'Darren Peacock')","(88, 1, 'Devon White')"
-10/03/1993,Liverpool,Queens Park Rangers,1,0,"(71, 0, 'Ian Rush')"
-13/03/1993,Queens Park Rangers,Wimbledon,1,2,"(3, 0, 'Les Ferdinand')","(7, 1, 'John Fashanu')","(78, 1, 'Robbie Earle')"
-20/03/1993,Oldham Athletic,Queens Park Rangers,2,2,"(1, 0, 'Nick Henry')","(68, 1, 'Bradley Allen')","(73, 1, 'Andy Sinton')","(88, 0, 'Neil Adams')"
-03/04/1993,Crystal Palace,Queens Park Rangers,1,1,"(23, 1, 'Bradley Allen')","(62, 0, 'David Bardsley')"
-10/04/1993,Queens Park Rangers,Nottingham Forest,4,3,"(7, 1, 'Kingsley Black')","(35, 0, 'Les Ferdinand')","(39, 1, 'Gary Bannister')","(45, 0, 'Clive Wilson')","(45, 1, 'Gary Bannister')","(59, 0, 'Les Ferdinand')","(74, 0, 'Les Ferdinand')"
-12/04/1993,Everton,Queens Park Rangers,3,5,"(5, 1, 'Andy Impey')","(30, 0, 'Tony Cottee')","(38, 1, 'Les Ferdinand')","(46, 1, 'Les Ferdinand')","(51, 1, 'Les Ferdinand')","(79, 1, 'David Bardsley')","(87, 0, 'Stuart Barlow')","(89, 0, 'Preki Radosavljevic')"
-01/05/1993,Leeds United,Queens Park Rangers,1,1,"(15, 1, 'Les Ferdinand')","(69, 0, 'Steve Hodge')"
-04/05/1993,Arsenal,Queens Park Rangers,0,0
-09/05/1993,Queens Park Rangers,Aston Villa,2,1,"(36, 1, 'Tony Daley')","(67, 0, 'Les Ferdinand')","(76, 0, 'Bradley Allen')"
-11/05/1993,Queens Park Rangers,Sheffield Wednesday,3,1,"(22, 0, 'Bradley Allen')","(36, 0, 'Bradley Allen')","(67, 0, 'Les Ferdinand')","(78, 1, 'Mark Bright')"
-15/08/1992,Everton,Sheffield Wednesday,1,1,"(15, 1, 'Nigel Pearson')","(44, 0, 'Barry Horne')"
-19/08/1992,Manchester United,Everton,0,3,"(45, 1, 'Peter Beardsley')","(80, 1, 'Robert Warzycha')","(90, 1, 'Mo Johnston')"
-25/08/1992,Everton,Aston Villa,1,0,"(88, 0, 'Mo Johnston')"
-29/08/1992,Everton,Wimbledon,0,0
-05/09/1992,Tottenham Hotspur,Everton,2,1,"(42, 1, 'Peter Beardsley')","(79, 0, 'Paul Allen')","(90, 0, 'Andy Turner')"
-12/09/1992,Everton,Manchester United,0,2,"(29, 1, 'Brian McClair')","(76, 1, 'Steve Bruce')"
-19/09/1992,Everton,Crystal Palace,0,2,"(8, 1, 'Chris Armstrong')","(17, 1, 'Chris Armstrong')"
-26/09/1992,Leeds United,Everton,2,0,"(61, 0, 'Gary McAllister')","(63, 0, 'Lee Chapman')"
-04/10/1992,Oldham Athletic,Everton,1,0,"(8, 0, 'Richard Jobson')"
-17/10/1992,Everton,Coventry City,1,1,"(28, 0, 'Peter Beagrie')","(44, 1, 'Peter Ndlovu')"
-24/10/1992,Arsenal,Everton,2,0,"(5, 0, 'Ian Wright')","(58, 0, 'Anders Limpar')"
-31/10/1992,Everton,Manchester City,1,3,"(12, 1, 'Mike Sheron')","(19, 1, 'David White')","(62, 1, 'Mike Sheron')","(68, 0, 'Ian Brightwell')"
-07/11/1992,Nottingham Forest,Everton,0,1,"(52, 1, 'Paul Rideout')"
-21/11/1992,Everton,Chelsea,0,1,"(45, 1, 'Robert Fleck')"
-28/11/1992,Ipswich Town,Everton,1,0,"(72, 0, 'Gavin Johnson')"
-07/12/1992,Everton,Liverpool,2,1,"(62, 1, 'Mark Wright')","(63, 0, 'Mo Johnston')","(84, 0, 'Peter Beardsley')"
-12/12/1992,Sheffield United,Everton,1,0,"(34, 0, 'Adrian Littlejohn')"
-19/12/1992,Everton,Southampton,2,1,"(5, 1, 'Matt Le Tissier')","(11, 0, 'Peter Beardsley')","(36, 0, 'Paul Rideout')"
-26/12/1992,Everton,Middlesbrough,2,2,"(47, 0, 'Paul Rideout')","(49, 1, 'Craig Hignett')","(66, 0, 'Peter Beardsley')","(82, 1, 'Craig Hignett')"
-09/01/1993,Crystal Palace,Everton,0,2,"(50, 1, 'Matt Jackson')","(85, 1, 'Peter Beardsley')"
-16/01/1993,Everton,Leeds United,2,0,"(30, 0, 'Tony Cottee')","(49, 0, 'Tony Cottee')"
-26/01/1993,Wimbledon,Everton,1,3,"(61, 1, 'Tony Cottee')","(71, 1, 'Tony Cottee')","(73, 1, 'Ian Snodin')","(75, 0, 'John Fashanu')"
-06/02/1993,Sheffield Wednesday,Everton,3,1,"(16, 0, 'Paul Warhurst')","(17, 0, 'John Harkes')","(62, 0, 'Chris Waddle')","(83, 1, 'Tony Cottee')"
-10/02/1993,Everton,Tottenham Hotspur,1,2,"(26, 1, 'Gary Mabbutt')","(29, 0, 'Kenny Sansom')","(69, 1, 'Paul Allen')"
-20/02/1993,Aston Villa,Everton,2,1,"(12, 0, 'Neil Cox')","(18, 0, 'Earl Barrett')","(24, 1, 'Peter Beardsley')"
-27/02/1993,Everton,Oldham Athletic,2,2,"(20, 0, 'Peter Beardsley')","(61, 0, 'Stuart Barlow')","(87, 1, 'Neil Adams')","(88, 1, 'Neil Adams')"
-07/03/1993,Coventry City,Everton,0,1,"(8, 1, 'Mark Ward')"
-10/03/1993,Chelsea,Everton,2,1,"(39, 0, 'Graham Stuart')","(45, 1, 'Billy Kenny')","(79, 0, 'John Spencer')"
-13/03/1993,Everton,Nottingham Forest,3,0,"(15, 0, 'Tony Cottee')","(26, 0, 'Tony Cottee')","(38, 0, 'Andy Hinchcliffe')"
-20/03/1993,Liverpool,Everton,1,0,"(90, 0, 'Ronny Rosenthal')"
-24/03/1993,Everton,Ipswich Town,3,0,"(18, 0, 'Stuart Barlow')","(49, 0, 'Matt Jackson')","(66, 0, 'Tony Cottee')"
-10/04/1993,Middlesbrough,Everton,1,2,"(25, 1, 'Dave Watson')","(65, 0, 'Paul Wilkinson')","(80, 1, 'Preki Radosavljevic')"
-17/04/1993,Southampton,Everton,0,0
-01/05/1993,Everton,Arsenal,0,0
-04/05/1993,Everton,Sheffield United,0,2,"(15, 1, 'Carl Bradshaw')","(26, 1, 'Glyn Hodges')"
-08/05/1993,Manchester City,Everton,2,5,"(6, 1, 'Matt Jackson')","(18, 1, 'Peter Beagrie')","(32, 1, 'Peter Beardsley')","(39, 0, 'David White')","(51, 1, 'Preki Radosavljevic')","(73, 0, 'Keith Curle')","(84, 1, 'Peter Beagrie')"
-15/08/1992,Leeds United,Wimbledon,2,1,"(14, 0, 'Lee Chapman')","(76, 1, 'Warren Barton')","(86, 0, 'Lee Chapman')"
-19/08/1992,Aston Villa,Leeds United,1,1,"(77, 0, 'Dalian Atkinson')","(84, 1, 'Gary Speed')"
-22/08/1992,Middlesbrough,Leeds United,4,1,"(7, 0, 'Paul Wilkinson')","(8, 0, 'Paul Wilkinson')","(47, 0, 'Tommy Wright')","(59, 0, 'John Hendrie')","(68, 1, 'Eric Cantona')"
-25/08/1992,Leeds United,Tottenham Hotspur,5,0,"(19, 0, 'Rodney Wallace')","(26, 0, 'Eric Cantona')","(31, 0, 'Eric Cantona')","(46, 0, 'Eric Cantona')","(66, 0, 'Lee Chapman')"
-29/08/1992,Leeds United,Liverpool,2,2,"(7, 0, 'Gary McAllister')","(44, 1, 'Ronnie Whelan')","(70, 1, 'Jan Molby')","(87, 0, 'Lee Chapman')"
-01/09/1992,Oldham Athletic,Leeds United,2,2,"(53, 1, 'Eric Cantona')","(76, 1, 'Eric Cantona')","(85, 0, 'Ian Olney')","(90, 0, 'Ian Olney')"
-06/09/1992,Manchester United,Leeds United,2,0,"(28, 0, 'Andrei Kanchelskis')","(44, 0, 'Steve Bruce')"
-13/09/1992,Leeds United,Aston Villa,1,1,"(19, 1, 'Garry Parker')","(85, 0, 'Steve Hodge')"
-19/09/1992,Southampton,Leeds United,1,1,"(43, 0, 'Perry Groves')","(83, 1, 'Gary Speed')"
-03/10/1992,Ipswich Town,Leeds United,4,2,"(25, 0, 'Chris Kiwomya')","(36, 0, 'John Wark')","(44, 0, 'John Wark')","(55, 1, 'Lee Chapman')","(64, 1, 'Gary Speed')","(70, 0, 'Jason Dozzell')"
-17/10/1992,Leeds United,Sheffield United,3,1,"(36, 0, 'Lee Chapman')","(53, 1, 'Paul Beesley')","(74, 0, 'Gary Speed')","(78, 0, 'Chris Whyte')"
-31/10/1992,Leeds United,Coventry City,2,2,"(12, 1, 'Gary McAllister')","(70, 0, 'Lee Chapman')","(77, 1, 'Peter Ndlovu')","(90, 0, 'Chris Fairclough')"
-07/11/1992,Manchester City,Leeds United,4,0,"(13, 0, 'Mike Sheron')","(37, 0, 'David White')","(75, 0, 'Andy Hill')","(80, 0, 'Ian Brightwell')"
-21/11/1992,Leeds United,Arsenal,3,0,"(5, 0, 'Chris Fairclough')","(56, 0, 'Lee Chapman')","(87, 0, 'Gary McAllister')"
-29/11/1992,Chelsea,Leeds United,1,0,"(87, 0, 'Andy Townsend')"
-05/12/1992,Leeds United,Nottingham Forest,1,4,"(27, 1, 'Nigel Clough')","(53, 1, 'Roy Keane')","(54, 1, 'Kingsley Black')","(67, 1, 'Roy Keane')","(87, 0, 'Gary Speed')"
-12/12/1992,Leeds United,Sheffield Wednesday,3,1,"(32, 0, 'Gary Speed')","(37, 1, 'Roland Nilsson')","(46, 0, 'Lee Chapman')","(79, 0, 'Imre Varadi')"
-20/12/1992,Crystal Palace,Leeds United,1,0,"(30, 0, 'Andy Thorn')"
-09/01/1993,Leeds United,Southampton,2,1,"(19, 1, 'Kerry Dixon')","(50, 0, 'Chris Fairclough')","(72, 0, 'Gary Speed')"
-30/01/1993,Leeds United,Middlesbrough,3,0,"(69, 0, 'Frank Strandli')","(81, 0, 'David Batty')","(90, 0, 'Chris Fairclough')"
-06/02/1993,Wimbledon,Leeds United,1,0,"(61, 0, 'Dean Holdsworth')"
-08/02/1993,Leeds United,Manchester United,0,0
-13/02/1993,Leeds United,Oldham Athletic,2,0,"(18, 0, 'Gary McAllister')","(79, 0, 'Lee Chapman')"
-20/02/1993,Tottenham Hotspur,Leeds United,4,0,"(8, 0, 'Teddy Sheringham')","(37, 0, 'Teddy Sheringham')","(48, 0, 'Neil Ruddock')","(67, 0, 'Teddy Sheringham')"
-24/02/1993,Arsenal,Leeds United,0,0
-27/02/1993,Leeds United,Ipswich Town,1,0,"(71, 0, 'Tony Dorigo')"
-13/03/1993,Leeds United,Manchester City,1,0,"(11, 0, 'David Rocastle')"
-21/03/1993,Nottingham Forest,Leeds United,1,1,"(13, 1, 'Rodney Wallace')","(43, 0, 'Nigel Clough')"
-24/03/1993,Leeds United,Chelsea,1,1,"(43, 0, 'David Wetherall')","(53, 1, 'Mal Donaghy')"
-06/04/1993,Sheffield United,Leeds United,2,1,"(24, 0, 'Paul Rogers')","(34, 1, 'Frank Strandli')","(86, 0, 'Brian Deane')"
-17/04/1993,Leeds United,Crystal Palace,0,0
-21/04/1993,Liverpool,Leeds United,2,0,"(54, 0, 'John Barnes')","(73, 0, 'Mark Walters')"
-04/05/1993,Sheffield Wednesday,Leeds United,1,1,"(35, 1, 'Phil King')","(89, 0, 'David Hirst')"
-08/05/1993,Coventry City,Leeds United,3,3,"(5, 0, 'John Williams')","(6, 1, 'Rodney Wallace')","(40, 0, 'Mick Quinn')","(73, 0, 'Peter Ndlovu')","(87, 1, 'Rodney Wallace')","(90, 1, 'Rodney Wallace')"
-23/08/1992,Liverpool,Arsenal,0,2,"(53, 1, 'Anders Limpar')","(80, 1, 'Ian Wright')"
-26/08/1992,Arsenal,Oldham Athletic,2,0,"(25, 0, 'Nigel Winterburn')","(31, 0, 'Ian Wright')"
-29/08/1992,Arsenal,Sheffield Wednesday,2,1,"(8, 0, 'Ray Parlour')","(27, 0, 'Paul Merson')","(33, 1, 'David Hirst')"
-05/09/1992,Wimbledon,Arsenal,3,2,"(34, 1, 'Ian Wright')","(39, 0, 'Lawrie Sanchez')","(80, 0, 'John Fashanu')","(82, 1, 'Ian Wright')","(86, 0, 'Robbie Earle')"
-19/09/1992,Sheffield United,Arsenal,1,1,"(48, 0, 'Dane Whitehouse')","(85, 1, 'Ian Wright')"
-28/09/1992,Arsenal,Manchester City,1,0,"(19, 0, 'Ian Wright')"
-03/10/1992,Arsenal,Chelsea,2,1,"(10, 0, 'Paul Merson')","(79, 1, 'Dennis Wise')","(85, 0, 'Ian Wright')"
-17/10/1992,Nottingham Forest,Arsenal,0,1,"(38, 1, 'Alan Smith')"
-02/11/1992,Crystal Palace,Arsenal,1,2,"(5, 1, 'Paul Merson')","(69, 0, 'Eddie McGoldrick')","(73, 1, 'Ian Wright')"
-07/11/1992,Arsenal,Coventry City,3,0,"(8, 0, 'Alan Smith')","(30, 0, 'Ian Wright')","(45, 0, 'Kevin Campbell')"
-28/11/1992,Arsenal,Manchester United,0,1,"(27, 1, 'Mark Hughes')"
-05/12/1992,Southampton,Arsenal,2,0,"(16, 0, 'Neil Maddison')","(53, 0, 'Iain Dowie')"
-12/12/1992,Tottenham Hotspur,Arsenal,1,0,"(20, 0, 'Paul Allen')"
-19/12/1992,Arsenal,Middlesbrough,1,1,"(34, 1, 'Paul Wilkinson')","(81, 0, 'Ian Wright')"
-26/12/1992,Arsenal,Ipswich Town,0,0
-28/12/1992,Aston Villa,Arsenal,1,0,"(45, 0, 'Dean Saunders')"
-09/01/1993,Arsenal,Sheffield United,1,1,"(43, 0, 'David Hillier')","(87, 1, 'Adrian Littlejohn')"
-16/01/1993,Manchester City,Arsenal,0,1,"(79, 1, 'Paul Merson')"
-31/01/1993,Arsenal,Liverpool,0,1,"(59, 1, 'John Barnes')"
-10/02/1993,Arsenal,Wimbledon,0,1,"(19, 1, 'Dean Holdsworth')"
-20/02/1993,Oldham Athletic,Arsenal,0,1,"(50, 1, 'Andy Linighan')"
-01/03/1993,Chelsea,Arsenal,1,0,"(81, 0, 'Graham Stuart')"
-13/03/1993,Coventry City,Arsenal,0,2,"(28, 1, 'Kevin Campbell')","(29, 1, 'Ian Wright')"
-20/03/1993,Arsenal,Southampton,4,3,"(4, 1, 'Iain Dowie')","(15, 0, 'Andy Linighan')","(16, 0, 'Paul Merson')","(20, 0, 'Jimmy Carter')","(30, 1, 'Micky Adams')","(50, 1, 'Matt Le Tissier')","(79, 0, 'Jimmy Carter')"
-24/03/1993,Manchester United,Arsenal,0,0
-06/04/1993,Middlesbrough,Arsenal,1,0,"(32, 0, 'John Hendrie')"
-10/04/1993,Ipswich Town,Arsenal,1,2,"(2, 1, 'Alan Smith')","(27, 0, 'John Wark')","(87, 1, 'Paul Merson')"
-12/04/1993,Arsenal,Aston Villa,0,1,"(68, 1, 'Tony Daley')"
-21/04/1993,Arsenal,Nottingham Forest,1,1,"(67, 0, 'Ian Wright')","(90, 1, 'Roy Keane')"
-06/05/1993,Sheffield Wednesday,Arsenal,1,0,"(19, 0, 'Mark Bright')"
-08/05/1993,Arsenal,Crystal Palace,3,0,"(9, 0, 'Ian Wright')","(82, 0, 'Paul Dickov')","(90, 0, 'Kevin Campbell')"
-11/05/1993,Arsenal,Tottenham Hotspur,1,3,"(39, 1, 'Teddy Sheringham')","(46, 1, 'John Hendry')","(52, 0, 'Paul Dickov')","(78, 1, 'John Hendry')"
-15/08/1992,Coventry City,Middlesbrough,2,1,"(9, 0, 'John Williams')","(51, 0, 'David Smith')","(63, 1, 'Paul Wilkinson')"
-19/08/1992,Tottenham Hotspur,Coventry City,0,2,"(4, 1, 'John Williams')","(29, 1, 'John Williams')"
-22/08/1992,Wimbledon,Coventry City,1,2,"(14, 1, 'Micky Gynn')","(46, 1, 'Robert Rosario')","(73, 0, 'Dean Holdsworth')"
-02/09/1992,Sheffield Wednesday,Coventry City,1,2,"(42, 1, 'Peter Ndlovu')","(49, 1, 'Lee Hurst')","(62, 0, 'Chris Bart-Williams')"
-05/09/1992,Oldham Athletic,Coventry City,0,1,"(55, 1, 'Kevin Gallacher')"
-14/09/1992,Coventry City,Tottenham Hotspur,1,0,"(61, 0, 'John Williams')"
-21/09/1992,Nottingham Forest,Coventry City,1,1,"(45, 1, 'Robert Rosario')","(69, 0, 'Nigel Clough')"
-03/10/1992,Coventry City,Crystal Palace,2,2,"(7, 0, 'Andy Pearce')","(8, 1, 'Chris Coleman')","(18, 0, 'Kevin Gallacher')","(38, 1, 'Eddie McGoldrick')"
-24/10/1992,Coventry City,Chelsea,1,2,"(32, 1, 'Mick Harford')","(58, 0, 'Robert Rosario')","(70, 1, 'Graham Stuart')"
-21/11/1992,Coventry City,Manchester City,2,3,"(13, 0, 'Mick Quinn')","(49, 0, 'Mick Quinn')","(56, 1, 'Mike Sheron')","(66, 1, 'Fitzroy Simpson')","(78, 1, 'Keith Curle')"
-28/11/1992,Sheffield United,Coventry City,1,1,"(7, 1, 'Mick Quinn')","(37, 0, 'Andy Pearce')"
-05/12/1992,Coventry City,Ipswich Town,2,2,"(13, 1, 'Chris Kiwomya')","(16, 0, 'Kevin Gallacher')","(54, 0, 'Mick Quinn')","(70, 1, 'Steve Whitton')"
-12/12/1992,Southampton,Coventry City,2,2,"(6, 1, 'Mick Quinn')","(9, 0, 'Neil Maddison')","(25, 1, 'Mick Quinn')","(61, 0, 'Iain Dowie')"
-19/12/1992,Coventry City,Liverpool,5,1,"(37, 0, 'Brian Borrows')","(54, 0, 'Brian Borrows')","(61, 0, 'Kevin Gallacher')","(64, 1, 'Jamie Redknapp')","(71, 0, 'Mick Quinn')","(74, 0, 'Mick Quinn')"
-26/12/1992,Coventry City,Aston Villa,3,0,"(52, 0, 'Mick Quinn')","(55, 0, 'Mick Quinn')","(59, 0, 'Robert Rosario')"
-28/12/1992,Manchester United,Coventry City,5,0,"(6, 0, 'Ryan Giggs')","(40, 0, 'Mark Hughes')","(64, 0, 'Eric Cantona')","(78, 0, 'Lee Sharpe')","(83, 0, 'Denis Irwin')"
-09/01/1993,Coventry City,Nottingham Forest,0,1,"(65, 1, 'Ian Woan')"
-23/01/1993,Coventry City,Oldham Athletic,3,0,"(6, 0, 'Kevin Gallacher')","(12, 0, 'Peter Ndlovu')","(18, 0, 'Kevin Gallacher')"
-30/01/1993,Coventry City,Wimbledon,0,2,"(4, 1, 'Dean Holdsworth')","(55, 1, 'Andy Clarke')"
-06/02/1993,Middlesbrough,Coventry City,0,2,"(67, 1, 'Peter Ndlovu')","(79, 1, 'Mick Quinn')"
-27/02/1993,Crystal Palace,Coventry City,0,0
-03/03/1993,Coventry City,Sheffield Wednesday,1,0,"(43, 0, 'Micky Gynn')"
-10/03/1993,Manchester City,Coventry City,1,0,"(35, 0, 'Garry Flitcroft')"
-20/03/1993,Ipswich Town,Coventry City,0,0
-24/03/1993,Coventry City,Sheffield United,1,3,"(17, 0, 'John Williams')","(69, 1, 'Dane Whitehouse')","(75, 1, 'Brian Deane')","(87, 1, 'Adrian Littlejohn')"
-03/04/1993,Coventry City,Southampton,2,0,"(7, 0, 'Mick Quinn')","(80, 0, 'John Williams')"
-10/04/1993,Aston Villa,Coventry City,0,0
-12/04/1993,Coventry City,Manchester United,0,1,"(40, 1, 'Denis Irwin')"
-17/04/1993,Liverpool,Coventry City,4,0,"(16, 0, 'Mark Walters')","(33, 0, 'Mark Walters')","(49, 0, 'Mark Walters')","(75, 0, 'David Burrows')"
-01/05/1993,Chelsea,Coventry City,2,1,"(13, 0, 'John Spencer')","(15, 1, 'Mick Quinn')","(71, 0, 'Tony Cascarino')"
-15/08/1992,Ipswich Town,Aston Villa,1,1,"(31, 0, 'Gavin Johnson')","(84, 1, 'Dalian Atkinson')"
-18/08/1992,Wimbledon,Ipswich Town,0,1,"(37, 1, 'Neil Thompson')"
-22/08/1992,Manchester United,Ipswich Town,1,1,"(56, 1, 'Chris Kiwomya')","(57, 0, 'Denis Irwin')"
-25/08/1992,Ipswich Town,Liverpool,2,2,"(39, 1, 'Mark Walters')","(56, 0, 'Jason Dozzell')","(70, 1, 'Jan Molby')","(90, 0, 'Chris Kiwomya')"
-30/08/1992,Ipswich Town,Tottenham Hotspur,1,1,"(29, 1, 'Jason Cundy')","(45, 0, 'John Wark')"
-01/09/1992,Middlesbrough,Ipswich Town,2,2,"(26, 1, 'John Wark')","(54, 0, 'Alan Kernaghan')","(59, 1, 'Paul Goddard')","(82, 0, 'Paul Wilkinson')"
-12/09/1992,Ipswich Town,Wimbledon,2,1,"(14, 0, 'Micky Stockwell')","(27, 1, 'Dean Holdsworth')","(48, 0, 'Micky Stockwell')"
-19/09/1992,Oldham Athletic,Ipswich Town,4,2,"(32, 0, 'Ian Marshall')","(53, 0, 'Graeme Sharp')","(56, 0, 'Gunnar Halle')","(75, 1, 'John Wark')","(82, 0, 'Nick Henry')","(88, 1, 'Neil Thompson')"
-26/09/1992,Ipswich Town,Sheffield United,0,0
-17/10/1992,Chelsea,Ipswich Town,2,1,"(28, 0, 'Gareth Hall')","(78, 0, 'Mick Harford')","(79, 1, 'Steve Whitton')"
-24/10/1992,Ipswich Town,Crystal Palace,2,2,"(60, 1, 'Chris Armstrong')","(72, 0, 'Jason Dozzell')","(75, 1, 'Chris Coleman')","(83, 0, 'Jason Dozzell')"
-31/10/1992,Nottingham Forest,Ipswich Town,0,1,"(6, 1, 'Jason Dozzell')"
-07/11/1992,Ipswich Town,Southampton,0,0
-21/11/1992,Sheffield Wednesday,Ipswich Town,1,1,"(16, 0, 'Neil Thompson')","(74, 1, 'Chris Kiwomya')"
-12/12/1992,Ipswich Town,Manchester City,3,1,"(37, 1, 'Garry Flitcroft')","(57, 0, 'Micky Stockwell')","(61, 0, 'Gavin Johnson')","(88, 0, 'Paul Goddard')"
-09/01/1993,Ipswich Town,Oldham Athletic,1,2,"(16, 1, 'Mark Brennan')","(51, 1, 'Paul Bernard')","(60, 0, 'Chris Kiwomya')"
-16/01/1993,Sheffield United,Ipswich Town,3,0,"(31, 0, 'Brian Deane')","(72, 0, 'Brian Deane')","(75, 0, 'Brian Deane')"
-27/01/1993,Tottenham Hotspur,Ipswich Town,0,2,"(47, 1, 'Frank Yallop')","(79, 1, 'Bontcho Guentchev')"
-30/01/1993,Ipswich Town,Manchester United,2,1,"(20, 0, 'Chris Kiwomya')","(47, 0, 'Frank Yallop')","(85, 1, 'Brian McClair')"
-06/02/1993,Aston Villa,Ipswich Town,2,0,"(32, 0, 'Dwight Yorke')","(42, 0, 'Dean Saunders')"
-20/02/1993,Liverpool,Ipswich Town,0,0
-02/03/1993,Ipswich Town,Middlesbrough,0,1,"(35, 1, 'Paul Wilkinson')"
-10/03/1993,Ipswich Town,Sheffield Wednesday,0,1,"(35, 1, 'David Hirst')"
-13/03/1993,Southampton,Ipswich Town,4,3,"(13, 1, 'David Linighan')","(17, 0, 'Richard Hall')","(35, 1, 'Paul Goddard')","(65, 0, 'Matt Le Tissier')","(84, 0, 'Jeff Kenna')","(87, 1, 'Chris Kiwomya')","(90, 0, 'Matt Le Tissier')"
-03/04/1993,Manchester City,Ipswich Town,3,1,"(2, 1, 'Gavin Johnson')","(55, 0, 'Niall Quinn')","(66, 0, 'Rick Holden')","(70, 0, 'Michel Vonk')"
-06/04/1993,Ipswich Town,Chelsea,1,1,"(38, 0, 'Bontcho Guentchev')","(58, 1, 'John Spencer')"
-01/05/1993,Crystal Palace,Ipswich Town,3,1,"(8, 0, 'Eric Young')","(17, 0, 'Chris Armstrong')","(37, 1, 'David Gregory')","(60, 0, 'Eddie McGoldrick')"
-08/05/1993,Ipswich Town,Nottingham Forest,2,1,"(34, 0, 'Simon Milton')","(52, 0, 'Steve Whitton')","(64, 1, 'Nigel Clough')"
-19/08/1992,Middlesbrough,Manchester City,2,0,"(15, 0, 'Bernie Slaven')","(17, 0, 'Bernie Slaven')"
-29/08/1992,Manchester City,Oldham Athletic,3,3,"(4, 0, 'Niall Quinn')","(8, 0, 'Michel Vonk')","(11, 1, 'Richard Jobson')","(23, 0, 'David White')","(29, 1, 'Mike Milligan')","(38, 1, 'Gunnar Halle')"
-01/09/1992,Wimbledon,Manchester City,0,1,"(49, 1, 'David White')"
-05/09/1992,Sheffield Wednesday,Manchester City,0,3,"(20, 1, 'David White')","(55, 1, 'David White')","(75, 1, 'Michel Vonk')"
-12/09/1992,Manchester City,Middlesbrough,0,1,"(42, 1, 'Garry Flitcroft')"
-20/09/1992,Manchester City,Chelsea,0,1,"(40, 1, 'Mick Harford')"
-03/10/1992,Manchester City,Nottingham Forest,2,2,"(17, 0, 'Rick Holden')","(56, 1, 'Ray McKinnon')","(64, 0, 'Fitzroy Simpson')","(83, 1, 'Stuart Pearce')"
-17/10/1992,Crystal Palace,Manchester City,0,0
-24/10/1992,Manchester City,Southampton,1,0,"(74, 0, 'Mike Sheron')"
-28/11/1992,Manchester City,Tottenham Hotspur,0,1,"(77, 1, 'Terry Phelan')"
-06/12/1992,Manchester United,Manchester City,2,1,"(20, 0, 'Paul Ince')","(34, 1, 'Niall Quinn')","(73, 0, 'Mark Hughes')"
-19/12/1992,Manchester City,Aston Villa,1,1,"(34, 1, 'Garry Parker')","(58, 0, 'Garry Flitcroft')"
-26/12/1992,Manchester City,Sheffield United,2,0,"(20, 0, 'David White')","(55, 0, 'David White')"
-28/12/1992,Liverpool,Manchester City,1,1,"(39, 1, 'Niall Quinn')","(49, 0, 'Ian Rush')"
-09/01/1993,Chelsea,Manchester City,2,4,"(26, 1, 'David White')","(29, 1, 'Mike Sheron')","(54, 1, 'Frank Sinclair')","(77, 0, 'Graham Stuart')","(83, 0, 'John Spencer')","(87, 1, 'Mike Sheron')"
-26/01/1993,Oldham Athletic,Manchester City,0,1,"(77, 1, 'Niall Quinn')"
-23/02/1993,Manchester City,Sheffield Wednesday,1,2,"(72, 1, 'Viv Anderson')","(82, 1, 'Paul Warhurst')","(84, 0, 'Niall Quinn')"
-27/02/1993,Nottingham Forest,Manchester City,0,2,"(19, 1, 'David White')","(89, 1, 'Garry Flitcroft')"
-20/03/1993,Manchester City,Manchester United,1,1,"(57, 0, 'Niall Quinn')","(68, 1, 'Eric Cantona')"
-24/03/1993,Tottenham Hotspur,Manchester City,3,1,"(23, 0, 'Darren Anderton')","(43, 0, 'Mohamed Nayim')","(60, 1, 'Mike Sheron')","(87, 0, 'Andy Turner')"
-09/04/1993,Sheffield United,Manchester City,1,1,"(8, 1, 'John Pemberton')","(69, 0, 'Brian Deane')"
-12/04/1993,Manchester City,Liverpool,1,1,"(11, 0, 'Garry Flitcroft')","(66, 1, 'Ian Rush')"
-18/04/1993,Aston Villa,Manchester City,3,1,"(34, 1, 'Niall Quinn')","(47, 0, 'Dean Saunders')","(67, 0, 'Garry Parker')","(89, 0, 'Ray Houghton')"
-21/04/1993,Manchester City,Wimbledon,1,1,"(50, 1, 'Paul Miller')","(84, 0, 'Rick Holden')"
-01/05/1993,Southampton,Manchester City,0,1,"(41, 1, 'David White')"
-05/05/1993,Manchester City,Crystal Palace,0,0
-29/08/1992,Southampton,Middlesbrough,2,1,"(75, 1, 'Paul Wilkinson')","(80, 0, 'Matt Le Tissier')","(83, 0, 'Nicky Banger')"
-05/09/1992,Middlesbrough,Sheffield United,2,0,"(35, 0, 'Willie Falconer')","(83, 0, 'Tommy Wright')"
-26/09/1992,Middlesbrough,Aston Villa,2,3,"(22, 1, 'Dean Saunders')","(62, 0, 'Bernie Slaven')","(71, 1, 'Dalian Atkinson')","(74, 1, 'Dean Saunders')","(86, 0, 'Paul McGrath')"
-03/10/1992,Middlesbrough,Manchester United,1,1,"(43, 1, 'Steve Bruce')","(59, 0, 'Bernie Slaven')"
-17/10/1992,Tottenham Hotspur,Middlesbrough,2,2,"(2, 1, 'Robbie Mustoe')","(32, 1, 'Paul Wilkinson')","(70, 0, 'Teddy Sheringham')","(73, 0, 'Nick Barmby')"
-21/10/1992,Nottingham Forest,Middlesbrough,1,0,"(66, 0, 'Kingsley Black')"
-24/10/1992,Middlesbrough,Sheffield Wednesday,1,1,"(29, 1, 'Mark Bright')","(34, 0, 'Paul Wilkinson')"
-07/11/1992,Liverpool,Middlesbrough,4,1,"(9, 0, 'Ronny Rosenthal')","(38, 0, 'Ronny Rosenthal')","(41, 1, 'Jimmy Phillips')","(44, 0, 'Steve McManaman')","(90, 0, 'Ian Rush')"
-21/11/1992,Middlesbrough,Wimbledon,2,0,"(49, 0, 'John Hendrie')","(56, 0, 'Chris Morris')"
-28/11/1992,Oldham Athletic,Middlesbrough,4,1,"(15, 1, 'Willie Falconer')","(21, 0, 'Gunnar Halle')","(24, 0, 'Neil Pointon')","(28, 0, 'Graeme Sharp')","(60, 0, 'Neil Adams')"
-11/12/1992,Middlesbrough,Chelsea,0,0
-28/12/1992,Middlesbrough,Crystal Palace,0,1,"(63, 1, 'Simon Osborn')"
-17/01/1993,Aston Villa,Middlesbrough,5,1,"(26, 0, 'Garry Parker')","(32, 0, 'Paul McGrath')","(44, 0, 'Dwight Yorke')","(58, 0, 'Dean Saunders')","(68, 0, 'Shaun Teale')","(82, 1, 'Craig Hignett')"
-26/01/1993,Middlesbrough,Southampton,2,1,"(24, 0, 'Nicky Mohan')","(58, 1, 'Matt Le Tissier')","(71, 0, 'Paul Wilkinson')"
-09/02/1993,Sheffield United,Middlesbrough,2,0,"(38, 0, 'Franz Carr')","(60, 0, 'Brian Deane')"
-20/02/1993,Middlesbrough,Nottingham Forest,1,2,"(58, 1, 'Nigel Clough')","(59, 0, 'Jimmy Phillips')","(68, 1, 'Steve Stone')"
-27/02/1993,Manchester United,Middlesbrough,3,0,"(20, 0, 'Ryan Giggs')","(79, 0, 'Denis Irwin')","(85, 0, 'Eric Cantona')"
-09/03/1993,Wimbledon,Middlesbrough,2,0,"(32, 0, 'John Scales')","(74, 0, 'Dean Holdsworth')"
-13/03/1993,Middlesbrough,Liverpool,1,2,"(11, 1, 'Don Hutchison')","(15, 0, 'Steve Nicol')","(81, 1, 'Ian Rush')"
-22/03/1993,Middlesbrough,Oldham Athletic,2,3,"(29, 1, 'Paul Bernard')","(34, 1, 'Ian Olney')","(83, 0, 'Nicky Mohan')","(85, 1, 'Andy Ritchie')","(88, 0, 'Craig Hignett')"
-03/04/1993,Chelsea,Middlesbrough,4,0,"(52, 0, 'Mal Donaghy')","(61, 0, 'John Spencer')","(73, 0, 'Graham Stuart')","(89, 0, 'Darren Barnard')"
-12/04/1993,Crystal Palace,Middlesbrough,4,1,"(54, 0, 'Simon Rodger')","(61, 0, 'Eric Young')","(81, 0, 'Chris Armstrong')","(86, 0, 'Chris Coleman')","(87, 1, 'Paul Wilkinson')"
-20/04/1993,Middlesbrough,Tottenham Hotspur,3,0,"(2, 0, 'Tommy Wright')","(26, 0, 'Tommy Wright')","(76, 0, 'Paul Wilkinson')"
-01/05/1993,Sheffield Wednesday,Middlesbrough,2,3,"(26, 1, 'Willie Falconer')","(36, 1, 'Jamie Pollock')","(51, 1, 'John Hendrie')","(52, 0, 'Chris Bart-Williams')","(78, 0, 'Chris Morris')"
-15/08/1992,Chelsea,Oldham Athletic,1,1,"(84, 0, 'Mick Harford')","(86, 1, 'Nick Henry')"
-19/08/1992,Oldham Athletic,Crystal Palace,1,1,"(16, 0, 'Graeme Sharp')","(50, 1, 'Eddie McGoldrick')"
-22/08/1992,Oldham Athletic,Nottingham Forest,5,3,"(31, 0, 'Neil Adams')","(38, 0, 'Graeme Sharp')","(43, 0, 'Nick Henry')","(46, 0, 'Gunnar Halle')","(59, 0, 'Paul Bernard')","(66, 1, 'Stuart Pearce')","(86, 1, 'Gary Bannister')","(88, 1, 'Gary Bannister')"
-12/09/1992,Crystal Palace,Oldham Athletic,2,2,"(19, 1, 'Ian Olney')","(64, 0, 'Chris Armstrong')","(66, 0, 'Chris Armstrong')","(78, 1, 'Graeme Sharp')"
-17/10/1992,Sheffield Wednesday,Oldham Athletic,2,1,"(9, 0, 'Carlton Palmer')","(17, 0, 'Mark Bright')","(44, 1, 'Mike Milligan')"
-24/10/1992,Oldham Athletic,Aston Villa,1,1,"(19, 0, 'Ian Olney')","(81, 1, 'Dalian Atkinson')"
-31/10/1992,Southampton,Oldham Athletic,1,0,"(58, 0, 'Richard Hall')"
-21/11/1992,Manchester United,Oldham Athletic,3,0,"(10, 0, 'Brian McClair')","(11, 0, 'Mark Hughes')","(28, 0, 'Brian McClair')"
-12/12/1992,Wimbledon,Oldham Athletic,5,2,"(18, 0, 'Neal Ardley')","(22, 0, 'Dean Holdsworth')","(26, 0, 'Neal Ardley')","(46, 1, 'Mark Brennan')","(51, 0, 'Andy Clarke')","(52, 0, 'Dean Holdsworth')","(63, 1, 'Mike Milligan')"
-19/12/1992,Oldham Athletic,Tottenham Hotspur,2,1,"(29, 0, 'Graeme Sharp')","(61, 1, 'Teddy Sheringham')","(90, 0, 'Ian Olney')"
-30/01/1993,Nottingham Forest,Oldham Athletic,2,0,"(14, 0, 'Ian Woan')","(59, 0, 'Ian Woan')"
-06/02/1993,Oldham Athletic,Chelsea,3,1,"(38, 0, 'Nick Henry')","(61, 0, 'Neil Adams')","(71, 0, 'Mark Brennan')","(89, 1, 'Mick Harford')"
-22/02/1993,Sheffield United,Oldham Athletic,2,0,"(45, 0, 'John Gannon')","(77, 0, 'Adrian Littlejohn')"
-09/03/1993,Oldham Athletic,Manchester United,1,0,"(26, 0, 'Neil Adams')"
-03/04/1993,Oldham Athletic,Wimbledon,6,2,"(5, 0, 'John Fashanu')","(13, 0, 'Paul Bernard')","(42, 0, 'Ian Olney')","(61, 1, 'Dean Holdsworth')","(68, 1, 'Dean Holdsworth')","(69, 0, 'Ian Olney')","(73, 0, 'Neil Adams')","(87, 0, 'Darren Beckford')"
-07/04/1993,Oldham Athletic,Sheffield Wednesday,1,1,"(13, 0, 'Neil Pointon')","(65, 1, 'Gordon Watson')"
-10/04/1993,Liverpool,Oldham Athletic,1,0,"(60, 0, 'Ian Rush')"
-13/04/1993,Oldham Athletic,Sheffield United,1,1,"(10, 0, 'Andy Ritchie')","(43, 1, 'Jamie Hoyland')"
-17/04/1993,Tottenham Hotspur,Oldham Athletic,4,1,"(25, 1, 'Darren Beckford')","(58, 0, 'Teddy Sheringham')","(70, 0, 'Darren Anderton')","(82, 0, 'Teddy Sheringham')","(84, 0, 'Andy Turner')"
-02/05/1993,Aston Villa,Oldham Athletic,0,1,"(29, 1, 'Nick Henry')"
-05/05/1993,Oldham Athletic,Liverpool,3,2,"(20, 0, 'Darren Beckford')","(30, 1, 'Ian Rush')","(35, 0, 'Ian Olney')","(36, 0, 'Ian Olney')","(59, 1, 'Ian Rush')"
-08/05/1993,Oldham Athletic,Southampton,4,3,"(29, 0, 'Neil Pointon')","(34, 1, 'Matt Le Tissier')","(44, 0, 'Ian Olney')","(54, 0, 'Andy Ritchie')","(63, 0, 'Gunnar Halle')","(66, 1, 'Matt Le Tissier')","(84, 1, 'Matt Le Tissier')"
-15/08/1992,Sheffield United,Manchester United,2,1,"(5, 0, 'Brian Deane')","(50, 0, 'Brian Deane')","(61, 1, 'Mark Hughes')"
-24/08/1992,Southampton,Manchester United,0,1,"(89, 1, 'Dion Dublin')"
-29/08/1992,Nottingham Forest,Manchester United,0,2,"(17, 1, 'Mark Hughes')","(50, 1, 'Ryan Giggs')"
-02/09/1992,Manchester United,Crystal Palace,1,0,"(88, 0, 'Mark Hughes')"
-19/09/1992,Tottenham Hotspur,Manchester United,1,1,"(45, 1, 'Ryan Giggs')","(52, 0, 'Gordon Durie')"
-18/10/1992,Manchester United,Liverpool,2,2,"(23, 1, 'Don Hutchison')","(44, 1, 'Ian Rush')","(78, 0, 'Mark Hughes')","(90, 0, 'Mark Hughes')"
-31/10/1992,Manchester United,Wimbledon,0,1,"(79, 1, 'Lawrie Sanchez')"
-07/11/1992,Aston Villa,Manchester United,1,0,"(12, 0, 'Dalian Atkinson')"
-19/12/1992,Chelsea,Manchester United,1,1,"(67, 0, 'David Lee')","(71, 1, 'Eric Cantona')"
-26/12/1992,Sheffield Wednesday,Manchester United,3,3,"(2, 0, 'David Hirst')","(6, 0, 'Mark Bright')","(62, 0, 'John Sheridan')","(67, 1, 'Brian McClair')","(80, 1, 'Brian McClair')","(84, 1, 'Eric Cantona')"
-09/01/1993,Manchester United,Tottenham Hotspur,4,1,"(40, 0, 'Eric Cantona')","(52, 0, 'Denis Irwin')","(53, 0, 'Brian McClair')","(58, 0, 'Paul Parker')","(88, 1, 'Nick Barmby')"
-27/01/1993,Manchester United,Nottingham Forest,2,0,"(47, 0, 'Paul Ince')","(68, 0, 'Mark Hughes')"
-06/02/1993,Manchester United,Sheffield United,2,1,"(7, 1, 'Franz Carr')","(64, 0, 'Brian McClair')","(80, 0, 'Eric Cantona')"
-20/02/1993,Manchester United,Southampton,2,1,"(77, 1, 'Nicky Banger')","(82, 0, 'Ryan Giggs')","(83, 0, 'Ryan Giggs')"
-06/03/1993,Liverpool,Manchester United,1,2,"(42, 1, 'Mark Hughes')","(50, 0, 'Ian Rush')","(56, 1, 'Brian McClair')"
-14/03/1993,Manchester United,Aston Villa,1,1,"(53, 1, 'Steve Staunton')","(57, 0, 'Mark Hughes')"
-10/04/1993,Manchester United,Sheffield Wednesday,2,1,"(65, 1, 'John Sheridan')","(86, 0, 'Steve Bruce')","(90, 0, 'Steve Bruce')"
-17/04/1993,Manchester United,Chelsea,3,0,"(23, 0, 'Mark Hughes')","(44, 0, 'Steve Clarke')","(48, 0, 'Eric Cantona')"
-21/04/1993,Crystal Palace,Manchester United,0,2,"(64, 1, 'Mark Hughes')","(89, 1, 'Paul Ince')"
-09/05/1993,Wimbledon,Manchester United,1,2,"(63, 1, 'Paul Ince')","(72, 1, 'Bryan Robson')","(82, 0, 'Dean Holdsworth')"
-19/08/1992,Sheffield Wednesday,Nottingham Forest,2,0,"(16, 0, 'David Hirst')","(78, 0, 'David Hirst')"
-22/08/1992,Sheffield Wednesday,Chelsea,3,3,"(27, 0, 'David Hirst')","(37, 0, 'David Hirst')","(49, 1, 'Vinnie Jones')","(57, 1, 'Graham Stuart')","(64, 1, 'Eddie Newton')","(81, 0, 'Danny Wilson')"
-25/08/1992,Crystal Palace,Sheffield Wednesday,1,1,"(41, 0, 'Eric Young')","(66, 1, 'Paul A Williams')"
-12/09/1992,Nottingham Forest,Sheffield Wednesday,1,2,"(39, 1, 'Paul Warhurst')","(57, 1, 'Graham Hyde')","(87, 0, 'Gary Bannister')"
-27/09/1992,Sheffield Wednesday,Tottenham Hotspur,2,0,"(6, 0, 'Mark Bright')","(32, 0, 'Viv Anderson')"
-03/10/1992,Liverpool,Sheffield Wednesday,1,0,"(80, 0, 'Don Hutchison')"
-08/11/1992,Sheffield United,Sheffield Wednesday,1,1,"(61, 0, 'Adrian Littlejohn')","(84, 1, 'David Hirst')"
-28/11/1992,Wimbledon,Sheffield Wednesday,1,1,"(14, 1, 'Chris Bart-Williams')","(89, 0, 'Vinnie Jones')"
-05/12/1992,Sheffield Wednesday,Aston Villa,1,2,"(19, 1, 'Dalian Atkinson')","(26, 0, 'Mark Bright')","(67, 1, 'Dalian Atkinson')"
-28/12/1992,Southampton,Sheffield Wednesday,1,2,"(12, 1, 'John Sheridan')","(63, 1, 'David Hirst')","(80, 0, 'Ken Monkou')"
-16/01/1993,Tottenham Hotspur,Sheffield Wednesday,0,2,"(54, 1, 'Mark Bright')","(88, 1, 'David Hirst')"
-30/01/1993,Chelsea,Sheffield Wednesday,0,2,"(3, 1, 'Paul Warhurst')","(89, 1, 'John Harkes')"
-20/02/1993,Sheffield Wednesday,Crystal Palace,2,1,"(27, 0, 'Paul Warhurst')","(62, 1, 'Chris Armstrong')","(71, 0, 'Danny Wilson')"
-27/02/1993,Sheffield Wednesday,Liverpool,1,1,"(20, 1, 'Don Hutchison')","(82, 0, 'Viv Anderson')"
-20/03/1993,Aston Villa,Sheffield Wednesday,2,0,"(2, 0, 'Dwight Yorke')","(56, 0, 'Dwight Yorke')"
-24/03/1993,Sheffield Wednesday,Wimbledon,1,1,"(76, 0, 'Mark Bright')","(90, 1, 'Dean Holdsworth')"
-12/04/1993,Sheffield Wednesday,Southampton,5,2,"(37, 0, 'Mark Bright')","(43, 0, 'Chris Bart-Williams')","(50, 0, 'Phil King')","(68, 1, 'Jason Dodd')","(71, 0, 'Chris Bart-Williams')","(80, 0, 'Chris Bart-Williams')","(86, 1, 'Iain Dowie')"
-21/04/1993,Sheffield Wednesday,Sheffield United,1,1,"(44, 1, 'Brian Deane')","(71, 0, 'Paul Warhurst')"
-22/08/1992,Aston Villa,Southampton,1,1,"(64, 0, 'Dalian Atkinson')","(79, 1, 'Micky Adams')"
-29/08/1992,Sheffield United,Aston Villa,0,2,"(2, 1, 'Garry Parker')","(86, 1, 'Garry Parker')"
-02/09/1992,Aston Villa,Chelsea,1,3,"(31, 0, 'Kevin Richardson')","(40, 1, 'Robert Fleck')","(42, 1, 'Eddie Newton')","(57, 1, 'Dennis Wise')"
-05/09/1992,Aston Villa,Crystal Palace,3,0,"(18, 0, 'Dwight Yorke')","(42, 0, 'Steve Staunton')","(72, 0, 'Steve Froggatt')"
-19/09/1992,Aston Villa,Liverpool,4,2,"(43, 1, 'Mark Walters')","(44, 0, 'Dean Saunders')","(54, 0, 'Dalian Atkinson')","(64, 0, 'Dean Saunders')","(78, 0, 'Garry Parker')","(85, 1, 'Ronny Rosenthal')"
-03/10/1992,Wimbledon,Aston Villa,2,3,"(5, 1, 'Dean Saunders')","(29, 1, 'Dean Saunders')","(34, 0, 'Aidan Newhouse')","(77, 1, 'Dalian Atkinson')","(90, 0, 'Andy Clarke')"
-21/11/1992,Tottenham Hotspur,Aston Villa,0,0
-12/12/1992,Aston Villa,Nottingham Forest,2,1,"(9, 1, 'Roy Keane')","(33, 0, 'Cyrille Regis')","(47, 0, 'Paul McGrath')"
-09/01/1993,Liverpool,Aston Villa,1,2,"(41, 0, 'John Barnes')","(54, 1, 'Garry Parker')","(64, 1, 'Dean Saunders')"
-27/01/1993,Aston Villa,Sheffield United,3,1,"(54, 0, 'Paul McGrath')","(58, 0, 'Chris Kamara')","(74, 1, 'Brian Deane')","(89, 0, 'Kevin Richardson')"
-30/01/1993,Southampton,Aston Villa,2,0,"(39, 0, 'Nicky Banger')","(63, 0, 'Iain Dowie')"
-10/02/1993,Crystal Palace,Aston Villa,1,0,"(9, 0, 'Bobby Bowry')"
-13/02/1993,Chelsea,Aston Villa,0,1,"(22, 1, 'Ray Houghton')"
-27/02/1993,Aston Villa,Wimbledon,1,0,"(79, 0, 'Dwight Yorke')"
-10/03/1993,Aston Villa,Tottenham Hotspur,0,0
-04/04/1993,Nottingham Forest,Aston Villa,0,1,"(63, 1, 'Paul McGrath')"
-05/09/1992,Liverpool,Chelsea,2,1,"(27, 0, 'Dean Saunders')","(72, 1, 'Mick Harford')","(89, 0, 'Jamie Redknapp')"
-26/09/1992,Chelsea,Nottingham Forest,0,0
-31/10/1992,Chelsea,Sheffield United,1,2,"(40, 1, 'Adrian Littlejohn')","(41, 0, 'Andy Townsend')","(57, 1, 'Brian Deane')"
-07/11/1992,Chelsea,Crystal Palace,3,1,"(4, 0, 'Richard Shaw')","(40, 0, 'Graham Stuart')","(58, 0, 'Mick Harford')","(70, 1, 'Eric Young')"
-05/12/1992,Tottenham Hotspur,Chelsea,1,2,"(76, 1, 'Eddie Newton')","(85, 1, 'Eddie Newton')","(88, 0, 'Sol Campbell')"
-26/12/1992,Chelsea,Southampton,1,1,"(2, 1, 'Iain Dowie')","(89, 0, 'Eddie Newton')"
-28/12/1992,Wimbledon,Chelsea,0,0
-16/01/1993,Nottingham Forest,Chelsea,3,0,"(9, 0, 'Gary Bannister')","(58, 0, 'Gary Bannister')","(89, 0, 'Toddy Orlygsson')"
-10/02/1993,Chelsea,Liverpool,0,0
-15/03/1993,Crystal Palace,Chelsea,1,1,"(4, 1, 'Graham Stuart')","(41, 0, 'Chris Armstrong')"
-20/03/1993,Chelsea,Tottenham Hotspur,1,1,"(31, 1, 'Teddy Sheringham')","(52, 0, 'Tony Cascarino')"
-10/04/1993,Southampton,Chelsea,1,0,"(49, 0, 'Nicky Banger')"
-12/04/1993,Chelsea,Wimbledon,4,2,"(45, 0, 'Dennis Wise')","(51, 0, 'Gareth Hall')","(55, 1, 'Dean Holdsworth')","(80, 0, 'John Spencer')","(85, 0, 'Neil Shipperley')","(90, 1, 'Lawrie Sanchez')"
-08/05/1993,Sheffield United,Chelsea,4,2,"(7, 0, 'Andy Scott')","(16, 0, 'Paul Rogers')","(43, 0, 'Dane Whitehouse')","(48, 0, 'Dane Whitehouse')","(86, 1, 'David Lee')","(87, 1, 'Andy Townsend')"
-16/08/1992,Nottingham Forest,Liverpool,1,0,"(29, 0, 'Teddy Sheringham')"
-19/08/1992,Liverpool,Sheffield United,2,1,"(35, 1, 'Brian Deane')","(43, 0, 'Mark Walters')","(65, 0, 'Paul Stewart')"
-01/09/1992,Liverpool,Southampton,1,1,"(51, 1, 'Kerry Dixon')","(60, 0, 'Mark Wright')"
-12/09/1992,Sheffield United,Liverpool,1,0,"(4, 0, 'Adrian Littlejohn')"
-26/09/1992,Liverpool,Wimbledon,2,3,"(12, 1, 'John Fashanu')","(27, 1, 'Robbie Earle')","(35, 0, 'Jan Molby')","(39, 0, 'Steve McManaman')","(76, 1, 'Robbie Earle')"
-31/10/1992,Tottenham Hotspur,Liverpool,2,0,"(63, 0, 'Mohamed Nayim')","(72, 0, 'Neil Ruddock')"
-28/11/1992,Liverpool,Crystal Palace,5,0,"(7, 0, 'Steve McManaman')","(9, 0, 'Mike Marsh')","(19, 0, 'Steve McManaman')","(61, 0, 'Ronny Rosenthal')","(72, 0, 'Don Hutchison')"
-16/01/1993,Wimbledon,Liverpool,2,0,"(36, 0, 'John Fashanu')","(64, 0, 'Steve Cotterill')"
-06/02/1993,Liverpool,Nottingham Forest,0,0
-13/02/1993,Southampton,Liverpool,2,1,"(23, 0, 'Neil Maddison')","(60, 1, 'Don Hutchison')","(73, 0, 'Nicky Banger')"
-23/03/1993,Crystal Palace,Liverpool,1,1,"(49, 1, 'Ian Rush')","(78, 0, 'Chris Armstrong')"
-08/05/1993,Liverpool,Tottenham Hotspur,6,2,"(21, 0, 'Ian Rush')","(44, 0, 'John Barnes')","(46, 1, 'Teddy Sheringham')","(47, 0, 'Stuart Nethercott')","(77, 1, 'Steve Sedgley')","(82, 0, 'Mark Walters')","(85, 0, 'Ian Rush')","(88, 0, 'John Barnes')"
-15/08/1992,Southampton,Tottenham Hotspur,0,0
-26/09/1992,Crystal Palace,Southampton,1,2,"(44, 1, 'Iain Dowie')","(54, 0, 'Eric Young')","(88, 1, 'Iain Dowie')"
-03/10/1992,Sheffield United,Southampton,2,0,"(4, 0, 'Dane Whitehouse')","(26, 0, 'Adrian Littlejohn')"
-17/10/1992,Southampton,Wimbledon,2,2,"(50, 1, 'Steve Cotterill')","(57, 0, 'Iain Dowie')","(67, 1, 'Steve Cotterill')","(83, 0, 'Perry Groves')"
-28/11/1992,Nottingham Forest,Southampton,1,2,"(21, 1, 'Matt Le Tissier')","(43, 0, 'Nigel Clough')","(63, 1, 'Micky Adams')"
-16/01/1993,Southampton,Crystal Palace,1,0,"(50, 0, 'Neil Maddison')"
-07/02/1993,Tottenham Hotspur,Southampton,4,2,"(21, 1, 'Iain Dowie')","(54, 0, 'Teddy Sheringham')","(56, 0, 'Nick Barmby')","(57, 0, 'Darren Anderton')","(59, 0, 'Teddy Sheringham')","(66, 1, 'Richard Hall')"
-27/02/1993,Southampton,Sheffield United,3,2,"(2, 0, 'Kevin Moore')","(5, 0, 'Jeff Kenna')","(37, 1, 'Brian Gayle')","(39, 0, 'Iain Dowie')","(83, 1, 'Ian Bryson')"
-06/03/1993,Wimbledon,Southampton,1,2,"(22, 0, 'Dean Holdsworth')","(33, 1, 'Matt Le Tissier')","(73, 1, 'Kevin Moore')"
-24/03/1993,Southampton,Nottingham Forest,1,2,"(5, 1, 'Nigel Clough')","(45, 1, 'Roy Keane')","(72, 0, 'Matt Le Tissier')"
-22/08/1992,Tottenham Hotspur,Crystal Palace,2,2,"(16, 0, 'Gordon Durie')","(21, 1, 'Eddie McGoldrick')","(80, 1, 'Eric Young')","(88, 0, 'Steve Sedgley')"
-21/11/1992,Crystal Palace,Nottingham Forest,1,1,"(23, 0, 'Chris Armstrong')","(84, 1, 'Gary Bannister')"
-05/12/1992,Crystal Palace,Sheffield United,2,0,"(43, 0, 'Chris Armstrong')","(76, 0, 'Gareth Southgate')"
-26/12/1992,Crystal Palace,Wimbledon,2,0,"(3, 0, 'Chris Coleman')","(37, 0, 'Geoff Thomas')"
-30/01/1993,Crystal Palace,Tottenham Hotspur,1,3,"(15, 1, 'Teddy Sheringham')","(26, 1, 'Andy A Gray')","(30, 1, 'Teddy Sheringham')","(54, 0, 'Neil Ruddock')"
-03/03/1993,Nottingham Forest,Crystal Palace,1,1,"(23, 1, 'Gareth Southgate')","(24, 0, 'Roy Keane')"
-20/03/1993,Sheffield United,Crystal Palace,0,1,"(44, 1, 'Chris Coleman')"
-09/04/1993,Wimbledon,Crystal Palace,4,0,"(19, 0, 'Robbie Earle')","(24, 0, 'Dean Holdsworth')","(47, 0, 'Dean Holdsworth')","(53, 0, 'Robbie Earle')"
-25/08/1992,Sheffield United,Wimbledon,2,2,"(34, 1, 'Warren Barton')","(48, 0, 'Paul Beesley')","(67, 0, 'Glyn Hodges')","(74, 1, 'Dean Holdsworth')"
-02/09/1992,Tottenham Hotspur,Sheffield United,2,0,"(43, 0, 'Teddy Sheringham')","(46, 0, 'Gordon Durie')"
-24/10/1992,Sheffield United,Nottingham Forest,0,0
-20/02/1993,Wimbledon,Sheffield United,2,0,"(1, 0, 'John Fashanu')","(44, 0, 'Gerald Dobbs')"
-02/03/1993,Sheffield United,Tottenham Hotspur,6,0,"(13, 0, 'Franz Carr')","(21, 0, 'Andy A Gray')","(28, 0, 'Ian Bryson')","(29, 0, 'Ian Bryson')","(73, 0, 'Brian Deane')","(87, 0, 'Paul Rogers')"
-01/05/1993,Nottingham Forest,Sheffield United,0,2,"(30, 1, 'Glyn Hodges')","(73, 1, 'Brian Gayle')"
-20/12/1992,Nottingham Forest,Wimbledon,1,1,"(5, 0, 'Nigel Clough')","(13, 1, 'Andy Clarke')"
-28/12/1992,Tottenham Hotspur,Nottingham Forest,2,1,"(35, 0, 'Nick Barmby')","(73, 1, 'Scot Gemmill')","(85, 0, 'Gary Mabbutt')"
-12/04/1993,Nottingham Forest,Tottenham Hotspur,2,1,"(25, 0, 'Kingsley Black')","(35, 0, 'Robert Rosario')","(44, 1, 'Steve Sedgley')"
-17/04/1993,Wimbledon,Nottingham Forest,1,0,"(33, 0, 'Andy Clarke')"
-25/10/1992,Wimbledon,Tottenham Hotspur,1,1,"(38, 0, 'Terry Gibson')","(48, 1, 'Nick Barmby')"
-01/05/1993,Tottenham Hotspur,Wimbledon,1,1,"(39, 0, 'Darren Anderton')","(63, 1, 'Robbie Earle')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+1992-08-15,Arsenal,Norwich City,2,4,"(28, 0, 'Steve Bould')","(39, 0, 'Kevin Campbell')","(69, 1, 'Mark Robins')","(72, 1, 'David Phillips')","(84, 1, 'Ruel Fox')","(84, 1, 'Mark Robins')",,,,,,
+1992-08-15,Chelsea,Oldham Athletic,1,1,"(84, 0, 'Mick Harford')","(86, 1, 'Nick Henry')",,,,,,,,,,
+1992-08-15,Coventry City,Middlesbrough,2,1,"(9, 0, 'John Williams')","(51, 0, 'David Smith')","(63, 1, 'Paul Wilkinson')",,,,,,,,,
+1992-08-15,Crystal Palace,Blackburn Rovers,3,3,"(37, 0, 'Mark Bright')","(42, 1, 'Stuart Ripley')","(62, 1, 'Alan Shearer')","(63, 0, 'Gareth Southgate')","(81, 1, 'Alan Shearer')","(90, 0, 'Simon Osborn')",,,,,,
+1992-08-15,Everton,Sheffield Wednesday,1,1,"(15, 1, 'Nigel Pearson')","(44, 0, 'Barry Horne')",,,,,,,,,,
+1992-08-15,Ipswich Town,Aston Villa,1,1,"(31, 0, 'Gavin Johnson')","(84, 1, 'Dalian Atkinson')",,,,,,,,,,
+1992-08-15,Leeds United,Wimbledon,2,1,"(14, 0, 'Lee Chapman')","(76, 1, 'Warren Barton')","(86, 0, 'Lee Chapman')",,,,,,,,,
+1992-08-15,Sheffield United,Manchester United,2,1,"(5, 0, 'Brian Deane')","(50, 0, 'Brian Deane')","(61, 1, 'Mark Hughes')",,,,,,,,,
+1992-08-15,Southampton,Tottenham Hotspur,0,0,,,,,,,,,,,,
+1992-08-16,Nottingham Forest,Liverpool,1,0,"(29, 0, 'Teddy Sheringham')",,,,,,,,,,,
+1992-08-17,Manchester City,Queens Park Rangers,1,1,"(37, 0, 'David White')","(47, 1, 'Andy Sinton')",,,,,,,,,,
+1992-08-18,Blackburn Rovers,Arsenal,1,0,"(84, 0, 'Alan Shearer')",,,,,,,,,,,
+1992-08-18,Wimbledon,Ipswich Town,0,1,"(37, 1, 'Neil Thompson')",,,,,,,,,,,
+1992-08-19,Aston Villa,Leeds United,1,1,"(77, 0, 'Dalian Atkinson')","(84, 1, 'Gary Speed')",,,,,,,,,,
+1992-08-19,Liverpool,Sheffield United,2,1,"(35, 1, 'Brian Deane')","(43, 0, 'Mark Walters')","(65, 0, 'Paul Stewart')",,,,,,,,,
+1992-08-19,Manchester United,Everton,0,3,"(45, 1, 'Peter Beardsley')","(80, 1, 'Robert Warzycha')","(90, 1, 'Mo Johnston')",,,,,,,,,
+1992-08-19,Middlesbrough,Manchester City,2,0,"(15, 0, 'Bernie Slaven')","(17, 0, 'Bernie Slaven')",,,,,,,,,,
+1992-08-19,Norwich City,Chelsea,2,1,"(15, 1, 'Graham Stuart')","(57, 0, 'David Phillips')","(59, 0, 'Mark Robins')",,,,,,,,,
+1992-08-19,Oldham Athletic,Crystal Palace,1,1,"(16, 0, 'Graeme Sharp')","(50, 1, 'Eddie McGoldrick')",,,,,,,,,,
+1992-08-19,Queens Park Rangers,Southampton,3,1,"(31, 1, 'Matt Le Tissier')","(58, 0, 'Les Ferdinand')","(70, 0, 'David Bardsley')","(86, 0, 'Les Ferdinand')",,,,,,,,
+1992-08-19,Sheffield Wednesday,Nottingham Forest,2,0,"(16, 0, 'David Hirst')","(78, 0, 'David Hirst')",,,,,,,,,,
+1992-08-19,Tottenham Hotspur,Coventry City,0,2,"(4, 1, 'John Williams')","(29, 1, 'John Williams')",,,,,,,,,,
+1992-08-22,Aston Villa,Southampton,1,1,"(64, 0, 'Dalian Atkinson')","(79, 1, 'Micky Adams')",,,,,,,,,,
+1992-08-22,Blackburn Rovers,Manchester City,1,0,"(69, 0, 'Mike Newell')",,,,,,,,,,,
+1992-08-22,Manchester United,Ipswich Town,1,1,"(56, 1, 'Chris Kiwomya')","(57, 0, 'Denis Irwin')",,,,,,,,,,
+1992-08-22,Middlesbrough,Leeds United,4,1,"(7, 0, 'Paul Wilkinson')","(8, 0, 'Paul Wilkinson')","(47, 0, 'Tommy Wright')","(59, 0, 'John Hendrie')","(68, 1, 'Eric Cantona')",,,,,,,
+1992-08-22,Norwich City,Everton,1,1,"(55, 1, 'Peter Beardsley')","(67, 0, 'Ruel Fox')",,,,,,,,,,
+1992-08-22,Oldham Athletic,Nottingham Forest,5,3,"(31, 0, 'Neil Adams')","(38, 0, 'Graeme Sharp')","(43, 0, 'Nick Henry')","(46, 0, 'Gunnar Halle')","(59, 0, 'Paul Bernard')","(66, 1, 'Stuart Pearce')","(86, 1, 'Gary Bannister')","(88, 1, 'Gary Bannister')",,,,
+1992-08-22,Queens Park Rangers,Sheffield United,3,2,"(3, 0, 'Les Ferdinand')","(4, 1, 'Alan Cork')","(14, 0, 'Simon Barker')","(63, 1, 'Brian Deane')","(84, 0, 'Dennis Bailey')",,,,,,,
+1992-08-22,Sheffield Wednesday,Chelsea,3,3,"(27, 0, 'David Hirst')","(37, 0, 'David Hirst')","(49, 1, 'Vinnie Jones')","(57, 1, 'Graham Stuart')","(64, 1, 'Eddie Newton')","(81, 0, 'Danny Wilson')",,,,,,
+1992-08-22,Tottenham Hotspur,Crystal Palace,2,2,"(16, 0, 'Gordon Durie')","(21, 1, 'Eddie McGoldrick')","(80, 1, 'Eric Young')","(88, 0, 'Steve Sedgley')",,,,,,,,
+1992-08-22,Wimbledon,Coventry City,1,2,"(14, 1, 'Micky Gynn')","(46, 1, 'Robert Rosario')","(73, 0, 'Dean Holdsworth')",,,,,,,,,
+1992-08-23,Liverpool,Arsenal,0,2,"(53, 1, 'Anders Limpar')","(80, 1, 'Ian Wright')",,,,,,,,,,
+1992-08-24,Southampton,Manchester United,0,1,"(89, 1, 'Dion Dublin')",,,,,,,,,,,
+1992-08-25,Crystal Palace,Sheffield Wednesday,1,1,"(41, 0, 'Eric Young')","(66, 1, 'Paul A Williams')",,,,,,,,,,
+1992-08-25,Everton,Aston Villa,1,0,"(88, 0, 'Mo Johnston')",,,,,,,,,,,
+1992-08-25,Ipswich Town,Liverpool,2,2,"(39, 1, 'Mark Walters')","(56, 0, 'Jason Dozzell')","(70, 1, 'Jan Molby')","(90, 0, 'Chris Kiwomya')",,,,,,,,
+1992-08-25,Leeds United,Tottenham Hotspur,5,0,"(19, 0, 'Rodney Wallace')","(26, 0, 'Eric Cantona')","(31, 0, 'Eric Cantona')","(46, 0, 'Eric Cantona')","(66, 0, 'Lee Chapman')",,,,,,,
+1992-08-25,Sheffield United,Wimbledon,2,2,"(34, 1, 'Warren Barton')","(48, 0, 'Paul Beesley')","(67, 0, 'Glyn Hodges')","(74, 1, 'Dean Holdsworth')",,,,,,,,
+1992-08-26,Arsenal,Oldham Athletic,2,0,"(25, 0, 'Nigel Winterburn')","(31, 0, 'Ian Wright')",,,,,,,,,,
+1992-08-26,Chelsea,Blackburn Rovers,0,0,,,,,,,,,,,,
+1992-08-26,Coventry City,Queens Park Rangers,0,1,"(45, 1, 'Andy Impey')",,,,,,,,,,,
+1992-08-26,Manchester City,Norwich City,3,1,"(45, 0, 'David White')","(58, 1, 'Gary Megson')","(80, 0, 'David White')","(90, 0, 'Steve McMahon')",,,,,,,,
+1992-08-29,Arsenal,Sheffield Wednesday,2,1,"(8, 0, 'Ray Parlour')","(27, 0, 'Paul Merson')","(33, 1, 'David Hirst')",,,,,,,,,
+1992-08-29,Chelsea,Queens Park Rangers,1,0,"(59, 0, 'Mick Harford')",,,,,,,,,,,
+1992-08-29,Coventry City,Blackburn Rovers,0,2,"(69, 1, 'Alan Shearer')","(79, 1, 'Mark Atkins')",,,,,,,,,,
+1992-08-29,Crystal Palace,Norwich City,1,2,"(16, 1, 'Lee Power')","(20, 0, 'Eddie McGoldrick')","(74, 1, 'David Phillips')",,,,,,,,,
+1992-08-29,Everton,Wimbledon,0,0,,,,,,,,,,,,
+1992-08-29,Leeds United,Liverpool,2,2,"(7, 0, 'Gary McAllister')","(44, 1, 'Ronnie Whelan')","(70, 1, 'Jan Molby')","(87, 0, 'Lee Chapman')",,,,,,,,
+1992-08-29,Manchester City,Oldham Athletic,3,3,"(4, 0, 'Niall Quinn')","(8, 0, 'Michel Vonk')","(11, 1, 'Richard Jobson')","(23, 0, 'David White')","(29, 1, 'Mike Milligan')","(38, 1, 'Gunnar Halle')",,,,,,
+1992-08-29,Nottingham Forest,Manchester United,0,2,"(17, 1, 'Mark Hughes')","(50, 1, 'Ryan Giggs')",,,,,,,,,,
+1992-08-29,Sheffield United,Aston Villa,0,2,"(2, 1, 'Garry Parker')","(86, 1, 'Garry Parker')",,,,,,,,,,
+1992-08-29,Southampton,Middlesbrough,2,1,"(75, 1, 'Paul Wilkinson')","(80, 0, 'Matt Le Tissier')","(83, 0, 'Nicky Banger')",,,,,,,,,
+1992-08-30,Ipswich Town,Tottenham Hotspur,1,1,"(29, 1, 'Jason Cundy')","(45, 0, 'John Wark')",,,,,,,,,,
+1992-08-31,Norwich City,Nottingham Forest,3,1,"(2, 0, 'Ian Crook')","(31, 1, 'Nigel Clough')","(76, 0, 'Lee Power')","(89, 0, 'David Phillips')",,,,,,,,
+1992-09-01,Liverpool,Southampton,1,1,"(51, 1, 'Kerry Dixon')","(60, 0, 'Mark Wright')",,,,,,,,,,
+1992-09-01,Middlesbrough,Ipswich Town,2,2,"(26, 1, 'John Wark')","(54, 0, 'Alan Kernaghan')","(59, 1, 'Paul Goddard')","(82, 0, 'Paul Wilkinson')",,,,,,,,
+1992-09-01,Oldham Athletic,Leeds United,2,2,"(53, 1, 'Eric Cantona')","(76, 1, 'Eric Cantona')","(85, 0, 'Ian Olney')","(90, 0, 'Ian Olney')",,,,,,,,
+1992-09-01,Wimbledon,Manchester City,0,1,"(49, 1, 'David White')",,,,,,,,,,,
+1992-09-02,Aston Villa,Chelsea,1,3,"(31, 0, 'Kevin Richardson')","(40, 1, 'Robert Fleck')","(42, 1, 'Eddie Newton')","(57, 1, 'Dennis Wise')",,,,,,,,
+1992-09-02,Manchester United,Crystal Palace,1,0,"(88, 0, 'Mark Hughes')",,,,,,,,,,,
+1992-09-02,Queens Park Rangers,Arsenal,0,0,,,,,,,,,,,,
+1992-09-02,Sheffield Wednesday,Coventry City,1,2,"(42, 1, 'Peter Ndlovu')","(49, 1, 'Lee Hurst')","(62, 0, 'Chris Bart-Williams')",,,,,,,,,
+1992-09-02,Tottenham Hotspur,Sheffield United,2,0,"(43, 0, 'Teddy Sheringham')","(46, 0, 'Gordon Durie')",,,,,,,,,,
+1992-09-05,Aston Villa,Crystal Palace,3,0,"(18, 0, 'Dwight Yorke')","(42, 0, 'Steve Staunton')","(72, 0, 'Steve Froggatt')",,,,,,,,,
+1992-09-05,Blackburn Rovers,Nottingham Forest,4,1,"(3, 0, 'Alan Shearer')","(15, 1, 'Gary Bannister')","(52, 0, 'Mark Atkins')","(59, 0, 'Alan Shearer')","(62, 0, 'Mark Crossley')",,,,,,,
+1992-09-05,Liverpool,Chelsea,2,1,"(27, 0, 'Dean Saunders')","(72, 1, 'Mick Harford')","(89, 0, 'Jamie Redknapp')",,,,,,,,,
+1992-09-05,Middlesbrough,Sheffield United,2,0,"(35, 0, 'Willie Falconer')","(83, 0, 'Tommy Wright')",,,,,,,,,,
+1992-09-05,Norwich City,Southampton,1,0,"(87, 0, 'Mark Robins')",,,,,,,,,,,
+1992-09-05,Oldham Athletic,Coventry City,0,1,"(55, 1, 'Kevin Gallacher')",,,,,,,,,,,
+1992-09-05,Queens Park Rangers,Ipswich Town,0,0,,,,,,,,,,,,
+1992-09-05,Sheffield Wednesday,Manchester City,0,3,"(20, 1, 'David White')","(55, 1, 'David White')","(75, 1, 'Michel Vonk')",,,,,,,,,
+1992-09-05,Tottenham Hotspur,Everton,2,1,"(42, 1, 'Peter Beardsley')","(79, 0, 'Paul Allen')","(90, 0, 'Andy Turner')",,,,,,,,,
+1992-09-05,Wimbledon,Arsenal,3,2,"(34, 1, 'Ian Wright')","(39, 0, 'Lawrie Sanchez')","(80, 0, 'John Fashanu')","(82, 1, 'Ian Wright')","(86, 0, 'Robbie Earle')",,,,,,,
+1992-09-06,Manchester United,Leeds United,2,0,"(28, 0, 'Andrei Kanchelskis')","(44, 0, 'Steve Bruce')",,,,,,,,,,
+1992-09-12,Arsenal,Blackburn Rovers,0,1,"(71, 1, 'Mike Newell')",,,,,,,,,,,
+1992-09-12,Chelsea,Norwich City,2,3,"(2, 0, 'Mick Harford')","(29, 0, 'Andy Townsend')","(46, 1, 'Mark Robins')","(74, 1, 'Mark Robins')","(79, 1, 'David Phillips')",,,,,,,
+1992-09-12,Crystal Palace,Oldham Athletic,2,2,"(19, 1, 'Ian Olney')","(64, 0, 'Chris Armstrong')","(66, 0, 'Chris Armstrong')","(78, 1, 'Graeme Sharp')",,,,,,,,
+1992-09-12,Everton,Manchester United,0,2,"(29, 1, 'Brian McClair')","(76, 1, 'Steve Bruce')",,,,,,,,,,
+1992-09-12,Ipswich Town,Wimbledon,2,1,"(14, 0, 'Micky Stockwell')","(27, 1, 'Dean Holdsworth')","(48, 0, 'Micky Stockwell')",,,,,,,,,
+1992-09-12,Manchester City,Middlesbrough,0,1,"(42, 1, 'Garry Flitcroft')",,,,,,,,,,,
+1992-09-12,Nottingham Forest,Sheffield Wednesday,1,2,"(39, 1, 'Paul Warhurst')","(57, 1, 'Graham Hyde')","(87, 0, 'Gary Bannister')",,,,,,,,,
+1992-09-12,Sheffield United,Liverpool,1,0,"(4, 0, 'Adrian Littlejohn')",,,,,,,,,,,
+1992-09-12,Southampton,Queens Park Rangers,1,2,"(11, 0, 'Matt Le Tissier')","(53, 1, 'Andy Sinton')","(56, 1, 'Justin Channing')",,,,,,,,,
+1992-09-13,Leeds United,Aston Villa,1,1,"(19, 1, 'Garry Parker')","(85, 0, 'Steve Hodge')",,,,,,,,,,
+1992-09-14,Coventry City,Tottenham Hotspur,1,0,"(61, 0, 'John Williams')",,,,,,,,,,,
+1992-09-15,Blackburn Rovers,Everton,2,3,"(12, 0, 'Alan Shearer')","(22, 1, 'Tony Cottee')","(39, 1, 'John Ebbrell')","(74, 0, 'Alan Shearer')","(81, 1, 'Tony Cottee')",,,,,,,
+1992-09-19,Aston Villa,Liverpool,4,2,"(43, 1, 'Mark Walters')","(44, 0, 'Dean Saunders')","(54, 0, 'Dalian Atkinson')","(64, 0, 'Dean Saunders')","(78, 0, 'Garry Parker')","(85, 1, 'Ronny Rosenthal')",,,,,,
+1992-09-19,Everton,Crystal Palace,0,2,"(8, 1, 'Chris Armstrong')","(17, 1, 'Chris Armstrong')",,,,,,,,,,
+1992-09-19,Norwich City,Sheffield Wednesday,1,0,"(44, 0, 'Rob Newman')",,,,,,,,,,,
+1992-09-19,Oldham Athletic,Ipswich Town,4,2,"(32, 0, 'Ian Marshall')","(53, 0, 'Graeme Sharp')","(56, 0, 'Gunnar Halle')","(75, 1, 'John Wark')","(82, 0, 'Nick Henry')","(88, 1, 'Neil Thompson')",,,,,,
+1992-09-19,Queens Park Rangers,Middlesbrough,3,3,"(37, 1, 'Alan Kernaghan')","(57, 0, 'Les Ferdinand')","(58, 1, 'Tommy Wright')","(73, 0, 'Gary Penrice')","(86, 1, 'Willie Falconer')","(90, 0, 'Andy Sinton')",,,,,,
+1992-09-19,Sheffield United,Arsenal,1,1,"(48, 0, 'Dane Whitehouse')","(85, 1, 'Ian Wright')",,,,,,,,,,
+1992-09-19,Southampton,Leeds United,1,1,"(43, 0, 'Perry Groves')","(83, 1, 'Gary Speed')",,,,,,,,,,
+1992-09-19,Tottenham Hotspur,Manchester United,1,1,"(45, 1, 'Ryan Giggs')","(52, 0, 'Gordon Durie')",,,,,,,,,,
+1992-09-19,Wimbledon,Blackburn Rovers,1,1,"(24, 0, 'Neal Ardley')","(32, 1, 'Alan Shearer')",,,,,,,,,,
+1992-09-20,Manchester City,Chelsea,0,1,"(40, 1, 'Mick Harford')",,,,,,,,,,,
+1992-09-21,Nottingham Forest,Coventry City,1,1,"(45, 1, 'Robert Rosario')","(69, 0, 'Nigel Clough')",,,,,,,,,,
+1992-09-26,Blackburn Rovers,Oldham Athletic,2,0,"(30, 0, 'Alan Shearer')","(61, 0, 'Stuart Ripley')",,,,,,,,,,
+1992-09-26,Chelsea,Nottingham Forest,0,0,,,,,,,,,,,,
+1992-09-26,Coventry City,Norwich City,1,1,"(13, 1, 'Ian Crook')","(37, 0, 'Peter Ndlovu')",,,,,,,,,,
+1992-09-26,Crystal Palace,Southampton,1,2,"(44, 1, 'Iain Dowie')","(54, 0, 'Eric Young')","(88, 1, 'Iain Dowie')",,,,,,,,,
+1992-09-26,Ipswich Town,Sheffield United,0,0,,,,,,,,,,,,
+1992-09-26,Leeds United,Everton,2,0,"(61, 0, 'Gary McAllister')","(63, 0, 'Lee Chapman')",,,,,,,,,,
+1992-09-26,Liverpool,Wimbledon,2,3,"(12, 1, 'John Fashanu')","(27, 1, 'Robbie Earle')","(35, 0, 'Jan Molby')","(39, 0, 'Steve McManaman')","(76, 1, 'Robbie Earle')",,,,,,,
+1992-09-26,Manchester United,Queens Park Rangers,0,0,,,,,,,,,,,,
+1992-09-26,Middlesbrough,Aston Villa,2,3,"(22, 1, 'Dean Saunders')","(62, 0, 'Bernie Slaven')","(71, 1, 'Dalian Atkinson')","(74, 1, 'Dean Saunders')","(86, 0, 'Paul McGrath')",,,,,,,
+1992-09-27,Sheffield Wednesday,Tottenham Hotspur,2,0,"(6, 0, 'Mark Bright')","(32, 0, 'Viv Anderson')",,,,,,,,,,
+1992-09-28,Arsenal,Manchester City,1,0,"(19, 0, 'Ian Wright')",,,,,,,,,,,
+1992-10-03,Arsenal,Chelsea,2,1,"(10, 0, 'Paul Merson')","(79, 1, 'Dennis Wise')","(85, 0, 'Ian Wright')",,,,,,,,,
+1992-10-03,Blackburn Rovers,Norwich City,7,1,"(8, 0, 'Roy Wegerle')","(27, 0, 'Tim Sherwood')","(32, 0, 'Roy Wegerle')","(39, 1, 'Rob Newman')","(43, 0, 'Alan Shearer')","(63, 0, 'Gordon Cowans')","(70, 0, 'Stuart Ripley')","(76, 0, 'Alan Shearer')",,,,
+1992-10-03,Coventry City,Crystal Palace,2,2,"(7, 0, 'Andy Pearce')","(8, 1, 'Chris Coleman')","(18, 0, 'Kevin Gallacher')","(38, 1, 'Eddie McGoldrick')",,,,,,,,
+1992-10-03,Ipswich Town,Leeds United,4,2,"(25, 0, 'Chris Kiwomya')","(36, 0, 'John Wark')","(44, 0, 'John Wark')","(55, 1, 'Lee Chapman')","(64, 1, 'Gary Speed')","(70, 0, 'Jason Dozzell')",,,,,,
+1992-10-03,Liverpool,Sheffield Wednesday,1,0,"(80, 0, 'Don Hutchison')",,,,,,,,,,,
+1992-10-03,Manchester City,Nottingham Forest,2,2,"(17, 0, 'Rick Holden')","(56, 1, 'Ray McKinnon')","(64, 0, 'Fitzroy Simpson')","(83, 1, 'Stuart Pearce')",,,,,,,,
+1992-10-03,Middlesbrough,Manchester United,1,1,"(43, 1, 'Steve Bruce')","(59, 0, 'Bernie Slaven')",,,,,,,,,,
+1992-10-03,Queens Park Rangers,Tottenham Hotspur,4,1,"(28, 1, 'Teddy Sheringham')","(52, 0, 'Ian Holloway')","(59, 0, 'Ray Wilkins')","(67, 0, 'Gary Penrice')","(79, 0, 'Gary Penrice')",,,,,,,
+1992-10-03,Sheffield United,Southampton,2,0,"(4, 0, 'Dane Whitehouse')","(26, 0, 'Adrian Littlejohn')",,,,,,,,,,
+1992-10-03,Wimbledon,Aston Villa,2,3,"(5, 1, 'Dean Saunders')","(29, 1, 'Dean Saunders')","(34, 0, 'Aidan Newhouse')","(77, 1, 'Dalian Atkinson')","(90, 0, 'Andy Clarke')",,,,,,,
+1992-10-04,Oldham Athletic,Everton,1,0,"(8, 0, 'Richard Jobson')",,,,,,,,,,,
+1992-10-17,Chelsea,Ipswich Town,2,1,"(28, 0, 'Gareth Hall')","(78, 0, 'Mick Harford')","(79, 1, 'Steve Whitton')",,,,,,,,,
+1992-10-17,Crystal Palace,Manchester City,0,0,,,,,,,,,,,,
+1992-10-17,Everton,Coventry City,1,1,"(28, 0, 'Peter Beagrie')","(44, 1, 'Peter Ndlovu')",,,,,,,,,,
+1992-10-17,Leeds United,Sheffield United,3,1,"(36, 0, 'Lee Chapman')","(53, 1, 'Paul Beesley')","(74, 0, 'Gary Speed')","(78, 0, 'Chris Whyte')",,,,,,,,
+1992-10-17,Norwich City,Queens Park Rangers,2,1,"(53, 0, 'Mark Bowen')","(64, 0, 'Chris Sutton')","(77, 1, 'Bradley Allen')",,,,,,,,,
+1992-10-17,Nottingham Forest,Arsenal,0,1,"(38, 1, 'Alan Smith')",,,,,,,,,,,
+1992-10-17,Sheffield Wednesday,Oldham Athletic,2,1,"(9, 0, 'Carlton Palmer')","(17, 0, 'Mark Bright')","(44, 1, 'Mike Milligan')",,,,,,,,,
+1992-10-17,Southampton,Wimbledon,2,2,"(50, 1, 'Steve Cotterill')","(57, 0, 'Iain Dowie')","(67, 1, 'Steve Cotterill')","(83, 0, 'Perry Groves')",,,,,,,,
+1992-10-17,Tottenham Hotspur,Middlesbrough,2,2,"(2, 1, 'Robbie Mustoe')","(32, 1, 'Paul Wilkinson')","(70, 0, 'Teddy Sheringham')","(73, 0, 'Nick Barmby')",,,,,,,,
+1992-10-18,Manchester United,Liverpool,2,2,"(23, 1, 'Don Hutchison')","(44, 1, 'Ian Rush')","(78, 0, 'Mark Hughes')","(90, 0, 'Mark Hughes')",,,,,,,,
+1992-10-19,Aston Villa,Blackburn Rovers,0,0,,,,,,,,,,,,
+1992-10-21,Nottingham Forest,Middlesbrough,1,0,"(66, 0, 'Kingsley Black')",,,,,,,,,,,
+1992-10-24,Arsenal,Everton,2,0,"(5, 0, 'Ian Wright')","(58, 0, 'Anders Limpar')",,,,,,,,,,
+1992-10-24,Blackburn Rovers,Manchester United,0,0,,,,,,,,,,,,
+1992-10-24,Coventry City,Chelsea,1,2,"(32, 1, 'Mick Harford')","(58, 0, 'Robert Rosario')","(70, 1, 'Graham Stuart')",,,,,,,,,
+1992-10-24,Ipswich Town,Crystal Palace,2,2,"(60, 1, 'Chris Armstrong')","(72, 0, 'Jason Dozzell')","(75, 1, 'Chris Coleman')","(83, 0, 'Jason Dozzell')",,,,,,,,
+1992-10-24,Manchester City,Southampton,1,0,"(74, 0, 'Mike Sheron')",,,,,,,,,,,
+1992-10-24,Middlesbrough,Sheffield Wednesday,1,1,"(29, 1, 'Mark Bright')","(34, 0, 'Paul Wilkinson')",,,,,,,,,,
+1992-10-24,Oldham Athletic,Aston Villa,1,1,"(19, 0, 'Ian Olney')","(81, 1, 'Dalian Atkinson')",,,,,,,,,,
+1992-10-24,Queens Park Rangers,Leeds United,2,1,"(57, 1, 'Gordon Strachan')","(73, 0, 'David Bardsley')","(85, 0, 'Les Ferdinand')",,,,,,,,,
+1992-10-24,Sheffield United,Nottingham Forest,0,0,,,,,,,,,,,,
+1992-10-25,Liverpool,Norwich City,4,1,"(2, 1, 'Ian Butterworth')","(15, 0, 'Michael Thomas')","(20, 0, 'Don Hutchison')","(52, 0, 'David Burrows')","(89, 0, 'Mark Walters')",,,,,,,
+1992-10-25,Wimbledon,Tottenham Hotspur,1,1,"(38, 0, 'Terry Gibson')","(48, 1, 'Nick Barmby')",,,,,,,,,,
+1992-10-31,Chelsea,Sheffield United,1,2,"(40, 1, 'Adrian Littlejohn')","(41, 0, 'Andy Townsend')","(57, 1, 'Brian Deane')",,,,,,,,,
+1992-10-31,Everton,Manchester City,1,3,"(12, 1, 'Mike Sheron')","(19, 1, 'David White')","(62, 1, 'Mike Sheron')","(68, 0, 'Ian Brightwell')",,,,,,,,
+1992-10-31,Leeds United,Coventry City,2,2,"(12, 1, 'Gary McAllister')","(70, 0, 'Lee Chapman')","(77, 1, 'Peter Ndlovu')","(90, 0, 'Chris Fairclough')",,,,,,,,
+1992-10-31,Manchester United,Wimbledon,0,1,"(79, 1, 'Lawrie Sanchez')",,,,,,,,,,,
+1992-10-31,Norwich City,Middlesbrough,1,1,"(64, 1, 'Paul Wilkinson')","(86, 0, 'Daryl Sutch')",,,,,,,,,,
+1992-10-31,Nottingham Forest,Ipswich Town,0,1,"(6, 1, 'Jason Dozzell')",,,,,,,,,,,
+1992-10-31,Sheffield Wednesday,Blackburn Rovers,0,0,,,,,,,,,,,,
+1992-10-31,Southampton,Oldham Athletic,1,0,"(58, 0, 'Richard Hall')",,,,,,,,,,,
+1992-10-31,Tottenham Hotspur,Liverpool,2,0,"(63, 0, 'Mohamed Nayim')","(72, 0, 'Neil Ruddock')",,,,,,,,,,
+1992-11-01,Aston Villa,Queens Park Rangers,2,0,"(43, 0, 'Dean Saunders')","(79, 0, 'Dalian Atkinson')",,,,,,,,,,
+1992-11-02,Crystal Palace,Arsenal,1,2,"(5, 1, 'Paul Merson')","(69, 0, 'Eddie McGoldrick')","(73, 1, 'Ian Wright')",,,,,,,,,
+1992-11-07,Arsenal,Coventry City,3,0,"(8, 0, 'Alan Smith')","(30, 0, 'Ian Wright')","(45, 0, 'Kevin Campbell')",,,,,,,,,
+1992-11-07,Aston Villa,Manchester United,1,0,"(12, 0, 'Dalian Atkinson')",,,,,,,,,,,
+1992-11-07,Blackburn Rovers,Tottenham Hotspur,0,2,"(67, 1, 'David Howells')","(81, 1, 'Teddy Sheringham')",,,,,,,,,,
+1992-11-07,Chelsea,Crystal Palace,3,1,"(4, 0, 'Richard Shaw')","(40, 0, 'Graham Stuart')","(58, 0, 'Mick Harford')","(70, 1, 'Eric Young')",,,,,,,,
+1992-11-07,Ipswich Town,Southampton,0,0,,,,,,,,,,,,
+1992-11-07,Liverpool,Middlesbrough,4,1,"(9, 0, 'Ronny Rosenthal')","(38, 0, 'Ronny Rosenthal')","(41, 1, 'Jimmy Phillips')","(44, 0, 'Steve McManaman')","(90, 0, 'Ian Rush')",,,,,,,
+1992-11-07,Manchester City,Leeds United,4,0,"(13, 0, 'Mike Sheron')","(37, 0, 'David White')","(75, 0, 'Andy Hill')","(80, 0, 'Ian Brightwell')",,,,,,,,
+1992-11-07,Nottingham Forest,Everton,0,1,"(52, 1, 'Paul Rideout')",,,,,,,,,,,
+1992-11-07,Wimbledon,Queens Park Rangers,0,2,"(25, 1, 'Bradley Allen')","(42, 1, 'Ray Wilkins')",,,,,,,,,,
+1992-11-08,Sheffield United,Sheffield Wednesday,1,1,"(61, 0, 'Adrian Littlejohn')","(84, 1, 'David Hirst')",,,,,,,,,,
+1992-11-09,Oldham Athletic,Norwich City,2,3,"(14, 1, 'Mark Robins')","(25, 0, 'Graeme Sharp')","(28, 1, 'Mark Robins')","(43, 0, 'Ian Marshall')","(89, 1, 'Mark Robins')",,,,,,,
+1992-11-21,Coventry City,Manchester City,2,3,"(13, 0, 'Mick Quinn')","(49, 0, 'Mick Quinn')","(56, 1, 'Mike Sheron')","(66, 1, 'Fitzroy Simpson')","(78, 1, 'Keith Curle')",,,,,,,
+1992-11-21,Crystal Palace,Nottingham Forest,1,1,"(23, 0, 'Chris Armstrong')","(84, 1, 'Gary Bannister')",,,,,,,,,,
+1992-11-21,Everton,Chelsea,0,1,"(45, 1, 'Robert Fleck')",,,,,,,,,,,
+1992-11-21,Leeds United,Arsenal,3,0,"(5, 0, 'Chris Fairclough')","(56, 0, 'Lee Chapman')","(87, 0, 'Gary McAllister')",,,,,,,,,
+1992-11-21,Manchester United,Oldham Athletic,3,0,"(10, 0, 'Brian McClair')","(11, 0, 'Mark Hughes')","(28, 0, 'Brian McClair')",,,,,,,,,
+1992-11-21,Middlesbrough,Wimbledon,2,0,"(49, 0, 'John Hendrie')","(56, 0, 'Chris Morris')",,,,,,,,,,
+1992-11-21,Norwich City,Sheffield United,2,1,"(60, 0, 'Paul Beesley')","(71, 1, 'Alan Cork')","(80, 0, 'Mark Robins')",,,,,,,,,
+1992-11-21,Sheffield Wednesday,Ipswich Town,1,1,"(16, 0, 'Neil Thompson')","(74, 1, 'Chris Kiwomya')",,,,,,,,,,
+1992-11-21,Tottenham Hotspur,Aston Villa,0,0,,,,,,,,,,,,
+1992-11-22,Southampton,Blackburn Rovers,1,1,"(22, 0, 'Matt Le Tissier')","(38, 1, 'Kevin Moran')",,,,,,,,,,
+1992-11-23,Queens Park Rangers,Liverpool,0,1,"(87, 1, 'Ronny Rosenthal')",,,,,,,,,,,
+1992-11-28,Arsenal,Manchester United,0,1,"(27, 1, 'Mark Hughes')",,,,,,,,,,,
+1992-11-28,Aston Villa,Norwich City,2,3,"(17, 1, 'David Phillips')","(30, 1, 'Darren Beckford')","(45, 0, 'Ray Houghton')","(46, 0, 'Dean Saunders')","(49, 1, 'Daryl Sutch')",,,,,,,
+1992-11-28,Blackburn Rovers,Queens Park Rangers,1,0,"(17, 0, 'Alan Shearer')",,,,,,,,,,,
+1992-11-28,Ipswich Town,Everton,1,0,"(72, 0, 'Gavin Johnson')",,,,,,,,,,,
+1992-11-28,Liverpool,Crystal Palace,5,0,"(7, 0, 'Steve McManaman')","(9, 0, 'Mike Marsh')","(19, 0, 'Steve McManaman')","(61, 0, 'Ronny Rosenthal')","(72, 0, 'Don Hutchison')",,,,,,,
+1992-11-28,Manchester City,Tottenham Hotspur,0,1,"(77, 1, 'Terry Phelan')",,,,,,,,,,,
+1992-11-28,Nottingham Forest,Southampton,1,2,"(21, 1, 'Matt Le Tissier')","(43, 0, 'Nigel Clough')","(63, 1, 'Micky Adams')",,,,,,,,,
+1992-11-28,Oldham Athletic,Middlesbrough,4,1,"(15, 1, 'Willie Falconer')","(21, 0, 'Gunnar Halle')","(24, 0, 'Neil Pointon')","(28, 0, 'Graeme Sharp')","(60, 0, 'Neil Adams')",,,,,,,
+1992-11-28,Sheffield United,Coventry City,1,1,"(7, 1, 'Mick Quinn')","(37, 0, 'Andy Pearce')",,,,,,,,,,
+1992-11-28,Wimbledon,Sheffield Wednesday,1,1,"(14, 1, 'Chris Bart-Williams')","(89, 0, 'Vinnie Jones')",,,,,,,,,,
+1992-11-29,Chelsea,Leeds United,1,0,"(87, 0, 'Andy Townsend')",,,,,,,,,,,
+1992-12-05,Coventry City,Ipswich Town,2,2,"(13, 1, 'Chris Kiwomya')","(16, 0, 'Kevin Gallacher')","(54, 0, 'Mick Quinn')","(70, 1, 'Steve Whitton')",,,,,,,,
+1992-12-05,Crystal Palace,Sheffield United,2,0,"(43, 0, 'Chris Armstrong')","(76, 0, 'Gareth Southgate')",,,,,,,,,,
+1992-12-05,Leeds United,Nottingham Forest,1,4,"(27, 1, 'Nigel Clough')","(53, 1, 'Roy Keane')","(54, 1, 'Kingsley Black')","(67, 1, 'Roy Keane')","(87, 0, 'Gary Speed')",,,,,,,
+1992-12-05,Middlesbrough,Blackburn Rovers,3,2,"(44, 1, 'Jason Wilcox')","(52, 0, 'John Hendrie')","(55, 0, 'John Hendrie')","(66, 0, 'John Hendrie')","(74, 1, 'Jimmy Phillips')",,,,,,,
+1992-12-05,Norwich City,Wimbledon,2,1,"(53, 1, 'Lawrie Sanchez')","(77, 0, 'Mark Robins')","(88, 0, 'David Phillips')",,,,,,,,,
+1992-12-05,Queens Park Rangers,Oldham Athletic,3,2,"(24, 0, 'Les Ferdinand')","(33, 0, 'Gary Penrice')","(41, 1, 'Neil Adams')","(46, 1, 'Ian Olney')","(52, 0, 'Les Ferdinand')",,,,,,,
+1992-12-05,Sheffield Wednesday,Aston Villa,1,2,"(19, 1, 'Dalian Atkinson')","(26, 0, 'Mark Bright')","(67, 1, 'Dalian Atkinson')",,,,,,,,,
+1992-12-05,Southampton,Arsenal,2,0,"(16, 0, 'Neil Maddison')","(53, 0, 'Iain Dowie')",,,,,,,,,,
+1992-12-05,Tottenham Hotspur,Chelsea,1,2,"(76, 1, 'Eddie Newton')","(85, 1, 'Eddie Newton')","(88, 0, 'Sol Campbell')",,,,,,,,,
+1992-12-06,Manchester United,Manchester City,2,1,"(20, 0, 'Paul Ince')","(34, 1, 'Niall Quinn')","(73, 0, 'Mark Hughes')",,,,,,,,,
+1992-12-07,Everton,Liverpool,2,1,"(62, 1, 'Mark Wright')","(63, 0, 'Mo Johnston')","(84, 0, 'Peter Beardsley')",,,,,,,,,
+1992-12-11,Middlesbrough,Chelsea,0,0,,,,,,,,,,,,
+1992-12-12,Aston Villa,Nottingham Forest,2,1,"(9, 1, 'Roy Keane')","(33, 0, 'Cyrille Regis')","(47, 0, 'Paul McGrath')",,,,,,,,,
+1992-12-12,Ipswich Town,Manchester City,3,1,"(37, 1, 'Garry Flitcroft')","(57, 0, 'Micky Stockwell')","(61, 0, 'Gavin Johnson')","(88, 0, 'Paul Goddard')",,,,,,,,
+1992-12-12,Leeds United,Sheffield Wednesday,3,1,"(32, 0, 'Gary Speed')","(37, 1, 'Roland Nilsson')","(46, 0, 'Lee Chapman')","(79, 0, 'Imre Varadi')",,,,,,,,
+1992-12-12,Manchester United,Norwich City,1,0,"(59, 0, 'Mark Hughes')",,,,,,,,,,,
+1992-12-12,Queens Park Rangers,Crystal Palace,1,3,"(26, 0, 'Gary Penrice')","(46, 1, 'Eddie McGoldrick')","(71, 1, 'Chris Armstrong')","(89, 1, 'Eddie McGoldrick')",,,,,,,,
+1992-12-12,Sheffield United,Everton,1,0,"(34, 0, 'Adrian Littlejohn')",,,,,,,,,,,
+1992-12-12,Southampton,Coventry City,2,2,"(6, 1, 'Mick Quinn')","(9, 0, 'Neil Maddison')","(25, 1, 'Mick Quinn')","(61, 0, 'Iain Dowie')",,,,,,,,
+1992-12-12,Tottenham Hotspur,Arsenal,1,0,"(20, 0, 'Paul Allen')",,,,,,,,,,,
+1992-12-12,Wimbledon,Oldham Athletic,5,2,"(18, 0, 'Neal Ardley')","(22, 0, 'Dean Holdsworth')","(26, 0, 'Neal Ardley')","(46, 1, 'Mark Brennan')","(51, 0, 'Andy Clarke')","(52, 0, 'Dean Holdsworth')","(63, 1, 'Mike Milligan')",,,,,
+1992-12-13,Liverpool,Blackburn Rovers,2,1,"(77, 0, 'Mark Walters')","(80, 1, 'Alan Shearer')","(85, 0, 'Mark Walters')",,,,,,,,,
+1992-12-19,Arsenal,Middlesbrough,1,1,"(34, 1, 'Paul Wilkinson')","(81, 0, 'Ian Wright')",,,,,,,,,,
+1992-12-19,Blackburn Rovers,Sheffield United,1,0,"(27, 0, 'Kevin Moran')",,,,,,,,,,,
+1992-12-19,Chelsea,Manchester United,1,1,"(67, 0, 'David Lee')","(71, 1, 'Eric Cantona')",,,,,,,,,,
+1992-12-19,Coventry City,Liverpool,5,1,"(37, 0, 'Brian Borrows')","(54, 0, 'Brian Borrows')","(61, 0, 'Kevin Gallacher')","(64, 1, 'Jamie Redknapp')","(71, 0, 'Mick Quinn')","(74, 0, 'Mick Quinn')",,,,,,
+1992-12-19,Everton,Southampton,2,1,"(5, 1, 'Matt Le Tissier')","(11, 0, 'Peter Beardsley')","(36, 0, 'Paul Rideout')",,,,,,,,,
+1992-12-19,Manchester City,Aston Villa,1,1,"(34, 1, 'Garry Parker')","(58, 0, 'Garry Flitcroft')",,,,,,,,,,
+1992-12-19,Oldham Athletic,Tottenham Hotspur,2,1,"(29, 0, 'Graeme Sharp')","(61, 1, 'Teddy Sheringham')","(90, 0, 'Ian Olney')",,,,,,,,,
+1992-12-19,Sheffield Wednesday,Queens Park Rangers,1,0,"(39, 0, 'Mark Bright')",,,,,,,,,,,
+1992-12-20,Crystal Palace,Leeds United,1,0,"(30, 0, 'Andy Thorn')",,,,,,,,,,,
+1992-12-20,Nottingham Forest,Wimbledon,1,1,"(5, 0, 'Nigel Clough')","(13, 1, 'Andy Clarke')",,,,,,,,,,
+1992-12-21,Norwich City,Ipswich Town,0,2,"(51, 1, 'Chris Kiwomya')","(87, 1, 'Neil Thompson')",,,,,,,,,,
+1992-12-26,Arsenal,Ipswich Town,0,0,,,,,,,,,,,,
+1992-12-26,Blackburn Rovers,Leeds United,3,1,"(8, 0, 'Jason Wilcox')","(37, 1, 'Gary McAllister')","(45, 0, 'Alan Shearer')","(58, 0, 'Alan Shearer')",,,,,,,,
+1992-12-26,Chelsea,Southampton,1,1,"(2, 1, 'Iain Dowie')","(89, 0, 'Eddie Newton')",,,,,,,,,,
+1992-12-26,Coventry City,Aston Villa,3,0,"(52, 0, 'Mick Quinn')","(55, 0, 'Mick Quinn')","(59, 0, 'Robert Rosario')",,,,,,,,,
+1992-12-26,Crystal Palace,Wimbledon,2,0,"(3, 0, 'Chris Coleman')","(37, 0, 'Geoff Thomas')",,,,,,,,,,
+1992-12-26,Everton,Middlesbrough,2,2,"(47, 0, 'Paul Rideout')","(49, 1, 'Craig Hignett')","(66, 0, 'Peter Beardsley')","(82, 1, 'Craig Hignett')",,,,,,,,
+1992-12-26,Manchester City,Sheffield United,2,0,"(20, 0, 'David White')","(55, 0, 'David White')",,,,,,,,,,
+1992-12-26,Norwich City,Tottenham Hotspur,0,0,,,,,,,,,,,,
+1992-12-26,Sheffield Wednesday,Manchester United,3,3,"(2, 0, 'David Hirst')","(6, 0, 'Mark Bright')","(62, 0, 'John Sheridan')","(67, 1, 'Brian McClair')","(80, 1, 'Brian McClair')","(84, 1, 'Eric Cantona')",,,,,,
+1992-12-28,Aston Villa,Arsenal,1,0,"(45, 0, 'Dean Saunders')",,,,,,,,,,,
+1992-12-28,Ipswich Town,Blackburn Rovers,2,1,"(72, 1, 'Roy Wegerle')","(79, 0, 'Bontcho Guentchev')","(81, 0, 'Chris Kiwomya')",,,,,,,,,
+1992-12-28,Leeds United,Norwich City,0,0,,,,,,,,,,,,
+1992-12-28,Liverpool,Manchester City,1,1,"(39, 1, 'Niall Quinn')","(49, 0, 'Ian Rush')",,,,,,,,,,
+1992-12-28,Manchester United,Coventry City,5,0,"(6, 0, 'Ryan Giggs')","(40, 0, 'Mark Hughes')","(64, 0, 'Eric Cantona')","(78, 0, 'Lee Sharpe')","(83, 0, 'Denis Irwin')",,,,,,,
+1992-12-28,Middlesbrough,Crystal Palace,0,1,"(63, 1, 'Simon Osborn')",,,,,,,,,,,
+1992-12-28,Queens Park Rangers,Everton,4,2,"(27, 0, 'Andy Sinton')","(46, 0, 'Gary Penrice')","(51, 0, 'Andy Sinton')","(65, 1, 'Stuart Barlow')","(72, 1, 'Stuart Barlow')","(88, 0, 'Andy Sinton')",,,,,,
+1992-12-28,Southampton,Sheffield Wednesday,1,2,"(12, 1, 'John Sheridan')","(63, 1, 'David Hirst')","(80, 0, 'Ken Monkou')",,,,,,,,,
+1992-12-28,Tottenham Hotspur,Nottingham Forest,2,1,"(35, 0, 'Nick Barmby')","(73, 1, 'Scot Gemmill')","(85, 0, 'Gary Mabbutt')",,,,,,,,,
+1992-12-28,Wimbledon,Chelsea,0,0,,,,,,,,,,,,
+1993-01-09,Arsenal,Sheffield United,1,1,"(43, 0, 'David Hillier')","(87, 1, 'Adrian Littlejohn')",,,,,,,,,,
+1993-01-09,Blackburn Rovers,Wimbledon,0,0,,,,,,,,,,,,
+1993-01-09,Chelsea,Manchester City,2,4,"(26, 1, 'David White')","(29, 1, 'Mike Sheron')","(54, 1, 'Frank Sinclair')","(77, 0, 'Graham Stuart')","(83, 0, 'John Spencer')","(87, 1, 'Mike Sheron')",,,,,,
+1993-01-09,Coventry City,Nottingham Forest,0,1,"(65, 1, 'Ian Woan')",,,,,,,,,,,
+1993-01-09,Crystal Palace,Everton,0,2,"(50, 1, 'Matt Jackson')","(85, 1, 'Peter Beardsley')",,,,,,,,,,
+1993-01-09,Ipswich Town,Oldham Athletic,1,2,"(16, 1, 'Mark Brennan')","(51, 1, 'Paul Bernard')","(60, 0, 'Chris Kiwomya')",,,,,,,,,
+1993-01-09,Leeds United,Southampton,2,1,"(19, 1, 'Kerry Dixon')","(50, 0, 'Chris Fairclough')","(72, 0, 'Gary Speed')",,,,,,,,,
+1993-01-09,Liverpool,Aston Villa,1,2,"(41, 0, 'John Barnes')","(54, 1, 'Garry Parker')","(64, 1, 'Dean Saunders')",,,,,,,,,
+1993-01-09,Manchester United,Tottenham Hotspur,4,1,"(40, 0, 'Eric Cantona')","(52, 0, 'Denis Irwin')","(53, 0, 'Brian McClair')","(58, 0, 'Paul Parker')","(88, 1, 'Nick Barmby')",,,,,,,
+1993-01-09,Middlesbrough,Queens Park Rangers,0,1,"(72, 1, 'Les Ferdinand')",,,,,,,,,,,
+1993-01-10,Sheffield Wednesday,Norwich City,1,0,"(42, 0, 'Nigel Worthington')",,,,,,,,,,,
+1993-01-16,Everton,Leeds United,2,0,"(30, 0, 'Tony Cottee')","(49, 0, 'Tony Cottee')",,,,,,,,,,
+1993-01-16,Manchester City,Arsenal,0,1,"(79, 1, 'Paul Merson')",,,,,,,,,,,
+1993-01-16,Norwich City,Coventry City,1,1,"(13, 0, 'Chris Sutton')","(57, 1, 'Mick Quinn')",,,,,,,,,,
+1993-01-16,Nottingham Forest,Chelsea,3,0,"(9, 0, 'Gary Bannister')","(58, 0, 'Gary Bannister')","(89, 0, 'Toddy Orlygsson')",,,,,,,,,
+1993-01-16,Oldham Athletic,Blackburn Rovers,0,1,"(80, 1, 'Stuart Ripley')",,,,,,,,,,,
+1993-01-16,Sheffield United,Ipswich Town,3,0,"(31, 0, 'Brian Deane')","(72, 0, 'Brian Deane')","(75, 0, 'Brian Deane')",,,,,,,,,
+1993-01-16,Southampton,Crystal Palace,1,0,"(50, 0, 'Neil Maddison')",,,,,,,,,,,
+1993-01-16,Tottenham Hotspur,Sheffield Wednesday,0,2,"(54, 1, 'Mark Bright')","(88, 1, 'David Hirst')",,,,,,,,,,
+1993-01-16,Wimbledon,Liverpool,2,0,"(36, 0, 'John Fashanu')","(64, 0, 'Steve Cotterill')",,,,,,,,,,
+1993-01-17,Aston Villa,Middlesbrough,5,1,"(26, 0, 'Garry Parker')","(32, 0, 'Paul McGrath')","(44, 0, 'Dwight Yorke')","(58, 0, 'Dean Saunders')","(68, 0, 'Shaun Teale')","(82, 1, 'Craig Hignett')",,,,,,
+1993-01-18,Queens Park Rangers,Manchester United,1,3,"(26, 1, 'Paul Ince')","(30, 1, 'Ryan Giggs')","(42, 0, 'Bradley Allen')","(48, 1, 'Andrei Kanchelskis')",,,,,,,,
+1993-01-23,Coventry City,Oldham Athletic,3,0,"(6, 0, 'Kevin Gallacher')","(12, 0, 'Peter Ndlovu')","(18, 0, 'Kevin Gallacher')",,,,,,,,,
+1993-01-26,Blackburn Rovers,Coventry City,2,5,"(13, 0, 'Mike Newell')","(19, 1, 'David May')","(44, 1, 'Lee Hurst')","(48, 1, 'John Williams')","(71, 0, 'Colin Hendry')","(85, 1, 'Mick Quinn')","(89, 1, 'Mick Quinn')",,,,,
+1993-01-26,Middlesbrough,Southampton,2,1,"(24, 0, 'Nicky Mohan')","(58, 1, 'Matt Le Tissier')","(71, 0, 'Paul Wilkinson')",,,,,,,,,
+1993-01-26,Oldham Athletic,Manchester City,0,1,"(77, 1, 'Niall Quinn')",,,,,,,,,,,
+1993-01-26,Wimbledon,Everton,1,3,"(61, 1, 'Tony Cottee')","(71, 1, 'Tony Cottee')","(73, 1, 'Ian Snodin')","(75, 0, 'John Fashanu')",,,,,,,,
+1993-01-27,Aston Villa,Sheffield United,3,1,"(54, 0, 'Paul McGrath')","(58, 0, 'Chris Kamara')","(74, 1, 'Brian Deane')","(89, 0, 'Kevin Richardson')",,,,,,,,
+1993-01-27,Manchester United,Nottingham Forest,2,0,"(47, 0, 'Paul Ince')","(68, 0, 'Mark Hughes')",,,,,,,,,,
+1993-01-27,Norwich City,Crystal Palace,4,2,"(2, 1, 'Chris Armstrong')","(9, 0, 'Lee Power')","(26, 0, 'Chris Sutton')","(45, 1, 'Geoff Thomas')","(50, 0, 'Jeremy Goss')","(89, 0, 'Lee Power')",,,,,,
+1993-01-27,Queens Park Rangers,Chelsea,1,1,"(47, 1, 'John Spencer')","(88, 0, 'Bradley Allen')",,,,,,,,,,
+1993-01-27,Tottenham Hotspur,Ipswich Town,0,2,"(47, 1, 'Frank Yallop')","(79, 1, 'Bontcho Guentchev')",,,,,,,,,,
+1993-01-30,Chelsea,Sheffield Wednesday,0,2,"(3, 1, 'Paul Warhurst')","(89, 1, 'John Harkes')",,,,,,,,,,
+1993-01-30,Coventry City,Wimbledon,0,2,"(4, 1, 'Dean Holdsworth')","(55, 1, 'Andy Clarke')",,,,,,,,,,
+1993-01-30,Crystal Palace,Tottenham Hotspur,1,3,"(15, 1, 'Teddy Sheringham')","(26, 1, 'Andy A Gray')","(30, 1, 'Teddy Sheringham')","(54, 0, 'Neil Ruddock')",,,,,,,,
+1993-01-30,Everton,Norwich City,0,1,"(16, 1, 'Chris Sutton')",,,,,,,,,,,
+1993-01-30,Ipswich Town,Manchester United,2,1,"(20, 0, 'Chris Kiwomya')","(47, 0, 'Frank Yallop')","(85, 1, 'Brian McClair')",,,,,,,,,
+1993-01-30,Leeds United,Middlesbrough,3,0,"(69, 0, 'Frank Strandli')","(81, 0, 'David Batty')","(90, 0, 'Chris Fairclough')",,,,,,,,,
+1993-01-30,Manchester City,Blackburn Rovers,3,2,"(4, 1, 'Mike Newell')","(14, 1, 'Terry Phelan')","(33, 0, 'Mike Sheron')","(74, 0, 'Keith Curle')","(78, 0, 'David White')",,,,,,,
+1993-01-30,Nottingham Forest,Oldham Athletic,2,0,"(14, 0, 'Ian Woan')","(59, 0, 'Ian Woan')",,,,,,,,,,
+1993-01-30,Sheffield United,Queens Park Rangers,1,2,"(19, 1, 'Bradley Allen')","(75, 1, 'Ian Holloway')","(88, 0, 'Jamie Hoyland')",,,,,,,,,
+1993-01-30,Southampton,Aston Villa,2,0,"(39, 0, 'Nicky Banger')","(63, 0, 'Iain Dowie')",,,,,,,,,,
+1993-01-31,Arsenal,Liverpool,0,1,"(59, 1, 'John Barnes')",,,,,,,,,,,
+1993-02-02,Blackburn Rovers,Crystal Palace,1,2,"(9, 1, 'Chris Armstrong')","(16, 0, 'Roy Wegerle')","(59, 1, 'Simon Rodger')",,,,,,,,,
+1993-02-06,Aston Villa,Ipswich Town,2,0,"(32, 0, 'Dwight Yorke')","(42, 0, 'Dean Saunders')",,,,,,,,,,
+1993-02-06,Liverpool,Nottingham Forest,0,0,,,,,,,,,,,,
+1993-02-06,Manchester United,Sheffield United,2,1,"(7, 1, 'Franz Carr')","(64, 0, 'Brian McClair')","(80, 0, 'Eric Cantona')",,,,,,,,,
+1993-02-06,Middlesbrough,Coventry City,0,2,"(67, 1, 'Peter Ndlovu')","(79, 1, 'Mick Quinn')",,,,,,,,,,
+1993-02-06,Oldham Athletic,Chelsea,3,1,"(38, 0, 'Nick Henry')","(61, 0, 'Neil Adams')","(71, 0, 'Mark Brennan')","(89, 1, 'Mick Harford')",,,,,,,,
+1993-02-06,Queens Park Rangers,Manchester City,1,1,"(66, 0, 'Clive Wilson')","(77, 1, 'Mike Sheron')",,,,,,,,,,
+1993-02-06,Sheffield Wednesday,Everton,3,1,"(16, 0, 'Paul Warhurst')","(17, 0, 'John Harkes')","(62, 0, 'Chris Waddle')","(83, 1, 'Tony Cottee')",,,,,,,,
+1993-02-06,Wimbledon,Leeds United,1,0,"(61, 0, 'Dean Holdsworth')",,,,,,,,,,,
+1993-02-07,Tottenham Hotspur,Southampton,4,2,"(21, 1, 'Iain Dowie')","(54, 0, 'Teddy Sheringham')","(56, 0, 'Nick Barmby')","(57, 0, 'Darren Anderton')","(59, 0, 'Teddy Sheringham')","(66, 1, 'Richard Hall')",,,,,,
+1993-02-08,Leeds United,Manchester United,0,0,,,,,,,,,,,,
+1993-02-09,Ipswich Town,Queens Park Rangers,1,1,"(40, 0, 'Neil Thompson')","(80, 1, 'Devon White')",,,,,,,,,,
+1993-02-09,Sheffield United,Middlesbrough,2,0,"(38, 0, 'Franz Carr')","(60, 0, 'Brian Deane')",,,,,,,,,,
+1993-02-10,Arsenal,Wimbledon,0,1,"(19, 1, 'Dean Holdsworth')",,,,,,,,,,,
+1993-02-10,Chelsea,Liverpool,0,0,,,,,,,,,,,,
+1993-02-10,Crystal Palace,Aston Villa,1,0,"(9, 0, 'Bobby Bowry')",,,,,,,,,,,
+1993-02-10,Everton,Tottenham Hotspur,1,2,"(26, 1, 'Gary Mabbutt')","(29, 0, 'Kenny Sansom')","(69, 1, 'Paul Allen')",,,,,,,,,
+1993-02-10,Southampton,Norwich City,3,0,"(9, 0, 'Richard Hall')","(25, 0, 'Micky Adams')","(79, 0, 'Nicky Banger')",,,,,,,,,
+1993-02-13,Chelsea,Aston Villa,0,1,"(22, 1, 'Ray Houghton')",,,,,,,,,,,
+1993-02-13,Leeds United,Oldham Athletic,2,0,"(18, 0, 'Gary McAllister')","(79, 0, 'Lee Chapman')",,,,,,,,,,
+1993-02-13,Southampton,Liverpool,2,1,"(23, 0, 'Neil Maddison')","(60, 1, 'Don Hutchison')","(73, 0, 'Nicky Banger')",,,,,,,,,
+1993-02-20,Aston Villa,Everton,2,1,"(12, 0, 'Neil Cox')","(18, 0, 'Earl Barrett')","(24, 1, 'Peter Beardsley')",,,,,,,,,
+1993-02-20,Liverpool,Ipswich Town,0,0,,,,,,,,,,,,
+1993-02-20,Manchester United,Southampton,2,1,"(77, 1, 'Nicky Banger')","(82, 0, 'Ryan Giggs')","(83, 0, 'Ryan Giggs')",,,,,,,,,
+1993-02-20,Middlesbrough,Nottingham Forest,1,2,"(58, 1, 'Nigel Clough')","(59, 0, 'Jimmy Phillips')","(68, 1, 'Steve Stone')",,,,,,,,,
+1993-02-20,Norwich City,Manchester City,2,1,"(28, 0, 'Mark Robins')","(29, 0, 'Lee Power')","(46, 1, 'Mike Sheron')",,,,,,,,,
+1993-02-20,Oldham Athletic,Arsenal,0,1,"(50, 1, 'Andy Linighan')",,,,,,,,,,,
+1993-02-20,Queens Park Rangers,Coventry City,2,0,"(34, 0, 'Andy Pearce')","(41, 0, 'Darren Peacock')",,,,,,,,,,
+1993-02-20,Sheffield Wednesday,Crystal Palace,2,1,"(27, 0, 'Paul Warhurst')","(62, 1, 'Chris Armstrong')","(71, 0, 'Danny Wilson')",,,,,,,,,
+1993-02-20,Tottenham Hotspur,Leeds United,4,0,"(8, 0, 'Teddy Sheringham')","(37, 0, 'Teddy Sheringham')","(48, 0, 'Neil Ruddock')","(67, 0, 'Teddy Sheringham')",,,,,,,,
+1993-02-20,Wimbledon,Sheffield United,2,0,"(1, 0, 'John Fashanu')","(44, 0, 'Gerald Dobbs')",,,,,,,,,,
+1993-02-21,Blackburn Rovers,Chelsea,2,0,"(8, 0, 'Mike Newell')","(63, 0, 'Mike Newell')",,,,,,,,,,
+1993-02-22,Sheffield United,Oldham Athletic,2,0,"(45, 0, 'John Gannon')","(77, 0, 'Adrian Littlejohn')",,,,,,,,,,
+1993-02-23,Manchester City,Sheffield Wednesday,1,2,"(72, 1, 'Viv Anderson')","(82, 1, 'Paul Warhurst')","(84, 0, 'Niall Quinn')",,,,,,,,,
+1993-02-24,Arsenal,Leeds United,0,0,,,,,,,,,,,,
+1993-02-24,Nottingham Forest,Queens Park Rangers,1,0,"(70, 0, 'Gary Crosby')",,,,,,,,,,,
+1993-02-27,Aston Villa,Wimbledon,1,0,"(79, 0, 'Dwight Yorke')",,,,,,,,,,,
+1993-02-27,Crystal Palace,Coventry City,0,0,,,,,,,,,,,,
+1993-02-27,Everton,Oldham Athletic,2,2,"(20, 0, 'Peter Beardsley')","(61, 0, 'Stuart Barlow')","(87, 1, 'Neil Adams')","(88, 1, 'Neil Adams')",,,,,,,,
+1993-02-27,Leeds United,Ipswich Town,1,0,"(71, 0, 'Tony Dorigo')",,,,,,,,,,,
+1993-02-27,Manchester United,Middlesbrough,3,0,"(20, 0, 'Ryan Giggs')","(79, 0, 'Denis Irwin')","(85, 0, 'Eric Cantona')",,,,,,,,,
+1993-02-27,Nottingham Forest,Manchester City,0,2,"(19, 1, 'David White')","(89, 1, 'Garry Flitcroft')",,,,,,,,,,
+1993-02-27,Sheffield Wednesday,Liverpool,1,1,"(20, 1, 'Don Hutchison')","(82, 0, 'Viv Anderson')",,,,,,,,,,
+1993-02-27,Southampton,Sheffield United,3,2,"(2, 0, 'Kevin Moore')","(5, 0, 'Jeff Kenna')","(37, 1, 'Brian Gayle')","(39, 0, 'Iain Dowie')","(83, 1, 'Ian Bryson')",,,,,,,
+1993-02-27,Tottenham Hotspur,Queens Park Rangers,3,2,"(8, 0, 'Teddy Sheringham')","(34, 0, 'Teddy Sheringham')","(61, 0, 'Darren Anderton')","(87, 1, 'Darren Peacock')","(88, 1, 'Devon White')",,,,,,,
+1993-02-28,Norwich City,Blackburn Rovers,0,0,,,,,,,,,,,,
+1993-03-01,Chelsea,Arsenal,1,0,"(81, 0, 'Graham Stuart')",,,,,,,,,,,
+1993-03-02,Ipswich Town,Middlesbrough,0,1,"(35, 1, 'Paul Wilkinson')",,,,,,,,,,,
+1993-03-02,Sheffield United,Tottenham Hotspur,6,0,"(13, 0, 'Franz Carr')","(21, 0, 'Andy A Gray')","(28, 0, 'Ian Bryson')","(29, 0, 'Ian Bryson')","(73, 0, 'Brian Deane')","(87, 0, 'Paul Rogers')",,,,,,
+1993-03-03,Coventry City,Sheffield Wednesday,1,0,"(43, 0, 'Micky Gynn')",,,,,,,,,,,
+1993-03-03,Everton,Blackburn Rovers,2,1,"(42, 1, 'David May')","(56, 0, 'Colin Hendry')","(71, 0, 'Tony Cottee')",,,,,,,,,
+1993-03-03,Norwich City,Arsenal,1,1,"(35, 0, 'Ruel Fox')","(81, 1, 'Ian Wright')",,,,,,,,,,
+1993-03-03,Nottingham Forest,Crystal Palace,1,1,"(23, 1, 'Gareth Southgate')","(24, 0, 'Roy Keane')",,,,,,,,,,
+1993-03-06,Liverpool,Manchester United,1,2,"(42, 1, 'Mark Hughes')","(50, 0, 'Ian Rush')","(56, 1, 'Brian McClair')",,,,,,,,,
+1993-03-06,Queens Park Rangers,Norwich City,3,1,"(18, 0, 'Les Ferdinand')","(34, 0, 'Les Ferdinand')","(41, 1, 'Mark Robins')","(78, 0, 'Clive Wilson')",,,,,,,,
+1993-03-06,Wimbledon,Southampton,1,2,"(22, 0, 'Dean Holdsworth')","(33, 1, 'Matt Le Tissier')","(73, 1, 'Kevin Moore')",,,,,,,,,
+1993-03-07,Coventry City,Everton,0,1,"(8, 1, 'Mark Ward')",,,,,,,,,,,
+1993-03-09,Blackburn Rovers,Southampton,0,0,,,,,,,,,,,,
+1993-03-09,Oldham Athletic,Manchester United,1,0,"(26, 0, 'Neil Adams')",,,,,,,,,,,
+1993-03-09,Wimbledon,Middlesbrough,2,0,"(32, 0, 'John Scales')","(74, 0, 'Dean Holdsworth')",,,,,,,,,,
+1993-03-10,Aston Villa,Tottenham Hotspur,0,0,,,,,,,,,,,,
+1993-03-10,Chelsea,Everton,2,1,"(39, 0, 'Graham Stuart')","(45, 1, 'Billy Kenny')","(79, 0, 'John Spencer')",,,,,,,,,
+1993-03-10,Ipswich Town,Sheffield Wednesday,0,1,"(35, 1, 'David Hirst')",,,,,,,,,,,
+1993-03-10,Liverpool,Queens Park Rangers,1,0,"(71, 0, 'Ian Rush')",,,,,,,,,,,
+1993-03-10,Manchester City,Coventry City,1,0,"(35, 0, 'Garry Flitcroft')",,,,,,,,,,,
+1993-03-10,Sheffield United,Norwich City,0,1,"(55, 1, 'Ruel Fox')",,,,,,,,,,,
+1993-03-13,Coventry City,Arsenal,0,2,"(28, 1, 'Kevin Campbell')","(29, 1, 'Ian Wright')",,,,,,,,,,
+1993-03-13,Everton,Nottingham Forest,3,0,"(15, 0, 'Tony Cottee')","(26, 0, 'Tony Cottee')","(38, 0, 'Andy Hinchcliffe')",,,,,,,,,
+1993-03-13,Leeds United,Manchester City,1,0,"(11, 0, 'David Rocastle')",,,,,,,,,,,
+1993-03-13,Middlesbrough,Liverpool,1,2,"(11, 1, 'Don Hutchison')","(15, 0, 'Steve Nicol')","(81, 1, 'Ian Rush')",,,,,,,,,
+1993-03-13,Norwich City,Oldham Athletic,1,0,"(12, 0, 'David Phillips')",,,,,,,,,,,
+1993-03-13,Queens Park Rangers,Wimbledon,1,2,"(3, 0, 'Les Ferdinand')","(7, 1, 'John Fashanu')","(78, 1, 'Robbie Earle')",,,,,,,,,
+1993-03-13,Southampton,Ipswich Town,4,3,"(13, 1, 'David Linighan')","(17, 0, 'Richard Hall')","(35, 1, 'Paul Goddard')","(65, 0, 'Matt Le Tissier')","(84, 0, 'Jeff Kenna')","(87, 1, 'Chris Kiwomya')","(90, 0, 'Matt Le Tissier')",,,,,
+1993-03-14,Manchester United,Aston Villa,1,1,"(53, 1, 'Steve Staunton')","(57, 0, 'Mark Hughes')",,,,,,,,,,
+1993-03-15,Crystal Palace,Chelsea,1,1,"(4, 1, 'Graham Stuart')","(41, 0, 'Chris Armstrong')",,,,,,,,,,
+1993-03-17,Nottingham Forest,Norwich City,0,3,"(45, 1, 'Mark Robins')","(73, 1, 'Lee Power')","(78, 1, 'Ian Crook')",,,,,,,,,
+1993-03-20,Arsenal,Southampton,4,3,"(4, 1, 'Iain Dowie')","(15, 0, 'Andy Linighan')","(16, 0, 'Paul Merson')","(20, 0, 'Jimmy Carter')","(30, 1, 'Micky Adams')","(50, 1, 'Matt Le Tissier')","(79, 0, 'Jimmy Carter')",,,,,
+1993-03-20,Aston Villa,Sheffield Wednesday,2,0,"(2, 0, 'Dwight Yorke')","(56, 0, 'Dwight Yorke')",,,,,,,,,,
+1993-03-20,Blackburn Rovers,Middlesbrough,1,1,"(23, 0, 'Mark Atkins')","(32, 1, 'John Hendrie')",,,,,,,,,,
+1993-03-20,Chelsea,Tottenham Hotspur,1,1,"(31, 1, 'Teddy Sheringham')","(52, 0, 'Tony Cascarino')",,,,,,,,,,
+1993-03-20,Ipswich Town,Coventry City,0,0,,,,,,,,,,,,
+1993-03-20,Liverpool,Everton,1,0,"(90, 0, 'Ronny Rosenthal')",,,,,,,,,,,
+1993-03-20,Manchester City,Manchester United,1,1,"(57, 0, 'Niall Quinn')","(68, 1, 'Eric Cantona')",,,,,,,,,,
+1993-03-20,Oldham Athletic,Queens Park Rangers,2,2,"(1, 0, 'Nick Henry')","(68, 1, 'Bradley Allen')","(73, 1, 'Andy Sinton')","(88, 0, 'Neil Adams')",,,,,,,,
+1993-03-20,Sheffield United,Crystal Palace,0,1,"(44, 1, 'Chris Coleman')",,,,,,,,,,,
+1993-03-20,Wimbledon,Norwich City,3,0,"(16, 0, 'Dean Holdsworth')","(29, 0, 'Neal Ardley')","(82, 0, 'Dean Holdsworth')",,,,,,,,,
+1993-03-21,Nottingham Forest,Leeds United,1,1,"(13, 1, 'Rodney Wallace')","(43, 0, 'Nigel Clough')",,,,,,,,,,
+1993-03-22,Middlesbrough,Oldham Athletic,2,3,"(29, 1, 'Paul Bernard')","(34, 1, 'Ian Olney')","(83, 0, 'Nicky Mohan')","(85, 1, 'Andy Ritchie')","(88, 0, 'Craig Hignett')",,,,,,,
+1993-03-23,Crystal Palace,Liverpool,1,1,"(49, 1, 'Ian Rush')","(78, 0, 'Chris Armstrong')",,,,,,,,,,
+1993-03-24,Coventry City,Sheffield United,1,3,"(17, 0, 'John Williams')","(69, 1, 'Dane Whitehouse')","(75, 1, 'Brian Deane')","(87, 1, 'Adrian Littlejohn')",,,,,,,,
+1993-03-24,Everton,Ipswich Town,3,0,"(18, 0, 'Stuart Barlow')","(49, 0, 'Matt Jackson')","(66, 0, 'Tony Cottee')",,,,,,,,,
+1993-03-24,Leeds United,Chelsea,1,1,"(43, 0, 'David Wetherall')","(53, 1, 'Mal Donaghy')",,,,,,,,,,
+1993-03-24,Manchester United,Arsenal,0,0,,,,,,,,,,,,
+1993-03-24,Norwich City,Aston Villa,1,0,"(81, 0, 'John Polston')",,,,,,,,,,,
+1993-03-24,Queens Park Rangers,Blackburn Rovers,0,3,"(23, 1, 'Stuart Ripley')","(55, 1, 'Kevin Moran')","(65, 1, 'Mark Atkins')",,,,,,,,,
+1993-03-24,Sheffield Wednesday,Wimbledon,1,1,"(76, 0, 'Mark Bright')","(90, 1, 'Dean Holdsworth')",,,,,,,,,,
+1993-03-24,Southampton,Nottingham Forest,1,2,"(5, 1, 'Nigel Clough')","(45, 1, 'Roy Keane')","(72, 0, 'Matt Le Tissier')",,,,,,,,,
+1993-03-24,Tottenham Hotspur,Manchester City,3,1,"(23, 0, 'Darren Anderton')","(43, 0, 'Mohamed Nayim')","(60, 1, 'Mike Sheron')","(87, 0, 'Andy Turner')",,,,,,,,
+1993-04-03,Blackburn Rovers,Liverpool,4,1,"(13, 0, 'Mike Newell')","(25, 0, 'Kevin Moran')","(41, 0, 'Kevin Gallacher')","(65, 0, 'Jason Wilcox')","(84, 1, 'Ian Rush')",,,,,,,
+1993-04-03,Chelsea,Middlesbrough,4,0,"(52, 0, 'Mal Donaghy')","(61, 0, 'John Spencer')","(73, 0, 'Graham Stuart')","(89, 0, 'Darren Barnard')",,,,,,,,
+1993-04-03,Coventry City,Southampton,2,0,"(7, 0, 'Mick Quinn')","(80, 0, 'John Williams')",,,,,,,,,,
+1993-04-03,Crystal Palace,Queens Park Rangers,1,1,"(23, 1, 'Bradley Allen')","(62, 0, 'David Bardsley')",,,,,,,,,,
+1993-04-03,Manchester City,Ipswich Town,3,1,"(2, 1, 'Gavin Johnson')","(55, 0, 'Niall Quinn')","(66, 0, 'Rick Holden')","(70, 0, 'Michel Vonk')",,,,,,,,
+1993-04-03,Oldham Athletic,Wimbledon,6,2,"(5, 0, 'John Fashanu')","(13, 0, 'Paul Bernard')","(42, 0, 'Ian Olney')","(61, 1, 'Dean Holdsworth')","(68, 1, 'Dean Holdsworth')","(69, 0, 'Ian Olney')","(73, 0, 'Neil Adams')","(87, 0, 'Darren Beckford')",,,,
+1993-04-04,Nottingham Forest,Aston Villa,0,1,"(63, 1, 'Paul McGrath')",,,,,,,,,,,
+1993-04-05,Norwich City,Manchester United,1,3,"(12, 1, 'Ryan Giggs')","(19, 1, 'Andrei Kanchelskis')","(20, 1, 'Eric Cantona')","(60, 0, 'Mark Robins')",,,,,,,,
+1993-04-06,Ipswich Town,Chelsea,1,1,"(38, 0, 'Bontcho Guentchev')","(58, 1, 'John Spencer')",,,,,,,,,,
+1993-04-06,Middlesbrough,Arsenal,1,0,"(32, 0, 'John Hendrie')",,,,,,,,,,,
+1993-04-06,Sheffield United,Leeds United,2,1,"(24, 0, 'Paul Rogers')","(34, 1, 'Frank Strandli')","(86, 0, 'Brian Deane')",,,,,,,,,
+1993-04-07,Nottingham Forest,Blackburn Rovers,1,3,"(7, 1, 'Jason Wilcox')","(51, 0, 'Nigel Clough')","(67, 1, 'Stuart Ripley')","(76, 1, 'Mike Newell')",,,,,,,,
+1993-04-07,Oldham Athletic,Sheffield Wednesday,1,1,"(13, 0, 'Neil Pointon')","(65, 1, 'Gordon Watson')",,,,,,,,,,
+1993-04-09,Sheffield United,Manchester City,1,1,"(8, 1, 'John Pemberton')","(69, 0, 'Brian Deane')",,,,,,,,,,
+1993-04-09,Tottenham Hotspur,Norwich City,5,1,"(26, 0, 'Neil Ruddock')","(30, 0, 'Teddy Sheringham')","(54, 0, 'Nick Barmby')","(76, 0, 'Teddy Sheringham')","(82, 0, 'Mohamed Nayim')","(85, 1, 'Efan Ekoku')",,,,,,
+1993-04-09,Wimbledon,Crystal Palace,4,0,"(19, 0, 'Robbie Earle')","(24, 0, 'Dean Holdsworth')","(47, 0, 'Dean Holdsworth')","(53, 0, 'Robbie Earle')",,,,,,,,
+1993-04-10,Aston Villa,Coventry City,0,0,,,,,,,,,,,,
+1993-04-10,Ipswich Town,Arsenal,1,2,"(2, 1, 'Alan Smith')","(27, 0, 'John Wark')","(87, 1, 'Paul Merson')",,,,,,,,,
+1993-04-10,Leeds United,Blackburn Rovers,5,2,"(10, 0, 'Gordon Strachan')","(28, 0, 'Gordon Strachan')","(50, 0, 'Gordon Strachan')","(67, 0, 'Rodney Wallace')","(72, 1, 'Kevin Gallacher')","(84, 1, 'Mike Newell')","(89, 0, 'Lee Chapman')",,,,,
+1993-04-10,Liverpool,Oldham Athletic,1,0,"(60, 0, 'Ian Rush')",,,,,,,,,,,
+1993-04-10,Manchester United,Sheffield Wednesday,2,1,"(65, 1, 'John Sheridan')","(86, 0, 'Steve Bruce')","(90, 0, 'Steve Bruce')",,,,,,,,,
+1993-04-10,Middlesbrough,Everton,1,2,"(25, 1, 'Dave Watson')","(65, 0, 'Paul Wilkinson')","(80, 1, 'Preki Radosavljevic')",,,,,,,,,
+1993-04-10,Queens Park Rangers,Nottingham Forest,4,3,"(7, 1, 'Kingsley Black')","(35, 0, 'Les Ferdinand')","(39, 1, 'Gary Bannister')","(45, 0, 'Clive Wilson')","(45, 1, 'Gary Bannister')","(59, 0, 'Les Ferdinand')","(74, 0, 'Les Ferdinand')",,,,,
+1993-04-10,Southampton,Chelsea,1,0,"(49, 0, 'Nicky Banger')",,,,,,,,,,,
+1993-04-12,Arsenal,Aston Villa,0,1,"(68, 1, 'Tony Daley')",,,,,,,,,,,
+1993-04-12,Blackburn Rovers,Ipswich Town,2,1,"(6, 0, 'Stuart Ripley')","(43, 0, 'Phil Whelan')","(68, 1, 'Simon Milton')",,,,,,,,,
+1993-04-12,Chelsea,Wimbledon,4,2,"(45, 0, 'Dennis Wise')","(51, 0, 'Gareth Hall')","(55, 1, 'Dean Holdsworth')","(80, 0, 'John Spencer')","(85, 0, 'Neil Shipperley')","(90, 1, 'Lawrie Sanchez')",,,,,,
+1993-04-12,Coventry City,Manchester United,0,1,"(40, 1, 'Denis Irwin')",,,,,,,,,,,
+1993-04-12,Crystal Palace,Middlesbrough,4,1,"(54, 0, 'Simon Rodger')","(61, 0, 'Eric Young')","(81, 0, 'Chris Armstrong')","(86, 0, 'Chris Coleman')","(87, 1, 'Paul Wilkinson')",,,,,,,
+1993-04-12,Everton,Queens Park Rangers,3,5,"(5, 1, 'Andy Impey')","(30, 0, 'Tony Cottee')","(38, 1, 'Les Ferdinand')","(46, 1, 'Les Ferdinand')","(51, 1, 'Les Ferdinand')","(79, 1, 'David Bardsley')","(87, 0, 'Stuart Barlow')","(89, 0, 'Preki Radosavljevic')",,,,
+1993-04-12,Manchester City,Liverpool,1,1,"(11, 0, 'Garry Flitcroft')","(66, 1, 'Ian Rush')",,,,,,,,,,
+1993-04-12,Nottingham Forest,Tottenham Hotspur,2,1,"(25, 0, 'Kingsley Black')","(35, 0, 'Robert Rosario')","(44, 1, 'Steve Sedgley')",,,,,,,,,
+1993-04-12,Sheffield Wednesday,Southampton,5,2,"(37, 0, 'Mark Bright')","(43, 0, 'Chris Bart-Williams')","(50, 0, 'Phil King')","(68, 1, 'Jason Dodd')","(71, 0, 'Chris Bart-Williams')","(80, 0, 'Chris Bart-Williams')","(86, 1, 'Iain Dowie')",,,,,
+1993-04-13,Oldham Athletic,Sheffield United,1,1,"(10, 0, 'Andy Ritchie')","(43, 1, 'Jamie Hoyland')",,,,,,,,,,
+1993-04-14,Norwich City,Leeds United,4,2,"(2, 1, 'Lee Chapman')","(10, 0, 'Chris Sutton')","(13, 0, 'Chris Sutton')","(15, 0, 'David Phillips')","(46, 1, 'Rodney Wallace')","(78, 0, 'Chris Sutton')",,,,,,
+1993-04-17,Leeds United,Crystal Palace,0,0,,,,,,,,,,,,
+1993-04-17,Liverpool,Coventry City,4,0,"(16, 0, 'Mark Walters')","(33, 0, 'Mark Walters')","(49, 0, 'Mark Walters')","(75, 0, 'David Burrows')",,,,,,,,
+1993-04-17,Manchester United,Chelsea,3,0,"(23, 0, 'Mark Hughes')","(44, 0, 'Steve Clarke')","(48, 0, 'Eric Cantona')",,,,,,,,,
+1993-04-17,Sheffield United,Blackburn Rovers,1,3,"(8, 0, 'Glyn Hodges')","(39, 1, 'Kevin Gallacher')","(54, 1, 'Mike Newell')","(68, 1, 'Tim Sherwood')",,,,,,,,
+1993-04-17,Southampton,Everton,0,0,,,,,,,,,,,,
+1993-04-17,Tottenham Hotspur,Oldham Athletic,4,1,"(25, 1, 'Darren Beckford')","(58, 0, 'Teddy Sheringham')","(70, 0, 'Darren Anderton')","(82, 0, 'Teddy Sheringham')","(84, 0, 'Andy Turner')",,,,,,,
+1993-04-17,Wimbledon,Nottingham Forest,1,0,"(33, 0, 'Andy Clarke')",,,,,,,,,,,
+1993-04-18,Aston Villa,Manchester City,3,1,"(34, 1, 'Niall Quinn')","(47, 0, 'Dean Saunders')","(67, 0, 'Garry Parker')","(89, 0, 'Ray Houghton')",,,,,,,,
+1993-04-19,Ipswich Town,Norwich City,3,1,"(21, 0, 'Jason Dozzell')","(25, 0, 'Micky Stockwell')","(41, 1, 'Chris Sutton')","(57, 0, 'Jason Dozzell')",,,,,,,,
+1993-04-20,Middlesbrough,Tottenham Hotspur,3,0,"(2, 0, 'Tommy Wright')","(26, 0, 'Tommy Wright')","(76, 0, 'Paul Wilkinson')",,,,,,,,,
+1993-04-21,Arsenal,Nottingham Forest,1,1,"(67, 0, 'Ian Wright')","(90, 1, 'Roy Keane')",,,,,,,,,,
+1993-04-21,Blackburn Rovers,Aston Villa,3,0,"(9, 0, 'Mike Newell')","(15, 0, 'Kevin Gallacher')","(40, 0, 'Mike Newell')",,,,,,,,,
+1993-04-21,Crystal Palace,Manchester United,0,2,"(64, 1, 'Mark Hughes')","(89, 1, 'Paul Ince')",,,,,,,,,,
+1993-04-21,Liverpool,Leeds United,2,0,"(54, 0, 'John Barnes')","(73, 0, 'Mark Walters')",,,,,,,,,,
+1993-04-21,Manchester City,Wimbledon,1,1,"(50, 1, 'Paul Miller')","(84, 0, 'Rick Holden')",,,,,,,,,,
+1993-04-21,Sheffield Wednesday,Sheffield United,1,1,"(44, 1, 'Brian Deane')","(71, 0, 'Paul Warhurst')",,,,,,,,,,
+1993-05-01,Chelsea,Coventry City,2,1,"(13, 0, 'John Spencer')","(15, 1, 'Mick Quinn')","(71, 0, 'Tony Cascarino')",,,,,,,,,
+1993-05-01,Crystal Palace,Ipswich Town,3,1,"(8, 0, 'Eric Young')","(17, 0, 'Chris Armstrong')","(37, 1, 'David Gregory')","(60, 0, 'Eddie McGoldrick')",,,,,,,,
+1993-05-01,Everton,Arsenal,0,0,,,,,,,,,,,,
+1993-05-01,Leeds United,Queens Park Rangers,1,1,"(15, 1, 'Les Ferdinand')","(69, 0, 'Steve Hodge')",,,,,,,,,,
+1993-05-01,Norwich City,Liverpool,1,0,"(61, 0, 'David Phillips')",,,,,,,,,,,
+1993-05-01,Nottingham Forest,Sheffield United,0,2,"(30, 1, 'Glyn Hodges')","(73, 1, 'Brian Gayle')",,,,,,,,,,
+1993-05-01,Sheffield Wednesday,Middlesbrough,2,3,"(26, 1, 'Willie Falconer')","(36, 1, 'Jamie Pollock')","(51, 1, 'John Hendrie')","(52, 0, 'Chris Bart-Williams')","(78, 0, 'Chris Morris')",,,,,,,
+1993-05-01,Southampton,Manchester City,0,1,"(41, 1, 'David White')",,,,,,,,,,,
+1993-05-01,Tottenham Hotspur,Wimbledon,1,1,"(39, 0, 'Darren Anderton')","(63, 1, 'Robbie Earle')",,,,,,,,,,
+1993-05-02,Aston Villa,Oldham Athletic,0,1,"(29, 1, 'Nick Henry')",,,,,,,,,,,
+1993-05-03,Manchester United,Blackburn Rovers,3,1,"(8, 1, 'Kevin Gallacher')","(21, 0, 'Ryan Giggs')","(59, 0, 'Paul Ince')","(90, 0, 'Gary Pallister')",,,,,,,,
+1993-05-04,Arsenal,Queens Park Rangers,0,0,,,,,,,,,,,,
+1993-05-04,Everton,Sheffield United,0,2,"(15, 1, 'Carl Bradshaw')","(26, 1, 'Glyn Hodges')",,,,,,,,,,
+1993-05-04,Sheffield Wednesday,Leeds United,1,1,"(35, 1, 'Phil King')","(89, 0, 'David Hirst')",,,,,,,,,,
+1993-05-05,Manchester City,Crystal Palace,0,0,,,,,,,,,,,,
+1993-05-05,Oldham Athletic,Liverpool,3,2,"(20, 0, 'Darren Beckford')","(30, 1, 'Ian Rush')","(35, 0, 'Ian Olney')","(36, 0, 'Ian Olney')","(59, 1, 'Ian Rush')",,,,,,,
+1993-05-05,Tottenham Hotspur,Blackburn Rovers,1,2,"(22, 1, 'Mike Newell')","(56, 1, 'Mike Newell')","(88, 0, 'Darren Anderton')",,,,,,,,,
+1993-05-06,Sheffield Wednesday,Arsenal,1,0,"(19, 0, 'Mark Bright')",,,,,,,,,,,
+1993-05-08,Arsenal,Crystal Palace,3,0,"(9, 0, 'Ian Wright')","(82, 0, 'Paul Dickov')","(90, 0, 'Kevin Campbell')",,,,,,,,,
+1993-05-08,Blackburn Rovers,Sheffield Wednesday,1,0,"(65, 0, 'Tim Sherwood')",,,,,,,,,,,
+1993-05-08,Coventry City,Leeds United,3,3,"(5, 0, 'John Williams')","(6, 1, 'Rodney Wallace')","(40, 0, 'Mick Quinn')","(73, 0, 'Peter Ndlovu')","(87, 1, 'Rodney Wallace')","(90, 1, 'Rodney Wallace')",,,,,,
+1993-05-08,Ipswich Town,Nottingham Forest,2,1,"(34, 0, 'Simon Milton')","(52, 0, 'Steve Whitton')","(64, 1, 'Nigel Clough')",,,,,,,,,
+1993-05-08,Liverpool,Tottenham Hotspur,6,2,"(21, 0, 'Ian Rush')","(44, 0, 'John Barnes')","(46, 1, 'Teddy Sheringham')","(47, 0, 'Stuart Nethercott')","(77, 1, 'Steve Sedgley')","(82, 0, 'Mark Walters')","(85, 0, 'Ian Rush')","(88, 0, 'John Barnes')",,,,
+1993-05-08,Manchester City,Everton,2,5,"(6, 1, 'Matt Jackson')","(18, 1, 'Peter Beagrie')","(32, 1, 'Peter Beardsley')","(39, 0, 'David White')","(51, 1, 'Preki Radosavljevic')","(73, 0, 'Keith Curle')","(84, 1, 'Peter Beagrie')",,,,,
+1993-05-08,Middlesbrough,Norwich City,3,3,"(14, 1, 'Efan Ekoku')","(34, 0, 'Willie Falconer')","(64, 0, 'Paul Wilkinson')","(65, 1, 'Efan Ekoku')","(68, 1, 'Andy Johnson')","(72, 0, 'John Hendrie')",,,,,,
+1993-05-08,Oldham Athletic,Southampton,4,3,"(29, 0, 'Neil Pointon')","(34, 1, 'Matt Le Tissier')","(44, 0, 'Ian Olney')","(54, 0, 'Andy Ritchie')","(63, 0, 'Gunnar Halle')","(66, 1, 'Matt Le Tissier')","(84, 1, 'Matt Le Tissier')",,,,,
+1993-05-08,Sheffield United,Chelsea,4,2,"(7, 0, 'Andy Scott')","(16, 0, 'Paul Rogers')","(43, 0, 'Dane Whitehouse')","(48, 0, 'Dane Whitehouse')","(86, 1, 'David Lee')","(87, 1, 'Andy Townsend')",,,,,,
+1993-05-09,Queens Park Rangers,Aston Villa,2,1,"(36, 1, 'Tony Daley')","(67, 0, 'Les Ferdinand')","(76, 0, 'Bradley Allen')",,,,,,,,,
+1993-05-09,Wimbledon,Manchester United,1,2,"(63, 1, 'Paul Ince')","(72, 1, 'Bryan Robson')","(82, 0, 'Dean Holdsworth')",,,,,,,,,
+1993-05-11,Arsenal,Tottenham Hotspur,1,3,"(39, 1, 'Teddy Sheringham')","(46, 1, 'John Hendry')","(52, 0, 'Paul Dickov')","(78, 1, 'John Hendry')",,,,,,,,
+1993-05-11,Queens Park Rangers,Sheffield Wednesday,3,1,"(22, 0, 'Bradley Allen')","(36, 0, 'Bradley Allen')","(67, 0, 'Les Ferdinand')","(78, 1, 'Mark Bright')",,,,,,,,

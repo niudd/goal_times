@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-16/08/2003,Arsenal,Everton,2,1,"(35, 0, 'Thierry Henry')","(58, 0, 'Robert Pires')","(84, 1, 'Tomasz Radzinski')"
-24/08/2003,Middlesbrough,Arsenal,0,4,"(5, 1, 'Thierry Henry')","(13, 1, ' Gilberto Silva')","(22, 1, 'Sylvain Wiltord')","(60, 1, 'Sylvain Wiltord')"
-27/08/2003,Arsenal,Aston Villa,2,0,"(57, 0, 'Sol Campbell')","(90, 0, 'Thierry Henry')"
-31/08/2003,Manchester City,Arsenal,1,2,"(10, 0, 'Bissan Lauren')","(48, 1, 'Sylvain Wiltord')","(72, 1, 'Freddie Ljungberg')"
-13/09/2003,Arsenal,Portsmouth,1,1,"(26, 1, 'Teddy Sheringham')","(40, 0, 'Thierry Henry')"
-21/09/2003,Manchester United,Arsenal,0,0
-26/09/2003,Arsenal,Newcastle United,3,2,"(18, 0, 'Thierry Henry')","(26, 1, 'Laurent Robert')","(67, 0, ' Gilberto Silva')","(71, 1, 'Olivier Bernard')","(80, 0, 'Thierry Henry')"
-04/10/2003,Liverpool,Arsenal,1,2,"(14, 0, 'Harry Kewell')","(68, 1, 'Sami Hyypia')","(68, 1, 'Robert Pires')"
-18/10/2003,Arsenal,Chelsea,2,1,"(5, 0, ' Edu')","(8, 1, 'Hernan Crespo')","(75, 0, 'Thierry Henry')"
-26/10/2003,Charlton Athletic,Arsenal,1,1,"(28, 0, 'Paolo Di Canio')","(40, 1, 'Thierry Henry')"
-01/11/2003,Leeds United,Arsenal,1,4,"(8, 1, 'Thierry Henry')","(17, 1, 'Robert Pires')","(33, 1, 'Thierry Henry')","(50, 1, ' Gilberto Silva')","(64, 0, 'Alan Smith')"
-08/11/2003,Arsenal,Tottenham Hotspur,2,1,"(5, 1, 'Darren Anderton')","(69, 0, 'Robert Pires')","(79, 0, 'Freddie Ljungberg')"
-22/11/2003,Birmingham City,Arsenal,0,3,"(4, 1, 'Freddie Ljungberg')","(80, 1, 'Dennis Bergkamp')","(88, 1, 'Robert Pires')"
-30/11/2003,Arsenal,Fulham,0,0
-06/12/2003,Leicester City,Arsenal,1,1,"(60, 1, ' Gilberto Silva')","(90, 0, 'Craig Hignett')"
-14/12/2003,Arsenal,Blackburn Rovers,1,0,"(11, 0, 'Dennis Bergkamp')"
-20/12/2003,Bolton Wanderers,Arsenal,1,1,"(57, 1, 'Robert Pires')","(83, 0, 'Henrik Pedersen')"
-26/12/2003,Arsenal,Wolverhampton Wanderers,3,0,"(13, 0, 'Jody Craddock')","(20, 0, 'Thierry Henry')","(89, 0, 'Thierry Henry')"
-29/12/2003,Southampton,Arsenal,0,1,"(35, 1, 'Robert Pires')"
-07/01/2004,Everton,Arsenal,1,1,"(29, 1, 'Nwankwo Kanu')","(75, 0, 'Tomasz Radzinski')"
-10/01/2004,Arsenal,Middlesbrough,4,1,"(38, 0, 'Thierry Henry')","(45, 0, 'Franck Queudrue')","(57, 0, 'Robert Pires')","(68, 0, 'Freddie Ljungberg')","(86, 1, 'Massimo Maccarone')"
-18/01/2004,Aston Villa,Arsenal,0,2,"(29, 1, 'Thierry Henry')","(53, 1, 'Thierry Henry')"
-01/02/2004,Arsenal,Manchester City,2,1,"(37, 0, 'Michael Tarnat')","(83, 0, 'Thierry Henry')","(89, 1, 'Nicolas Anelka')"
-07/02/2004,Wolverhampton Wanderers,Arsenal,1,3,"(9, 1, 'Dennis Bergkamp')","(26, 0, 'Ioan Ganea')","(58, 1, 'Thierry Henry')","(63, 1, 'Kolo Toure')"
-10/02/2004,Arsenal,Southampton,2,0,"(31, 0, 'Thierry Henry')","(90, 0, 'Thierry Henry')"
-21/02/2004,Chelsea,Arsenal,1,2,"(1, 0, 'Eidur Gudjohnsen')","(15, 1, 'Patrick Vieira')","(21, 1, ' Edu')"
-28/02/2004,Arsenal,Charlton Athletic,2,1,"(2, 0, 'Robert Pires')","(4, 0, 'Thierry Henry')","(59, 1, 'Claus Jensen')"
-13/03/2004,Blackburn Rovers,Arsenal,0,2,"(57, 1, 'Thierry Henry')","(87, 1, 'Robert Pires')"
-20/03/2004,Arsenal,Bolton Wanderers,2,1,"(16, 0, 'Robert Pires')","(24, 0, 'Dennis Bergkamp')","(41, 1, 'Ivan Campo')"
-28/03/2004,Arsenal,Manchester United,1,1,"(50, 0, 'Thierry Henry')","(86, 1, 'Louis Saha')"
-09/04/2004,Arsenal,Liverpool,4,2,"(5, 1, 'Sami Hyypia')","(31, 0, 'Thierry Henry')","(42, 1, 'Michael Owen')","(49, 0, 'Robert Pires')","(50, 0, 'Thierry Henry')","(78, 0, 'Thierry Henry')"
-11/04/2004,Newcastle United,Arsenal,0,0
-16/04/2004,Arsenal,Leeds United,5,0,"(6, 0, 'Robert Pires')","(27, 0, 'Thierry Henry')","(33, 0, 'Thierry Henry')","(50, 0, 'Thierry Henry')","(67, 0, 'Thierry Henry')"
-25/04/2004,Tottenham Hotspur,Arsenal,2,2,"(3, 1, 'Patrick Vieira')","(35, 1, 'Robert Pires')","(62, 0, 'Jamie Redknapp')","(90, 0, 'Robbie Keane')"
-01/05/2004,Arsenal,Birmingham City,0,0
-04/05/2004,Portsmouth,Arsenal,1,1,"(30, 0, 'Ayegbeni Yakubu')","(50, 1, 'Jose Antonio Reyes')"
-09/05/2004,Fulham,Arsenal,0,1,"(9, 1, 'Jose Antonio Reyes')"
-15/05/2004,Arsenal,Leicester City,2,1,"(26, 1, 'Paul Dickov')","(47, 0, 'Thierry Henry')","(66, 0, 'Patrick Vieira')"
-16/08/2003,Manchester United,Bolton Wanderers,4,0,"(35, 0, 'Ryan Giggs')","(74, 0, 'Ryan Giggs')","(77, 0, 'Paul Scholes')","(87, 0, 'Ruud Van Nistelrooy')"
-23/08/2003,Newcastle United,Manchester United,1,2,"(26, 0, 'Alan Shearer')","(51, 1, 'Ruud Van Nistelrooy')","(59, 1, 'Paul Scholes')"
-27/08/2003,Manchester United,Wolverhampton Wanderers,1,0,"(10, 0, ""John O'Shea"")"
-31/08/2003,Southampton,Manchester United,1,0,"(88, 0, 'James Beattie')"
-13/09/2003,Charlton Athletic,Manchester United,0,2,"(62, 1, 'Ruud Van Nistelrooy')","(81, 1, 'Ruud Van Nistelrooy')"
-27/09/2003,Leicester City,Manchester United,1,4,"(15, 1, 'Roy Keane')","(16, 1, 'Ruud Van Nistelrooy')","(45, 1, 'Ruud Van Nistelrooy')","(52, 1, 'Ruud Van Nistelrooy')","(73, 0, 'Frank Sinclair')"
-04/10/2003,Manchester United,Birmingham City,3,0,"(36, 0, 'Ruud Van Nistelrooy')","(57, 0, 'Paul Scholes')","(82, 0, 'Ryan Giggs')"
-18/10/2003,Leeds United,Manchester United,0,1,"(81, 1, 'Roy Keane')"
-25/10/2003,Manchester United,Fulham,1,3,"(3, 1, 'Lee Clark')","(45, 0, 'Diego Forlan')","(66, 1, 'Steed Malbranque')","(79, 1, 'Junichi Inamoto')"
-01/11/2003,Manchester United,Portsmouth,3,0,"(37, 0, 'Diego Forlan')","(80, 0, 'Cristiano Ronaldo')","(82, 0, 'Roy Keane')"
-09/11/2003,Liverpool,Manchester United,1,2,"(59, 1, 'Ryan Giggs')","(70, 1, 'Ryan Giggs')","(76, 0, 'Harry Kewell')"
-22/11/2003,Manchester United,Blackburn Rovers,2,1,"(24, 0, 'Ruud Van Nistelrooy')","(38, 0, ' Kleberson')","(62, 1, 'Brett Emerton')"
-30/11/2003,Chelsea,Manchester United,1,0,"(30, 0, 'Frank Lampard')"
-06/12/2003,Manchester United,Aston Villa,4,0,"(16, 0, 'Ruud Van Nistelrooy')","(45, 0, 'Ruud Van Nistelrooy')","(90, 0, 'Diego Forlan')","(90, 0, 'Diego Forlan')"
-13/12/2003,Manchester United,Manchester City,3,1,"(7, 0, 'Paul Scholes')","(34, 0, 'Ruud Van Nistelrooy')","(52, 1, 'Shaun Wright-Phillips')","(73, 0, 'Paul Scholes')"
-21/12/2003,Tottenham Hotspur,Manchester United,1,2,"(15, 1, ""John O'Shea"")","(25, 1, 'Ruud Van Nistelrooy')","(63, 0, 'Gus Poyet')"
-26/12/2003,Manchester United,Everton,3,2,"(9, 0, 'Nicky Butt')","(13, 1, 'Gary Neville')","(44, 0, ' Kleberson')","(68, 0, 'David Bellion')","(90, 1, 'Duncan Ferguson')"
-28/12/2003,Middlesbrough,Manchester United,0,1,"(14, 1, 'Danny Mills')"
-07/01/2004,Bolton Wanderers,Manchester United,1,2,"(24, 1, 'Paul Scholes')","(39, 1, 'Ruud Van Nistelrooy')","(89, 0, 'Gary Neville')"
-11/01/2004,Manchester United,Newcastle United,0,0
-17/01/2004,Wolverhampton Wanderers,Manchester United,1,0,"(67, 0, 'Kenny Miller')"
-31/01/2004,Manchester United,Southampton,3,2,"(18, 0, 'Louis Saha')","(37, 0, 'Paul Scholes')","(38, 1, 'Kevin Phillips')","(53, 1, 'Kevin Phillips')","(61, 0, 'Ruud Van Nistelrooy')"
-07/02/2004,Everton,Manchester United,3,4,"(9, 1, 'Louis Saha')","(24, 1, 'Ruud Van Nistelrooy')","(29, 1, 'Louis Saha')","(49, 0, 'David Unsworth')","(65, 0, ""John O'Shea"")","(75, 0, 'Kevin Kilbane')","(89, 1, 'Ruud Van Nistelrooy')"
-11/02/2004,Manchester United,Middlesbrough,2,3,"(34, 1, ' Juninho')","(38, 1, ' Juninho')","(45, 0, 'Ruud Van Nistelrooy')","(63, 0, 'Ryan Giggs')","(80, 1, 'Joseph-Desire Job')"
-21/02/2004,Manchester United,Leeds United,1,1,"(64, 0, 'Paul Scholes')","(67, 1, 'Alan Smith')"
-28/02/2004,Fulham,Manchester United,1,1,"(14, 1, 'Louis Saha')","(64, 0, 'Luis Boa Morte')"
-14/03/2004,Manchester City,Manchester United,4,1,"(3, 0, 'Robbie Fowler')","(32, 0, 'Jon Macken')","(35, 1, 'Paul Scholes')","(73, 0, 'Trevor Sinclair')","(90, 0, 'Shaun Wright-Phillips')"
-20/03/2004,Manchester United,Tottenham Hotspur,3,0,"(30, 0, 'Ryan Giggs')","(89, 0, 'Cristiano Ronaldo')","(90, 0, 'David Bellion')"
-10/04/2004,Birmingham City,Manchester United,1,2,"(39, 0, 'Martin Grainger')","(60, 1, 'Cristiano Ronaldo')","(78, 1, 'Louis Saha')"
-13/04/2004,Manchester United,Leicester City,1,0,"(56, 0, 'Gary Neville')"
-17/04/2004,Portsmouth,Manchester United,1,0,"(36, 0, 'Steve Stone')"
-20/04/2004,Manchester United,Charlton Athletic,2,0,"(28, 0, 'Louis Saha')","(65, 0, 'Gary Neville')"
-24/04/2004,Manchester United,Liverpool,0,1,"(63, 1, 'Danny Murphy')"
-01/05/2004,Blackburn Rovers,Manchester United,1,0,"(85, 0, 'Jon Stead')"
-08/05/2004,Manchester United,Chelsea,1,1,"(19, 1, 'Jesper Gronkjaer')","(77, 0, 'Ruud Van Nistelrooy')"
-15/05/2004,Aston Villa,Manchester United,0,2,"(4, 1, 'Cristiano Ronaldo')","(10, 1, 'Ruud Van Nistelrooy')"
-16/08/2003,Portsmouth,Aston Villa,2,1,"(42, 0, 'Teddy Sheringham')","(63, 0, 'Patrik Berger')","(84, 1, 'Gareth Barry')"
-23/08/2003,Manchester City,Portsmouth,1,1,"(24, 1, 'Ayegbeni Yakubu')","(90, 0, 'David Sommeil')"
-26/08/2003,Portsmouth,Bolton Wanderers,4,0,"(40, 0, 'Steve Stone')","(57, 0, 'Teddy Sheringham')","(88, 0, 'Teddy Sheringham')","(90, 0, 'Teddy Sheringham')"
-30/08/2003,Wolverhampton Wanderers,Portsmouth,0,0
-20/09/2003,Portsmouth,Blackburn Rovers,1,2,"(35, 1, 'Lucas Neill')","(43, 1, 'Andrew Cole')","(57, 0, 'Arjan De Zeeuw')"
-27/09/2003,Birmingham City,Portsmouth,2,0,"(21, 0, 'Stephen Clemence')","(50, 0, 'Stan Lazaridis')"
-04/10/2003,Portsmouth,Charlton Athletic,1,2,"(34, 0, 'Teddy Sheringham')","(77, 1, 'Jonathan Fortune')","(90, 1, 'Shaun Bartlett')"
-18/10/2003,Portsmouth,Liverpool,1,0,"(4, 0, 'Patrik Berger')"
-25/10/2003,Newcastle United,Portsmouth,3,0,"(17, 0, 'Gary Speed')","(28, 0, 'Alan Shearer')","(61, 0, 'Shola Ameobi')"
-08/11/2003,Portsmouth,Leeds United,6,1,"(17, 0, 'Dejan Stefanovic')","(19, 1, 'Alan Smith')","(45, 0, ""Gary O'Neil"")","(63, 0, 'Hayden Foxe')","(71, 0, ""Gary O'Neil"")","(75, 0, 'Patrik Berger')","(86, 0, 'Ayegbeni Yakubu')"
-24/11/2003,Fulham,Portsmouth,2,0,"(30, 0, 'Louis Saha')","(33, 0, 'Louis Saha')"
-29/11/2003,Portsmouth,Leicester City,0,2,"(31, 1, 'Les Ferdinand')","(59, 1, 'Marcus Bent')"
-06/12/2003,Middlesbrough,Portsmouth,0,0
-13/12/2003,Portsmouth,Everton,1,2,"(15, 0, 'Jason Roberts')","(27, 1, 'Lee Carsley')","(42, 1, 'Wayne Rooney')"
-21/12/2003,Southampton,Portsmouth,3,0,"(34, 0, 'Sebastian Schemmel')","(67, 0, 'Marian Pahars')","(90, 0, 'James Beattie')"
-26/12/2003,Portsmouth,Tottenham Hotspur,2,0,"(52, 0, 'Patrik Berger')","(68, 0, 'Patrik Berger')"
-28/12/2003,Chelsea,Portsmouth,3,0,"(65, 0, 'Wayne Bridge')","(73, 0, 'Frank Lampard')","(82, 0, ' Geremi')"
-06/01/2004,Aston Villa,Portsmouth,2,1,"(22, 0, 'Juan Pablo Angel')","(49, 1, 'Ayegbeni Yakubu')","(85, 0, 'Darius Vassell')"
-10/01/2004,Portsmouth,Manchester City,4,2,"(19, 0, 'Dejan Stefanovic')","(21, 1, 'Nicolas Anelka')","(45, 1, 'Antoine Sibierski')","(52, 0, 'Ayegbeni Yakubu')","(58, 0, 'Teddy Sheringham')","(77, 0, 'Ayegbeni Yakubu')"
-17/01/2004,Bolton Wanderers,Portsmouth,1,0,"(53, 0, 'Kevin Davies')"
-31/01/2004,Portsmouth,Wolverhampton Wanderers,0,0
-07/02/2004,Tottenham Hotspur,Portsmouth,4,3,"(13, 0, 'Jermain Defoe')","(39, 1, 'Eyal Berkovic')","(42, 0, 'Robbie Keane')","(73, 1, 'Lomano Tresor Lua Lua')","(79, 0, 'Robbie Keane')","(84, 1, 'Ivica Mornar')","(89, 0, 'Gus Poyet')"
-11/02/2004,Portsmouth,Chelsea,0,2,"(17, 1, 'Scott Parker')","(79, 1, 'Hernan Crespo')"
-29/02/2004,Portsmouth,Newcastle United,1,1,"(34, 1, 'Craig Bellamy')","(89, 0, 'Lomano Tresor Lua Lua')"
-13/03/2004,Everton,Portsmouth,1,0,"(78, 0, 'Wayne Rooney')"
-17/03/2004,Liverpool,Portsmouth,3,0,"(6, 0, 'Dietmar Hamann')","(28, 0, 'Michael Owen')","(58, 0, 'Michael Owen')"
-21/03/2004,Portsmouth,Southampton,1,0,"(68, 0, 'Ayegbeni Yakubu')"
-27/03/2004,Blackburn Rovers,Portsmouth,1,2,"(17, 1, 'Teddy Sheringham')","(37, 0, 'Matt Taylor')","(82, 1, 'Ayegbeni Yakubu')"
-10/04/2004,Charlton Athletic,Portsmouth,1,1,"(8, 0, 'Shaun Bartlett')","(65, 1, 'Ayegbeni Yakubu')"
-12/04/2004,Portsmouth,Birmingham City,3,1,"(45, 0, 'Dejan Stefanovic')","(62, 0, 'Lomano Tresor Lua Lua')","(67, 1, 'Stern John')","(73, 0, 'Ayegbeni Yakubu')"
-25/04/2004,Leeds United,Portsmouth,1,2,"(9, 1, 'Ayegbeni Yakubu')","(51, 1, 'Lomano Tresor Lua Lua')","(83, 0, 'Ian Harte')"
-01/05/2004,Portsmouth,Fulham,1,1,"(80, 0, 'Ayegbeni Yakubu')","(85, 1, 'Brian McBride')"
-08/05/2004,Leicester City,Portsmouth,3,1,"(6, 0, 'Matt Taylor')","(27, 0, 'Paul Dickov')","(66, 1, 'Nigel Quashie')","(71, 0, 'James Scowcroft')"
-15/05/2004,Portsmouth,Middlesbrough,5,1,"(4, 0, 'Ayegbeni Yakubu')","(14, 0, 'Ayegbeni Yakubu')","(27, 1, 'Bolo Zenden')","(31, 0, 'Ayegbeni Yakubu')","(80, 0, 'Teddy Sheringham')","(83, 0, 'Ayegbeni Yakubu')"
-17/08/2003,Charlton Athletic,Manchester City,0,3,"(13, 1, 'Nicolas Anelka')","(23, 1, 'Antoine Sibierski')","(83, 1, 'SUN Ji Hai')"
-25/08/2003,Blackburn Rovers,Manchester City,2,3,"(4, 1, 'Michael Tarnat')","(44, 0, 'Trevor Sinclair')","(59, 1, 'Joey Barton')","(61, 0, 'Lorenzo Amoruso')","(87, 1, 'Nicolas Anelka')"
-14/09/2003,Manchester City,Aston Villa,4,1,"(31, 1, 'Juan Pablo Angel')","(48, 0, 'Nicolas Anelka')","(50, 0, 'Michael Tarnat')","(68, 0, 'Nicolas Anelka')","(83, 0, 'Nicolas Anelka')"
-20/09/2003,Fulham,Manchester City,2,2,"(46, 1, 'Zat Knight')","(73, 0, 'Steed Malbranque')","(79, 0, 'Louis Saha')","(90, 1, 'Paulo Wanchope')"
-28/09/2003,Manchester City,Tottenham Hotspur,0,0
-04/10/2003,Wolverhampton Wanderers,Manchester City,1,0,"(75, 0, 'Colin Cameron')"
-18/10/2003,Manchester City,Bolton Wanderers,6,2,"(25, 1, 'Kevin Nolan')","(27, 0, 'Shaun Wright-Phillips')","(48, 0, 'Sylvain Distin')","(56, 0, 'Shaun Wright-Phillips')","(58, 0, 'Nicolas Anelka')","(60, 1, 'Ivan Campo')","(72, 0, 'Nicolas Anelka')","(84, 0, 'Claudio Reyna')"
-25/10/2003,Chelsea,Manchester City,1,0,"(34, 0, 'Jimmy Floyd Hasselbaink')"
-01/11/2003,Southampton,Manchester City,0,2,"(4, 1, 'Robbie Fowler')","(85, 1, 'Paulo Wanchope')"
-09/11/2003,Manchester City,Leicester City,0,3,"(12, 1, 'Jordan Stewart')","(53, 1, 'Paul Dickov')","(58, 1, 'Marcus Bent')"
-22/11/2003,Newcastle United,Manchester City,3,0,"(57, 0, 'Shola Ameobi')","(77, 0, 'Alan Shearer')","(85, 0, 'Alan Shearer')"
-30/11/2003,Manchester City,Middlesbrough,0,1,"(30, 1, 'SUN Ji Hai')"
-07/12/2003,Everton,Manchester City,0,0
-22/12/2003,Manchester City,Leeds United,1,1,"(24, 1, 'Mark Viduka')","(82, 0, 'Antoine Sibierski')"
-26/12/2003,Birmingham City,Manchester City,2,1,"(14, 1, 'Robbie Fowler')","(81, 0, 'Jeff Kenna')","(87, 0, 'Mikael Forssell')"
-28/12/2003,Manchester City,Liverpool,2,2,"(30, 0, 'Nicolas Anelka')","(66, 1, 'Vladimir Smicer')","(80, 1, 'Dietmar Hamann')","(90, 0, 'Robbie Fowler')"
-07/01/2004,Manchester City,Charlton Athletic,1,1,"(39, 0, 'Robbie Fowler')","(84, 1, 'Paolo Di Canio')"
-17/01/2004,Manchester City,Blackburn Rovers,1,1,"(50, 0, 'Nicolas Anelka')","(55, 1, 'Garry Flitcroft')"
-08/02/2004,Manchester City,Birmingham City,0,0
-11/02/2004,Liverpool,Manchester City,2,1,"(3, 0, 'Michael Owen')","(50, 1, 'Shaun Wright-Phillips')","(51, 0, 'Steven Gerrard')"
-21/02/2004,Bolton Wanderers,Manchester City,1,3,"(22, 0, 'Kevin Nolan')","(27, 1, 'Robbie Fowler')","(31, 1, 'Robbie Fowler')","(50, 1, 'Simon Charlton')"
-28/02/2004,Manchester City,Chelsea,0,1,"(82, 1, 'Eidur Gudjohnsen')"
-22/03/2004,Leeds United,Manchester City,2,1,"(23, 0, 'Stephen McPhail')","(44, 1, 'Nicolas Anelka')","(76, 0, 'Mark Viduka')"
-27/03/2004,Manchester City,Fulham,0,0
-04/04/2004,Aston Villa,Manchester City,1,1,"(26, 0, 'Juan Pablo Angel')","(82, 1, 'Sylvain Distin')"
-10/04/2004,Manchester City,Wolverhampton Wanderers,3,3,"(13, 1, 'Mark Kennedy')","(23, 1, 'Carl Cort')","(25, 0, 'Nicolas Anelka')","(39, 0, 'Antoine Sibierski')","(78, 1, 'Henri Camara')","(90, 0, 'Shaun Wright-Phillips')"
-12/04/2004,Tottenham Hotspur,Manchester City,1,1,"(52, 0, 'Jermain Defoe')","(52, 1, 'Nicolas Anelka')"
-17/04/2004,Manchester City,Southampton,1,3,"(34, 1, 'James Beattie')","(55, 1, 'Kevin Phillips')","(78, 0, 'Nicolas Anelka')","(81, 1, 'Kevin Phillips')"
-24/04/2004,Leicester City,Manchester City,1,1,"(45, 1, 'Michael Tarnat')","(66, 0, 'James Scowcroft')"
-01/05/2004,Manchester City,Newcastle United,1,0,"(59, 0, 'Paulo Wanchope')"
-08/05/2004,Middlesbrough,Manchester City,2,1,"(8, 0, 'Massimo Maccarone')","(32, 0, 'Szilard Nemeth')","(35, 1, 'Paulo Wanchope')"
-15/05/2004,Manchester City,Everton,5,1,"(16, 0, 'Paulo Wanchope')","(30, 0, 'Paulo Wanchope')","(41, 0, 'Nicolas Anelka')","(60, 1, 'Kevin Campbell')","(89, 0, 'Antoine Sibierski')","(90, 0, 'Shaun Wright-Phillips')"
-17/08/2003,Liverpool,Chelsea,1,2,"(25, 1, 'Juan Sebastian Veron')","(79, 0, 'Michael Owen')","(87, 1, 'Jimmy Floyd Hasselbaink')"
-23/08/2003,Chelsea,Leicester City,2,1,"(3, 0, 'Lilian Nalis')","(40, 1, 'James Scowcroft')","(45, 0, 'Adrian Mutu')"
-30/08/2003,Chelsea,Blackburn Rovers,2,2,"(1, 1, 'Andrew Cole')","(45, 0, 'Adrian Mutu')","(58, 1, 'Andrew Cole')","(63, 0, 'Jimmy Floyd Hasselbaink')"
-13/09/2003,Chelsea,Tottenham Hotspur,4,2,"(25, 1, 'Frederic Kanoute')","(35, 0, 'Frank Lampard')","(37, 0, 'Adrian Mutu')","(75, 0, 'Adrian Mutu')","(87, 1, 'Frederic Kanoute')","(90, 0, 'Jimmy Floyd Hasselbaink')"
-20/09/2003,Wolverhampton Wanderers,Chelsea,0,5,"(17, 1, 'Frank Lampard')","(36, 1, 'Jimmy Floyd Hasselbaink')","(52, 1, 'Damien Duff')","(67, 1, 'Hernan Crespo')","(90, 1, 'Hernan Crespo')"
-27/09/2003,Chelsea,Aston Villa,1,0,"(43, 0, 'Jimmy Floyd Hasselbaink')"
-05/10/2003,Middlesbrough,Chelsea,1,2,"(17, 1, 'Eidur Gudjohnsen')","(46, 0, 'Szilard Nemeth')","(88, 1, 'Hernan Crespo')"
-14/10/2003,Birmingham City,Chelsea,0,0
-01/11/2003,Everton,Chelsea,0,1,"(49, 1, 'Adrian Mutu')"
-09/11/2003,Chelsea,Newcastle United,5,0,"(25, 0, 'Glen Johnson')","(40, 0, 'Hernan Crespo')","(42, 0, 'Frank Lampard')","(78, 0, 'Damien Duff')","(84, 0, 'Eidur Gudjohnsen')"
-22/11/2003,Southampton,Chelsea,0,1,"(47, 1, 'Mario Melchiot')"
-06/12/2003,Leeds United,Chelsea,1,1,"(18, 0, 'Jermaine Pennant')","(70, 1, 'Damien Duff')"
-13/12/2003,Chelsea,Bolton Wanderers,1,2,"(22, 0, 'Hernan Crespo')","(39, 1, ""Bruno N'Gotty"")","(90, 1, 'John Terry')"
-20/12/2003,Fulham,Chelsea,0,1,"(62, 1, 'Hernan Crespo')"
-26/12/2003,Charlton Athletic,Chelsea,4,2,"(1, 0, 'Hermann Hreidarsson')","(10, 1, 'John Terry')","(35, 0, 'Matt Holland')","(48, 0, 'Jonatan Johansson')","(53, 0, 'Jason Euell')","(73, 1, 'Eidur Gudjohnsen')"
-07/01/2004,Chelsea,Liverpool,0,1,"(33, 1, 'Bruno Cheyrou')"
-11/01/2004,Leicester City,Chelsea,0,4,"(12, 1, 'Jimmy Floyd Hasselbaink')","(44, 1, 'Nikos Dabizas')","(88, 1, 'Adrian Mutu')","(90, 1, 'Celestine Babayaro')"
-18/01/2004,Chelsea,Birmingham City,0,0
-01/02/2004,Blackburn Rovers,Chelsea,2,3,"(3, 0, 'Garry Flitcroft')","(25, 1, 'Frank Lampard')","(35, 1, 'Frank Lampard')","(87, 0, 'Paul Gallagher')","(88, 1, 'Glen Johnson')"
-08/02/2004,Chelsea,Charlton Athletic,1,0,"(28, 0, 'Jimmy Floyd Hasselbaink')"
-13/03/2004,Bolton Wanderers,Chelsea,0,2,"(71, 1, 'John Terry')","(74, 1, 'Damien Duff')"
-20/03/2004,Chelsea,Fulham,2,1,"(7, 0, 'Eidur Gudjohnsen')","(19, 1, 'Mark Pembridge')","(30, 0, 'Damien Duff')"
-27/03/2004,Chelsea,Wolverhampton Wanderers,5,2,"(4, 0, 'Mario Melchiot')","(23, 1, 'Henri Camara')","(57, 1, 'Jody Craddock')","(70, 0, 'Frank Lampard')","(77, 0, 'Jimmy Floyd Hasselbaink')","(87, 0, 'Jimmy Floyd Hasselbaink')","(90, 0, 'Jimmy Floyd Hasselbaink')"
-03/04/2004,Tottenham Hotspur,Chelsea,0,1,"(38, 1, 'Jimmy Floyd Hasselbaink')"
-10/04/2004,Chelsea,Middlesbrough,0,0
-12/04/2004,Aston Villa,Chelsea,3,2,"(11, 1, 'Hernan Crespo')","(39, 0, 'Darius Vassell')","(49, 0, 'Thomas Hitzlsperger')","(52, 0, 'Lee Hendrie')","(90, 1, 'Hernan Crespo')"
-17/04/2004,Chelsea,Everton,0,0
-25/04/2004,Newcastle United,Chelsea,2,1,"(5, 1, 'Joe Cole')","(44, 0, 'Shola Ameobi')","(48, 0, 'Alan Shearer')"
-01/05/2004,Chelsea,Southampton,4,0,"(59, 0, 'Martin Cranie')","(75, 0, 'Frank Lampard')","(83, 0, 'Frank Lampard')","(85, 0, 'Glen Johnson')"
-15/05/2004,Chelsea,Leeds United,1,0,"(20, 0, 'Jesper Gronkjaer')"
-16/08/2003,Birmingham City,Tottenham Hotspur,1,0,"(36, 0, 'David Dunn')"
-23/08/2003,Southampton,Birmingham City,0,0
-30/08/2003,Newcastle United,Birmingham City,0,1,"(61, 1, 'David Dunn')"
-14/09/2003,Birmingham City,Fulham,2,2,"(1, 1, 'Louis Saha')","(45, 0, 'Mikael Forssell')","(78, 1, 'Luis Boa Morte')","(82, 0, 'Mikael Forssell')"
-20/09/2003,Leeds United,Birmingham City,0,2,"(79, 1, 'Robbie Savage')","(84, 1, 'Mikael Forssell')"
-19/10/2003,Birmingham City,Aston Villa,0,0
-25/10/2003,Bolton Wanderers,Birmingham City,0,1,"(31, 1, 'Mikael Forssell')"
-03/11/2003,Birmingham City,Charlton Athletic,1,2,"(11, 1, 'Matt Holland')","(59, 1, 'Matt Holland')","(64, 0, 'Christophe Dugarry')"
-08/11/2003,Wolverhampton Wanderers,Birmingham City,1,1,"(49, 1, 'Mikael Forssell')","(66, 0, 'Steffen Iversen')"
-30/11/2003,Liverpool,Birmingham City,3,1,"(33, 1, 'Mikael Forssell')","(35, 0, 'Steven Gerrard')","(69, 0, 'Harry Kewell')","(78, 0, 'Emile Heskey')"
-06/12/2003,Birmingham City,Blackburn Rovers,0,4,"(66, 1, 'Barry Ferguson')","(68, 1, 'Lucas Neill')","(82, 1, ' Tugay Kerimoglu')","(88, 1, 'Paul Gallagher')"
-13/12/2003,Leicester City,Birmingham City,0,2,"(42, 1, 'Clinton Morrison')","(66, 1, 'Mikael Forssell')"
-28/12/2003,Everton,Birmingham City,1,0,"(69, 0, 'Wayne Rooney')"
-07/01/2004,Tottenham Hotspur,Birmingham City,4,1,"(10, 0, 'Stephane Dalmat')","(24, 0, 'Stephane Dalmat')","(39, 0, 'Simon Davies')","(68, 1, 'Robbie Savage')","(79, 0, 'Robbie Keane')"
-10/01/2004,Birmingham City,Southampton,2,1,"(6, 1, 'Brett Ormerod')","(16, 0, 'Stephen Clemence')","(67, 0, 'Jeff Kenna')"
-31/01/2004,Birmingham City,Newcastle United,1,1,"(37, 1, 'Gary Speed')","(90, 0, 'Stern John')"
-11/02/2004,Birmingham City,Everton,3,0,"(8, 0, 'Damien Johnson')","(39, 0, 'Stan Lazaridis')","(49, 0, 'Mikael Forssell')"
-22/02/2004,Aston Villa,Birmingham City,2,2,"(21, 0, 'Darius Vassell')","(47, 0, 'Thomas Hitzlsperger')","(60, 1, 'Mikael Forssell')","(90, 1, 'Stern John')"
-03/03/2004,Birmingham City,Middlesbrough,3,1,"(23, 0, 'Martin Taylor')","(57, 0, 'Robbie Savage')","(75, 1, 'Szilard Nemeth')","(79, 0, 'Mikael Forssell')"
-06/03/2004,Birmingham City,Bolton Wanderers,2,0,"(24, 0, 'Mikael Forssell')","(69, 0, 'Bryan Hughes')"
-13/03/2004,Birmingham City,Leicester City,0,1,"(53, 1, 'Les Ferdinand')"
-20/03/2004,Middlesbrough,Birmingham City,5,3,"(5, 0, 'Gaizka Mendieta')","(21, 0, 'Massimo Maccarone')","(23, 1, 'Mikael Forssell')","(30, 0, 'Gareth Southgate')","(45, 0, 'Massimo Maccarone')","(45, 1, 'Clinton Morrison')","(59, 1, 'Mikael Forssell')","(90, 0, 'Szilard Nemeth')"
-27/03/2004,Birmingham City,Leeds United,4,1,"(3, 1, 'Mark Viduka')","(12, 0, 'Bryan Hughes')","(67, 0, 'Bryan Hughes')","(69, 0, 'Mikael Forssell')","(82, 0, 'Mikael Forssell')"
-03/04/2004,Fulham,Birmingham City,0,0
-17/04/2004,Charlton Athletic,Birmingham City,1,1,"(84, 1, 'Clinton Morrison')","(86, 0, 'Matt Holland')"
-25/04/2004,Birmingham City,Wolverhampton Wanderers,2,2,"(6, 1, 'Colin Cameron')","(34, 0, 'Mikael Forssell')","(41, 0, 'Clinton Morrison')","(75, 1, 'Carl Cort')"
-08/05/2004,Birmingham City,Liverpool,0,3,"(29, 1, 'Michael Owen')","(51, 1, 'Emile Heskey')","(86, 1, 'Steven Gerrard')"
-15/05/2004,Blackburn Rovers,Birmingham City,1,1,"(24, 0, 'Andrew Cole')","(83, 1, 'Stern John')"
-16/08/2003,Fulham,Middlesbrough,3,2,"(10, 1, 'Carlos Marinelli')","(18, 0, 'Steve Marlet')","(56, 0, 'Junichi Inamoto')","(70, 0, 'Louis Saha')","(81, 1, 'Szilard Nemeth')"
-23/08/2003,Everton,Fulham,3,1,"(7, 0, 'Gary Naysmith')","(20, 0, 'David Unsworth')","(35, 0, 'Steve Watson')","(69, 1, 'Barry Hayles')"
-30/08/2003,Tottenham Hotspur,Fulham,0,3,"(23, 1, 'Barry Hayles')","(67, 1, 'Barry Hayles')","(71, 1, 'Luis Boa Morte')"
-28/09/2003,Blackburn Rovers,Fulham,0,2,"(5, 1, 'Luis Boa Morte')","(56, 1, 'Louis Saha')"
-04/10/2003,Fulham,Leicester City,2,0,"(36, 0, 'Luis Boa Morte')","(73, 0, 'Luis Boa Morte')"
-18/10/2003,Fulham,Wolverhampton Wanderers,0,0
-21/10/2003,Fulham,Newcastle United,2,3,"(6, 0, 'Lee Clark')","(8, 0, 'Louis Saha')","(16, 1, 'Laurent Robert')","(51, 1, 'Alan Shearer')","(56, 1, 'Alan Shearer')"
-02/11/2003,Fulham,Liverpool,1,2,"(17, 1, 'Emile Heskey')","(40, 0, 'Louis Saha')","(89, 1, 'Danny Murphy')"
-08/11/2003,Charlton Athletic,Fulham,3,1,"(10, 0, 'Graham Stuart')","(69, 0, 'Jonatan Johansson')","(76, 0, 'Jonatan Johansson')","(89, 1, 'Sean Davis')"
-06/12/2003,Fulham,Bolton Wanderers,2,1,"(53, 1, 'Kevin Davies')","(75, 0, 'Sean Davis')","(76, 0, 'Facundo Sava')"
-14/12/2003,Leeds United,Fulham,3,2,"(41, 0, 'Michael Duberry')","(46, 0, 'Mark Viduka')","(47, 1, 'Louis Saha')","(86, 1, 'Louis Saha')","(88, 0, 'Dominic Matteo')"
-26/12/2003,Fulham,Southampton,2,0,"(19, 0, 'Louis Saha')","(63, 0, 'Louis Saha')"
-28/12/2003,Aston Villa,Fulham,3,0,"(33, 0, 'Juan Pablo Angel')","(67, 0, 'Darius Vassell')","(82, 0, 'Darius Vassell')"
-07/01/2004,Middlesbrough,Fulham,2,1,"(15, 0, 'Joseph-Desire Job')","(67, 0, 'Szilard Nemeth')","(90, 1, 'Barry Hayles')"
-10/01/2004,Fulham,Everton,2,1,"(45, 0, 'Louis Saha')","(46, 0, 'Steed Malbranque')","(81, 1, 'Kevin Kilbane')"
-19/01/2004,Newcastle United,Fulham,3,1,"(4, 0, ""Andy O'Brien"")","(41, 0, 'Gary Speed')","(54, 0, 'Laurent Robert')","(74, 1, 'Sean Davis')"
-31/01/2004,Fulham,Tottenham Hotspur,2,1,"(18, 1, 'Robbie Keane')","(45, 0, 'Steed Malbranque')","(67, 0, 'Brian McBride')"
-07/02/2004,Southampton,Fulham,0,0
-11/02/2004,Fulham,Aston Villa,1,2,"(1, 0, 'Luis Boa Morte')","(13, 1, 'Juan Pablo Angel')","(32, 1, 'Darius Vassell')"
-21/02/2004,Wolverhampton Wanderers,Fulham,2,1,"(20, 0, 'Paul Ince')","(51, 0, 'Carl Cort')","(84, 1, 'Steed Malbranque')"
-13/03/2004,Fulham,Leeds United,2,0,"(71, 0, 'Sean Davis')","(83, 0, 'Luis Boa Morte')"
-10/04/2004,Leicester City,Fulham,0,2,"(66, 1, 'Collins John')","(89, 1, 'Collins John')"
-12/04/2004,Fulham,Blackburn Rovers,3,4,"(23, 1, 'Andrew Cole')","(26, 0, 'Collins John')","(45, 0, 'Collins John')","(49, 1, 'Jonathan Douglas')","(51, 1, 'Lorenzo Amoruso')","(60, 0, 'Luis Boa Morte')","(75, 1, 'Jon Stead')"
-17/04/2004,Liverpool,Fulham,0,0
-24/04/2004,Fulham,Charlton Athletic,2,0,"(18, 0, 'Steed Malbranque')","(64, 0, 'Sean Davis')"
-15/05/2004,Bolton Wanderers,Fulham,0,2,"(45, 1, 'Brian McBride')","(78, 1, 'Brian McBride')"
-16/08/2003,Leicester City,Southampton,2,2,"(5, 0, 'Paul Dickov')","(10, 0, 'Les Ferdinand')","(76, 1, 'Kevin Phillips')","(80, 1, 'James Beattie')"
-26/08/2003,Leeds United,Southampton,0,0
-13/09/2003,Southampton,Wolverhampton Wanderers,2,0,"(37, 0, 'James Beattie')","(52, 0, 'James Beattie')"
-20/09/2003,Tottenham Hotspur,Southampton,1,3,"(3, 1, 'James Beattie')","(43, 1, 'James Beattie')","(60, 1, 'Anthony Gardner')","(62, 0, 'Frederic Kanoute')"
-27/09/2003,Southampton,Middlesbrough,0,1,"(13, 1, 'Malcolm Christie')"
-04/10/2003,Newcastle United,Southampton,1,0,"(44, 0, 'Alan Shearer')"
-19/10/2003,Everton,Southampton,0,0
-25/10/2003,Southampton,Blackburn Rovers,2,0,"(59, 0, 'James Beattie')","(87, 0, 'Leandre Griffit')"
-08/11/2003,Bolton Wanderers,Southampton,0,0
-29/11/2003,Aston Villa,Southampton,1,0,"(45, 0, 'Dion Dublin')"
-07/12/2003,Southampton,Charlton Athletic,3,2,"(6, 0, 'Michael Svensson')","(45, 0, 'Brett Ormerod')","(46, 1, 'Scott Parker')","(65, 1, 'Scott Parker')","(86, 0, 'Brett Ormerod')"
-13/12/2003,Liverpool,Southampton,1,2,"(2, 1, 'Brett Ormerod')","(64, 1, 'Michael Svensson')","(75, 0, 'Emile Heskey')"
-07/01/2004,Southampton,Leicester City,0,0
-17/01/2004,Southampton,Leeds United,2,1,"(36, 0, 'Brett Ormerod')","(43, 0, 'Kevin Phillips')","(75, 1, 'Matthew Kilgallon')"
-21/02/2004,Southampton,Everton,3,3,"(7, 1, 'Wayne Rooney')","(32, 1, 'Duncan Ferguson')","(58, 0, 'Kevin Phillips')","(78, 1, 'Wayne Rooney')","(82, 0, 'James Beattie')","(90, 0, 'Fabrice Fernandes')"
-28/02/2004,Blackburn Rovers,Southampton,1,1,"(5, 1, 'Kevin Phillips')","(52, 0, 'Andrew Cole')"
-14/03/2004,Southampton,Liverpool,2,0,"(51, 0, 'James Beattie')","(85, 0, 'Kevin Phillips')"
-27/03/2004,Southampton,Tottenham Hotspur,1,0,"(64, 0, 'Rory Delap')"
-03/04/2004,Wolverhampton Wanderers,Southampton,1,4,"(25, 1, 'James Beattie')","(58, 1, 'Claus Lundekvam')","(72, 0, 'Henri Camara')","(89, 1, 'Kevin Phillips')","(90, 1, 'Kevin Phillips')"
-12/04/2004,Middlesbrough,Southampton,3,1,"(23, 0, ' Juninho')","(32, 0, 'Szilard Nemeth')","(49, 0, 'Massimo Maccarone')","(70, 1, 'James Beattie')"
-24/04/2004,Southampton,Bolton Wanderers,1,2,"(21, 0, 'Marian Pahars')","(77, 1, 'Kevin Nolan')","(78, 1, 'Kevin Davies')"
-08/05/2004,Southampton,Aston Villa,1,1,"(39, 1, 'Juan Pablo Angel')","(45, 0, 'Kevin Phillips')"
-12/05/2004,Southampton,Newcastle United,3,3,"(7, 1, 'Shola Ameobi')","(19, 0, 'James Beattie')","(35, 1, 'Lee Bowyer')","(39, 0, 'Titus Bramble')","(88, 0, 'Leandre Griffit')","(90, 1, 'Darren Ambrose')"
-15/05/2004,Charlton Athletic,Southampton,2,1,"(36, 0, 'Jason Euell')","(53, 0, 'Carlton Cole')","(64, 1, 'David Prutton')"
-16/08/2003,Blackburn Rovers,Wolverhampton Wanderers,5,1,"(17, 0, 'Lorenzo Amoruso')","(29, 0, 'David Thompson')","(52, 0, 'Brett Emerton')","(71, 1, 'Steffen Iversen')","(79, 0, 'Andrew Cole')","(87, 0, 'Andrew Cole')"
-23/08/2003,Bolton Wanderers,Blackburn Rovers,2,2,"(3, 0, 'Youri Djorkaeff')","(25, 0, 'Kevin Davies')","(50, 1, 'Matt Jansen')","(90, 1, 'Dwight Yorke')"
-13/09/2003,Blackburn Rovers,Liverpool,1,3,"(8, 0, 'Matt Jansen')","(12, 1, 'Michael Owen')","(68, 1, 'Michael Owen')","(90, 1, 'Harry Kewell')"
-04/10/2003,Leeds United,Blackburn Rovers,2,1,"(11, 0, 'Seth Johnson')","(27, 0, 'Seth Johnson')","(86, 1, 'Dino Baggio')"
-20/10/2003,Blackburn Rovers,Charlton Athletic,0,1,"(33, 1, 'Hermann Hreidarsson')"
-02/11/2003,Leicester City,Blackburn Rovers,2,0,"(75, 0, 'Marcus Bent')","(82, 0, 'Steve Howey')"
-10/11/2003,Blackburn Rovers,Everton,2,1,"(6, 0, 'Markus Babbel')","(13, 0, 'Dwight Yorke')","(49, 1, 'Tomasz Radzinski')"
-29/11/2003,Blackburn Rovers,Tottenham Hotspur,1,0,"(78, 0, 'Stephen Carr')"
-20/12/2003,Blackburn Rovers,Aston Villa,0,2,"(62, 1, 'Stefan Moore')","(75, 1, 'Juan Pablo Angel')"
-26/12/2003,Blackburn Rovers,Middlesbrough,2,2,"(3, 0, 'Markus Babbel')","(31, 1, ' Juninho')","(51, 1, ' Juninho')","(90, 0, 'Markus Babbel')"
-28/12/2003,Newcastle United,Blackburn Rovers,0,1,"(72, 1, 'Paul Gallagher')"
-07/01/2004,Wolverhampton Wanderers,Blackburn Rovers,2,2,"(14, 1, 'Andrew Cole')","(63, 0, 'Paul Butler')","(72, 0, 'Alex Rae')","(78, 1, 'Dwight Yorke')"
-10/01/2004,Blackburn Rovers,Bolton Wanderers,3,4,"(1, 1, 'Kevin Nolan')","(3, 0, 'Vratislav Gresko')","(24, 0, 'Dwight Yorke')","(34, 0, 'Andrew Cole')","(43, 1, 'Youri Djorkaeff')","(73, 1, 'Stelios Giannakopoulos')","(78, 1, 'Kevin Nolan')"
-07/02/2004,Middlesbrough,Blackburn Rovers,0,1,"(39, 1, 'Jon Stead')"
-11/02/2004,Blackburn Rovers,Newcastle United,1,1,"(52, 1, 'Craig Bellamy')","(85, 0, 'Jon Stead')"
-21/02/2004,Charlton Athletic,Blackburn Rovers,3,2,"(10, 0, 'Carlton Cole')","(36, 0, 'Jason Euell')","(74, 1, 'Andrew Cole')","(90, 0, 'Claus Jensen')","(90, 1, 'Brad Friedel')"
-20/03/2004,Aston Villa,Blackburn Rovers,0,2,"(26, 1, 'Garry Flitcroft')","(36, 1, 'Jon Stead')"
-04/04/2004,Liverpool,Blackburn Rovers,4,0,"(7, 0, 'Michael Owen')","(22, 0, 'Andy Todd')","(24, 0, 'Michael Owen')","(79, 0, 'Emile Heskey')"
-10/04/2004,Blackburn Rovers,Leeds United,1,2,"(2, 1, 'Steven Caldwell')","(89, 1, 'Mark Viduka')","(90, 0, 'Craig Short')"
-17/04/2004,Blackburn Rovers,Leicester City,1,0,"(42, 0, 'Nikos Dabizas')"
-24/04/2004,Everton,Blackburn Rovers,0,1,"(81, 1, 'Jon Stead')"
-08/05/2004,Tottenham Hotspur,Blackburn Rovers,1,0,"(18, 0, 'Jermain Defoe')"
-24/08/2003,Aston Villa,Liverpool,0,0
-27/08/2003,Liverpool,Tottenham Hotspur,0,0
-30/08/2003,Everton,Liverpool,0,3,"(39, 1, 'Michael Owen')","(52, 1, 'Michael Owen')","(80, 1, 'Harry Kewell')"
-20/09/2003,Liverpool,Leicester City,2,1,"(20, 0, 'Michael Owen')","(75, 0, 'Emile Heskey')","(90, 1, 'Marcus Bent')"
-28/09/2003,Charlton Athletic,Liverpool,3,2,"(15, 1, 'Vladimir Smicer')","(31, 0, 'Kevin Lisbie')","(43, 0, 'Kevin Lisbie')","(52, 1, 'Michael Owen')","(83, 0, 'Kevin Lisbie')"
-25/10/2003,Liverpool,Leeds United,3,1,"(35, 0, 'Michael Owen')","(42, 1, 'Alan Smith')","(57, 0, 'Danny Murphy')","(84, 0, 'Florent Sinama-Pongolle')"
-22/11/2003,Middlesbrough,Liverpool,0,0
-06/12/2003,Newcastle United,Liverpool,1,1,"(6, 1, 'Danny Murphy')","(63, 0, 'Alan Shearer')"
-26/12/2003,Liverpool,Bolton Wanderers,3,1,"(30, 0, 'Sami Hyypia')","(47, 0, 'Florent Sinama-Pongolle')","(54, 0, 'Vladimir Smicer')","(85, 1, 'Henrik Pedersen')"
-10/01/2004,Liverpool,Aston Villa,1,0,"(36, 0, 'Mark Delaney')"
-17/01/2004,Tottenham Hotspur,Liverpool,2,1,"(25, 0, 'Robbie Keane')","(54, 0, ' Helder Postiga')","(75, 1, 'Harry Kewell')"
-21/01/2004,Wolverhampton Wanderers,Liverpool,1,1,"(42, 1, 'Bruno Cheyrou')","(90, 0, 'Kenny Miller')"
-31/01/2004,Liverpool,Everton,0,0
-07/02/2004,Bolton Wanderers,Liverpool,2,2,"(11, 0, 'Nicky Hunt')","(51, 1, 'Sami Hyypia')","(58, 0, 'Youri Djorkaeff')","(69, 1, 'Steven Gerrard')"
-29/02/2004,Leeds United,Liverpool,2,2,"(21, 1, 'Harry Kewell')","(29, 0, 'Eirik Bakke')","(34, 0, 'Mark Viduka')","(42, 1, 'Milan Baros')"
-20/03/2004,Liverpool,Wolverhampton Wanderers,1,0,"(90, 0, 'Sami Hyypia')"
-28/03/2004,Leicester City,Liverpool,0,0
-12/04/2004,Liverpool,Charlton Athletic,0,1,"(63, 1, 'Shaun Bartlett')"
-02/05/2004,Liverpool,Middlesbrough,2,0,"(49, 0, 'Danny Murphy')","(53, 0, 'Emile Heskey')"
-15/05/2004,Liverpool,Newcastle United,1,1,"(25, 1, 'Shola Ameobi')","(67, 0, 'Michael Owen')"
-23/08/2003,Wolverhampton Wanderers,Charlton Athletic,0,4,"(5, 1, 'Jason Euell')","(15, 1, 'Claus Jensen')","(25, 1, 'Shaun Bartlett')","(33, 1, 'Shaun Bartlett')"
-26/08/2003,Charlton Athletic,Everton,2,2,"(25, 0, 'Jason Euell')","(26, 1, 'Steve Watson')","(49, 0, 'Jason Euell')","(72, 1, 'Wayne Rooney')"
-30/08/2003,Bolton Wanderers,Charlton Athletic,0,0
-20/09/2003,Aston Villa,Charlton Athletic,2,1,"(37, 0, ' Alpay Ozalan')","(55, 0, 'JLloyd Samuel')","(86, 1, 'Kevin Lisbie')"
-22/11/2003,Leicester City,Charlton Athletic,1,1,"(39, 0, 'Les Ferdinand')","(84, 1, 'Paolo Di Canio')"
-29/11/2003,Charlton Athletic,Leeds United,0,1,"(9, 1, 'James Milner')"
-13/12/2003,Middlesbrough,Charlton Athletic,0,0
-20/12/2003,Charlton Athletic,Newcastle United,0,0
-28/12/2003,Tottenham Hotspur,Charlton Athletic,0,1,"(69, 1, 'Carlton Cole')"
-10/01/2004,Charlton Athletic,Wolverhampton Wanderers,2,0,"(38, 0, 'Jason Euell')","(79, 0, 'Jason Euell')"
-17/01/2004,Everton,Charlton Athletic,0,1,"(41, 1, 'Graham Stuart')"
-31/01/2004,Charlton Athletic,Bolton Wanderers,1,2,"(1, 1, 'Henrik Pedersen')","(12, 0, 'Jonatan Johansson')","(78, 1, 'Kevin Nolan')"
-11/02/2004,Charlton Athletic,Tottenham Hotspur,2,4,"(10, 1, 'Simon Davies')","(43, 1, 'Jermain Defoe')","(46, 1, 'Ledley King')","(51, 0, 'Graham Stuart')","(81, 0, 'Chris Perry')","(85, 1, 'Johnnie Jackson')"
-13/03/2004,Charlton Athletic,Middlesbrough,1,0,"(25, 0, 'Matt Holland')"
-20/03/2004,Newcastle United,Charlton Athletic,3,1,"(2, 0, 'Alan Shearer')","(35, 0, 'Jermaine Jenas')","(54, 1, 'Claus Jensen')","(77, 0, 'Alan Shearer')"
-27/03/2004,Charlton Athletic,Aston Villa,1,2,"(8, 0, 'Carlton Cole')","(24, 1, 'Darius Vassell')","(54, 1, 'JLloyd Samuel')"
-01/05/2004,Charlton Athletic,Leicester City,2,2,"(5, 1, 'Marcus Bent')","(53, 0, 'Jonathan Fortune')","(76, 0, 'Paolo Di Canio')","(88, 1, 'Les Ferdinand')"
-08/05/2004,Leeds United,Charlton Athletic,3,3,"(11, 1, 'Matt Holland')","(29, 0, 'Matthew Kilgallon')","(41, 0, 'Jermaine Pennant')","(69, 0, 'Alan Smith')","(76, 1, 'Jason Euell')","(79, 1, 'Jason Euell')"
-17/08/2003,Leeds United,Newcastle United,2,2,"(20, 1, 'Alan Shearer')","(24, 0, 'Mark Viduka')","(57, 0, 'Alan Smith')","(88, 1, 'Alan Shearer')"
-23/08/2003,Tottenham Hotspur,Leeds United,2,1,"(5, 1, 'Alan Smith')","(41, 0, 'Mauricio Taricco')","(71, 0, 'Frederic Kanoute')"
-30/08/2003,Middlesbrough,Leeds United,2,3,"(16, 1, 'Lamine Sakho')","(60, 0, 'Szilard Nemeth')","(63, 0, ' Juninho')","(77, 1, 'Zoumana Camara')","(89, 1, 'Mark Viduka')"
-15/09/2003,Leicester City,Leeds United,4,0,"(20, 0, 'Lilian Nalis')","(23, 0, 'Paul Dickov')","(83, 0, 'Paul Dickov')","(90, 0, 'James Scowcroft')"
-28/09/2003,Everton,Leeds United,4,0,"(27, 0, 'Steve Watson')","(37, 0, 'Steve Watson')","(39, 0, 'Duncan Ferguson')","(52, 0, 'Steve Watson')"
-22/11/2003,Leeds United,Bolton Wanderers,0,2,"(16, 1, 'Kevin Davies')","(17, 1, 'Stelios Giannakopoulos')"
-26/12/2003,Leeds United,Aston Villa,0,0
-28/12/2003,Wolverhampton Wanderers,Leeds United,3,1,"(3, 1, 'Michael Duberry')","(18, 0, 'Alan Smith')","(48, 0, 'Steffen Iversen')","(90, 0, 'Steffen Iversen')"
-07/01/2004,Newcastle United,Leeds United,1,0,"(4, 0, 'Alan Shearer')"
-10/01/2004,Leeds United,Tottenham Hotspur,0,1,"(56, 1, 'Robbie Keane')"
-31/01/2004,Leeds United,Middlesbrough,0,3,"(53, 1, 'Bolo Zenden')","(77, 1, 'Joseph-Desire Job')","(89, 1, 'Michael Ricketts')"
-07/02/2004,Aston Villa,Leeds United,2,0,"(45, 0, 'Juan Pablo Angel')","(59, 0, 'Ronny Johnsen')"
-10/02/2004,Leeds United,Wolverhampton Wanderers,4,1,"(14, 0, 'Alan Smith')","(21, 1, 'Ioan Ganea')","(41, 0, 'Dominic Matteo')","(62, 0, 'James Milner')","(90, 0, 'Mark Viduka')"
-05/04/2004,Leeds United,Leicester City,3,2,"(11, 0, 'Michael Duberry')","(13, 0, 'Mark Viduka')","(77, 1, 'Paul Dickov')","(79, 1, 'Muzzy Izzet')","(86, 0, 'Alan Smith')"
-13/04/2004,Leeds United,Everton,1,1,"(13, 1, 'Wayne Rooney')","(50, 0, 'James Milner')"
-02/05/2004,Bolton Wanderers,Leeds United,4,1,"(27, 1, 'Mark Viduka')","(47, 0, 'Youri Djorkaeff')","(53, 0, 'Youri Djorkaeff')","(55, 0, 'Ian Harte')","(78, 0, 'Kevin Nolan')"
-30/08/2003,Aston Villa,Leicester City,3,1,"(8, 0, 'Ben Thatcher')","(10, 0, 'Juan Pablo Angel')","(16, 0, 'Juan Pablo Angel')","(53, 1, 'Muzzy Izzet')"
-05/10/2003,Aston Villa,Bolton Wanderers,1,1,"(46, 1, 'Kevin Nolan')","(58, 0, 'Juan Pablo Angel')"
-25/10/2003,Aston Villa,Everton,0,0
-01/11/2003,Newcastle United,Aston Villa,1,1,"(11, 1, 'Dion Dublin')","(45, 0, 'Laurent Robert')"
-08/11/2003,Aston Villa,Middlesbrough,0,2,"(30, 1, 'Bolo Zenden')","(49, 1, 'Michael Ricketts')"
-23/11/2003,Tottenham Hotspur,Aston Villa,2,1,"(66, 1, 'Marcus Allback')","(78, 0, 'Rohan Ricketts')","(81, 0, 'Robbie Keane')"
-14/12/2003,Aston Villa,Wolverhampton Wanderers,3,2,"(21, 0, 'Juan Pablo Angel')","(24, 0, 'Juan Pablo Angel')","(36, 1, 'Alex Rae')","(48, 0, 'Gareth Barry')","(80, 1, 'Mark Kennedy')"
-31/01/2004,Leicester City,Aston Villa,0,5,"(50, 1, 'Darius Vassell')","(57, 1, 'Peter Crouch')","(60, 1, 'Darius Vassell')","(64, 1, 'Dion Dublin')","(68, 1, 'Peter Crouch')"
-28/02/2004,Everton,Aston Villa,2,0,"(78, 0, 'Tomasz Radzinski')","(84, 0, 'Thomas Gravesen')"
-14/03/2004,Wolverhampton Wanderers,Aston Villa,0,4,"(7, 1, 'Thomas Hitzlsperger')","(18, 1, 'Olof Mellberg')","(24, 1, 'Juan Pablo Angel')","(59, 1, 'Juan Pablo Angel')"
-10/04/2004,Bolton Wanderers,Aston Villa,2,2,"(18, 1, 'Peter Crouch')","(48, 0, 'Henrik Pedersen')","(53, 1, 'Lee Hendrie')","(86, 0, 'Kevin Davies')"
-18/04/2004,Aston Villa,Newcastle United,0,0
-24/04/2004,Middlesbrough,Aston Villa,1,2,"(41, 0, 'Joseph-Desire Job')","(45, 1, 'Gareth Barry')","(89, 1, 'Peter Crouch')"
-02/05/2004,Aston Villa,Tottenham Hotspur,1,0,"(5, 0, 'Juan Pablo Angel')"
-13/09/2003,Everton,Newcastle United,2,2,"(59, 1, 'Alan Shearer')","(67, 0, 'Tomasz Radzinski')","(82, 1, 'Alan Shearer')","(88, 0, 'Duncan Ferguson')"
-21/09/2003,Middlesbrough,Everton,1,0,"(6, 0, 'Joseph-Desire Job')"
-04/10/2003,Tottenham Hotspur,Everton,3,0,"(43, 0, 'Frederic Kanoute')","(46, 0, 'Gus Poyet')","(49, 0, 'Robbie Keane')"
-22/11/2003,Everton,Wolverhampton Wanderers,2,0,"(16, 0, 'Tomasz Radzinski')","(19, 0, 'Kevin Kilbane')"
-29/11/2003,Bolton Wanderers,Everton,2,0,"(26, 0, 'Per Frandsen')","(46, 0, 'Youri Djorkaeff')"
-20/12/2003,Everton,Leicester City,3,2,"(33, 0, 'Lee Carsley')","(45, 1, 'Les Ferdinand')","(58, 1, 'James Scowcroft')","(71, 0, 'Wayne Rooney')","(79, 0, 'Tomasz Radzinski')"
-20/03/2004,Leicester City,Everton,1,1,"(75, 1, 'Wayne Rooney')","(90, 0, 'Marcus Bent')"
-27/03/2004,Everton,Middlesbrough,1,1,"(78, 0, 'Tomasz Radzinski')","(83, 1, 'Joseph Yobo')"
-03/04/2004,Newcastle United,Everton,4,2,"(5, 0, 'Craig Bellamy')","(12, 1, 'Thomas Gravesen')","(21, 0, 'Kieron Dyer')","(52, 0, 'Alan Shearer')","(81, 1, 'Joseph Yobo')","(90, 0, 'Alan Shearer')"
-09/04/2004,Everton,Tottenham Hotspur,3,1,"(17, 0, 'David Unsworth')","(24, 0, 'Gary Naysmith')","(40, 0, 'Joseph Yobo')","(75, 1, 'Stephen Carr')"
-01/05/2004,Wolverhampton Wanderers,Everton,2,1,"(3, 1, 'Leon Osman')","(55, 0, 'Henri Camara')","(84, 0, 'Carl Cort')"
-08/05/2004,Everton,Bolton Wanderers,1,2,"(14, 1, 'Youri Djorkaeff')","(68, 0, 'Duncan Ferguson')","(87, 1, 'Youri Djorkaeff')"
-19/10/2003,Leicester City,Tottenham Hotspur,1,2,"(38, 0, 'Paul Dickov')","(79, 1, 'Mbulelo Mabizela')","(90, 1, 'Frederic Kanoute')"
-26/10/2003,Tottenham Hotspur,Middlesbrough,0,0
-01/11/2003,Tottenham Hotspur,Bolton Wanderers,0,1,"(73, 1, 'Kevin Nolan')"
-06/12/2003,Tottenham Hotspur,Wolverhampton Wanderers,5,2,"(29, 0, 'Robbie Keane')","(30, 1, 'Paul Ince')","(50, 0, 'Frederic Kanoute')","(75, 0, 'Robbie Keane')","(83, 0, 'Robbie Keane')","(84, 1, 'Alex Rae')","(90, 0, 'Stephane Dalmat')"
-13/12/2003,Newcastle United,Tottenham Hotspur,4,0,"(35, 0, 'Laurent Robert')","(55, 0, 'Laurent Robert')","(59, 0, 'Alan Shearer')","(66, 0, 'Alan Shearer')"
-22/02/2004,Tottenham Hotspur,Leicester City,4,4,"(6, 0, 'Michael Brown')","(9, 1, 'Gary Doherty')","(13, 0, 'Jermain Defoe')","(27, 0, 'Robbie Keane')","(51, 1, 'Les Ferdinand')","(72, 1, 'Ben Thatcher')","(77, 1, 'Marcus Bent')","(88, 0, 'Jermain Defoe')"
-09/03/2004,Middlesbrough,Tottenham Hotspur,1,0,"(73, 0, 'Szilard Nemeth')"
-14/03/2004,Tottenham Hotspur,Newcastle United,1,0,"(86, 0, ""Andy O'Brien"")"
-17/04/2004,Bolton Wanderers,Tottenham Hotspur,2,0,"(7, 0, 'Ivan Campo')","(65, 0, 'Henrik Pedersen')"
-15/05/2004,Wolverhampton Wanderers,Tottenham Hotspur,0,2,"(34, 1, 'Robbie Keane')","(57, 1, 'Jermain Defoe')"
-26/08/2003,Leicester City,Middlesbrough,0,0
-25/10/2003,Wolverhampton Wanderers,Leicester City,4,3,"(12, 1, 'Les Ferdinand')","(15, 1, 'Les Ferdinand')","(35, 1, 'Riccy Scimeca')","(52, 0, 'Colin Cameron')","(60, 0, 'Colin Cameron')","(68, 0, 'Alex Rae')","(86, 0, 'Henri Camara')"
-26/12/2003,Leicester City,Newcastle United,1,1,"(67, 0, 'Paul Dickov')","(90, 1, 'Darren Ambrose')"
-28/12/2003,Bolton Wanderers,Leicester City,2,2,"(18, 1, 'Marcus Bent')","(35, 0, 'Ben Thatcher')","(54, 0, 'Ivan Campo')","(90, 1, 'Les Ferdinand')"
-17/01/2004,Middlesbrough,Leicester City,3,3,"(8, 0, ' Juninho')","(49, 1, 'Paul Dickov')","(65, 1, 'Paul Dickov')","(76, 1, 'Marcus Bent')","(90, 0, 'Massimo Maccarone')","(90, 0, 'John Curtis')"
-07/02/2004,Newcastle United,Leicester City,3,1,"(30, 0, 'Shola Ameobi')","(37, 0, 'Gerry Taggart')","(59, 0, 'Jermaine Jenas')","(80, 1, 'Les Ferdinand')"
-10/02/2004,Leicester City,Bolton Wanderers,1,1,"(16, 0, 'Les Ferdinand')","(33, 1, 'Ian Walker')"
-28/02/2004,Leicester City,Wolverhampton Wanderers,0,0
-13/09/2003,Bolton Wanderers,Middlesbrough,2,0,"(23, 0, 'Kevin Davies')","(81, 0, ""Bruno N'Gotty"")"
-20/09/2003,Newcastle United,Bolton Wanderers,0,0
-27/09/2003,Bolton Wanderers,Wolverhampton Wanderers,1,1,"(30, 1, 'Alex Rae')","(85, 0, 'Kevin Davies')"
-28/03/2004,Bolton Wanderers,Newcastle United,1,0,"(4, 0, 'Henrik Pedersen')"
-03/04/2004,Middlesbrough,Bolton Wanderers,2,0,"(8, 0, 'Kevin Nolan')","(51, 0, 'Jonathan Greening')"
-12/04/2004,Wolverhampton Wanderers,Bolton Wanderers,1,2,"(43, 1, 'Henrik Pedersen')","(44, 0, 'Henri Camara')","(90, 1, 'Kevin Davies')"
-18/10/2003,Middlesbrough,Newcastle United,0,1,"(21, 1, 'Shola Ameobi')"
-29/11/2003,Wolverhampton Wanderers,Newcastle United,1,1,"(27, 0, 'Nathan Blake')","(31, 1, 'Alan Shearer')"
-21/02/2004,Newcastle United,Middlesbrough,2,1,"(33, 1, 'Bolo Zenden')","(63, 0, 'Craig Bellamy')","(83, 0, 'Alan Shearer')"
-09/05/2004,Newcastle United,Wolverhampton Wanderers,1,1,"(38, 0, 'Lee Bowyer')","(70, 1, 'Ioan Ganea')"
-01/11/2003,Middlesbrough,Wolverhampton Wanderers,2,0,"(73, 0, 'Gaizka Mendieta')","(83, 0, ' Juninho')"
-17/04/2004,Wolverhampton Wanderers,Middlesbrough,2,0,"(28, 0, 'Carl Cort')","(62, 0, 'Henri Camara')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+2003-08-16,Arsenal,Everton,2,1,"(35, 0, 'Thierry Henry')","(58, 0, 'Robert Pires')","(84, 1, 'Tomasz Radzinski')",,,,,,,,,
+2003-08-16,Birmingham City,Tottenham Hotspur,1,0,"(36, 0, 'David Dunn')",,,,,,,,,,,
+2003-08-16,Blackburn Rovers,Wolverhampton Wanderers,5,1,"(17, 0, 'Lorenzo Amoruso')","(29, 0, 'David Thompson')","(52, 0, 'Brett Emerton')","(71, 1, 'Steffen Iversen')","(79, 0, 'Andrew Cole')","(87, 0, 'Andrew Cole')",,,,,,
+2003-08-16,Fulham,Middlesbrough,3,2,"(10, 1, 'Carlos Marinelli')","(18, 0, 'Steve Marlet')","(56, 0, 'Junichi Inamoto')","(70, 0, 'Louis Saha')","(81, 1, 'Szilard Nemeth')",,,,,,,
+2003-08-16,Leicester City,Southampton,2,2,"(5, 0, 'Paul Dickov')","(10, 0, 'Les Ferdinand')","(76, 1, 'Kevin Phillips')","(80, 1, 'James Beattie')",,,,,,,,
+2003-08-16,Manchester United,Bolton Wanderers,4,0,"(35, 0, 'Ryan Giggs')","(74, 0, 'Ryan Giggs')","(77, 0, 'Paul Scholes')","(87, 0, 'Ruud Van Nistelrooy')",,,,,,,,
+2003-08-16,Portsmouth,Aston Villa,2,1,"(42, 0, 'Teddy Sheringham')","(63, 0, 'Patrik Berger')","(84, 1, 'Gareth Barry')",,,,,,,,,
+2003-08-17,Charlton Athletic,Manchester City,0,3,"(13, 1, 'Nicolas Anelka')","(23, 1, 'Antoine Sibierski')","(83, 1, 'SUN Ji Hai')",,,,,,,,,
+2003-08-17,Leeds United,Newcastle United,2,2,"(20, 1, 'Alan Shearer')","(24, 0, 'Mark Viduka')","(57, 0, 'Alan Smith')","(88, 1, 'Alan Shearer')",,,,,,,,
+2003-08-17,Liverpool,Chelsea,1,2,"(25, 1, 'Juan Sebastian Veron')","(79, 0, 'Michael Owen')","(87, 1, 'Jimmy Floyd Hasselbaink')",,,,,,,,,
+2003-08-23,Bolton Wanderers,Blackburn Rovers,2,2,"(3, 0, 'Youri Djorkaeff')","(25, 0, 'Kevin Davies')","(50, 1, 'Matt Jansen')","(90, 1, 'Dwight Yorke')",,,,,,,,
+2003-08-23,Chelsea,Leicester City,2,1,"(3, 0, 'Lilian Nalis')","(40, 1, 'James Scowcroft')","(45, 0, 'Adrian Mutu')",,,,,,,,,
+2003-08-23,Everton,Fulham,3,1,"(7, 0, 'Gary Naysmith')","(20, 0, 'David Unsworth')","(35, 0, 'Steve Watson')","(69, 1, 'Barry Hayles')",,,,,,,,
+2003-08-23,Manchester City,Portsmouth,1,1,"(24, 1, 'Ayegbeni Yakubu')","(90, 0, 'David Sommeil')",,,,,,,,,,
+2003-08-23,Newcastle United,Manchester United,1,2,"(26, 0, 'Alan Shearer')","(51, 1, 'Ruud Van Nistelrooy')","(59, 1, 'Paul Scholes')",,,,,,,,,
+2003-08-23,Southampton,Birmingham City,0,0,,,,,,,,,,,,
+2003-08-23,Tottenham Hotspur,Leeds United,2,1,"(5, 1, 'Alan Smith')","(41, 0, 'Mauricio Taricco')","(71, 0, 'Frederic Kanoute')",,,,,,,,,
+2003-08-23,Wolverhampton Wanderers,Charlton Athletic,0,4,"(5, 1, 'Jason Euell')","(15, 1, 'Claus Jensen')","(25, 1, 'Shaun Bartlett')","(33, 1, 'Shaun Bartlett')",,,,,,,,
+2003-08-24,Aston Villa,Liverpool,0,0,,,,,,,,,,,,
+2003-08-24,Middlesbrough,Arsenal,0,4,"(5, 1, 'Thierry Henry')","(13, 1, ' Gilberto Silva')","(22, 1, 'Sylvain Wiltord')","(60, 1, 'Sylvain Wiltord')",,,,,,,,
+2003-08-25,Blackburn Rovers,Manchester City,2,3,"(4, 1, 'Michael Tarnat')","(44, 0, 'Trevor Sinclair')","(59, 1, 'Joey Barton')","(61, 0, 'Lorenzo Amoruso')","(87, 1, 'Nicolas Anelka')",,,,,,,
+2003-08-26,Charlton Athletic,Everton,2,2,"(25, 0, 'Jason Euell')","(26, 1, 'Steve Watson')","(49, 0, 'Jason Euell')","(72, 1, 'Wayne Rooney')",,,,,,,,
+2003-08-26,Leeds United,Southampton,0,0,,,,,,,,,,,,
+2003-08-26,Leicester City,Middlesbrough,0,0,,,,,,,,,,,,
+2003-08-26,Portsmouth,Bolton Wanderers,4,0,"(40, 0, 'Steve Stone')","(57, 0, 'Teddy Sheringham')","(88, 0, 'Teddy Sheringham')","(90, 0, 'Teddy Sheringham')",,,,,,,,
+2003-08-27,Arsenal,Aston Villa,2,0,"(57, 0, 'Sol Campbell')","(90, 0, 'Thierry Henry')",,,,,,,,,,
+2003-08-27,Liverpool,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2003-08-27,Manchester United,Wolverhampton Wanderers,1,0,"(10, 0, ""John O'Shea"")",,,,,,,,,,,
+2003-08-30,Aston Villa,Leicester City,3,1,"(8, 0, 'Ben Thatcher')","(10, 0, 'Juan Pablo Angel')","(16, 0, 'Juan Pablo Angel')","(53, 1, 'Muzzy Izzet')",,,,,,,,
+2003-08-30,Bolton Wanderers,Charlton Athletic,0,0,,,,,,,,,,,,
+2003-08-30,Chelsea,Blackburn Rovers,2,2,"(1, 1, 'Andrew Cole')","(45, 0, 'Adrian Mutu')","(58, 1, 'Andrew Cole')","(63, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,
+2003-08-30,Everton,Liverpool,0,3,"(39, 1, 'Michael Owen')","(52, 1, 'Michael Owen')","(80, 1, 'Harry Kewell')",,,,,,,,,
+2003-08-30,Middlesbrough,Leeds United,2,3,"(16, 1, 'Lamine Sakho')","(60, 0, 'Szilard Nemeth')","(63, 0, ' Juninho')","(77, 1, 'Zoumana Camara')","(89, 1, 'Mark Viduka')",,,,,,,
+2003-08-30,Newcastle United,Birmingham City,0,1,"(61, 1, 'David Dunn')",,,,,,,,,,,
+2003-08-30,Tottenham Hotspur,Fulham,0,3,"(23, 1, 'Barry Hayles')","(67, 1, 'Barry Hayles')","(71, 1, 'Luis Boa Morte')",,,,,,,,,
+2003-08-30,Wolverhampton Wanderers,Portsmouth,0,0,,,,,,,,,,,,
+2003-08-31,Manchester City,Arsenal,1,2,"(10, 0, 'Bissan Lauren')","(48, 1, 'Sylvain Wiltord')","(72, 1, 'Freddie Ljungberg')",,,,,,,,,
+2003-08-31,Southampton,Manchester United,1,0,"(88, 0, 'James Beattie')",,,,,,,,,,,
+2003-09-13,Arsenal,Portsmouth,1,1,"(26, 1, 'Teddy Sheringham')","(40, 0, 'Thierry Henry')",,,,,,,,,,
+2003-09-13,Blackburn Rovers,Liverpool,1,3,"(8, 0, 'Matt Jansen')","(12, 1, 'Michael Owen')","(68, 1, 'Michael Owen')","(90, 1, 'Harry Kewell')",,,,,,,,
+2003-09-13,Bolton Wanderers,Middlesbrough,2,0,"(23, 0, 'Kevin Davies')","(81, 0, ""Bruno N'Gotty"")",,,,,,,,,,
+2003-09-13,Charlton Athletic,Manchester United,0,2,"(62, 1, 'Ruud Van Nistelrooy')","(81, 1, 'Ruud Van Nistelrooy')",,,,,,,,,,
+2003-09-13,Chelsea,Tottenham Hotspur,4,2,"(25, 1, 'Frederic Kanoute')","(35, 0, 'Frank Lampard')","(37, 0, 'Adrian Mutu')","(75, 0, 'Adrian Mutu')","(87, 1, 'Frederic Kanoute')","(90, 0, 'Jimmy Floyd Hasselbaink')",,,,,,
+2003-09-13,Everton,Newcastle United,2,2,"(59, 1, 'Alan Shearer')","(67, 0, 'Tomasz Radzinski')","(82, 1, 'Alan Shearer')","(88, 0, 'Duncan Ferguson')",,,,,,,,
+2003-09-13,Southampton,Wolverhampton Wanderers,2,0,"(37, 0, 'James Beattie')","(52, 0, 'James Beattie')",,,,,,,,,,
+2003-09-14,Birmingham City,Fulham,2,2,"(1, 1, 'Louis Saha')","(45, 0, 'Mikael Forssell')","(78, 1, 'Luis Boa Morte')","(82, 0, 'Mikael Forssell')",,,,,,,,
+2003-09-14,Manchester City,Aston Villa,4,1,"(31, 1, 'Juan Pablo Angel')","(48, 0, 'Nicolas Anelka')","(50, 0, 'Michael Tarnat')","(68, 0, 'Nicolas Anelka')","(83, 0, 'Nicolas Anelka')",,,,,,,
+2003-09-15,Leicester City,Leeds United,4,0,"(20, 0, 'Lilian Nalis')","(23, 0, 'Paul Dickov')","(83, 0, 'Paul Dickov')","(90, 0, 'James Scowcroft')",,,,,,,,
+2003-09-20,Aston Villa,Charlton Athletic,2,1,"(37, 0, ' Alpay Ozalan')","(55, 0, 'JLloyd Samuel')","(86, 1, 'Kevin Lisbie')",,,,,,,,,
+2003-09-20,Fulham,Manchester City,2,2,"(46, 1, 'Zat Knight')","(73, 0, 'Steed Malbranque')","(79, 0, 'Louis Saha')","(90, 1, 'Paulo Wanchope')",,,,,,,,
+2003-09-20,Leeds United,Birmingham City,0,2,"(79, 1, 'Robbie Savage')","(84, 1, 'Mikael Forssell')",,,,,,,,,,
+2003-09-20,Liverpool,Leicester City,2,1,"(20, 0, 'Michael Owen')","(75, 0, 'Emile Heskey')","(90, 1, 'Marcus Bent')",,,,,,,,,
+2003-09-20,Newcastle United,Bolton Wanderers,0,0,,,,,,,,,,,,
+2003-09-20,Portsmouth,Blackburn Rovers,1,2,"(35, 1, 'Lucas Neill')","(43, 1, 'Andrew Cole')","(57, 0, 'Arjan De Zeeuw')",,,,,,,,,
+2003-09-20,Tottenham Hotspur,Southampton,1,3,"(3, 1, 'James Beattie')","(43, 1, 'James Beattie')","(60, 1, 'Anthony Gardner')","(62, 0, 'Frederic Kanoute')",,,,,,,,
+2003-09-20,Wolverhampton Wanderers,Chelsea,0,5,"(17, 1, 'Frank Lampard')","(36, 1, 'Jimmy Floyd Hasselbaink')","(52, 1, 'Damien Duff')","(67, 1, 'Hernan Crespo')","(90, 1, 'Hernan Crespo')",,,,,,,
+2003-09-21,Manchester United,Arsenal,0,0,,,,,,,,,,,,
+2003-09-21,Middlesbrough,Everton,1,0,"(6, 0, 'Joseph-Desire Job')",,,,,,,,,,,
+2003-09-26,Arsenal,Newcastle United,3,2,"(18, 0, 'Thierry Henry')","(26, 1, 'Laurent Robert')","(67, 0, ' Gilberto Silva')","(71, 1, 'Olivier Bernard')","(80, 0, 'Thierry Henry')",,,,,,,
+2003-09-27,Birmingham City,Portsmouth,2,0,"(21, 0, 'Stephen Clemence')","(50, 0, 'Stan Lazaridis')",,,,,,,,,,
+2003-09-27,Bolton Wanderers,Wolverhampton Wanderers,1,1,"(30, 1, 'Alex Rae')","(85, 0, 'Kevin Davies')",,,,,,,,,,
+2003-09-27,Chelsea,Aston Villa,1,0,"(43, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,,,,
+2003-09-27,Leicester City,Manchester United,1,4,"(15, 1, 'Roy Keane')","(16, 1, 'Ruud Van Nistelrooy')","(45, 1, 'Ruud Van Nistelrooy')","(52, 1, 'Ruud Van Nistelrooy')","(73, 0, 'Frank Sinclair')",,,,,,,
+2003-09-27,Southampton,Middlesbrough,0,1,"(13, 1, 'Malcolm Christie')",,,,,,,,,,,
+2003-09-28,Blackburn Rovers,Fulham,0,2,"(5, 1, 'Luis Boa Morte')","(56, 1, 'Louis Saha')",,,,,,,,,,
+2003-09-28,Charlton Athletic,Liverpool,3,2,"(15, 1, 'Vladimir Smicer')","(31, 0, 'Kevin Lisbie')","(43, 0, 'Kevin Lisbie')","(52, 1, 'Michael Owen')","(83, 0, 'Kevin Lisbie')",,,,,,,
+2003-09-28,Everton,Leeds United,4,0,"(27, 0, 'Steve Watson')","(37, 0, 'Steve Watson')","(39, 0, 'Duncan Ferguson')","(52, 0, 'Steve Watson')",,,,,,,,
+2003-09-28,Manchester City,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2003-10-04,Fulham,Leicester City,2,0,"(36, 0, 'Luis Boa Morte')","(73, 0, 'Luis Boa Morte')",,,,,,,,,,
+2003-10-04,Leeds United,Blackburn Rovers,2,1,"(11, 0, 'Seth Johnson')","(27, 0, 'Seth Johnson')","(86, 1, 'Dino Baggio')",,,,,,,,,
+2003-10-04,Liverpool,Arsenal,1,2,"(14, 0, 'Harry Kewell')","(68, 1, 'Sami Hyypia')","(68, 1, 'Robert Pires')",,,,,,,,,
+2003-10-04,Manchester United,Birmingham City,3,0,"(36, 0, 'Ruud Van Nistelrooy')","(57, 0, 'Paul Scholes')","(82, 0, 'Ryan Giggs')",,,,,,,,,
+2003-10-04,Newcastle United,Southampton,1,0,"(44, 0, 'Alan Shearer')",,,,,,,,,,,
+2003-10-04,Portsmouth,Charlton Athletic,1,2,"(34, 0, 'Teddy Sheringham')","(77, 1, 'Jonathan Fortune')","(90, 1, 'Shaun Bartlett')",,,,,,,,,
+2003-10-04,Tottenham Hotspur,Everton,3,0,"(43, 0, 'Frederic Kanoute')","(46, 0, 'Gus Poyet')","(49, 0, 'Robbie Keane')",,,,,,,,,
+2003-10-04,Wolverhampton Wanderers,Manchester City,1,0,"(75, 0, 'Colin Cameron')",,,,,,,,,,,
+2003-10-05,Aston Villa,Bolton Wanderers,1,1,"(46, 1, 'Kevin Nolan')","(58, 0, 'Juan Pablo Angel')",,,,,,,,,,
+2003-10-05,Middlesbrough,Chelsea,1,2,"(17, 1, 'Eidur Gudjohnsen')","(46, 0, 'Szilard Nemeth')","(88, 1, 'Hernan Crespo')",,,,,,,,,
+2003-10-14,Birmingham City,Chelsea,0,0,,,,,,,,,,,,
+2003-10-18,Arsenal,Chelsea,2,1,"(5, 0, ' Edu')","(8, 1, 'Hernan Crespo')","(75, 0, 'Thierry Henry')",,,,,,,,,
+2003-10-18,Fulham,Wolverhampton Wanderers,0,0,,,,,,,,,,,,
+2003-10-18,Leeds United,Manchester United,0,1,"(81, 1, 'Roy Keane')",,,,,,,,,,,
+2003-10-18,Manchester City,Bolton Wanderers,6,2,"(25, 1, 'Kevin Nolan')","(27, 0, 'Shaun Wright-Phillips')","(48, 0, 'Sylvain Distin')","(56, 0, 'Shaun Wright-Phillips')","(58, 0, 'Nicolas Anelka')","(60, 1, 'Ivan Campo')","(72, 0, 'Nicolas Anelka')","(84, 0, 'Claudio Reyna')",,,,
+2003-10-18,Middlesbrough,Newcastle United,0,1,"(21, 1, 'Shola Ameobi')",,,,,,,,,,,
+2003-10-18,Portsmouth,Liverpool,1,0,"(4, 0, 'Patrik Berger')",,,,,,,,,,,
+2003-10-19,Birmingham City,Aston Villa,0,0,,,,,,,,,,,,
+2003-10-19,Everton,Southampton,0,0,,,,,,,,,,,,
+2003-10-19,Leicester City,Tottenham Hotspur,1,2,"(38, 0, 'Paul Dickov')","(79, 1, 'Mbulelo Mabizela')","(90, 1, 'Frederic Kanoute')",,,,,,,,,
+2003-10-20,Blackburn Rovers,Charlton Athletic,0,1,"(33, 1, 'Hermann Hreidarsson')",,,,,,,,,,,
+2003-10-21,Fulham,Newcastle United,2,3,"(6, 0, 'Lee Clark')","(8, 0, 'Louis Saha')","(16, 1, 'Laurent Robert')","(51, 1, 'Alan Shearer')","(56, 1, 'Alan Shearer')",,,,,,,
+2003-10-25,Aston Villa,Everton,0,0,,,,,,,,,,,,
+2003-10-25,Bolton Wanderers,Birmingham City,0,1,"(31, 1, 'Mikael Forssell')",,,,,,,,,,,
+2003-10-25,Chelsea,Manchester City,1,0,"(34, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,,,,
+2003-10-25,Liverpool,Leeds United,3,1,"(35, 0, 'Michael Owen')","(42, 1, 'Alan Smith')","(57, 0, 'Danny Murphy')","(84, 0, 'Florent Sinama-Pongolle')",,,,,,,,
+2003-10-25,Manchester United,Fulham,1,3,"(3, 1, 'Lee Clark')","(45, 0, 'Diego Forlan')","(66, 1, 'Steed Malbranque')","(79, 1, 'Junichi Inamoto')",,,,,,,,
+2003-10-25,Newcastle United,Portsmouth,3,0,"(17, 0, 'Gary Speed')","(28, 0, 'Alan Shearer')","(61, 0, 'Shola Ameobi')",,,,,,,,,
+2003-10-25,Southampton,Blackburn Rovers,2,0,"(59, 0, 'James Beattie')","(87, 0, 'Leandre Griffit')",,,,,,,,,,
+2003-10-25,Wolverhampton Wanderers,Leicester City,4,3,"(12, 1, 'Les Ferdinand')","(15, 1, 'Les Ferdinand')","(35, 1, 'Riccy Scimeca')","(52, 0, 'Colin Cameron')","(60, 0, 'Colin Cameron')","(68, 0, 'Alex Rae')","(86, 0, 'Henri Camara')",,,,,
+2003-10-26,Charlton Athletic,Arsenal,1,1,"(28, 0, 'Paolo Di Canio')","(40, 1, 'Thierry Henry')",,,,,,,,,,
+2003-10-26,Tottenham Hotspur,Middlesbrough,0,0,,,,,,,,,,,,
+2003-11-01,Everton,Chelsea,0,1,"(49, 1, 'Adrian Mutu')",,,,,,,,,,,
+2003-11-01,Leeds United,Arsenal,1,4,"(8, 1, 'Thierry Henry')","(17, 1, 'Robert Pires')","(33, 1, 'Thierry Henry')","(50, 1, ' Gilberto Silva')","(64, 0, 'Alan Smith')",,,,,,,
+2003-11-01,Manchester United,Portsmouth,3,0,"(37, 0, 'Diego Forlan')","(80, 0, 'Cristiano Ronaldo')","(82, 0, 'Roy Keane')",,,,,,,,,
+2003-11-01,Middlesbrough,Wolverhampton Wanderers,2,0,"(73, 0, 'Gaizka Mendieta')","(83, 0, ' Juninho')",,,,,,,,,,
+2003-11-01,Newcastle United,Aston Villa,1,1,"(11, 1, 'Dion Dublin')","(45, 0, 'Laurent Robert')",,,,,,,,,,
+2003-11-01,Southampton,Manchester City,0,2,"(4, 1, 'Robbie Fowler')","(85, 1, 'Paulo Wanchope')",,,,,,,,,,
+2003-11-01,Tottenham Hotspur,Bolton Wanderers,0,1,"(73, 1, 'Kevin Nolan')",,,,,,,,,,,
+2003-11-02,Fulham,Liverpool,1,2,"(17, 1, 'Emile Heskey')","(40, 0, 'Louis Saha')","(89, 1, 'Danny Murphy')",,,,,,,,,
+2003-11-02,Leicester City,Blackburn Rovers,2,0,"(75, 0, 'Marcus Bent')","(82, 0, 'Steve Howey')",,,,,,,,,,
+2003-11-03,Birmingham City,Charlton Athletic,1,2,"(11, 1, 'Matt Holland')","(59, 1, 'Matt Holland')","(64, 0, 'Christophe Dugarry')",,,,,,,,,
+2003-11-08,Arsenal,Tottenham Hotspur,2,1,"(5, 1, 'Darren Anderton')","(69, 0, 'Robert Pires')","(79, 0, 'Freddie Ljungberg')",,,,,,,,,
+2003-11-08,Aston Villa,Middlesbrough,0,2,"(30, 1, 'Bolo Zenden')","(49, 1, 'Michael Ricketts')",,,,,,,,,,
+2003-11-08,Bolton Wanderers,Southampton,0,0,,,,,,,,,,,,
+2003-11-08,Charlton Athletic,Fulham,3,1,"(10, 0, 'Graham Stuart')","(69, 0, 'Jonatan Johansson')","(76, 0, 'Jonatan Johansson')","(89, 1, 'Sean Davis')",,,,,,,,
+2003-11-08,Portsmouth,Leeds United,6,1,"(17, 0, 'Dejan Stefanovic')","(19, 1, 'Alan Smith')","(45, 0, ""Gary O'Neil"")","(63, 0, 'Hayden Foxe')","(71, 0, ""Gary O'Neil"")","(75, 0, 'Patrik Berger')","(86, 0, 'Ayegbeni Yakubu')",,,,,
+2003-11-08,Wolverhampton Wanderers,Birmingham City,1,1,"(49, 1, 'Mikael Forssell')","(66, 0, 'Steffen Iversen')",,,,,,,,,,
+2003-11-09,Chelsea,Newcastle United,5,0,"(25, 0, 'Glen Johnson')","(40, 0, 'Hernan Crespo')","(42, 0, 'Frank Lampard')","(78, 0, 'Damien Duff')","(84, 0, 'Eidur Gudjohnsen')",,,,,,,
+2003-11-09,Liverpool,Manchester United,1,2,"(59, 1, 'Ryan Giggs')","(70, 1, 'Ryan Giggs')","(76, 0, 'Harry Kewell')",,,,,,,,,
+2003-11-09,Manchester City,Leicester City,0,3,"(12, 1, 'Jordan Stewart')","(53, 1, 'Paul Dickov')","(58, 1, 'Marcus Bent')",,,,,,,,,
+2003-11-10,Blackburn Rovers,Everton,2,1,"(6, 0, 'Markus Babbel')","(13, 0, 'Dwight Yorke')","(49, 1, 'Tomasz Radzinski')",,,,,,,,,
+2003-11-22,Birmingham City,Arsenal,0,3,"(4, 1, 'Freddie Ljungberg')","(80, 1, 'Dennis Bergkamp')","(88, 1, 'Robert Pires')",,,,,,,,,
+2003-11-22,Everton,Wolverhampton Wanderers,2,0,"(16, 0, 'Tomasz Radzinski')","(19, 0, 'Kevin Kilbane')",,,,,,,,,,
+2003-11-22,Leeds United,Bolton Wanderers,0,2,"(16, 1, 'Kevin Davies')","(17, 1, 'Stelios Giannakopoulos')",,,,,,,,,,
+2003-11-22,Leicester City,Charlton Athletic,1,1,"(39, 0, 'Les Ferdinand')","(84, 1, 'Paolo Di Canio')",,,,,,,,,,
+2003-11-22,Manchester United,Blackburn Rovers,2,1,"(24, 0, 'Ruud Van Nistelrooy')","(38, 0, ' Kleberson')","(62, 1, 'Brett Emerton')",,,,,,,,,
+2003-11-22,Middlesbrough,Liverpool,0,0,,,,,,,,,,,,
+2003-11-22,Newcastle United,Manchester City,3,0,"(57, 0, 'Shola Ameobi')","(77, 0, 'Alan Shearer')","(85, 0, 'Alan Shearer')",,,,,,,,,
+2003-11-22,Southampton,Chelsea,0,1,"(47, 1, 'Mario Melchiot')",,,,,,,,,,,
+2003-11-23,Tottenham Hotspur,Aston Villa,2,1,"(66, 1, 'Marcus Allback')","(78, 0, 'Rohan Ricketts')","(81, 0, 'Robbie Keane')",,,,,,,,,
+2003-11-24,Fulham,Portsmouth,2,0,"(30, 0, 'Louis Saha')","(33, 0, 'Louis Saha')",,,,,,,,,,
+2003-11-29,Aston Villa,Southampton,1,0,"(45, 0, 'Dion Dublin')",,,,,,,,,,,
+2003-11-29,Blackburn Rovers,Tottenham Hotspur,1,0,"(78, 0, 'Stephen Carr')",,,,,,,,,,,
+2003-11-29,Bolton Wanderers,Everton,2,0,"(26, 0, 'Per Frandsen')","(46, 0, 'Youri Djorkaeff')",,,,,,,,,,
+2003-11-29,Charlton Athletic,Leeds United,0,1,"(9, 1, 'James Milner')",,,,,,,,,,,
+2003-11-29,Portsmouth,Leicester City,0,2,"(31, 1, 'Les Ferdinand')","(59, 1, 'Marcus Bent')",,,,,,,,,,
+2003-11-29,Wolverhampton Wanderers,Newcastle United,1,1,"(27, 0, 'Nathan Blake')","(31, 1, 'Alan Shearer')",,,,,,,,,,
+2003-11-30,Arsenal,Fulham,0,0,,,,,,,,,,,,
+2003-11-30,Chelsea,Manchester United,1,0,"(30, 0, 'Frank Lampard')",,,,,,,,,,,
+2003-11-30,Liverpool,Birmingham City,3,1,"(33, 1, 'Mikael Forssell')","(35, 0, 'Steven Gerrard')","(69, 0, 'Harry Kewell')","(78, 0, 'Emile Heskey')",,,,,,,,
+2003-11-30,Manchester City,Middlesbrough,0,1,"(30, 1, 'SUN Ji Hai')",,,,,,,,,,,
+2003-12-06,Birmingham City,Blackburn Rovers,0,4,"(66, 1, 'Barry Ferguson')","(68, 1, 'Lucas Neill')","(82, 1, ' Tugay Kerimoglu')","(88, 1, 'Paul Gallagher')",,,,,,,,
+2003-12-06,Fulham,Bolton Wanderers,2,1,"(53, 1, 'Kevin Davies')","(75, 0, 'Sean Davis')","(76, 0, 'Facundo Sava')",,,,,,,,,
+2003-12-06,Leeds United,Chelsea,1,1,"(18, 0, 'Jermaine Pennant')","(70, 1, 'Damien Duff')",,,,,,,,,,
+2003-12-06,Leicester City,Arsenal,1,1,"(60, 1, ' Gilberto Silva')","(90, 0, 'Craig Hignett')",,,,,,,,,,
+2003-12-06,Manchester United,Aston Villa,4,0,"(16, 0, 'Ruud Van Nistelrooy')","(45, 0, 'Ruud Van Nistelrooy')","(90, 0, 'Diego Forlan')","(90, 0, 'Diego Forlan')",,,,,,,,
+2003-12-06,Middlesbrough,Portsmouth,0,0,,,,,,,,,,,,
+2003-12-06,Newcastle United,Liverpool,1,1,"(6, 1, 'Danny Murphy')","(63, 0, 'Alan Shearer')",,,,,,,,,,
+2003-12-06,Tottenham Hotspur,Wolverhampton Wanderers,5,2,"(29, 0, 'Robbie Keane')","(30, 1, 'Paul Ince')","(50, 0, 'Frederic Kanoute')","(75, 0, 'Robbie Keane')","(83, 0, 'Robbie Keane')","(84, 1, 'Alex Rae')","(90, 0, 'Stephane Dalmat')",,,,,
+2003-12-07,Everton,Manchester City,0,0,,,,,,,,,,,,
+2003-12-07,Southampton,Charlton Athletic,3,2,"(6, 0, 'Michael Svensson')","(45, 0, 'Brett Ormerod')","(46, 1, 'Scott Parker')","(65, 1, 'Scott Parker')","(86, 0, 'Brett Ormerod')",,,,,,,
+2003-12-13,Chelsea,Bolton Wanderers,1,2,"(22, 0, 'Hernan Crespo')","(39, 1, ""Bruno N'Gotty"")","(90, 1, 'John Terry')",,,,,,,,,
+2003-12-13,Leicester City,Birmingham City,0,2,"(42, 1, 'Clinton Morrison')","(66, 1, 'Mikael Forssell')",,,,,,,,,,
+2003-12-13,Liverpool,Southampton,1,2,"(2, 1, 'Brett Ormerod')","(64, 1, 'Michael Svensson')","(75, 0, 'Emile Heskey')",,,,,,,,,
+2003-12-13,Manchester United,Manchester City,3,1,"(7, 0, 'Paul Scholes')","(34, 0, 'Ruud Van Nistelrooy')","(52, 1, 'Shaun Wright-Phillips')","(73, 0, 'Paul Scholes')",,,,,,,,
+2003-12-13,Middlesbrough,Charlton Athletic,0,0,,,,,,,,,,,,
+2003-12-13,Newcastle United,Tottenham Hotspur,4,0,"(35, 0, 'Laurent Robert')","(55, 0, 'Laurent Robert')","(59, 0, 'Alan Shearer')","(66, 0, 'Alan Shearer')",,,,,,,,
+2003-12-13,Portsmouth,Everton,1,2,"(15, 0, 'Jason Roberts')","(27, 1, 'Lee Carsley')","(42, 1, 'Wayne Rooney')",,,,,,,,,
+2003-12-14,Arsenal,Blackburn Rovers,1,0,"(11, 0, 'Dennis Bergkamp')",,,,,,,,,,,
+2003-12-14,Aston Villa,Wolverhampton Wanderers,3,2,"(21, 0, 'Juan Pablo Angel')","(24, 0, 'Juan Pablo Angel')","(36, 1, 'Alex Rae')","(48, 0, 'Gareth Barry')","(80, 1, 'Mark Kennedy')",,,,,,,
+2003-12-14,Leeds United,Fulham,3,2,"(41, 0, 'Michael Duberry')","(46, 0, 'Mark Viduka')","(47, 1, 'Louis Saha')","(86, 1, 'Louis Saha')","(88, 0, 'Dominic Matteo')",,,,,,,
+2003-12-20,Blackburn Rovers,Aston Villa,0,2,"(62, 1, 'Stefan Moore')","(75, 1, 'Juan Pablo Angel')",,,,,,,,,,
+2003-12-20,Bolton Wanderers,Arsenal,1,1,"(57, 1, 'Robert Pires')","(83, 0, 'Henrik Pedersen')",,,,,,,,,,
+2003-12-20,Charlton Athletic,Newcastle United,0,0,,,,,,,,,,,,
+2003-12-20,Everton,Leicester City,3,2,"(33, 0, 'Lee Carsley')","(45, 1, 'Les Ferdinand')","(58, 1, 'James Scowcroft')","(71, 0, 'Wayne Rooney')","(79, 0, 'Tomasz Radzinski')",,,,,,,
+2003-12-20,Fulham,Chelsea,0,1,"(62, 1, 'Hernan Crespo')",,,,,,,,,,,
+2003-12-21,Southampton,Portsmouth,3,0,"(34, 0, 'Sebastian Schemmel')","(67, 0, 'Marian Pahars')","(90, 0, 'James Beattie')",,,,,,,,,
+2003-12-21,Tottenham Hotspur,Manchester United,1,2,"(15, 1, ""John O'Shea"")","(25, 1, 'Ruud Van Nistelrooy')","(63, 0, 'Gus Poyet')",,,,,,,,,
+2003-12-22,Manchester City,Leeds United,1,1,"(24, 1, 'Mark Viduka')","(82, 0, 'Antoine Sibierski')",,,,,,,,,,
+2003-12-26,Arsenal,Wolverhampton Wanderers,3,0,"(13, 0, 'Jody Craddock')","(20, 0, 'Thierry Henry')","(89, 0, 'Thierry Henry')",,,,,,,,,
+2003-12-26,Birmingham City,Manchester City,2,1,"(14, 1, 'Robbie Fowler')","(81, 0, 'Jeff Kenna')","(87, 0, 'Mikael Forssell')",,,,,,,,,
+2003-12-26,Blackburn Rovers,Middlesbrough,2,2,"(3, 0, 'Markus Babbel')","(31, 1, ' Juninho')","(51, 1, ' Juninho')","(90, 0, 'Markus Babbel')",,,,,,,,
+2003-12-26,Charlton Athletic,Chelsea,4,2,"(1, 0, 'Hermann Hreidarsson')","(10, 1, 'John Terry')","(35, 0, 'Matt Holland')","(48, 0, 'Jonatan Johansson')","(53, 0, 'Jason Euell')","(73, 1, 'Eidur Gudjohnsen')",,,,,,
+2003-12-26,Fulham,Southampton,2,0,"(19, 0, 'Louis Saha')","(63, 0, 'Louis Saha')",,,,,,,,,,
+2003-12-26,Leeds United,Aston Villa,0,0,,,,,,,,,,,,
+2003-12-26,Leicester City,Newcastle United,1,1,"(67, 0, 'Paul Dickov')","(90, 1, 'Darren Ambrose')",,,,,,,,,,
+2003-12-26,Liverpool,Bolton Wanderers,3,1,"(30, 0, 'Sami Hyypia')","(47, 0, 'Florent Sinama-Pongolle')","(54, 0, 'Vladimir Smicer')","(85, 1, 'Henrik Pedersen')",,,,,,,,
+2003-12-26,Manchester United,Everton,3,2,"(9, 0, 'Nicky Butt')","(13, 1, 'Gary Neville')","(44, 0, ' Kleberson')","(68, 0, 'David Bellion')","(90, 1, 'Duncan Ferguson')",,,,,,,
+2003-12-26,Portsmouth,Tottenham Hotspur,2,0,"(52, 0, 'Patrik Berger')","(68, 0, 'Patrik Berger')",,,,,,,,,,
+2003-12-28,Aston Villa,Fulham,3,0,"(33, 0, 'Juan Pablo Angel')","(67, 0, 'Darius Vassell')","(82, 0, 'Darius Vassell')",,,,,,,,,
+2003-12-28,Bolton Wanderers,Leicester City,2,2,"(18, 1, 'Marcus Bent')","(35, 0, 'Ben Thatcher')","(54, 0, 'Ivan Campo')","(90, 1, 'Les Ferdinand')",,,,,,,,
+2003-12-28,Chelsea,Portsmouth,3,0,"(65, 0, 'Wayne Bridge')","(73, 0, 'Frank Lampard')","(82, 0, ' Geremi')",,,,,,,,,
+2003-12-28,Everton,Birmingham City,1,0,"(69, 0, 'Wayne Rooney')",,,,,,,,,,,
+2003-12-28,Manchester City,Liverpool,2,2,"(30, 0, 'Nicolas Anelka')","(66, 1, 'Vladimir Smicer')","(80, 1, 'Dietmar Hamann')","(90, 0, 'Robbie Fowler')",,,,,,,,
+2003-12-28,Middlesbrough,Manchester United,0,1,"(14, 1, 'Danny Mills')",,,,,,,,,,,
+2003-12-28,Newcastle United,Blackburn Rovers,0,1,"(72, 1, 'Paul Gallagher')",,,,,,,,,,,
+2003-12-28,Tottenham Hotspur,Charlton Athletic,0,1,"(69, 1, 'Carlton Cole')",,,,,,,,,,,
+2003-12-28,Wolverhampton Wanderers,Leeds United,3,1,"(3, 1, 'Michael Duberry')","(18, 0, 'Alan Smith')","(48, 0, 'Steffen Iversen')","(90, 0, 'Steffen Iversen')",,,,,,,,
+2003-12-29,Southampton,Arsenal,0,1,"(35, 1, 'Robert Pires')",,,,,,,,,,,
+2004-01-06,Aston Villa,Portsmouth,2,1,"(22, 0, 'Juan Pablo Angel')","(49, 1, 'Ayegbeni Yakubu')","(85, 0, 'Darius Vassell')",,,,,,,,,
+2004-01-07,Bolton Wanderers,Manchester United,1,2,"(24, 1, 'Paul Scholes')","(39, 1, 'Ruud Van Nistelrooy')","(89, 0, 'Gary Neville')",,,,,,,,,
+2004-01-07,Chelsea,Liverpool,0,1,"(33, 1, 'Bruno Cheyrou')",,,,,,,,,,,
+2004-01-07,Everton,Arsenal,1,1,"(29, 1, 'Nwankwo Kanu')","(75, 0, 'Tomasz Radzinski')",,,,,,,,,,
+2004-01-07,Manchester City,Charlton Athletic,1,1,"(39, 0, 'Robbie Fowler')","(84, 1, 'Paolo Di Canio')",,,,,,,,,,
+2004-01-07,Middlesbrough,Fulham,2,1,"(15, 0, 'Joseph-Desire Job')","(67, 0, 'Szilard Nemeth')","(90, 1, 'Barry Hayles')",,,,,,,,,
+2004-01-07,Newcastle United,Leeds United,1,0,"(4, 0, 'Alan Shearer')",,,,,,,,,,,
+2004-01-07,Southampton,Leicester City,0,0,,,,,,,,,,,,
+2004-01-07,Tottenham Hotspur,Birmingham City,4,1,"(10, 0, 'Stephane Dalmat')","(24, 0, 'Stephane Dalmat')","(39, 0, 'Simon Davies')","(68, 1, 'Robbie Savage')","(79, 0, 'Robbie Keane')",,,,,,,
+2004-01-07,Wolverhampton Wanderers,Blackburn Rovers,2,2,"(14, 1, 'Andrew Cole')","(63, 0, 'Paul Butler')","(72, 0, 'Alex Rae')","(78, 1, 'Dwight Yorke')",,,,,,,,
+2004-01-10,Arsenal,Middlesbrough,4,1,"(38, 0, 'Thierry Henry')","(45, 0, 'Franck Queudrue')","(57, 0, 'Robert Pires')","(68, 0, 'Freddie Ljungberg')","(86, 1, 'Massimo Maccarone')",,,,,,,
+2004-01-10,Birmingham City,Southampton,2,1,"(6, 1, 'Brett Ormerod')","(16, 0, 'Stephen Clemence')","(67, 0, 'Jeff Kenna')",,,,,,,,,
+2004-01-10,Blackburn Rovers,Bolton Wanderers,3,4,"(1, 1, 'Kevin Nolan')","(3, 0, 'Vratislav Gresko')","(24, 0, 'Dwight Yorke')","(34, 0, 'Andrew Cole')","(43, 1, 'Youri Djorkaeff')","(73, 1, 'Stelios Giannakopoulos')","(78, 1, 'Kevin Nolan')",,,,,
+2004-01-10,Charlton Athletic,Wolverhampton Wanderers,2,0,"(38, 0, 'Jason Euell')","(79, 0, 'Jason Euell')",,,,,,,,,,
+2004-01-10,Fulham,Everton,2,1,"(45, 0, 'Louis Saha')","(46, 0, 'Steed Malbranque')","(81, 1, 'Kevin Kilbane')",,,,,,,,,
+2004-01-10,Leeds United,Tottenham Hotspur,0,1,"(56, 1, 'Robbie Keane')",,,,,,,,,,,
+2004-01-10,Liverpool,Aston Villa,1,0,"(36, 0, 'Mark Delaney')",,,,,,,,,,,
+2004-01-10,Portsmouth,Manchester City,4,2,"(19, 0, 'Dejan Stefanovic')","(21, 1, 'Nicolas Anelka')","(45, 1, 'Antoine Sibierski')","(52, 0, 'Ayegbeni Yakubu')","(58, 0, 'Teddy Sheringham')","(77, 0, 'Ayegbeni Yakubu')",,,,,,
+2004-01-11,Leicester City,Chelsea,0,4,"(12, 1, 'Jimmy Floyd Hasselbaink')","(44, 1, 'Nikos Dabizas')","(88, 1, 'Adrian Mutu')","(90, 1, 'Celestine Babayaro')",,,,,,,,
+2004-01-11,Manchester United,Newcastle United,0,0,,,,,,,,,,,,
+2004-01-17,Bolton Wanderers,Portsmouth,1,0,"(53, 0, 'Kevin Davies')",,,,,,,,,,,
+2004-01-17,Everton,Charlton Athletic,0,1,"(41, 1, 'Graham Stuart')",,,,,,,,,,,
+2004-01-17,Manchester City,Blackburn Rovers,1,1,"(50, 0, 'Nicolas Anelka')","(55, 1, 'Garry Flitcroft')",,,,,,,,,,
+2004-01-17,Middlesbrough,Leicester City,3,3,"(8, 0, ' Juninho')","(49, 1, 'Paul Dickov')","(65, 1, 'Paul Dickov')","(76, 1, 'Marcus Bent')","(90, 0, 'Massimo Maccarone')","(90, 0, 'John Curtis')",,,,,,
+2004-01-17,Southampton,Leeds United,2,1,"(36, 0, 'Brett Ormerod')","(43, 0, 'Kevin Phillips')","(75, 1, 'Matthew Kilgallon')",,,,,,,,,
+2004-01-17,Tottenham Hotspur,Liverpool,2,1,"(25, 0, 'Robbie Keane')","(54, 0, ' Helder Postiga')","(75, 1, 'Harry Kewell')",,,,,,,,,
+2004-01-17,Wolverhampton Wanderers,Manchester United,1,0,"(67, 0, 'Kenny Miller')",,,,,,,,,,,
+2004-01-18,Aston Villa,Arsenal,0,2,"(29, 1, 'Thierry Henry')","(53, 1, 'Thierry Henry')",,,,,,,,,,
+2004-01-18,Chelsea,Birmingham City,0,0,,,,,,,,,,,,
+2004-01-19,Newcastle United,Fulham,3,1,"(4, 0, ""Andy O'Brien"")","(41, 0, 'Gary Speed')","(54, 0, 'Laurent Robert')","(74, 1, 'Sean Davis')",,,,,,,,
+2004-01-21,Wolverhampton Wanderers,Liverpool,1,1,"(42, 1, 'Bruno Cheyrou')","(90, 0, 'Kenny Miller')",,,,,,,,,,
+2004-01-31,Birmingham City,Newcastle United,1,1,"(37, 1, 'Gary Speed')","(90, 0, 'Stern John')",,,,,,,,,,
+2004-01-31,Charlton Athletic,Bolton Wanderers,1,2,"(1, 1, 'Henrik Pedersen')","(12, 0, 'Jonatan Johansson')","(78, 1, 'Kevin Nolan')",,,,,,,,,
+2004-01-31,Fulham,Tottenham Hotspur,2,1,"(18, 1, 'Robbie Keane')","(45, 0, 'Steed Malbranque')","(67, 0, 'Brian McBride')",,,,,,,,,
+2004-01-31,Leeds United,Middlesbrough,0,3,"(53, 1, 'Bolo Zenden')","(77, 1, 'Joseph-Desire Job')","(89, 1, 'Michael Ricketts')",,,,,,,,,
+2004-01-31,Leicester City,Aston Villa,0,5,"(50, 1, 'Darius Vassell')","(57, 1, 'Peter Crouch')","(60, 1, 'Darius Vassell')","(64, 1, 'Dion Dublin')","(68, 1, 'Peter Crouch')",,,,,,,
+2004-01-31,Liverpool,Everton,0,0,,,,,,,,,,,,
+2004-01-31,Manchester United,Southampton,3,2,"(18, 0, 'Louis Saha')","(37, 0, 'Paul Scholes')","(38, 1, 'Kevin Phillips')","(53, 1, 'Kevin Phillips')","(61, 0, 'Ruud Van Nistelrooy')",,,,,,,
+2004-01-31,Portsmouth,Wolverhampton Wanderers,0,0,,,,,,,,,,,,
+2004-02-01,Arsenal,Manchester City,2,1,"(37, 0, 'Michael Tarnat')","(83, 0, 'Thierry Henry')","(89, 1, 'Nicolas Anelka')",,,,,,,,,
+2004-02-01,Blackburn Rovers,Chelsea,2,3,"(3, 0, 'Garry Flitcroft')","(25, 1, 'Frank Lampard')","(35, 1, 'Frank Lampard')","(87, 0, 'Paul Gallagher')","(88, 1, 'Glen Johnson')",,,,,,,
+2004-02-07,Aston Villa,Leeds United,2,0,"(45, 0, 'Juan Pablo Angel')","(59, 0, 'Ronny Johnsen')",,,,,,,,,,
+2004-02-07,Bolton Wanderers,Liverpool,2,2,"(11, 0, 'Nicky Hunt')","(51, 1, 'Sami Hyypia')","(58, 0, 'Youri Djorkaeff')","(69, 1, 'Steven Gerrard')",,,,,,,,
+2004-02-07,Everton,Manchester United,3,4,"(9, 1, 'Louis Saha')","(24, 1, 'Ruud Van Nistelrooy')","(29, 1, 'Louis Saha')","(49, 0, 'David Unsworth')","(65, 0, ""John O'Shea"")","(75, 0, 'Kevin Kilbane')","(89, 1, 'Ruud Van Nistelrooy')",,,,,
+2004-02-07,Middlesbrough,Blackburn Rovers,0,1,"(39, 1, 'Jon Stead')",,,,,,,,,,,
+2004-02-07,Newcastle United,Leicester City,3,1,"(30, 0, 'Shola Ameobi')","(37, 0, 'Gerry Taggart')","(59, 0, 'Jermaine Jenas')","(80, 1, 'Les Ferdinand')",,,,,,,,
+2004-02-07,Southampton,Fulham,0,0,,,,,,,,,,,,
+2004-02-07,Tottenham Hotspur,Portsmouth,4,3,"(13, 0, 'Jermain Defoe')","(39, 1, 'Eyal Berkovic')","(42, 0, 'Robbie Keane')","(73, 1, 'Lomano Tresor Lua Lua')","(79, 0, 'Robbie Keane')","(84, 1, 'Ivica Mornar')","(89, 0, 'Gus Poyet')",,,,,
+2004-02-07,Wolverhampton Wanderers,Arsenal,1,3,"(9, 1, 'Dennis Bergkamp')","(26, 0, 'Ioan Ganea')","(58, 1, 'Thierry Henry')","(63, 1, 'Kolo Toure')",,,,,,,,
+2004-02-08,Chelsea,Charlton Athletic,1,0,"(28, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,,,,
+2004-02-08,Manchester City,Birmingham City,0,0,,,,,,,,,,,,
+2004-02-10,Arsenal,Southampton,2,0,"(31, 0, 'Thierry Henry')","(90, 0, 'Thierry Henry')",,,,,,,,,,
+2004-02-10,Leeds United,Wolverhampton Wanderers,4,1,"(14, 0, 'Alan Smith')","(21, 1, 'Ioan Ganea')","(41, 0, 'Dominic Matteo')","(62, 0, 'James Milner')","(90, 0, 'Mark Viduka')",,,,,,,
+2004-02-10,Leicester City,Bolton Wanderers,1,1,"(16, 0, 'Les Ferdinand')","(33, 1, 'Ian Walker')",,,,,,,,,,
+2004-02-11,Birmingham City,Everton,3,0,"(8, 0, 'Damien Johnson')","(39, 0, 'Stan Lazaridis')","(49, 0, 'Mikael Forssell')",,,,,,,,,
+2004-02-11,Blackburn Rovers,Newcastle United,1,1,"(52, 1, 'Craig Bellamy')","(85, 0, 'Jon Stead')",,,,,,,,,,
+2004-02-11,Charlton Athletic,Tottenham Hotspur,2,4,"(10, 1, 'Simon Davies')","(43, 1, 'Jermain Defoe')","(46, 1, 'Ledley King')","(51, 0, 'Graham Stuart')","(81, 0, 'Chris Perry')","(85, 1, 'Johnnie Jackson')",,,,,,
+2004-02-11,Fulham,Aston Villa,1,2,"(1, 0, 'Luis Boa Morte')","(13, 1, 'Juan Pablo Angel')","(32, 1, 'Darius Vassell')",,,,,,,,,
+2004-02-11,Liverpool,Manchester City,2,1,"(3, 0, 'Michael Owen')","(50, 1, 'Shaun Wright-Phillips')","(51, 0, 'Steven Gerrard')",,,,,,,,,
+2004-02-11,Manchester United,Middlesbrough,2,3,"(34, 1, ' Juninho')","(38, 1, ' Juninho')","(45, 0, 'Ruud Van Nistelrooy')","(63, 0, 'Ryan Giggs')","(80, 1, 'Joseph-Desire Job')",,,,,,,
+2004-02-11,Portsmouth,Chelsea,0,2,"(17, 1, 'Scott Parker')","(79, 1, 'Hernan Crespo')",,,,,,,,,,
+2004-02-21,Bolton Wanderers,Manchester City,1,3,"(22, 0, 'Kevin Nolan')","(27, 1, 'Robbie Fowler')","(31, 1, 'Robbie Fowler')","(50, 1, 'Simon Charlton')",,,,,,,,
+2004-02-21,Charlton Athletic,Blackburn Rovers,3,2,"(10, 0, 'Carlton Cole')","(36, 0, 'Jason Euell')","(74, 1, 'Andrew Cole')","(90, 0, 'Claus Jensen')","(90, 1, 'Brad Friedel')",,,,,,,
+2004-02-21,Chelsea,Arsenal,1,2,"(1, 0, 'Eidur Gudjohnsen')","(15, 1, 'Patrick Vieira')","(21, 1, ' Edu')",,,,,,,,,
+2004-02-21,Manchester United,Leeds United,1,1,"(64, 0, 'Paul Scholes')","(67, 1, 'Alan Smith')",,,,,,,,,,
+2004-02-21,Newcastle United,Middlesbrough,2,1,"(33, 1, 'Bolo Zenden')","(63, 0, 'Craig Bellamy')","(83, 0, 'Alan Shearer')",,,,,,,,,
+2004-02-21,Southampton,Everton,3,3,"(7, 1, 'Wayne Rooney')","(32, 1, 'Duncan Ferguson')","(58, 0, 'Kevin Phillips')","(78, 1, 'Wayne Rooney')","(82, 0, 'James Beattie')","(90, 0, 'Fabrice Fernandes')",,,,,,
+2004-02-21,Wolverhampton Wanderers,Fulham,2,1,"(20, 0, 'Paul Ince')","(51, 0, 'Carl Cort')","(84, 1, 'Steed Malbranque')",,,,,,,,,
+2004-02-22,Aston Villa,Birmingham City,2,2,"(21, 0, 'Darius Vassell')","(47, 0, 'Thomas Hitzlsperger')","(60, 1, 'Mikael Forssell')","(90, 1, 'Stern John')",,,,,,,,
+2004-02-22,Tottenham Hotspur,Leicester City,4,4,"(6, 0, 'Michael Brown')","(9, 1, 'Gary Doherty')","(13, 0, 'Jermain Defoe')","(27, 0, 'Robbie Keane')","(51, 1, 'Les Ferdinand')","(72, 1, 'Ben Thatcher')","(77, 1, 'Marcus Bent')","(88, 0, 'Jermain Defoe')",,,,
+2004-02-28,Arsenal,Charlton Athletic,2,1,"(2, 0, 'Robert Pires')","(4, 0, 'Thierry Henry')","(59, 1, 'Claus Jensen')",,,,,,,,,
+2004-02-28,Blackburn Rovers,Southampton,1,1,"(5, 1, 'Kevin Phillips')","(52, 0, 'Andrew Cole')",,,,,,,,,,
+2004-02-28,Everton,Aston Villa,2,0,"(78, 0, 'Tomasz Radzinski')","(84, 0, 'Thomas Gravesen')",,,,,,,,,,
+2004-02-28,Fulham,Manchester United,1,1,"(14, 1, 'Louis Saha')","(64, 0, 'Luis Boa Morte')",,,,,,,,,,
+2004-02-28,Leicester City,Wolverhampton Wanderers,0,0,,,,,,,,,,,,
+2004-02-28,Manchester City,Chelsea,0,1,"(82, 1, 'Eidur Gudjohnsen')",,,,,,,,,,,
+2004-02-29,Leeds United,Liverpool,2,2,"(21, 1, 'Harry Kewell')","(29, 0, 'Eirik Bakke')","(34, 0, 'Mark Viduka')","(42, 1, 'Milan Baros')",,,,,,,,
+2004-02-29,Portsmouth,Newcastle United,1,1,"(34, 1, 'Craig Bellamy')","(89, 0, 'Lomano Tresor Lua Lua')",,,,,,,,,,
+2004-03-03,Birmingham City,Middlesbrough,3,1,"(23, 0, 'Martin Taylor')","(57, 0, 'Robbie Savage')","(75, 1, 'Szilard Nemeth')","(79, 0, 'Mikael Forssell')",,,,,,,,
+2004-03-06,Birmingham City,Bolton Wanderers,2,0,"(24, 0, 'Mikael Forssell')","(69, 0, 'Bryan Hughes')",,,,,,,,,,
+2004-03-09,Middlesbrough,Tottenham Hotspur,1,0,"(73, 0, 'Szilard Nemeth')",,,,,,,,,,,
+2004-03-13,Birmingham City,Leicester City,0,1,"(53, 1, 'Les Ferdinand')",,,,,,,,,,,
+2004-03-13,Blackburn Rovers,Arsenal,0,2,"(57, 1, 'Thierry Henry')","(87, 1, 'Robert Pires')",,,,,,,,,,
+2004-03-13,Bolton Wanderers,Chelsea,0,2,"(71, 1, 'John Terry')","(74, 1, 'Damien Duff')",,,,,,,,,,
+2004-03-13,Charlton Athletic,Middlesbrough,1,0,"(25, 0, 'Matt Holland')",,,,,,,,,,,
+2004-03-13,Everton,Portsmouth,1,0,"(78, 0, 'Wayne Rooney')",,,,,,,,,,,
+2004-03-13,Fulham,Leeds United,2,0,"(71, 0, 'Sean Davis')","(83, 0, 'Luis Boa Morte')",,,,,,,,,,
+2004-03-14,Manchester City,Manchester United,4,1,"(3, 0, 'Robbie Fowler')","(32, 0, 'Jon Macken')","(35, 1, 'Paul Scholes')","(73, 0, 'Trevor Sinclair')","(90, 0, 'Shaun Wright-Phillips')",,,,,,,
+2004-03-14,Southampton,Liverpool,2,0,"(51, 0, 'James Beattie')","(85, 0, 'Kevin Phillips')",,,,,,,,,,
+2004-03-14,Tottenham Hotspur,Newcastle United,1,0,"(86, 0, ""Andy O'Brien"")",,,,,,,,,,,
+2004-03-14,Wolverhampton Wanderers,Aston Villa,0,4,"(7, 1, 'Thomas Hitzlsperger')","(18, 1, 'Olof Mellberg')","(24, 1, 'Juan Pablo Angel')","(59, 1, 'Juan Pablo Angel')",,,,,,,,
+2004-03-17,Liverpool,Portsmouth,3,0,"(6, 0, 'Dietmar Hamann')","(28, 0, 'Michael Owen')","(58, 0, 'Michael Owen')",,,,,,,,,
+2004-03-20,Arsenal,Bolton Wanderers,2,1,"(16, 0, 'Robert Pires')","(24, 0, 'Dennis Bergkamp')","(41, 1, 'Ivan Campo')",,,,,,,,,
+2004-03-20,Aston Villa,Blackburn Rovers,0,2,"(26, 1, 'Garry Flitcroft')","(36, 1, 'Jon Stead')",,,,,,,,,,
+2004-03-20,Chelsea,Fulham,2,1,"(7, 0, 'Eidur Gudjohnsen')","(19, 1, 'Mark Pembridge')","(30, 0, 'Damien Duff')",,,,,,,,,
+2004-03-20,Leicester City,Everton,1,1,"(75, 1, 'Wayne Rooney')","(90, 0, 'Marcus Bent')",,,,,,,,,,
+2004-03-20,Liverpool,Wolverhampton Wanderers,1,0,"(90, 0, 'Sami Hyypia')",,,,,,,,,,,
+2004-03-20,Manchester United,Tottenham Hotspur,3,0,"(30, 0, 'Ryan Giggs')","(89, 0, 'Cristiano Ronaldo')","(90, 0, 'David Bellion')",,,,,,,,,
+2004-03-20,Middlesbrough,Birmingham City,5,3,"(5, 0, 'Gaizka Mendieta')","(21, 0, 'Massimo Maccarone')","(23, 1, 'Mikael Forssell')","(30, 0, 'Gareth Southgate')","(45, 0, 'Massimo Maccarone')","(45, 1, 'Clinton Morrison')","(59, 1, 'Mikael Forssell')","(90, 0, 'Szilard Nemeth')",,,,
+2004-03-20,Newcastle United,Charlton Athletic,3,1,"(2, 0, 'Alan Shearer')","(35, 0, 'Jermaine Jenas')","(54, 1, 'Claus Jensen')","(77, 0, 'Alan Shearer')",,,,,,,,
+2004-03-21,Portsmouth,Southampton,1,0,"(68, 0, 'Ayegbeni Yakubu')",,,,,,,,,,,
+2004-03-22,Leeds United,Manchester City,2,1,"(23, 0, 'Stephen McPhail')","(44, 1, 'Nicolas Anelka')","(76, 0, 'Mark Viduka')",,,,,,,,,
+2004-03-27,Birmingham City,Leeds United,4,1,"(3, 1, 'Mark Viduka')","(12, 0, 'Bryan Hughes')","(67, 0, 'Bryan Hughes')","(69, 0, 'Mikael Forssell')","(82, 0, 'Mikael Forssell')",,,,,,,
+2004-03-27,Blackburn Rovers,Portsmouth,1,2,"(17, 1, 'Teddy Sheringham')","(37, 0, 'Matt Taylor')","(82, 1, 'Ayegbeni Yakubu')",,,,,,,,,
+2004-03-27,Charlton Athletic,Aston Villa,1,2,"(8, 0, 'Carlton Cole')","(24, 1, 'Darius Vassell')","(54, 1, 'JLloyd Samuel')",,,,,,,,,
+2004-03-27,Chelsea,Wolverhampton Wanderers,5,2,"(4, 0, 'Mario Melchiot')","(23, 1, 'Henri Camara')","(57, 1, 'Jody Craddock')","(70, 0, 'Frank Lampard')","(77, 0, 'Jimmy Floyd Hasselbaink')","(87, 0, 'Jimmy Floyd Hasselbaink')","(90, 0, 'Jimmy Floyd Hasselbaink')",,,,,
+2004-03-27,Everton,Middlesbrough,1,1,"(78, 0, 'Tomasz Radzinski')","(83, 1, 'Joseph Yobo')",,,,,,,,,,
+2004-03-27,Manchester City,Fulham,0,0,,,,,,,,,,,,
+2004-03-27,Southampton,Tottenham Hotspur,1,0,"(64, 0, 'Rory Delap')",,,,,,,,,,,
+2004-03-28,Arsenal,Manchester United,1,1,"(50, 0, 'Thierry Henry')","(86, 1, 'Louis Saha')",,,,,,,,,,
+2004-03-28,Bolton Wanderers,Newcastle United,1,0,"(4, 0, 'Henrik Pedersen')",,,,,,,,,,,
+2004-03-28,Leicester City,Liverpool,0,0,,,,,,,,,,,,
+2004-04-03,Fulham,Birmingham City,0,0,,,,,,,,,,,,
+2004-04-03,Middlesbrough,Bolton Wanderers,2,0,"(8, 0, 'Kevin Nolan')","(51, 0, 'Jonathan Greening')",,,,,,,,,,
+2004-04-03,Newcastle United,Everton,4,2,"(5, 0, 'Craig Bellamy')","(12, 1, 'Thomas Gravesen')","(21, 0, 'Kieron Dyer')","(52, 0, 'Alan Shearer')","(81, 1, 'Joseph Yobo')","(90, 0, 'Alan Shearer')",,,,,,
+2004-04-03,Tottenham Hotspur,Chelsea,0,1,"(38, 1, 'Jimmy Floyd Hasselbaink')",,,,,,,,,,,
+2004-04-03,Wolverhampton Wanderers,Southampton,1,4,"(25, 1, 'James Beattie')","(58, 1, 'Claus Lundekvam')","(72, 0, 'Henri Camara')","(89, 1, 'Kevin Phillips')","(90, 1, 'Kevin Phillips')",,,,,,,
+2004-04-04,Aston Villa,Manchester City,1,1,"(26, 0, 'Juan Pablo Angel')","(82, 1, 'Sylvain Distin')",,,,,,,,,,
+2004-04-04,Liverpool,Blackburn Rovers,4,0,"(7, 0, 'Michael Owen')","(22, 0, 'Andy Todd')","(24, 0, 'Michael Owen')","(79, 0, 'Emile Heskey')",,,,,,,,
+2004-04-05,Leeds United,Leicester City,3,2,"(11, 0, 'Michael Duberry')","(13, 0, 'Mark Viduka')","(77, 1, 'Paul Dickov')","(79, 1, 'Muzzy Izzet')","(86, 0, 'Alan Smith')",,,,,,,
+2004-04-09,Arsenal,Liverpool,4,2,"(5, 1, 'Sami Hyypia')","(31, 0, 'Thierry Henry')","(42, 1, 'Michael Owen')","(49, 0, 'Robert Pires')","(50, 0, 'Thierry Henry')","(78, 0, 'Thierry Henry')",,,,,,
+2004-04-09,Everton,Tottenham Hotspur,3,1,"(17, 0, 'David Unsworth')","(24, 0, 'Gary Naysmith')","(40, 0, 'Joseph Yobo')","(75, 1, 'Stephen Carr')",,,,,,,,
+2004-04-10,Birmingham City,Manchester United,1,2,"(39, 0, 'Martin Grainger')","(60, 1, 'Cristiano Ronaldo')","(78, 1, 'Louis Saha')",,,,,,,,,
+2004-04-10,Blackburn Rovers,Leeds United,1,2,"(2, 1, 'Steven Caldwell')","(89, 1, 'Mark Viduka')","(90, 0, 'Craig Short')",,,,,,,,,
+2004-04-10,Bolton Wanderers,Aston Villa,2,2,"(18, 1, 'Peter Crouch')","(48, 0, 'Henrik Pedersen')","(53, 1, 'Lee Hendrie')","(86, 0, 'Kevin Davies')",,,,,,,,
+2004-04-10,Charlton Athletic,Portsmouth,1,1,"(8, 0, 'Shaun Bartlett')","(65, 1, 'Ayegbeni Yakubu')",,,,,,,,,,
+2004-04-10,Chelsea,Middlesbrough,0,0,,,,,,,,,,,,
+2004-04-10,Leicester City,Fulham,0,2,"(66, 1, 'Collins John')","(89, 1, 'Collins John')",,,,,,,,,,
+2004-04-10,Manchester City,Wolverhampton Wanderers,3,3,"(13, 1, 'Mark Kennedy')","(23, 1, 'Carl Cort')","(25, 0, 'Nicolas Anelka')","(39, 0, 'Antoine Sibierski')","(78, 1, 'Henri Camara')","(90, 0, 'Shaun Wright-Phillips')",,,,,,
+2004-04-11,Newcastle United,Arsenal,0,0,,,,,,,,,,,,
+2004-04-12,Aston Villa,Chelsea,3,2,"(11, 1, 'Hernan Crespo')","(39, 0, 'Darius Vassell')","(49, 0, 'Thomas Hitzlsperger')","(52, 0, 'Lee Hendrie')","(90, 1, 'Hernan Crespo')",,,,,,,
+2004-04-12,Fulham,Blackburn Rovers,3,4,"(23, 1, 'Andrew Cole')","(26, 0, 'Collins John')","(45, 0, 'Collins John')","(49, 1, 'Jonathan Douglas')","(51, 1, 'Lorenzo Amoruso')","(60, 0, 'Luis Boa Morte')","(75, 1, 'Jon Stead')",,,,,
+2004-04-12,Liverpool,Charlton Athletic,0,1,"(63, 1, 'Shaun Bartlett')",,,,,,,,,,,
+2004-04-12,Middlesbrough,Southampton,3,1,"(23, 0, ' Juninho')","(32, 0, 'Szilard Nemeth')","(49, 0, 'Massimo Maccarone')","(70, 1, 'James Beattie')",,,,,,,,
+2004-04-12,Portsmouth,Birmingham City,3,1,"(45, 0, 'Dejan Stefanovic')","(62, 0, 'Lomano Tresor Lua Lua')","(67, 1, 'Stern John')","(73, 0, 'Ayegbeni Yakubu')",,,,,,,,
+2004-04-12,Tottenham Hotspur,Manchester City,1,1,"(52, 0, 'Jermain Defoe')","(52, 1, 'Nicolas Anelka')",,,,,,,,,,
+2004-04-12,Wolverhampton Wanderers,Bolton Wanderers,1,2,"(43, 1, 'Henrik Pedersen')","(44, 0, 'Henri Camara')","(90, 1, 'Kevin Davies')",,,,,,,,,
+2004-04-13,Leeds United,Everton,1,1,"(13, 1, 'Wayne Rooney')","(50, 0, 'James Milner')",,,,,,,,,,
+2004-04-13,Manchester United,Leicester City,1,0,"(56, 0, 'Gary Neville')",,,,,,,,,,,
+2004-04-16,Arsenal,Leeds United,5,0,"(6, 0, 'Robert Pires')","(27, 0, 'Thierry Henry')","(33, 0, 'Thierry Henry')","(50, 0, 'Thierry Henry')","(67, 0, 'Thierry Henry')",,,,,,,
+2004-04-17,Blackburn Rovers,Leicester City,1,0,"(42, 0, 'Nikos Dabizas')",,,,,,,,,,,
+2004-04-17,Bolton Wanderers,Tottenham Hotspur,2,0,"(7, 0, 'Ivan Campo')","(65, 0, 'Henrik Pedersen')",,,,,,,,,,
+2004-04-17,Charlton Athletic,Birmingham City,1,1,"(84, 1, 'Clinton Morrison')","(86, 0, 'Matt Holland')",,,,,,,,,,
+2004-04-17,Chelsea,Everton,0,0,,,,,,,,,,,,
+2004-04-17,Liverpool,Fulham,0,0,,,,,,,,,,,,
+2004-04-17,Manchester City,Southampton,1,3,"(34, 1, 'James Beattie')","(55, 1, 'Kevin Phillips')","(78, 0, 'Nicolas Anelka')","(81, 1, 'Kevin Phillips')",,,,,,,,
+2004-04-17,Portsmouth,Manchester United,1,0,"(36, 0, 'Steve Stone')",,,,,,,,,,,
+2004-04-17,Wolverhampton Wanderers,Middlesbrough,2,0,"(28, 0, 'Carl Cort')","(62, 0, 'Henri Camara')",,,,,,,,,,
+2004-04-18,Aston Villa,Newcastle United,0,0,,,,,,,,,,,,
+2004-04-20,Manchester United,Charlton Athletic,2,0,"(28, 0, 'Louis Saha')","(65, 0, 'Gary Neville')",,,,,,,,,,
+2004-04-24,Everton,Blackburn Rovers,0,1,"(81, 1, 'Jon Stead')",,,,,,,,,,,
+2004-04-24,Fulham,Charlton Athletic,2,0,"(18, 0, 'Steed Malbranque')","(64, 0, 'Sean Davis')",,,,,,,,,,
+2004-04-24,Leicester City,Manchester City,1,1,"(45, 1, 'Michael Tarnat')","(66, 0, 'James Scowcroft')",,,,,,,,,,
+2004-04-24,Manchester United,Liverpool,0,1,"(63, 1, 'Danny Murphy')",,,,,,,,,,,
+2004-04-24,Middlesbrough,Aston Villa,1,2,"(41, 0, 'Joseph-Desire Job')","(45, 1, 'Gareth Barry')","(89, 1, 'Peter Crouch')",,,,,,,,,
+2004-04-24,Southampton,Bolton Wanderers,1,2,"(21, 0, 'Marian Pahars')","(77, 1, 'Kevin Nolan')","(78, 1, 'Kevin Davies')",,,,,,,,,
+2004-04-25,Birmingham City,Wolverhampton Wanderers,2,2,"(6, 1, 'Colin Cameron')","(34, 0, 'Mikael Forssell')","(41, 0, 'Clinton Morrison')","(75, 1, 'Carl Cort')",,,,,,,,
+2004-04-25,Leeds United,Portsmouth,1,2,"(9, 1, 'Ayegbeni Yakubu')","(51, 1, 'Lomano Tresor Lua Lua')","(83, 0, 'Ian Harte')",,,,,,,,,
+2004-04-25,Newcastle United,Chelsea,2,1,"(5, 1, 'Joe Cole')","(44, 0, 'Shola Ameobi')","(48, 0, 'Alan Shearer')",,,,,,,,,
+2004-04-25,Tottenham Hotspur,Arsenal,2,2,"(3, 1, 'Patrick Vieira')","(35, 1, 'Robert Pires')","(62, 0, 'Jamie Redknapp')","(90, 0, 'Robbie Keane')",,,,,,,,
+2004-05-01,Arsenal,Birmingham City,0,0,,,,,,,,,,,,
+2004-05-01,Blackburn Rovers,Manchester United,1,0,"(85, 0, 'Jon Stead')",,,,,,,,,,,
+2004-05-01,Charlton Athletic,Leicester City,2,2,"(5, 1, 'Marcus Bent')","(53, 0, 'Jonathan Fortune')","(76, 0, 'Paolo Di Canio')","(88, 1, 'Les Ferdinand')",,,,,,,,
+2004-05-01,Chelsea,Southampton,4,0,"(59, 0, 'Martin Cranie')","(75, 0, 'Frank Lampard')","(83, 0, 'Frank Lampard')","(85, 0, 'Glen Johnson')",,,,,,,,
+2004-05-01,Manchester City,Newcastle United,1,0,"(59, 0, 'Paulo Wanchope')",,,,,,,,,,,
+2004-05-01,Portsmouth,Fulham,1,1,"(80, 0, 'Ayegbeni Yakubu')","(85, 1, 'Brian McBride')",,,,,,,,,,
+2004-05-01,Wolverhampton Wanderers,Everton,2,1,"(3, 1, 'Leon Osman')","(55, 0, 'Henri Camara')","(84, 0, 'Carl Cort')",,,,,,,,,
+2004-05-02,Aston Villa,Tottenham Hotspur,1,0,"(5, 0, 'Juan Pablo Angel')",,,,,,,,,,,
+2004-05-02,Bolton Wanderers,Leeds United,4,1,"(27, 1, 'Mark Viduka')","(47, 0, 'Youri Djorkaeff')","(53, 0, 'Youri Djorkaeff')","(55, 0, 'Ian Harte')","(78, 0, 'Kevin Nolan')",,,,,,,
+2004-05-02,Liverpool,Middlesbrough,2,0,"(49, 0, 'Danny Murphy')","(53, 0, 'Emile Heskey')",,,,,,,,,,
+2004-05-04,Portsmouth,Arsenal,1,1,"(30, 0, 'Ayegbeni Yakubu')","(50, 1, 'Jose Antonio Reyes')",,,,,,,,,,
+2004-05-08,Birmingham City,Liverpool,0,3,"(29, 1, 'Michael Owen')","(51, 1, 'Emile Heskey')","(86, 1, 'Steven Gerrard')",,,,,,,,,
+2004-05-08,Everton,Bolton Wanderers,1,2,"(14, 1, 'Youri Djorkaeff')","(68, 0, 'Duncan Ferguson')","(87, 1, 'Youri Djorkaeff')",,,,,,,,,
+2004-05-08,Leeds United,Charlton Athletic,3,3,"(11, 1, 'Matt Holland')","(29, 0, 'Matthew Kilgallon')","(41, 0, 'Jermaine Pennant')","(69, 0, 'Alan Smith')","(76, 1, 'Jason Euell')","(79, 1, 'Jason Euell')",,,,,,
+2004-05-08,Leicester City,Portsmouth,3,1,"(6, 0, 'Matt Taylor')","(27, 0, 'Paul Dickov')","(66, 1, 'Nigel Quashie')","(71, 0, 'James Scowcroft')",,,,,,,,
+2004-05-08,Manchester United,Chelsea,1,1,"(19, 1, 'Jesper Gronkjaer')","(77, 0, 'Ruud Van Nistelrooy')",,,,,,,,,,
+2004-05-08,Middlesbrough,Manchester City,2,1,"(8, 0, 'Massimo Maccarone')","(32, 0, 'Szilard Nemeth')","(35, 1, 'Paulo Wanchope')",,,,,,,,,
+2004-05-08,Southampton,Aston Villa,1,1,"(39, 1, 'Juan Pablo Angel')","(45, 0, 'Kevin Phillips')",,,,,,,,,,
+2004-05-08,Tottenham Hotspur,Blackburn Rovers,1,0,"(18, 0, 'Jermain Defoe')",,,,,,,,,,,
+2004-05-09,Fulham,Arsenal,0,1,"(9, 1, 'Jose Antonio Reyes')",,,,,,,,,,,
+2004-05-09,Newcastle United,Wolverhampton Wanderers,1,1,"(38, 0, 'Lee Bowyer')","(70, 1, 'Ioan Ganea')",,,,,,,,,,
+2004-05-12,Southampton,Newcastle United,3,3,"(7, 1, 'Shola Ameobi')","(19, 0, 'James Beattie')","(35, 1, 'Lee Bowyer')","(39, 0, 'Titus Bramble')","(88, 0, 'Leandre Griffit')","(90, 1, 'Darren Ambrose')",,,,,,
+2004-05-15,Arsenal,Leicester City,2,1,"(26, 1, 'Paul Dickov')","(47, 0, 'Thierry Henry')","(66, 0, 'Patrick Vieira')",,,,,,,,,
+2004-05-15,Aston Villa,Manchester United,0,2,"(4, 1, 'Cristiano Ronaldo')","(10, 1, 'Ruud Van Nistelrooy')",,,,,,,,,,
+2004-05-15,Blackburn Rovers,Birmingham City,1,1,"(24, 0, 'Andrew Cole')","(83, 1, 'Stern John')",,,,,,,,,,
+2004-05-15,Bolton Wanderers,Fulham,0,2,"(45, 1, 'Brian McBride')","(78, 1, 'Brian McBride')",,,,,,,,,,
+2004-05-15,Charlton Athletic,Southampton,2,1,"(36, 0, 'Jason Euell')","(53, 0, 'Carlton Cole')","(64, 1, 'David Prutton')",,,,,,,,,
+2004-05-15,Chelsea,Leeds United,1,0,"(20, 0, 'Jesper Gronkjaer')",,,,,,,,,,,
+2004-05-15,Liverpool,Newcastle United,1,1,"(25, 1, 'Shola Ameobi')","(67, 0, 'Michael Owen')",,,,,,,,,,
+2004-05-15,Manchester City,Everton,5,1,"(16, 0, 'Paulo Wanchope')","(30, 0, 'Paulo Wanchope')","(41, 0, 'Nicolas Anelka')","(60, 1, 'Kevin Campbell')","(89, 0, 'Antoine Sibierski')","(90, 0, 'Shaun Wright-Phillips')",,,,,,
+2004-05-15,Portsmouth,Middlesbrough,5,1,"(4, 0, 'Ayegbeni Yakubu')","(14, 0, 'Ayegbeni Yakubu')","(27, 1, 'Bolo Zenden')","(31, 0, 'Ayegbeni Yakubu')","(80, 0, 'Teddy Sheringham')","(83, 0, 'Ayegbeni Yakubu')",,,,,,
+2004-05-15,Wolverhampton Wanderers,Tottenham Hotspur,0,2,"(34, 1, 'Robbie Keane')","(57, 1, 'Jermain Defoe')",,,,,,,,,,

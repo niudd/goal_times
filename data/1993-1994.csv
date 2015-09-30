@@ -1,463 +1,463 @@
-Date,Home,Away,FTHG,FTAG
-15/08/1993,Norwich City,Manchester United,0,2,"(25, 1, 'Ryan Giggs')","(57, 1, 'Bryan Robson')"
-18/08/1993,Manchester United,Sheffield United,3,0,"(16, 0, 'Roy Keane')","(43, 0, 'Roy Keane')","(85, 0, 'Mark Hughes')"
-21/08/1993,Manchester United,Newcastle United,1,1,"(40, 0, 'Ryan Giggs')","(70, 1, 'Andrew Cole')"
-23/08/1993,Aston Villa,Manchester United,1,2,"(18, 1, 'Lee Sharpe')","(45, 0, 'Dalian Atkinson')","(75, 1, 'Lee Sharpe')"
-28/08/1993,Southampton,Manchester United,1,3,"(5, 1, 'Lee Sharpe')","(12, 0, 'Neil Maddison')","(15, 1, 'Eric Cantona')","(49, 1, 'Denis Irwin')"
-01/09/1993,Manchester United,West Ham United,3,0,"(6, 0, 'Lee Sharpe')","(45, 0, 'Eric Cantona')","(88, 0, 'Steve Bruce')"
-11/09/1993,Chelsea,Manchester United,1,0,"(17, 0, 'Gavin Peacock')"
-19/09/1993,Manchester United,Arsenal,1,0,"(37, 0, 'Eric Cantona')"
-25/09/1993,Manchester United,Swindon Town,4,2,"(4, 0, 'Andrei Kanchelskis')","(40, 0, 'Eric Cantona')","(50, 0, 'Mark Hughes')","(77, 1, 'Andy Mutch')","(87, 1, 'Paul Bodin')","(90, 0, 'Mark Hughes')"
-02/10/1993,Sheffield Wednesday,Manchester United,2,3,"(47, 0, 'Chris Bart-Williams')","(50, 1, 'Mark Hughes')","(66, 1, 'Mark Hughes')","(71, 1, 'Ryan Giggs')","(86, 0, 'Mark Bright')"
-16/10/1993,Manchester United,Tottenham Hotspur,2,1,"(65, 0, 'Roy Keane')","(68, 0, 'Lee Sharpe')","(72, 1, 'Darren Caskey')"
-23/10/1993,Everton,Manchester United,0,1,"(53, 1, 'Lee Sharpe')"
-30/10/1993,Manchester United,Queens Park Rangers,2,1,"(7, 1, 'Bradley Allen')","(52, 0, 'Eric Cantona')","(57, 0, 'Mark Hughes')"
-07/11/1993,Manchester City,Manchester United,2,3,"(21, 0, 'Niall Quinn')","(32, 0, 'Niall Quinn')","(52, 1, 'Eric Cantona')","(77, 1, 'Eric Cantona')","(86, 1, 'Roy Keane')"
-20/11/1993,Manchester United,Wimbledon,3,1,"(53, 0, 'Gary Pallister')","(62, 1, 'John Fashanu')","(64, 0, 'Mark Hughes')","(79, 0, 'Andrei Kanchelskis')"
-24/11/1993,Manchester United,Ipswich Town,0,0
-27/11/1993,Coventry City,Manchester United,0,1,"(60, 1, 'Eric Cantona')"
-04/12/1993,Manchester United,Norwich City,2,2,"(30, 0, 'Ryan Giggs')","(31, 1, 'Chris Sutton')","(41, 0, 'Brian McClair')","(47, 1, 'Ruel Fox')"
-07/12/1993,Sheffield United,Manchester United,0,3,"(13, 1, 'Mark Hughes')","(27, 1, 'Lee Sharpe')","(60, 1, 'Eric Cantona')"
-11/12/1993,Newcastle United,Manchester United,1,1,"(59, 1, 'Paul Ince')","(71, 0, 'Andrew Cole')"
-19/12/1993,Manchester United,Aston Villa,3,1,"(21, 0, 'Eric Cantona')","(89, 0, 'Eric Cantona')","(90, 0, 'Paul Ince')","(90, 1, 'Neil Cox')"
-26/12/1993,Manchester United,Blackburn Rovers,1,1,"(15, 1, 'Kevin Gallacher')","(88, 0, 'Paul Ince')"
-29/12/1993,Oldham Athletic,Manchester United,2,5,"(4, 1, 'Andrei Kanchelskis')","(15, 0, 'Graeme Sharp')","(18, 1, 'Eric Cantona')","(26, 0, 'Rick Holden')","(38, 1, 'Steve Bruce')","(54, 1, 'Ryan Giggs')","(60, 1, 'Ryan Giggs')"
-01/01/1994,Manchester United,Leeds United,0,0
-04/01/1994,Liverpool,Manchester United,3,3,"(8, 1, 'Steve Bruce')","(20, 1, 'Ryan Giggs')","(23, 1, 'Denis Irwin')","(25, 0, 'Nigel Clough')","(38, 0, 'Nigel Clough')","(79, 0, 'Neil Ruddock')"
-15/01/1994,Tottenham Hotspur,Manchester United,0,1,"(48, 1, 'Mark Hughes')"
-22/01/1994,Manchester United,Everton,1,0,"(26, 0, 'Ryan Giggs')"
-05/02/1994,Queens Park Rangers,Manchester United,2,3,"(18, 1, 'Andrei Kanchelskis')","(44, 0, 'Clive Wilson')","(45, 1, 'Eric Cantona')","(59, 1, 'Ryan Giggs')","(69, 0, 'Les Ferdinand')"
-26/02/1994,West Ham United,Manchester United,2,2,"(6, 1, 'Mark Hughes')","(69, 0, 'Lee Chapman')","(72, 0, 'Trevor Morley')","(87, 1, 'Paul Ince')"
-05/03/1994,Manchester United,Chelsea,0,1,"(64, 1, 'Gavin Peacock')"
-16/03/1994,Manchester United,Sheffield Wednesday,5,0,"(14, 0, 'Ryan Giggs')","(16, 0, 'Mark Hughes')","(21, 0, 'Paul Ince')","(45, 0, 'Eric Cantona')","(55, 0, 'Eric Cantona')"
-19/03/1994,Swindon Town,Manchester United,2,2,"(13, 1, 'Roy Keane')","(36, 0, 'Luc Nijholt')","(62, 1, 'Paul Ince')","(83, 0, 'Jan-Aage Fjortoft')"
-22/03/1994,Arsenal,Manchester United,2,2,"(10, 1, 'Lee Sharpe')","(36, 0, 'Gary Pallister')","(53, 1, 'Lee Sharpe')","(78, 0, 'Paul Merson')"
-30/03/1994,Manchester United,Liverpool,1,0,"(37, 0, 'Paul Ince')"
-02/04/1994,Blackburn Rovers,Manchester United,2,0,"(46, 0, 'Alan Shearer')","(76, 0, 'Alan Shearer')"
-04/04/1994,Manchester United,Oldham Athletic,3,2,"(17, 0, 'Ryan Giggs')","(49, 1, 'Sean McCarthy')","(66, 0, 'Dion Dublin')","(67, 0, 'Paul Ince')","(70, 1, 'Graeme Sharp')"
-16/04/1994,Wimbledon,Manchester United,1,0,"(20, 0, 'John Fashanu')"
-23/04/1994,Manchester United,Manchester City,2,0,"(40, 0, 'Eric Cantona')","(45, 0, 'Eric Cantona')"
-27/04/1994,Leeds United,Manchester United,0,2,"(47, 1, 'Andrei Kanchelskis')","(84, 1, 'Ryan Giggs')"
-01/05/1994,Ipswich Town,Manchester United,1,2,"(20, 0, 'Chris Kiwomya')","(36, 1, 'Eric Cantona')","(47, 1, 'Ryan Giggs')"
-04/05/1994,Manchester United,Southampton,2,0,"(60, 0, 'Andrei Kanchelskis')","(89, 0, 'Mark Hughes')"
-08/05/1994,Manchester United,Coventry City,0,0
-14/08/1993,Arsenal,Coventry City,0,3,"(34, 1, 'Mick Quinn')","(62, 1, 'Mick Quinn')","(65, 1, 'Mick Quinn')"
-16/08/1993,Tottenham Hotspur,Arsenal,0,1,"(86, 1, 'Ian Wright')"
-21/08/1993,Sheffield Wednesday,Arsenal,0,1,"(8, 1, 'Ian Wright')"
-24/08/1993,Arsenal,Leeds United,2,1,"(2, 0, 'Jon Newsome')","(57, 0, 'Paul Merson')","(70, 1, 'Gordon Strachan')"
-28/08/1993,Arsenal,Everton,2,0,"(48, 0, 'Ian Wright')","(78, 0, 'Ian Wright')"
-01/09/1993,Blackburn Rovers,Arsenal,1,1,"(37, 0, 'Kevin Gallacher')","(75, 1, 'Kevin Campbell')"
-11/09/1993,Arsenal,Ipswich Town,4,0,"(30, 0, 'Ian Wright')","(38, 0, 'Kevin Campbell')","(55, 0, 'Kevin Campbell')","(64, 0, 'Kevin Campbell')"
-25/09/1993,Arsenal,Southampton,1,0,"(45, 0, 'Paul Merson')"
-02/10/1993,Liverpool,Arsenal,0,0
-16/10/1993,Arsenal,Manchester City,0,0
-23/10/1993,Oldham Athletic,Arsenal,0,0
-30/10/1993,Arsenal,Norwich City,0,0
-06/11/1993,Arsenal,Aston Villa,1,2,"(58, 0, 'Ian Wright')","(74, 1, 'Guy Whittingham')","(90, 1, 'Andy Townsend')"
-20/11/1993,Chelsea,Arsenal,0,2,"(28, 1, 'Alan Smith')","(44, 1, 'Ian Wright')"
-24/11/1993,West Ham United,Arsenal,0,0
-27/11/1993,Arsenal,Newcastle United,2,1,"(15, 0, 'Ian Wright')","(60, 0, 'Alan Smith')","(61, 1, 'Peter Beardsley')"
-04/12/1993,Coventry City,Arsenal,1,0,"(78, 0, 'Mick Quinn')"
-06/12/1993,Arsenal,Tottenham Hotspur,1,1,"(25, 1, 'Darren Anderton')","(65, 0, 'Ian Wright')"
-12/12/1993,Arsenal,Sheffield Wednesday,1,0,"(90, 0, 'Ian Wright')"
-18/12/1993,Leeds United,Arsenal,2,1,"(21, 0, 'Gary McAllister')","(27, 1, 'Kevin Campbell')","(60, 0, 'Tony Adams')"
-27/12/1993,Swindon Town,Arsenal,0,4,"(19, 1, 'Kevin Campbell')","(26, 1, 'Kevin Campbell')","(68, 1, 'Kevin Campbell')","(90, 1, 'Ian Wright')"
-29/12/1993,Arsenal,Sheffield United,3,0,"(11, 0, 'Kevin Campbell')","(40, 0, 'Ian Wright')","(55, 0, 'Kevin Campbell')"
-01/01/1994,Wimbledon,Arsenal,0,3,"(18, 1, 'Kevin Campbell')","(23, 1, 'Ray Parlour')","(56, 1, 'Ian Wright')"
-03/01/1994,Arsenal,Queens Park Rangers,0,0
-15/01/1994,Manchester City,Arsenal,0,0
-22/01/1994,Arsenal,Oldham Athletic,1,1,"(4, 1, 'Graeme Sharp')","(45, 0, 'Ian Wright')"
-13/02/1994,Norwich City,Arsenal,1,1,"(33, 1, 'Kevin Campbell')","(57, 0, 'Efan Ekoku')"
-19/02/1994,Everton,Arsenal,1,1,"(56, 1, 'Paul Merson')","(80, 0, 'Tony Cottee')"
-26/02/1994,Arsenal,Blackburn Rovers,1,0,"(73, 0, 'Paul Merson')"
-05/03/1994,Ipswich Town,Arsenal,1,5,"(18, 1, 'Ian Wright')","(24, 1, 'Eddie Youds')","(40, 1, 'Ian Wright')","(52, 1, 'Ray Parlour')","(70, 0, 'Lee Dixon')","(86, 1, 'Ian Wright')"
-19/03/1994,Southampton,Arsenal,0,4,"(12, 1, 'Ian Wright')","(30, 1, 'Ian Wright')","(69, 1, 'Ian Wright')","(85, 1, 'Kevin Campbell')"
-26/03/1994,Arsenal,Liverpool,1,0,"(47, 0, 'Paul Merson')"
-02/04/1994,Arsenal,Swindon Town,1,1,"(4, 0, 'Alan Smith')","(29, 1, 'Paul Bodin')"
-04/04/1994,Sheffield United,Arsenal,1,1,"(54, 0, 'Paul Rogers')","(69, 1, 'Kevin Campbell')"
-16/04/1994,Arsenal,Chelsea,1,0,"(72, 0, 'Ian Wright')"
-19/04/1994,Arsenal,Wimbledon,1,1,"(37, 1, 'Robbie Earle')","(51, 0, 'Steve Bould')"
-23/04/1994,Aston Villa,Arsenal,1,2,"(29, 1, 'Ian Wright')","(57, 0, 'Ray Houghton')","(90, 1, 'Ian Wright')"
-27/04/1994,Queens Park Rangers,Arsenal,1,1,"(3, 0, 'Gary Penrice')","(46, 1, 'Paul Merson')"
-30/04/1994,Arsenal,West Ham United,0,2,"(77, 1, 'Trevor Morley')","(88, 1, 'Martin Allen')"
-07/05/1994,Newcastle United,Arsenal,2,0,"(46, 0, 'Andrew Cole')","(66, 0, 'Peter Beardsley')"
-14/08/1993,Liverpool,Sheffield Wednesday,2,0,"(39, 0, 'Nigel Clough')","(47, 0, 'Nigel Clough')"
-18/08/1993,Queens Park Rangers,Liverpool,1,3,"(18, 1, 'Ian Rush')","(24, 0, 'Ray Wilkins')","(38, 1, 'Steve Nicol')","(41, 1, 'Nigel Clough')"
-22/08/1993,Swindon Town,Liverpool,0,5,"(19, 1, 'Neil Ruddock')","(36, 1, 'Steve McManaman')","(63, 1, 'Steve McManaman')","(70, 1, 'Ronnie Whelan')","(80, 1, 'Mike Marsh')"
-25/08/1993,Liverpool,Tottenham Hotspur,1,2,"(17, 0, 'Nigel Clough')","(30, 1, 'Teddy Sheringham')","(42, 1, 'Teddy Sheringham')"
-28/08/1993,Liverpool,Leeds United,2,0,"(24, 0, 'Ian Rush')","(40, 0, 'Jan Molby')"
-01/09/1993,Coventry City,Liverpool,1,0,"(21, 0, 'Phil Babb')"
-12/09/1993,Liverpool,Blackburn Rovers,0,1,"(54, 1, 'Mike Newell')"
-18/09/1993,Everton,Liverpool,2,0,"(27, 0, 'Mark Ward')","(85, 0, 'Tony Cottee')"
-25/09/1993,Chelsea,Liverpool,1,0,"(48, 0, 'Neil Shipperley')"
-16/10/1993,Liverpool,Oldham Athletic,2,1,"(73, 1, 'Darren Beckford')","(87, 0, 'Robbie Fowler')","(90, 0, 'Andy Barlow')"
-23/10/1993,Manchester City,Liverpool,1,1,"(66, 0, 'David White')","(88, 1, 'Ian Rush')"
-30/10/1993,Liverpool,Southampton,4,2,"(14, 0, 'Robbie Fowler')","(29, 0, 'Robbie Fowler')","(40, 1, 'Matt Le Tissier')","(63, 0, 'Ian Rush')","(79, 1, 'Matt Le Tissier')","(85, 0, 'Robbie Fowler')"
-06/11/1993,Liverpool,West Ham United,2,0,"(57, 0, 'Nigel Clough')","(83, 0, 'Alvin Martin')"
-21/11/1993,Newcastle United,Liverpool,3,0,"(4, 0, 'Andrew Cole')","(15, 0, 'Andrew Cole')","(30, 0, 'Andrew Cole')"
-28/11/1993,Liverpool,Aston Villa,2,1,"(45, 0, 'Robbie Fowler')","(53, 1, 'Dalian Atkinson')","(63, 0, 'Jamie Redknapp')"
-04/12/1993,Sheffield Wednesday,Liverpool,3,1,"(30, 0, 'Neil Ruddock')","(37, 1, 'Robbie Fowler')","(58, 0, 'Mark Wright')","(80, 0, 'Mark Bright')"
-08/12/1993,Liverpool,Queens Park Rangers,3,2,"(10, 1, 'Les Ferdinand')","(25, 0, 'John Barnes')","(32, 0, 'Ian Rush')","(46, 1, 'Simon Barker')","(78, 0, 'Jan Molby')"
-11/12/1993,Liverpool,Swindon Town,2,2,"(60, 1, 'John Moncur')","(71, 0, 'John Barnes')","(74, 1, 'Keith Scott')","(86, 0, 'Mark Wright')"
-18/12/1993,Tottenham Hotspur,Liverpool,3,3,"(36, 0, 'Vinny Samways')","(48, 1, 'Robbie Fowler')","(51, 1, 'Jamie Redknapp')","(54, 1, 'Robbie Fowler')","(68, 0, 'Micky Hazard')","(76, 0, 'Darren Caskey')"
-26/12/1993,Sheffield United,Liverpool,0,0
-28/12/1993,Liverpool,Wimbledon,1,1,"(27, 0, 'John Scales')","(40, 1, 'John Fashanu')"
-01/01/1994,Ipswich Town,Liverpool,1,2,"(57, 1, 'Neil Ruddock')","(75, 0, 'Ian Marshall')","(87, 1, 'Ian Rush')"
-15/01/1994,Oldham Athletic,Liverpool,0,3,"(47, 1, 'Julian Dicks')","(53, 1, 'Robbie Fowler')","(79, 1, 'Jamie Redknapp')"
-22/01/1994,Liverpool,Manchester City,2,1,"(3, 1, 'Carl Griffiths')","(21, 0, 'Ian Rush')","(90, 0, 'Ian Rush')"
-05/02/1994,Norwich City,Liverpool,2,2,"(11, 0, 'Chris Sutton')","(52, 1, 'Ian Culverhouse')","(63, 0, 'Chris Sutton')","(76, 1, 'John Barnes')"
-14/02/1994,Southampton,Liverpool,4,2,"(1, 0, 'Matt Le Tissier')","(6, 0, 'Craig Maskell')","(42, 0, 'Matt Le Tissier')","(50, 0, 'Matt Le Tissier')","(69, 1, 'Julian Dicks')","(86, 1, 'Ian Rush')"
-19/02/1994,Leeds United,Liverpool,2,0,"(9, 0, 'David Wetherall')","(86, 0, 'Gary McAllister')"
-26/02/1994,Liverpool,Coventry City,1,0,"(3, 0, 'Ian Rush')"
-05/03/1994,Blackburn Rovers,Liverpool,2,0,"(17, 0, 'Jason Wilcox')","(65, 0, 'Tim Sherwood')"
-13/03/1994,Liverpool,Everton,2,1,"(21, 1, 'Dave Watson')","(22, 0, 'Ian Rush')","(44, 0, 'Robbie Fowler')"
-19/03/1994,Liverpool,Chelsea,2,1,"(8, 0, 'Ian Rush')","(18, 0, 'Craig Burley')","(50, 1, 'Craig Burley')"
-02/04/1994,Liverpool,Sheffield United,1,2,"(4, 0, 'Ian Rush')","(46, 1, 'Jostein Flo')","(72, 1, 'Jostein Flo')"
-04/04/1994,Wimbledon,Liverpool,1,1,"(64, 1, 'Jamie Redknapp')","(90, 0, 'Gary Elkins')"
-09/04/1994,Liverpool,Ipswich Town,1,0,"(75, 0, 'Julian Dicks')"
-16/04/1994,Liverpool,Newcastle United,0,2,"(3, 1, 'Rob Lee')","(56, 1, 'Andrew Cole')"
-23/04/1994,West Ham United,Liverpool,1,2,"(1, 0, 'Martin Allen')","(13, 1, 'Robbie Fowler')","(87, 1, 'Ian Rush')"
-30/04/1994,Liverpool,Norwich City,0,1,"(35, 1, 'Jeremy Goss')"
-07/05/1994,Aston Villa,Liverpool,2,1,"(17, 1, 'Robbie Fowler')","(65, 0, 'Dwight Yorke')","(81, 0, 'Dwight Yorke')"
-18/08/1993,Coventry City,Newcastle United,2,1,"(27, 1, 'Peter Atherton')","(58, 0, 'Peter Ndlovu')","(85, 0, 'Mick Harford')"
-21/08/1993,Coventry City,West Ham United,1,1,"(44, 1, 'Dale Gordon')","(57, 0, 'Roy Wegerle')"
-24/08/1993,Oldham Athletic,Coventry City,3,3,"(8, 1, 'John Williams')","(37, 0, 'Paul Bernard')","(48, 0, 'Andy Ritchie')","(63, 0, 'Ian Olney')","(74, 1, 'Peter Ndlovu')","(83, 1, 'Roy Wegerle')"
-27/08/1993,Manchester City,Coventry City,1,1,"(34, 0, 'Mike Sheron')","(85, 1, 'Roy Wegerle')"
-11/09/1993,Aston Villa,Coventry City,0,0
-18/09/1993,Coventry City,Chelsea,1,1,"(36, 1, 'Gavin Peacock')","(49, 0, 'Steve Morgan')"
-25/09/1993,Coventry City,Leeds United,0,2,"(20, 1, 'Rodney Wallace')","(48, 1, 'Rodney Wallace')"
-02/10/1993,Norwich City,Coventry City,1,0,"(45, 0, 'Ruel Fox')"
-16/10/1993,Coventry City,Southampton,1,1,"(56, 1, 'Simon Charlton')","(87, 0, 'Phil Babb')"
-23/10/1993,Queens Park Rangers,Coventry City,5,1,"(15, 0, 'Les Ferdinand')","(30, 0, 'Bradley Allen')","(45, 0, 'Bradley Allen')","(74, 0, 'Andy Impey')","(75, 1, 'Peter Ndlovu')","(88, 0, 'Simon Barker')"
-31/10/1993,Coventry City,Sheffield United,0,0
-06/11/1993,Coventry City,Everton,2,1,"(27, 0, 'Mick Quinn')","(49, 0, 'Mick Quinn')","(69, 1, 'Paul Rideout')"
-20/11/1993,Sheffield Wednesday,Coventry City,0,0
-23/11/1993,Blackburn Rovers,Coventry City,2,1,"(32, 0, 'Alan Shearer')","(62, 1, 'Peter Ndlovu')","(63, 0, 'Alan Shearer')"
-11/12/1993,West Ham United,Coventry City,3,2,"(11, 0, 'Tim Breacker')","(40, 0, 'Peter Butler')","(41, 1, 'Julian Darby')","(59, 0, 'Trevor Morley')","(76, 1, 'Julian Darby')"
-18/12/1993,Coventry City,Oldham Athletic,1,1,"(28, 0, 'Roy Wegerle')","(50, 1, 'Paul Bernard')"
-26/12/1993,Wimbledon,Coventry City,1,2,"(16, 1, 'Peter Ndlovu')","(38, 0, 'Dean Holdsworth')","(71, 1, 'John Williams')"
-01/01/1994,Tottenham Hotspur,Coventry City,1,2,"(25, 1, 'Phil Babb')","(43, 0, 'Darren Caskey')","(77, 1, 'Roy Wegerle')"
-03/01/1994,Coventry City,Swindon Town,1,1,"(73, 0, 'Roy Wegerle')","(90, 1, 'Andy Mutch')"
-15/01/1994,Southampton,Coventry City,1,0,"(44, 0, 'Matt Le Tissier')"
-22/01/1994,Coventry City,Queens Park Rangers,0,1,"(26, 1, 'Devon White')"
-02/02/1994,Coventry City,Ipswich Town,1,0,"(5, 0, 'Sean Flynn')"
-05/02/1994,Swindon Town,Coventry City,3,1,"(8, 0, 'Jan-Aage Fjortoft')","(35, 0, 'Jan-Aage Fjortoft')","(54, 1, 'Julian Darby')","(79, 0, 'Jan-Aage Fjortoft')"
-12/02/1994,Sheffield United,Coventry City,0,0
-19/02/1994,Coventry City,Manchester City,4,0,"(54, 0, 'David Rennie')","(75, 0, 'Mick Quinn')","(87, 0, 'John Williams')","(90, 0, 'Peter Ndlovu')"
-23/02/1994,Newcastle United,Coventry City,4,0,"(49, 0, 'Andrew Cole')","(70, 0, 'Andrew Cole')","(77, 0, 'Andrew Cole')","(86, 0, 'Alex Mathie')"
-06/03/1994,Coventry City,Aston Villa,0,1,"(20, 1, 'Tony Daley')"
-19/03/1994,Leeds United,Coventry City,1,0,"(53, 0, 'Rodney Wallace')"
-26/03/1994,Coventry City,Norwich City,2,1,"(25, 0, 'Sean Flynn')","(47, 1, 'Darren Eadie')","(70, 0, 'Mick Quinn')"
-02/04/1994,Coventry City,Wimbledon,1,2,"(31, 1, 'Stewart Castledine')","(40, 1, 'Dean Holdsworth')","(64, 0, 'Peter Ndlovu')"
-04/04/1994,Ipswich Town,Coventry City,0,2,"(55, 1, 'Sean Flynn')","(66, 1, 'Peter Ndlovu')"
-09/04/1994,Coventry City,Tottenham Hotspur,1,0,"(63, 0, 'Peter Ndlovu')"
-16/04/1994,Coventry City,Sheffield Wednesday,1,1,"(26, 0, 'Peter Ndlovu')","(50, 1, 'Ryan Jones')"
-23/04/1994,Everton,Coventry City,0,0
-02/05/1994,Coventry City,Blackburn Rovers,2,1,"(11, 0, 'Julian Darby')","(29, 1, 'Graeme Le Saux')","(55, 0, 'Julian Darby')"
-04/05/1994,Chelsea,Coventry City,1,2,"(32, 1, 'Peter Ndlovu')","(34, 1, 'Steve Morgan')","(43, 0, 'Tony Cascarino')"
-18/08/1993,Blackburn Rovers,Norwich City,2,3,"(7, 0, 'Mark Atkins')","(44, 1, 'Chris Sutton')","(55, 0, 'Jason Wilcox')","(63, 1, 'Rob Newman')","(65, 1, 'Chris Sutton')"
-21/08/1993,Leeds United,Norwich City,0,4,"(3, 1, 'Ruel Fox')","(41, 1, 'Chris Sutton')","(61, 1, 'Jeremy Goss')","(69, 1, 'Ruel Fox')"
-25/08/1993,Norwich City,Ipswich Town,1,0,"(28, 0, 'Jeremy Goss')"
-28/08/1993,Norwich City,Swindon Town,0,0
-01/09/1993,Sheffield Wednesday,Norwich City,3,3,"(51, 0, 'Chris Bart-Williams')","(59, 0, 'Mark Bright')","(62, 0, 'Andy Sinton')","(63, 1, 'Mark Bowen')","(72, 1, 'Efan Ekoku')","(76, 1, 'Chris Sutton')"
-11/09/1993,Norwich City,Wimbledon,0,1,"(56, 1, 'Lawrie Sanchez')"
-18/09/1993,Queens Park Rangers,Norwich City,2,2,"(23, 1, 'Alan McDonald')","(29, 0, 'Trevor Sinclair')","(37, 1, 'Darren Eadie')","(83, 0, 'Les Ferdinand')"
-25/09/1993,Everton,Norwich City,1,5,"(13, 0, 'Paul Rideout')","(44, 1, 'Efan Ekoku')","(57, 1, 'Efan Ekoku')","(63, 1, 'Efan Ekoku')","(69, 1, 'Efan Ekoku')","(77, 1, 'Chris Sutton')"
-16/10/1993,Chelsea,Norwich City,1,2,"(23, 1, 'Ruel Fox')","(69, 1, 'Chris Sutton')","(83, 0, 'Gavin Peacock')"
-23/10/1993,Norwich City,West Ham United,0,0
-06/11/1993,Sheffield United,Norwich City,1,2,"(26, 1, 'Jeremy Goss')","(43, 0, 'Dane Whitehouse')","(57, 1, 'Darren Eadie')"
-20/11/1993,Norwich City,Manchester City,1,1,"(57, 0, 'Ruel Fox')","(59, 1, 'Niall Quinn')"
-27/11/1993,Oldham Athletic,Norwich City,2,1,"(47, 0, 'Graeme Sharp')","(54, 1, 'Chris Sutton')","(62, 0, 'Chris Makin')"
-13/12/1993,Norwich City,Leeds United,2,1,"(44, 0, 'Chris Sutton')","(67, 1, 'Rodney Wallace')","(80, 0, 'Efan Ekoku')"
-18/12/1993,Ipswich Town,Norwich City,2,1,"(8, 0, 'John Wark')","(40, 1, 'Mark Bowen')","(90, 0, 'Gary Megson')"
-27/12/1993,Tottenham Hotspur,Norwich City,1,3,"(27, 1, 'Chris Sutton')","(36, 1, 'Efan Ekoku')","(74, 0, 'Nick Barmby')","(89, 1, 'Chris Sutton')"
-29/12/1993,Norwich City,Aston Villa,1,2,"(26, 0, 'Chris Sutton')","(55, 1, 'Ray Houghton')","(58, 1, 'Dean Saunders')"
-01/01/1994,Southampton,Norwich City,0,1,"(45, 1, 'Chris Sutton')"
-04/01/1994,Norwich City,Newcastle United,1,2,"(4, 0, 'Mark Bowen')","(20, 1, 'Peter Beardsley')","(79, 1, 'Andrew Cole')"
-15/01/1994,Norwich City,Chelsea,1,1,"(42, 1, 'Mark Stein')","(59, 0, 'Efan Ekoku')"
-24/01/1994,West Ham United,Norwich City,3,3,"(4, 1, 'Chris Sutton')","(37, 0, 'Martin Allen')","(46, 0, 'Steve Jones')","(57, 1, 'Chris Sutton')","(79, 1, 'Ruel Fox')","(84, 0, 'Trevor Morley')"
-19/02/1994,Swindon Town,Norwich City,3,3,"(15, 1, 'Chris Sutton')","(18, 0, 'Shaun Taylor')","(41, 1, 'Rob Newman')","(45, 0, 'Jan-Aage Fjortoft')","(50, 0, 'Jan-Aage Fjortoft')","(83, 1, 'Jeremy Goss')"
-22/02/1994,Norwich City,Blackburn Rovers,2,2,"(31, 1, 'Kevin Gallacher')","(39, 0, 'Chris Sutton')","(57, 0, 'Chris Sutton')","(58, 1, 'Kevin Gallacher')"
-26/02/1994,Norwich City,Sheffield Wednesday,1,1,"(75, 1, 'Gordon Watson')","(90, 0, 'Chris Sutton')"
-05/03/1994,Wimbledon,Norwich City,3,1,"(6, 1, 'Efan Ekoku')","(39, 0, 'Robbie Earle')","(65, 0, 'Robbie Earle')","(76, 0, 'Dean Holdsworth')"
-12/03/1994,Norwich City,Queens Park Rangers,3,4,"(9, 0, 'Efan Ekoku')","(49, 1, 'Simon Barker')","(55, 0, 'Efan Ekoku')","(64, 1, 'Darren Peacock')","(70, 1, 'Gary Penrice')","(84, 1, 'Devon White')","(88, 0, 'Mark Bowen')"
-21/03/1994,Norwich City,Everton,3,0,"(40, 0, 'Ian Culverhouse')","(49, 0, 'Chris Sutton')","(70, 0, 'Mark Bowen')"
-29/03/1994,Newcastle United,Norwich City,3,0,"(37, 0, 'Andrew Cole')","(50, 0, 'Rob Lee')","(70, 0, 'Peter Beardsley')"
-02/04/1994,Norwich City,Tottenham Hotspur,1,2,"(55, 1, 'Teddy Sheringham')","(70, 0, 'Chris Sutton')","(76, 1, 'Colin Woodthorpe')"
-04/04/1994,Aston Villa,Norwich City,0,0
-09/04/1994,Norwich City,Southampton,4,5,"(37, 0, 'Mark Robins')","(44, 1, 'Rob Ullathorne')","(48, 0, 'Jeremy Goss')","(55, 0, 'Chris Sutton')","(57, 1, 'Matt Le Tissier')","(63, 0, 'Chris Sutton')","(63, 1, 'Matt Le Tissier')","(72, 1, 'Matt Le Tissier')","(90, 1, 'Ken Monkou')"
-16/04/1994,Manchester City,Norwich City,1,1,"(14, 1, 'Rob Ullathorne')","(46, 0, 'Uwe Rosler')"
-23/04/1994,Norwich City,Sheffield United,0,1,"(31, 1, 'Nathan Blake')"
-07/05/1994,Norwich City,Oldham Athletic,1,1,"(14, 1, 'Sean McCarthy')","(72, 0, 'Rob Ullathorne')"
-14/08/1993,Aston Villa,Queens Park Rangers,4,1,"(38, 0, 'Dalian Atkinson')","(44, 1, 'Les Ferdinand')","(62, 0, 'Dean Saunders')","(89, 0, 'Dalian Atkinson')","(90, 0, 'Steve Staunton')"
-18/08/1993,Sheffield Wednesday,Aston Villa,0,0
-21/08/1993,Wimbledon,Aston Villa,2,2,"(18, 1, 'Kevin Richardson')","(40, 0, 'Dean Holdsworth')","(82, 1, 'Paul McGrath')","(86, 0, 'John Fashanu')"
-28/08/1993,Aston Villa,Tottenham Hotspur,1,0,"(71, 0, 'Steve Staunton')"
-31/08/1993,Everton,Aston Villa,0,1,"(32, 1, 'Guy Whittingham')"
-18/09/1993,Ipswich Town,Aston Villa,1,2,"(9, 0, 'Ian Marshall')","(19, 1, 'Dean Saunders')","(55, 1, 'Andy Townsend')"
-25/09/1993,Oldham Athletic,Aston Villa,1,1,"(14, 0, 'Gunnar Halle')","(51, 1, 'Dean Saunders')"
-02/10/1993,Aston Villa,Newcastle United,0,2,"(46, 1, 'Malcolm Allen')","(80, 1, 'Andrew Cole')"
-16/10/1993,West Ham United,Aston Villa,0,0
-23/10/1993,Aston Villa,Chelsea,1,0,"(6, 0, 'Dalian Atkinson')"
-30/10/1993,Swindon Town,Aston Villa,1,2,"(33, 0, 'Paul Bodin')","(43, 1, 'Shaun Teale')","(68, 1, 'Dalian Atkinson')"
-20/11/1993,Aston Villa,Sheffield United,1,0,"(76, 0, 'Guy Whittingham')"
-24/11/1993,Aston Villa,Southampton,0,2,"(50, 1, 'Matt Le Tissier')","(62, 1, 'Matt Le Tissier')"
-04/12/1993,Queens Park Rangers,Aston Villa,2,2,"(6, 0, 'Paul McGrath')","(26, 1, 'Kevin Richardson')","(40, 0, 'Gary Penrice')","(47, 1, 'Garry Parker')"
-08/12/1993,Aston Villa,Sheffield Wednesday,2,2,"(24, 1, 'Chris Bart-Williams')","(29, 0, 'Neil Cox')","(53, 0, 'Dean Saunders')","(69, 1, 'Shaun Teale')"
-11/12/1993,Aston Villa,Wimbledon,0,1,"(77, 1, 'Dean Holdsworth')"
-01/01/1994,Aston Villa,Blackburn Rovers,0,1,"(38, 1, 'Alan Shearer')"
-15/01/1994,Aston Villa,West Ham United,3,1,"(15, 0, 'Kevin Richardson')","(31, 1, 'Martin Allen')","(43, 0, 'Dalian Atkinson')","(68, 0, 'Dalian Atkinson')"
-22/01/1994,Chelsea,Aston Villa,1,1,"(40, 1, 'Dean Saunders')","(67, 0, 'Mark Stein')"
-06/02/1994,Aston Villa,Leeds United,1,0,"(71, 0, 'Andy Townsend')"
-12/02/1994,Aston Villa,Swindon Town,5,0,"(31, 0, 'Dean Saunders')","(55, 0, 'Steve Froggatt')","(66, 0, 'Dean Saunders')","(73, 0, 'Kevin Richardson')","(84, 0, 'Dean Saunders')"
-22/02/1994,Aston Villa,Manchester City,0,0
-02/03/1994,Tottenham Hotspur,Aston Villa,1,1,"(8, 1, 'Garry Parker')","(73, 0, 'Ronny Rosenthal')"
-12/03/1994,Aston Villa,Ipswich Town,0,1,"(8, 1, 'Gavin Johnson')"
-16/03/1994,Leeds United,Aston Villa,2,0,"(27, 0, 'Rodney Wallace')","(51, 0, 'Brian Deane')"
-19/03/1994,Aston Villa,Oldham Athletic,1,2,"(58, 0, 'Steve Redmond')","(61, 1, 'Darren Beckford')","(74, 1, 'Rick Holden')"
-30/03/1994,Aston Villa,Everton,0,0
-02/04/1994,Manchester City,Aston Villa,3,0,"(39, 0, 'Peter Beagrie')","(45, 0, 'Paul Walsh')","(53, 0, 'Uwe Rosler')"
-11/04/1994,Blackburn Rovers,Aston Villa,1,0,"(10, 0, 'Alan Shearer')"
-16/04/1994,Sheffield United,Aston Villa,1,2,"(17, 0, 'Adrian Littlejohn')","(23, 1, 'Kevin Richardson')","(25, 1, 'Graham Fenton')"
-27/04/1994,Newcastle United,Aston Villa,5,1,"(10, 1, 'Stefan Beinlich')","(15, 0, 'Paul Bracewell')","(23, 0, 'Peter Beardsley')","(41, 0, 'Andrew Cole')","(66, 0, 'Peter Beardsley')","(79, 0, 'Scott Sellars')"
-30/04/1994,Southampton,Aston Villa,4,1,"(19, 0, 'Matt Le Tissier')","(31, 0, 'Ken Monkou')","(57, 1, 'Dean Saunders')","(76, 0, 'Matt Le Tissier')","(85, 0, 'Neil Maddison')"
-14/08/1993,Oldham Athletic,Ipswich Town,0,3,"(41, 1, 'Ian Marshall')","(45, 1, 'Steve Palmer')","(69, 1, 'Paul Mason')"
-17/08/1993,Ipswich Town,Southampton,1,0,"(58, 0, 'Ian Marshall')"
-21/08/1993,Ipswich Town,Chelsea,1,0,"(34, 0, 'Ian Marshall')"
-28/08/1993,Sheffield United,Ipswich Town,1,1,"(25, 0, 'Jostein Flo')","(89, 1, 'Steve Whitton')"
-31/08/1993,Ipswich Town,Newcastle United,1,1,"(47, 1, 'Andrew Cole')","(77, 0, 'Chris Kiwomya')"
-26/09/1993,Ipswich Town,Tottenham Hotspur,2,2,"(28, 1, 'Teddy Sheringham')","(58, 0, 'Simon Milton')","(80, 0, 'Ian Marshall')","(87, 1, 'Jason Dozzell')"
-02/10/1993,Queens Park Rangers,Ipswich Town,3,0,"(57, 0, 'Devon White')","(63, 0, 'Devon White')","(65, 0, 'Simon Barker')"
-17/10/1993,Ipswich Town,Leeds United,0,0
-25/10/1993,Wimbledon,Ipswich Town,0,2,"(72, 1, 'Paul Mason')","(81, 1, 'Micky Stockwell')"
-30/10/1993,Ipswich Town,Everton,0,2,"(13, 1, 'Stuart Barlow')","(61, 1, 'Peter Beagrie')"
-06/11/1993,Ipswich Town,Sheffield Wednesday,1,4,"(19, 1, 'Nigel Jemson')","(50, 1, 'Nigel Jemson')","(54, 1, 'Mark Bright')","(76, 1, 'Carlton Palmer')","(81, 0, 'Ian Marshall')"
-20/11/1993,Swindon Town,Ipswich Town,2,2,"(17, 1, 'John Wark')","(45, 0, 'Keith Scott')","(63, 1, 'John Wark')","(83, 0, 'Paul Bodin')"
-27/11/1993,Ipswich Town,Blackburn Rovers,1,0,"(40, 0, 'Eddie Youds')"
-04/12/1993,Ipswich Town,Oldham Athletic,0,0
-08/12/1993,Southampton,Ipswich Town,0,1,"(54, 1, 'Chris Kiwomya')"
-11/12/1993,Chelsea,Ipswich Town,1,1,"(23, 0, 'Gavin Peacock')","(60, 1, 'Chris Kiwomya')"
-27/12/1993,Ipswich Town,West Ham United,1,1,"(36, 0, 'David Linighan')","(77, 1, 'Lee Chapman')"
-15/01/1994,Leeds United,Ipswich Town,0,0
-22/01/1994,Ipswich Town,Wimbledon,0,0
-05/02/1994,Manchester City,Ipswich Town,2,1,"(16, 1, 'Ian Marshall')","(31, 0, 'Carl Griffiths')","(71, 0, 'Garry Flitcroft')"
-12/02/1994,Everton,Ipswich Town,0,0
-22/02/1994,Ipswich Town,Sheffield United,3,2,"(2, 0, 'David Linighan')","(8, 0, 'Ian Marshall')","(23, 1, 'Alan Cork')","(35, 0, 'Stuart Slater')","(49, 1, 'Franz Carr')"
-19/03/1994,Tottenham Hotspur,Ipswich Town,1,1,"(11, 1, 'Chris Kiwomya')","(55, 0, 'Nick Barmby')"
-23/03/1994,Newcastle United,Ipswich Town,2,0,"(37, 0, 'Scott Sellars')","(73, 0, 'Andrew Cole')"
-26/03/1994,Ipswich Town,Queens Park Rangers,1,3,"(64, 1, 'Andy Impey')","(68, 1, 'Andy Impey')","(70, 1, 'Les Ferdinand')","(90, 0, 'Bontcho Guentchev')"
-29/03/1994,Ipswich Town,Manchester City,2,2,"(23, 0, 'David Linighan')","(32, 1, 'Paul Walsh')","(61, 1, 'Uwe Rosler')","(67, 0, 'Bontcho Guentchev')"
-02/04/1994,West Ham United,Ipswich Town,2,1,"(17, 0, 'Matthew Rush')","(75, 0, 'Trevor Morley')","(87, 1, 'Paul Mason')"
-16/04/1994,Ipswich Town,Swindon Town,1,1,"(14, 1, 'Jan-Aage Fjortoft')","(60, 0, 'Ian Marshall')"
-23/04/1994,Sheffield Wednesday,Ipswich Town,5,0,"(6, 0, 'David Linighan')","(16, 0, 'Gordon Watson')","(56, 0, 'Andy Pearce')","(69, 0, 'Chris Bart-Williams')","(90, 0, 'Mark Bright')"
-07/05/1994,Blackburn Rovers,Ipswich Town,0,0
-14/08/1993,Chelsea,Blackburn Rovers,1,2,"(46, 0, 'Gavin Peacock')","(63, 1, 'Stuart Ripley')","(78, 1, 'Mike Newell')"
-21/08/1993,Blackburn Rovers,Oldham Athletic,1,0,"(9, 0, 'Kevin Moran')"
-24/08/1993,Manchester City,Blackburn Rovers,0,2,"(10, 1, 'Mike Newell')","(50, 1, 'Kevin Gallacher')"
-29/08/1993,Newcastle United,Blackburn Rovers,1,1,"(60, 0, 'Andrew Cole')","(75, 1, 'Alan Shearer')"
-18/09/1993,Blackburn Rovers,West Ham United,0,2,"(33, 1, 'Lee Chapman')","(71, 1, 'Trevor Morley')"
-25/09/1993,Blackburn Rovers,Sheffield Wednesday,1,1,"(55, 1, 'Graham Hyde')","(81, 0, 'Alan Shearer')"
-02/10/1993,Swindon Town,Blackburn Rovers,1,3,"(15, 1, 'Alan Shearer')","(32, 0, 'Shaun Taylor')","(51, 1, 'Stuart Ripley')","(90, 1, 'Alan Shearer')"
-18/10/1993,Blackburn Rovers,Sheffield United,0,0
-23/10/1993,Leeds United,Blackburn Rovers,3,3,"(25, 1, 'Alan Shearer')","(46, 1, 'Alan Shearer')","(56, 0, 'Gary McAllister')","(75, 1, 'Alan Shearer')","(82, 0, 'Jon Newsome')","(85, 0, 'Tim Sherwood')"
-30/10/1993,Blackburn Rovers,Tottenham Hotspur,1,0,"(15, 0, 'Alan Shearer')"
-06/11/1993,Queens Park Rangers,Blackburn Rovers,1,0,"(82, 0, 'Les Ferdinand')"
-20/11/1993,Blackburn Rovers,Southampton,2,0,"(24, 0, 'Alan Shearer')","(77, 0, 'Alan Shearer')"
-05/12/1993,Blackburn Rovers,Chelsea,2,0,"(15, 0, 'Graeme Le Saux')","(90, 0, 'Alan Shearer')"
-11/12/1993,Oldham Athletic,Blackburn Rovers,1,2,"(27, 1, 'Alan Shearer')","(40, 0, 'Rick Holden')","(49, 1, 'Alan Shearer')"
-18/12/1993,Blackburn Rovers,Manchester City,2,0,"(13, 0, 'Kevin Gallacher')","(76, 0, 'Alan Shearer')"
-29/12/1993,Blackburn Rovers,Everton,2,0,"(24, 0, 'Alan Shearer')","(42, 0, 'Alan Shearer')"
-15/01/1994,Sheffield United,Blackburn Rovers,1,2,"(18, 0, 'Andy Scott')","(38, 1, 'Alan Shearer')","(64, 1, 'Alan Shearer')"
-23/01/1994,Blackburn Rovers,Leeds United,2,1,"(11, 0, 'Alan Shearer')","(77, 1, 'Gary Speed')","(90, 0, 'Alan Shearer')"
-05/02/1994,Blackburn Rovers,Wimbledon,3,0,"(7, 0, 'Alan Shearer')","(30, 0, 'Jason Wilcox')","(39, 0, 'Stuart Ripley')"
-12/02/1994,Tottenham Hotspur,Blackburn Rovers,0,2,"(60, 1, 'Alan Shearer')","(72, 1, 'Kevin Gallacher')"
-19/02/1994,Blackburn Rovers,Newcastle United,1,0,"(76, 0, 'David May')"
-20/03/1994,Sheffield Wednesday,Blackburn Rovers,1,2,"(18, 1, 'Jason Wilcox')","(40, 0, 'Gordon Watson')","(89, 1, 'Mike Newell')"
-26/03/1994,Blackburn Rovers,Swindon Town,3,1,"(4, 1, 'Jan-Aage Fjortoft')","(6, 0, 'Alan Shearer')","(27, 0, 'Tim Sherwood')","(82, 0, 'Alan Shearer')"
-29/03/1994,Wimbledon,Blackburn Rovers,4,1,"(15, 1, 'Jason Wilcox')","(51, 0, 'John Fashanu')","(76, 0, 'Henning Berg')","(80, 0, 'Dean Holdsworth')","(83, 0, 'Robbie Earle')"
-04/04/1994,Everton,Blackburn Rovers,0,3,"(27, 1, 'Mike Newell')","(60, 1, 'Jason Wilcox')","(81, 1, 'Mike Newell')"
-16/04/1994,Southampton,Blackburn Rovers,3,1,"(28, 0, 'Iain Dowie')","(38, 0, 'Paul Allen')","(48, 1, 'Stuart Ripley')","(69, 0, 'Matt Le Tissier')"
-24/04/1994,Blackburn Rovers,Queens Park Rangers,1,1,"(45, 0, 'Alan Shearer')","(84, 1, 'Karl Ready')"
-27/04/1994,West Ham United,Blackburn Rovers,1,2,"(11, 1, 'Henning Berg')","(64, 0, 'Martin Allen')","(74, 1, 'Ian Pearce')"
-14/08/1993,Newcastle United,Tottenham Hotspur,0,1,"(36, 1, 'Teddy Sheringham')"
-21/08/1993,Tottenham Hotspur,Manchester City,1,0,"(70, 0, 'Steve Sedgley')"
-01/09/1993,Tottenham Hotspur,Chelsea,1,1,"(23, 1, 'Tony Cascarino')","(85, 0, 'Teddy Sheringham')"
-11/09/1993,Sheffield United,Tottenham Hotspur,2,2,"(15, 1, 'Teddy Sheringham')","(47, 0, 'Adrian Littlejohn')","(51, 1, 'Teddy Sheringham')","(62, 0, 'Adrian Littlejohn')"
-18/09/1993,Tottenham Hotspur,Oldham Athletic,5,0,"(5, 0, 'Steve Sedgley')","(6, 0, 'Teddy Sheringham')","(7, 0, 'Teddy Sheringham')","(62, 0, 'Gordon Durie')","(86, 0, 'Jason Dozzell')"
-03/10/1993,Tottenham Hotspur,Everton,3,2,"(15, 1, 'Paul Rideout')","(58, 0, 'Teddy Sheringham')","(67, 1, 'Tony Cottee')","(88, 0, 'Darren Anderton')","(90, 0, 'Darren Caskey')"
-23/10/1993,Tottenham Hotspur,Swindon Town,1,1,"(50, 0, 'Jason Dozzell')","(63, 1, 'Paul Bodin')"
-06/11/1993,Southampton,Tottenham Hotspur,1,0,"(60, 0, 'Neil Maddison')"
-20/11/1993,Tottenham Hotspur,Leeds United,1,1,"(52, 1, 'Brian Deane')","(80, 0, 'Darren Anderton')"
-24/11/1993,Tottenham Hotspur,Wimbledon,1,1,"(5, 0, 'Nick Barmby')","(71, 1, 'Dean Holdsworth')"
-27/11/1993,Queens Park Rangers,Tottenham Hotspur,1,1,"(2, 0, 'Les Ferdinand')","(87, 1, 'Darren Anderton')"
-04/12/1993,Tottenham Hotspur,Newcastle United,1,2,"(54, 1, 'Peter Beardsley')","(60, 0, 'Nick Barmby')","(89, 1, 'Peter Beardsley')"
-11/12/1993,Manchester City,Tottenham Hotspur,0,2,"(64, 1, 'Jason Dozzell')","(88, 1, 'Jason Dozzell')"
-28/12/1993,West Ham United,Tottenham Hotspur,1,3,"(11, 0, 'Matty Holmes')","(34, 1, 'Jason Dozzell')","(42, 1, 'Micky Hazard')","(77, 1, 'Darren Anderton')"
-03/01/1994,Sheffield Wednesday,Tottenham Hotspur,1,0,"(5, 0, 'Mark Bright')"
-22/01/1994,Swindon Town,Tottenham Hotspur,2,1,"(30, 1, 'Nick Barmby')","(38, 0, 'Jan-Aage Fjortoft')","(80, 0, 'Adrian Whitbread')"
-05/02/1994,Tottenham Hotspur,Sheffield Wednesday,1,3,"(17, 1, 'Simon Coleman')","(53, 1, 'Mark Bright')","(61, 1, 'Mark Bright')","(65, 0, 'Ronny Rosenthal')"
-27/02/1994,Chelsea,Tottenham Hotspur,4,3,"(17, 1, 'Steve Sedgley')","(18, 1, 'Jason Dozzell')","(29, 0, 'Mal Donaghy')","(33, 0, 'Mark Stein')","(40, 0, 'John Spencer')","(72, 1, 'Andy A Gray')","(89, 0, 'Mark Stein')"
-05/03/1994,Tottenham Hotspur,Sheffield United,2,2,"(56, 1, 'Brian Gayle')","(63, 0, 'Kevin Scott')","(85, 1, 'Nathan Blake')","(90, 0, 'Jason Dozzell')"
-26/03/1994,Everton,Tottenham Hotspur,0,1,"(70, 1, 'Steve Sedgley')"
-04/04/1994,Tottenham Hotspur,West Ham United,1,4,"(37, 1, 'Steve Jones')","(60, 1, 'Trevor Morley')","(65, 0, 'Teddy Sheringham')","(72, 1, 'Trevor Morley')","(79, 1, 'Mike Marsh')"
-17/04/1994,Leeds United,Tottenham Hotspur,2,0,"(61, 0, 'Rodney Wallace')","(88, 0, 'Rodney Wallace')"
-23/04/1994,Tottenham Hotspur,Southampton,3,0,"(4, 0, 'Steve Sedgley')","(66, 0, 'Vinny Samways')","(88, 0, 'Darren Anderton')"
-30/04/1994,Wimbledon,Tottenham Hotspur,2,1,"(58, 0, 'Dean Holdsworth')","(63, 0, 'Andy Clarke')","(72, 1, 'Teddy Sheringham')"
-05/05/1994,Oldham Athletic,Tottenham Hotspur,0,2,"(37, 1, 'Vinny Samways')","(78, 1, 'David Howells')"
-07/05/1994,Tottenham Hotspur,Queens Park Rangers,1,2,"(36, 1, 'Trevor Sinclair')","(39, 0, 'Teddy Sheringham')","(77, 1, 'Trevor Sinclair')"
-14/08/1993,Southampton,Everton,0,2,"(10, 1, 'Peter Beagrie')","(45, 1, 'John Ebbrell')"
-17/08/1993,Everton,Manchester City,1,0,"(18, 0, 'Paul Rideout')"
-21/08/1993,Everton,Sheffield United,4,2,"(1, 1, 'Dane Whitehouse')","(35, 0, 'Tony Cottee')","(45, 0, 'John Ebbrell')","(83, 0, 'Tony Cottee')","(89, 1, 'Alan Cork')","(90, 0, 'Tony Cottee')"
-25/08/1993,Newcastle United,Everton,1,0,"(18, 0, 'Malcolm Allen')"
-11/09/1993,Oldham Athletic,Everton,0,1,"(32, 1, 'Tony Cottee')"
-16/10/1993,Swindon Town,Everton,1,1,"(27, 1, 'Peter Beagrie')","(89, 0, 'Shaun Taylor')"
-20/11/1993,Everton,Queens Park Rangers,0,3,"(26, 1, 'Bradley Allen')","(50, 1, 'Bradley Allen')","(83, 1, 'Bradley Allen')"
-23/11/1993,Everton,Leeds United,1,1,"(53, 1, 'Rodney Wallace')","(66, 0, 'Tony Cottee')"
-27/11/1993,Wimbledon,Everton,1,1,"(33, 1, 'Stuart Barlow')","(49, 0, 'Greg Berry')"
-04/12/1993,Everton,Southampton,1,0,"(35, 0, 'Tony Cottee')"
-08/12/1993,Manchester City,Everton,1,0,"(10, 0, 'Carl Griffiths')"
-11/12/1993,Sheffield United,Everton,0,0
-18/12/1993,Everton,Newcastle United,0,2,"(14, 1, 'Andrew Cole')","(76, 1, 'Peter Beardsley')"
-27/12/1993,Everton,Sheffield Wednesday,0,2,"(34, 1, 'Mark Bright')","(44, 1, 'Carlton Palmer')"
-01/01/1994,Everton,West Ham United,0,1,"(5, 1, 'Tim Breacker')"
-03/01/1994,Chelsea,Everton,4,2,"(22, 0, 'Craig Burley')","(40, 0, 'Mark Stein')","(46, 1, 'Tony Cottee')","(55, 1, 'Stuart Barlow')","(62, 0, 'Neil Shipperley')","(86, 0, 'Mark Stein')"
-15/01/1994,Everton,Swindon Town,6,2,"(4, 0, 'John Ebbrell')","(42, 0, 'Tony Cottee')","(56, 1, 'John Moncur')","(60, 1, 'Paul Bodin')","(72, 0, 'Gary Ablett')","(82, 0, 'Tony Cottee')","(89, 0, 'Tony Cottee')","(90, 0, 'Peter Beagrie')"
-05/02/1994,Everton,Chelsea,4,2,"(4, 0, 'John Ebbrell')","(23, 1, 'Mark Stein')","(36, 0, 'Paul Rideout')","(38, 0, 'Paul Rideout')","(85, 0, 'Brett Angell')","(88, 1, 'Mark Stein')"
-05/03/1994,Everton,Oldham Athletic,2,1,"(40, 0, 'Preki Radosavljevic')","(43, 1, 'Graeme Sharp')","(61, 0, 'Graham Stuart')"
-02/04/1994,Sheffield Wednesday,Everton,5,1,"(11, 0, 'Ryan Jones')","(43, 0, 'Chris Bart-Williams')","(76, 0, 'Nigel Worthington')","(76, 1, 'Tony Cottee')","(81, 0, 'Mark Bright')","(87, 0, 'Mark Bright')"
-09/04/1994,West Ham United,Everton,0,1,"(71, 1, 'Tony Cottee')"
-16/04/1994,Queens Park Rangers,Everton,2,1,"(64, 1, 'Tony Cottee')","(67, 0, 'Devon White')","(87, 0, 'Les Ferdinand')"
-30/04/1994,Leeds United,Everton,3,0,"(72, 0, 'Gary McAllister')","(82, 0, 'Dave Watson')","(90, 0, 'David White')"
-07/05/1994,Everton,Wimbledon,3,2,"(4, 1, 'Dean Holdsworth')","(20, 1, 'Gary Ablett')","(24, 0, 'Graham Stuart')","(67, 0, 'Barry Horne')","(81, 0, 'Graham Stuart')"
-21/08/1993,Queens Park Rangers,Southampton,2,1,"(13, 0, 'Gary Penrice')","(46, 0, 'Clive Wilson')","(88, 1, 'Iain Dowie')"
-25/08/1993,Chelsea,Queens Park Rangers,2,0,"(18, 0, 'Gavin Peacock')","(51, 0, 'Tony Cascarino')"
-28/08/1993,West Ham United,Queens Park Rangers,0,4,"(12, 1, 'Darren Peacock')","(47, 1, 'Les Ferdinand')","(53, 1, 'Gary Penrice')","(71, 1, 'Les Ferdinand')"
-01/09/1993,Queens Park Rangers,Sheffield United,2,1,"(10, 1, 'Jostein Flo')","(15, 0, 'Trevor Sinclair')","(63, 0, 'Clive Wilson')"
-11/09/1993,Manchester City,Queens Park Rangers,3,0,"(17, 0, 'Niall Quinn')","(37, 0, 'Mike Sheron')","(70, 0, 'Garry Flitcroft')"
-27/09/1993,Wimbledon,Queens Park Rangers,1,1,"(18, 1, 'Alan McDonald')","(42, 0, 'Les Ferdinand')"
-16/10/1993,Newcastle United,Queens Park Rangers,1,2,"(10, 1, 'Les Ferdinand')","(48, 0, 'Malcolm Allen')","(50, 1, 'Bradley Allen')"
-24/11/1993,Swindon Town,Queens Park Rangers,1,0,"(37, 0, 'Keith Scott')"
-11/12/1993,Southampton,Queens Park Rangers,0,1,"(2, 1, 'Les Ferdinand')"
-27/12/1993,Queens Park Rangers,Oldham Athletic,2,0,"(56, 0, 'Devon White')","(75, 0, 'Gary Penrice')"
-29/12/1993,Leeds United,Queens Park Rangers,1,1,"(62, 1, 'Michael Meaker')","(71, 0, 'Steve Hodge')"
-01/01/1994,Queens Park Rangers,Sheffield Wednesday,1,2,"(70, 0, 'Les Ferdinand')","(78, 1, 'Mark Bright')","(79, 1, 'Gordon Watson')"
-16/01/1994,Queens Park Rangers,Newcastle United,1,2,"(4, 1, 'Lee Clark')","(20, 0, 'Gary Penrice')","(62, 1, 'Peter Beardsley')"
-05/03/1994,Queens Park Rangers,Manchester City,1,1,"(28, 0, 'Gary Penrice')","(55, 1, 'David Rocastle')"
-16/03/1994,Sheffield United,Queens Park Rangers,1,1,"(12, 1, 'Simon Barker')","(48, 0, 'Nathan Blake')"
-19/03/1994,Queens Park Rangers,Wimbledon,1,0,"(70, 0, 'Darren Peacock')"
-02/04/1994,Oldham Athletic,Queens Park Rangers,4,1,"(35, 1, 'Les Ferdinand')","(44, 0, 'Richard Jobson')","(46, 0, 'Darren Beckford')","(52, 0, 'Sean McCarthy')","(89, 0, 'Alan McCarthy')"
-04/04/1994,Queens Park Rangers,Leeds United,0,4,"(9, 1, 'Brian Deane')","(44, 1, 'Rodney Wallace')","(53, 1, 'David White')","(84, 1, 'David White')"
-09/04/1994,Sheffield Wednesday,Queens Park Rangers,3,1,"(7, 0, 'Mark Bright')","(21, 0, 'John Sheridan')","(31, 0, 'Mark Bright')","(90, 1, 'Devon White')"
-13/04/1994,Queens Park Rangers,Chelsea,1,1,"(66, 0, 'Les Ferdinand')","(79, 1, 'Dennis Wise')"
-30/04/1994,Queens Park Rangers,Swindon Town,1,3,"(63, 1, 'Shaun Taylor')","(71, 0, 'Les Ferdinand')","(76, 1, 'Jan-Aage Fjortoft')","(89, 1, 'Nicky Summerbee')"
-03/05/1994,Queens Park Rangers,West Ham United,0,0
-14/08/1993,Sheffield United,Swindon Town,3,1,"(21, 0, 'Willie Falconer')","(46, 1, 'John Moncur')","(76, 0, 'Carl Bradshaw')","(83, 0, 'Paul Rogers')"
-24/08/1993,Sheffield United,Wimbledon,2,1,"(43, 0, 'Jostein Flo')","(58, 0, 'Willie Falconer')","(59, 1, 'Andy Clarke')"
-18/09/1993,Leeds United,Sheffield United,2,1,"(5, 0, 'Gary McAllister')","(29, 0, 'Gordon Strachan')","(45, 1, 'Garry Kelly')"
-25/09/1993,Sheffield United,Manchester City,0,1,"(56, 1, 'Mike Sheron')"
-02/10/1993,Southampton,Sheffield United,3,3,"(29, 0, 'Ken Monkou')","(53, 0, 'Neil Maddison')","(72, 1, 'Willie Falconer')","(77, 0, 'Jeff Kenna')","(80, 1, 'Jostein Flo')","(90, 1, 'Jostein Flo')"
-23/10/1993,Sheffield United,Sheffield Wednesday,1,1,"(7, 0, 'Glyn Hodges')","(12, 1, 'Carlton Palmer')"
-24/11/1993,Newcastle United,Sheffield United,4,0,"(9, 0, 'Scott Sellars')","(12, 0, 'Peter Beardsley')","(70, 0, 'Andrew Cole')","(73, 0, 'Peter Beardsley')"
-27/11/1993,Sheffield United,Chelsea,1,0,"(32, 0, 'Willie Falconer')"
-04/12/1993,Swindon Town,Sheffield United,0,0
-18/12/1993,Wimbledon,Sheffield United,2,0,"(50, 0, 'Warren Barton')","(67, 0, 'Dean Holdsworth')"
-01/01/1994,Sheffield United,Oldham Athletic,2,1,"(23, 0, 'Dane Whitehouse')","(32, 0, 'Mitch Ward')","(45, 1, 'Richard Jobson')"
-03/01/1994,West Ham United,Sheffield United,0,0
-22/01/1994,Sheffield Wednesday,Sheffield United,3,1,"(58, 0, 'Mark Bright')","(61, 0, 'Andy Pearce')","(70, 0, 'Gordon Watson')","(87, 1, 'Dane Whitehouse')"
-13/03/1994,Sheffield United,Leeds United,2,2,"(28, 1, 'Gary Speed')","(58, 1, 'Brian Deane')","(74, 0, 'Jostein Flo')","(89, 0, 'Jostein Flo')"
-19/03/1994,Manchester City,Sheffield United,0,0
-26/03/1994,Sheffield United,Southampton,0,0
-28/03/1994,Sheffield United,West Ham United,3,2,"(9, 1, 'Ian Bishop')","(30, 1, 'Matty Holmes')","(40, 0, 'Dane Whitehouse')","(48, 0, 'Brian Gayle')","(73, 0, 'Paul Rogers')"
-30/04/1994,Sheffield United,Newcastle United,2,0,"(63, 0, 'Nathan Blake')","(90, 0, 'Nathan Blake')"
-03/05/1994,Oldham Athletic,Sheffield United,1,1,"(9, 1, 'Alan Cork')","(24, 0, 'Darren Beckford')"
-07/05/1994,Chelsea,Sheffield United,3,2,"(29, 1, 'Jostein Flo')","(58, 0, 'Jakob Kjeldberg')","(60, 1, 'Glyn Hodges')","(76, 0, 'Mark Stein')","(90, 0, 'Mark Stein')"
-14/08/1993,Manchester City,Leeds United,1,1,"(86, 0, 'Garry Flitcroft')","(90, 1, 'Brian Deane')"
-17/08/1993,Leeds United,West Ham United,1,0,"(61, 0, 'Gary Speed')"
-30/08/1993,Leeds United,Oldham Athletic,1,0,"(11, 0, 'Gordon Strachan')"
-11/09/1993,Southampton,Leeds United,0,2,"(50, 1, 'Brian Deane')","(90, 1, 'Gary Speed')"
-02/10/1993,Leeds United,Wimbledon,4,0,"(2, 0, 'Gary Speed')","(18, 0, 'Gary McAllister')","(81, 0, 'Gary McAllister')","(90, 0, 'Gary Speed')"
-30/10/1993,Sheffield Wednesday,Leeds United,3,3,"(2, 0, 'Chris Waddle')","(42, 1, 'Chris Fairclough')","(43, 0, 'Ryan Jones')","(56, 1, 'Rodney Wallace')","(64, 1, 'Gary Speed')","(68, 0, 'Mark Bright')"
-06/11/1993,Leeds United,Chelsea,4,1,"(46, 0, 'Brian Deane')","(51, 0, 'Rodney Wallace')","(56, 0, 'Rodney Wallace')","(70, 0, 'David Rocastle')","(84, 1, 'Neil Shipperley')"
-27/11/1993,Leeds United,Swindon Town,3,0,"(80, 0, 'Brian Deane')","(86, 0, 'Rodney Wallace')","(90, 0, 'Gary Speed')"
-04/12/1993,Leeds United,Manchester City,3,2,"(11, 0, 'Rodney Wallace')","(22, 0, 'Gary Speed')","(54, 1, 'Mike Sheron')","(60, 1, 'Carl Griffiths')","(85, 0, 'Brian Deane')"
-08/12/1993,West Ham United,Leeds United,0,1,"(84, 1, 'Rodney Wallace')"
-22/12/1993,Newcastle United,Leeds United,1,1,"(66, 1, 'Chris Fairclough')","(85, 0, 'Andrew Cole')"
-28/02/1994,Oldham Athletic,Leeds United,1,1,"(2, 1, 'Gary McAllister')","(86, 0, 'Darren Beckford')"
-05/03/1994,Leeds United,Southampton,0,0
-26/03/1994,Wimbledon,Leeds United,1,0,"(3, 0, 'Peter Fear')"
-01/04/1994,Leeds United,Newcastle United,1,1,"(3, 1, 'Andrew Cole')","(88, 0, 'Chris Fairclough')"
-23/04/1994,Chelsea,Leeds United,1,1,"(36, 1, 'Gary Speed')","(65, 0, 'John Spencer')"
-03/05/1994,Leeds United,Sheffield Wednesday,2,2,"(20, 1, 'Chris Bart-Williams')","(50, 1, 'Gordon Watson')","(71, 0, 'David White')","(73, 0, 'Rodney Wallace')"
-07/05/1994,Swindon Town,Leeds United,0,5,"(18, 1, 'Brian Deane')","(28, 1, 'David White')","(58, 1, 'Rodney Wallace')","(67, 1, 'Brian Deane')","(90, 1, 'Chris Fairclough')"
-17/08/1993,Wimbledon,Chelsea,1,1,"(78, 1, 'Dennis Wise')","(80, 0, 'John Fashanu')"
-28/08/1993,Chelsea,Sheffield Wednesday,1,1,"(12, 1, 'Mark Bright')","(34, 0, 'David Lee')"
-02/10/1993,West Ham United,Chelsea,1,0,"(43, 0, 'Trevor Morley')"
-30/10/1993,Chelsea,Oldham Athletic,0,1,"(20, 1, 'Darren Beckford')"
-22/11/1993,Chelsea,Manchester City,0,0
-27/12/1993,Southampton,Chelsea,3,1,"(28, 0, 'Tommy Widdrington')","(42, 1, 'Mark Stein')","(65, 0, 'Iain Dowie')","(89, 0, 'Frankie Bennett')"
-28/12/1993,Chelsea,Newcastle United,1,0,"(11, 0, 'Mark Stein')"
-01/01/1994,Swindon Town,Chelsea,1,3,"(19, 1, 'Neil Shipperley')","(44, 1, 'Mark Stein')","(90, 0, 'Andy Mutch')","(90, 1, 'Dennis Wise')"
-12/02/1994,Oldham Athletic,Chelsea,2,1,"(17, 0, 'Richard Jobson')","(52, 1, 'John Spencer')","(81, 0, 'Graeme Sharp')"
-16/03/1994,Chelsea,Wimbledon,2,0,"(20, 0, 'David Hopkin')","(78, 0, 'Craig Burley')"
-26/03/1994,Chelsea,West Ham United,2,0,"(39, 0, 'Darren Barnard')","(75, 0, 'Glenn Hoddle')"
-30/03/1994,Sheffield Wednesday,Chelsea,3,1,"(6, 0, 'Chris Bart-Williams')","(21, 0, 'Carlton Palmer')","(65, 1, 'John Spencer')","(85, 0, 'John Sheridan')"
-02/04/1994,Chelsea,Southampton,2,0,"(45, 0, 'John Spencer')","(80, 0, 'Erland Johnsen')"
-04/04/1994,Newcastle United,Chelsea,0,0
-27/04/1994,Chelsea,Swindon Town,2,0,"(25, 0, 'Dennis Wise')","(39, 0, 'Gavin Peacock')"
-30/04/1994,Manchester City,Chelsea,2,2,"(15, 1, 'Robert Fleck')","(19, 1, 'Tony Cascarino')","(22, 0, 'Uwe Rosler')","(37, 0, 'Paul Walsh')"
-13/09/1993,Newcastle United,Sheffield Wednesday,4,2,"(21, 0, 'Andrew Cole')","(26, 1, 'Andy Sinton')","(47, 1, 'Andy Sinton')","(76, 0, 'Andrew Cole')","(81, 0, 'Alex Mathie')","(88, 0, 'Malcolm Allen')"
-18/09/1993,Swindon Town,Newcastle United,2,2,"(37, 1, 'Lee Clark')","(45, 1, 'Malcolm Allen')","(60, 0, 'Martin Ling')","(61, 0, 'Andy Mutch')"
-25/09/1993,Newcastle United,West Ham United,2,0,"(51, 0, 'Andrew Cole')","(84, 0, 'Andrew Cole')"
-24/10/1993,Southampton,Newcastle United,2,1,"(62, 0, 'Matt Le Tissier')","(72, 1, 'Andrew Cole')","(87, 0, 'Matt Le Tissier')"
-30/10/1993,Newcastle United,Wimbledon,4,0,"(36, 0, 'Peter Beardsley')","(60, 0, 'Andrew Cole')","(63, 0, 'Peter Beardsley')","(71, 0, 'Peter Beardsley')"
-08/11/1993,Oldham Athletic,Newcastle United,1,3,"(35, 0, 'Richard Jobson')","(53, 1, 'Andrew Cole')","(73, 1, 'Peter Beardsley')","(81, 1, 'Andrew Cole')"
-01/01/1994,Newcastle United,Manchester City,2,0,"(28, 0, 'Andrew Cole')","(45, 0, 'Andrew Cole')"
-22/01/1994,Newcastle United,Southampton,1,2,"(5, 1, 'Neil Maddison')","(38, 0, 'Andrew Cole')","(83, 1, 'Matt Le Tissier')"
-12/02/1994,Wimbledon,Newcastle United,4,2,"(9, 0, 'Robbie Earle')","(25, 0, 'Gary Blissett')","(50, 1, 'Peter Beardsley')","(56, 0, 'John Fashanu')","(64, 0, 'Dean Holdsworth')","(89, 1, 'Peter Beardsley')"
-05/03/1994,Sheffield Wednesday,Newcastle United,0,1,"(88, 1, 'Andrew Cole')"
-12/03/1994,Newcastle United,Swindon Town,7,1,"(12, 0, 'Peter Beardsley')","(18, 0, 'Rob Lee')","(67, 0, 'Rob Lee')","(70, 0, 'Peter Beardsley')","(76, 0, 'Steve Watson')","(77, 1, 'John Moncur')","(79, 0, 'Steve Watson')","(84, 0, 'Ruel Fox')"
-19/03/1994,West Ham United,Newcastle United,2,4,"(34, 1, 'Rob Lee')","(56, 0, 'Tim Breacker')","(69, 1, 'Andrew Cole')","(72, 1, 'Rob Lee')","(81, 0, 'Alvin Martin')","(89, 1, 'Alex Mathie')"
-09/04/1994,Manchester City,Newcastle United,2,1,"(19, 1, 'Scott Sellars')","(33, 0, 'Paul Walsh')","(48, 0, 'David Brightwell')"
-23/04/1994,Newcastle United,Oldham Athletic,3,2,"(19, 0, 'Ruel Fox')","(43, 1, 'Richard Jobson')","(56, 0, 'Peter Beardsley')","(57, 1, 'Graeme Sharp')","(63, 0, 'Rob Lee')"
-01/09/1993,Swindon Town,Manchester City,1,3,"(60, 0, 'Nicky Summerbee')","(74, 1, 'Michel Vonk')","(79, 1, 'Niall Quinn')","(90, 1, 'Adie Mike')"
-20/09/1993,Wimbledon,Manchester City,1,0,"(55, 0, 'Robbie Earle')"
-04/10/1993,Manchester City,Oldham Athletic,1,1,"(57, 1, 'Graeme Sharp')","(87, 0, 'Mike Sheron')"
-01/11/1993,West Ham United,Manchester City,3,1,"(3, 0, 'David Burrows')","(29, 0, 'Lee Chapman')","(69, 0, 'Matty Holmes')","(86, 1, 'Keith Curle')"
-27/11/1993,Manchester City,Sheffield Wednesday,1,3,"(65, 1, 'Ryan Jones')","(75, 1, 'Ryan Jones')","(84, 1, 'Nigel Jemson')","(85, 0, 'Mike Sheron')"
-28/12/1993,Manchester City,Southampton,1,1,"(26, 1, 'Iain Dowie')","(29, 0, 'Terry Phelan')"
-12/02/1994,Manchester City,West Ham United,0,0
-26/02/1994,Manchester City,Swindon Town,2,1,"(7, 1, 'Jan-Aage Fjortoft')","(25, 0, 'Kevin Horlock')","(50, 0, 'David Rocastle')"
-12/03/1994,Manchester City,Wimbledon,0,1,"(31, 1, 'Robbie Earle')"
-26/03/1994,Oldham Athletic,Manchester City,0,0
-04/04/1994,Southampton,Manchester City,0,1,"(88, 1, 'Steffen Karl')"
-07/05/1994,Sheffield Wednesday,Manchester City,1,1,"(25, 0, 'Gordon Watson')","(48, 1, 'Uwe Rosler')"
-18/08/1993,Swindon Town,Oldham Athletic,0,1,"(90, 1, 'Paul Bernard')"
-28/08/1993,Oldham Athletic,Wimbledon,1,1,"(6, 0, 'Paul Bernard')","(49, 1, 'Vinnie Jones')"
-20/11/1993,West Ham United,Oldham Athletic,2,0,"(43, 0, 'Alvin Martin')","(74, 0, 'Trevor Morley')"
-24/11/1993,Sheffield Wednesday,Oldham Athletic,3,0,"(7, 0, 'Gordon Watson')","(32, 0, 'Gordon Watson')","(64, 0, 'Nigel Jemson')"
-07/12/1993,Oldham Athletic,Swindon Town,2,1,"(12, 0, 'Rick Holden')","(71, 1, 'Andy Mutch')","(84, 0, 'Steve Redmond')"
-05/02/1994,Oldham Athletic,Southampton,2,1,"(26, 1, 'Matt Le Tissier')","(33, 0, 'Sean McCarthy')","(38, 0, 'Paul Bernard')"
-30/03/1994,Southampton,Oldham Athletic,1,3,"(13, 1, 'Graeme Sharp')","(42, 1, 'Francis Benali')","(58, 0, 'Matt Le Tissier')","(88, 1, 'Rick Holden')"
-16/04/1994,Oldham Athletic,West Ham United,1,2,"(1, 1, 'Martin Allen')","(29, 1, 'Trevor Morley')","(43, 0, 'Rick Holden')"
-26/04/1994,Wimbledon,Oldham Athletic,3,0,"(32, 0, 'Dean Holdsworth')","(47, 0, 'Dean Holdsworth')","(55, 0, 'Dean Holdsworth')"
-30/04/1994,Oldham Athletic,Sheffield Wednesday,0,0
-14/08/1993,West Ham United,Wimbledon,0,2,"(63, 1, 'John Fashanu')","(72, 1, 'Lawrie Sanchez')"
-25/08/1993,West Ham United,Sheffield Wednesday,2,0,"(79, 0, 'Clive Allen')","(84, 0, 'Clive Allen')"
-11/09/1993,West Ham United,Swindon Town,0,0
-29/11/1993,Southampton,West Ham United,0,2,"(30, 1, 'Trevor Morley')","(38, 1, 'Lee Chapman')"
-04/12/1993,Wimbledon,West Ham United,1,2,"(44, 1, 'Lee Chapman')","(79, 1, 'Lee Chapman')","(83, 0, 'Dean Holdsworth')"
-18/12/1993,Sheffield Wednesday,West Ham United,5,0,"(35, 0, 'Mike Marsh')","(47, 0, 'Mark Bright')","(51, 0, 'Chris Waddle')","(72, 0, 'Nigel Jemson')","(87, 0, 'Carlton Palmer')"
-05/03/1994,Swindon Town,West Ham United,1,1,"(48, 1, 'Trevor Morley')","(88, 0, 'Jan-Aage Fjortoft')"
-07/05/1994,West Ham United,Southampton,3,3,"(11, 0, 'Danny Williamson')","(45, 1, 'Matt Le Tissier')","(52, 1, 'Neil Maddison')","(62, 0, 'Martin Allen')","(65, 1, 'Matt Le Tissier')","(89, 0, 'Lee Chapman')"
-25/08/1993,Southampton,Swindon Town,5,1,"(12, 0, 'Matt Le Tissier')","(50, 0, 'Matt Le Tissier')","(56, 0, 'Jeff Kenna')","(62, 0, 'Iain Dowie')","(79, 0, 'Neil Maddison')","(83, 1, 'Craig Maskell')"
-31/08/1993,Wimbledon,Southampton,1,0,"(34, 0, 'Warren Barton')"
-18/09/1993,Sheffield Wednesday,Southampton,2,0,"(58, 0, 'John Sheridan')","(80, 0, 'David Hirst')"
-18/12/1993,Swindon Town,Southampton,2,1,"(11, 0, 'Paul Bodin')","(38, 1, 'Matt Le Tissier')","(65, 0, 'Keith Scott')"
-26/02/1994,Southampton,Wimbledon,1,0,"(74, 0, 'Matt Le Tissier')"
-12/03/1994,Southampton,Sheffield Wednesday,1,1,"(67, 1, 'Chris Bart-Williams')","(78, 0, 'Ken Monkou')"
-16/10/1993,Sheffield Wednesday,Wimbledon,2,2,"(9, 0, 'Chris Waddle')","(46, 1, 'Gary Blissett')","(84, 0, 'Ryan Jones')","(89, 1, 'Vinnie Jones')"
-29/12/1993,Sheffield Wednesday,Swindon Town,3,3,"(6, 1, 'Andy Mutch')","(8, 0, 'Mark Bright')","(19, 1, 'Craig Maskell')","(67, 0, 'Gordon Watson')","(70, 0, 'Gordon Watson')","(90, 1, 'Craig Maskell')"
-15/01/1994,Wimbledon,Sheffield Wednesday,2,1,"(12, 0, 'Neal Ardley')","(42, 0, 'John Fashanu')","(68, 1, 'Andy Pearce')"
-04/04/1994,Swindon Town,Sheffield Wednesday,0,1,"(69, 1, 'Gordon Watson')"
-06/11/1993,Wimbledon,Swindon Town,3,0,"(29, 0, 'John Fashanu')","(67, 0, 'Gary Blissett')","(71, 0, 'Dean Holdsworth')"
-23/04/1994,Swindon Town,Wimbledon,2,4,"(13, 1, 'John Fashanu')","(67, 0, 'Nicky Summerbee')","(71, 1, 'Robbie Earle')","(75, 1, 'Robbie Earle')","(80, 0, 'Warren Barton')","(81, 1, 'Dean Holdsworth')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+1993-08-14,Arsenal,Coventry City,0,3,"(34, 1, 'Mick Quinn')","(62, 1, 'Mick Quinn')","(65, 1, 'Mick Quinn')",,,,,,,,,
+1993-08-14,Aston Villa,Queens Park Rangers,4,1,"(38, 0, 'Dalian Atkinson')","(44, 1, 'Les Ferdinand')","(62, 0, 'Dean Saunders')","(89, 0, 'Dalian Atkinson')","(90, 0, 'Steve Staunton')",,,,,,,
+1993-08-14,Chelsea,Blackburn Rovers,1,2,"(46, 0, 'Gavin Peacock')","(63, 1, 'Stuart Ripley')","(78, 1, 'Mike Newell')",,,,,,,,,
+1993-08-14,Liverpool,Sheffield Wednesday,2,0,"(39, 0, 'Nigel Clough')","(47, 0, 'Nigel Clough')",,,,,,,,,,
+1993-08-14,Manchester City,Leeds United,1,1,"(86, 0, 'Garry Flitcroft')","(90, 1, 'Brian Deane')",,,,,,,,,,
+1993-08-14,Newcastle United,Tottenham Hotspur,0,1,"(36, 1, 'Teddy Sheringham')",,,,,,,,,,,
+1993-08-14,Oldham Athletic,Ipswich Town,0,3,"(41, 1, 'Ian Marshall')","(45, 1, 'Steve Palmer')","(69, 1, 'Paul Mason')",,,,,,,,,
+1993-08-14,Sheffield United,Swindon Town,3,1,"(21, 0, 'Willie Falconer')","(46, 1, 'John Moncur')","(76, 0, 'Carl Bradshaw')","(83, 0, 'Paul Rogers')",,,,,,,,
+1993-08-14,Southampton,Everton,0,2,"(10, 1, 'Peter Beagrie')","(45, 1, 'John Ebbrell')",,,,,,,,,,
+1993-08-14,West Ham United,Wimbledon,0,2,"(63, 1, 'John Fashanu')","(72, 1, 'Lawrie Sanchez')",,,,,,,,,,
+1993-08-15,Norwich City,Manchester United,0,2,"(25, 1, 'Ryan Giggs')","(57, 1, 'Bryan Robson')",,,,,,,,,,
+1993-08-16,Tottenham Hotspur,Arsenal,0,1,"(86, 1, 'Ian Wright')",,,,,,,,,,,
+1993-08-17,Everton,Manchester City,1,0,"(18, 0, 'Paul Rideout')",,,,,,,,,,,
+1993-08-17,Ipswich Town,Southampton,1,0,"(58, 0, 'Ian Marshall')",,,,,,,,,,,
+1993-08-17,Leeds United,West Ham United,1,0,"(61, 0, 'Gary Speed')",,,,,,,,,,,
+1993-08-17,Wimbledon,Chelsea,1,1,"(78, 1, 'Dennis Wise')","(80, 0, 'John Fashanu')",,,,,,,,,,
+1993-08-18,Blackburn Rovers,Norwich City,2,3,"(7, 0, 'Mark Atkins')","(44, 1, 'Chris Sutton')","(55, 0, 'Jason Wilcox')","(63, 1, 'Rob Newman')","(65, 1, 'Chris Sutton')",,,,,,,
+1993-08-18,Coventry City,Newcastle United,2,1,"(27, 1, 'Peter Atherton')","(58, 0, 'Peter Ndlovu')","(85, 0, 'Mick Harford')",,,,,,,,,
+1993-08-18,Manchester United,Sheffield United,3,0,"(16, 0, 'Roy Keane')","(43, 0, 'Roy Keane')","(85, 0, 'Mark Hughes')",,,,,,,,,
+1993-08-18,Queens Park Rangers,Liverpool,1,3,"(18, 1, 'Ian Rush')","(24, 0, 'Ray Wilkins')","(38, 1, 'Steve Nicol')","(41, 1, 'Nigel Clough')",,,,,,,,
+1993-08-18,Sheffield Wednesday,Aston Villa,0,0,,,,,,,,,,,,
+1993-08-18,Swindon Town,Oldham Athletic,0,1,"(90, 1, 'Paul Bernard')",,,,,,,,,,,
+1993-08-21,Blackburn Rovers,Oldham Athletic,1,0,"(9, 0, 'Kevin Moran')",,,,,,,,,,,
+1993-08-21,Coventry City,West Ham United,1,1,"(44, 1, 'Dale Gordon')","(57, 0, 'Roy Wegerle')",,,,,,,,,,
+1993-08-21,Everton,Sheffield United,4,2,"(1, 1, 'Dane Whitehouse')","(35, 0, 'Tony Cottee')","(45, 0, 'John Ebbrell')","(83, 0, 'Tony Cottee')","(89, 1, 'Alan Cork')","(90, 0, 'Tony Cottee')",,,,,,
+1993-08-21,Ipswich Town,Chelsea,1,0,"(34, 0, 'Ian Marshall')",,,,,,,,,,,
+1993-08-21,Leeds United,Norwich City,0,4,"(3, 1, 'Ruel Fox')","(41, 1, 'Chris Sutton')","(61, 1, 'Jeremy Goss')","(69, 1, 'Ruel Fox')",,,,,,,,
+1993-08-21,Manchester United,Newcastle United,1,1,"(40, 0, 'Ryan Giggs')","(70, 1, 'Andrew Cole')",,,,,,,,,,
+1993-08-21,Queens Park Rangers,Southampton,2,1,"(13, 0, 'Gary Penrice')","(46, 0, 'Clive Wilson')","(88, 1, 'Iain Dowie')",,,,,,,,,
+1993-08-21,Sheffield Wednesday,Arsenal,0,1,"(8, 1, 'Ian Wright')",,,,,,,,,,,
+1993-08-21,Tottenham Hotspur,Manchester City,1,0,"(70, 0, 'Steve Sedgley')",,,,,,,,,,,
+1993-08-21,Wimbledon,Aston Villa,2,2,"(18, 1, 'Kevin Richardson')","(40, 0, 'Dean Holdsworth')","(82, 1, 'Paul McGrath')","(86, 0, 'John Fashanu')",,,,,,,,
+1993-08-22,Swindon Town,Liverpool,0,5,"(19, 1, 'Neil Ruddock')","(36, 1, 'Steve McManaman')","(63, 1, 'Steve McManaman')","(70, 1, 'Ronnie Whelan')","(80, 1, 'Mike Marsh')",,,,,,,
+1993-08-23,Aston Villa,Manchester United,1,2,"(18, 1, 'Lee Sharpe')","(45, 0, 'Dalian Atkinson')","(75, 1, 'Lee Sharpe')",,,,,,,,,
+1993-08-24,Arsenal,Leeds United,2,1,"(2, 0, 'Jon Newsome')","(57, 0, 'Paul Merson')","(70, 1, 'Gordon Strachan')",,,,,,,,,
+1993-08-24,Manchester City,Blackburn Rovers,0,2,"(10, 1, 'Mike Newell')","(50, 1, 'Kevin Gallacher')",,,,,,,,,,
+1993-08-24,Oldham Athletic,Coventry City,3,3,"(8, 1, 'John Williams')","(37, 0, 'Paul Bernard')","(48, 0, 'Andy Ritchie')","(63, 0, 'Ian Olney')","(74, 1, 'Peter Ndlovu')","(83, 1, 'Roy Wegerle')",,,,,,
+1993-08-24,Sheffield United,Wimbledon,2,1,"(43, 0, 'Jostein Flo')","(58, 0, 'Willie Falconer')","(59, 1, 'Andy Clarke')",,,,,,,,,
+1993-08-25,Chelsea,Queens Park Rangers,2,0,"(18, 0, 'Gavin Peacock')","(51, 0, 'Tony Cascarino')",,,,,,,,,,
+1993-08-25,Liverpool,Tottenham Hotspur,1,2,"(17, 0, 'Nigel Clough')","(30, 1, 'Teddy Sheringham')","(42, 1, 'Teddy Sheringham')",,,,,,,,,
+1993-08-25,Newcastle United,Everton,1,0,"(18, 0, 'Malcolm Allen')",,,,,,,,,,,
+1993-08-25,Norwich City,Ipswich Town,1,0,"(28, 0, 'Jeremy Goss')",,,,,,,,,,,
+1993-08-25,Southampton,Swindon Town,5,1,"(12, 0, 'Matt Le Tissier')","(50, 0, 'Matt Le Tissier')","(56, 0, 'Jeff Kenna')","(62, 0, 'Iain Dowie')","(79, 0, 'Neil Maddison')","(83, 1, 'Craig Maskell')",,,,,,
+1993-08-25,West Ham United,Sheffield Wednesday,2,0,"(79, 0, 'Clive Allen')","(84, 0, 'Clive Allen')",,,,,,,,,,
+1993-08-27,Manchester City,Coventry City,1,1,"(34, 0, 'Mike Sheron')","(85, 1, 'Roy Wegerle')",,,,,,,,,,
+1993-08-28,Arsenal,Everton,2,0,"(48, 0, 'Ian Wright')","(78, 0, 'Ian Wright')",,,,,,,,,,
+1993-08-28,Aston Villa,Tottenham Hotspur,1,0,"(71, 0, 'Steve Staunton')",,,,,,,,,,,
+1993-08-28,Chelsea,Sheffield Wednesday,1,1,"(12, 1, 'Mark Bright')","(34, 0, 'David Lee')",,,,,,,,,,
+1993-08-28,Liverpool,Leeds United,2,0,"(24, 0, 'Ian Rush')","(40, 0, 'Jan Molby')",,,,,,,,,,
+1993-08-28,Norwich City,Swindon Town,0,0,,,,,,,,,,,,
+1993-08-28,Oldham Athletic,Wimbledon,1,1,"(6, 0, 'Paul Bernard')","(49, 1, 'Vinnie Jones')",,,,,,,,,,
+1993-08-28,Sheffield United,Ipswich Town,1,1,"(25, 0, 'Jostein Flo')","(89, 1, 'Steve Whitton')",,,,,,,,,,
+1993-08-28,Southampton,Manchester United,1,3,"(5, 1, 'Lee Sharpe')","(12, 0, 'Neil Maddison')","(15, 1, 'Eric Cantona')","(49, 1, 'Denis Irwin')",,,,,,,,
+1993-08-28,West Ham United,Queens Park Rangers,0,4,"(12, 1, 'Darren Peacock')","(47, 1, 'Les Ferdinand')","(53, 1, 'Gary Penrice')","(71, 1, 'Les Ferdinand')",,,,,,,,
+1993-08-29,Newcastle United,Blackburn Rovers,1,1,"(60, 0, 'Andrew Cole')","(75, 1, 'Alan Shearer')",,,,,,,,,,
+1993-08-30,Leeds United,Oldham Athletic,1,0,"(11, 0, 'Gordon Strachan')",,,,,,,,,,,
+1993-08-31,Everton,Aston Villa,0,1,"(32, 1, 'Guy Whittingham')",,,,,,,,,,,
+1993-08-31,Ipswich Town,Newcastle United,1,1,"(47, 1, 'Andrew Cole')","(77, 0, 'Chris Kiwomya')",,,,,,,,,,
+1993-08-31,Wimbledon,Southampton,1,0,"(34, 0, 'Warren Barton')",,,,,,,,,,,
+1993-09-01,Blackburn Rovers,Arsenal,1,1,"(37, 0, 'Kevin Gallacher')","(75, 1, 'Kevin Campbell')",,,,,,,,,,
+1993-09-01,Coventry City,Liverpool,1,0,"(21, 0, 'Phil Babb')",,,,,,,,,,,
+1993-09-01,Manchester United,West Ham United,3,0,"(6, 0, 'Lee Sharpe')","(45, 0, 'Eric Cantona')","(88, 0, 'Steve Bruce')",,,,,,,,,
+1993-09-01,Queens Park Rangers,Sheffield United,2,1,"(10, 1, 'Jostein Flo')","(15, 0, 'Trevor Sinclair')","(63, 0, 'Clive Wilson')",,,,,,,,,
+1993-09-01,Sheffield Wednesday,Norwich City,3,3,"(51, 0, 'Chris Bart-Williams')","(59, 0, 'Mark Bright')","(62, 0, 'Andy Sinton')","(63, 1, 'Mark Bowen')","(72, 1, 'Efan Ekoku')","(76, 1, 'Chris Sutton')",,,,,,
+1993-09-01,Swindon Town,Manchester City,1,3,"(60, 0, 'Nicky Summerbee')","(74, 1, 'Michel Vonk')","(79, 1, 'Niall Quinn')","(90, 1, 'Adie Mike')",,,,,,,,
+1993-09-01,Tottenham Hotspur,Chelsea,1,1,"(23, 1, 'Tony Cascarino')","(85, 0, 'Teddy Sheringham')",,,,,,,,,,
+1993-09-11,Arsenal,Ipswich Town,4,0,"(30, 0, 'Ian Wright')","(38, 0, 'Kevin Campbell')","(55, 0, 'Kevin Campbell')","(64, 0, 'Kevin Campbell')",,,,,,,,
+1993-09-11,Aston Villa,Coventry City,0,0,,,,,,,,,,,,
+1993-09-11,Chelsea,Manchester United,1,0,"(17, 0, 'Gavin Peacock')",,,,,,,,,,,
+1993-09-11,Manchester City,Queens Park Rangers,3,0,"(17, 0, 'Niall Quinn')","(37, 0, 'Mike Sheron')","(70, 0, 'Garry Flitcroft')",,,,,,,,,
+1993-09-11,Norwich City,Wimbledon,0,1,"(56, 1, 'Lawrie Sanchez')",,,,,,,,,,,
+1993-09-11,Oldham Athletic,Everton,0,1,"(32, 1, 'Tony Cottee')",,,,,,,,,,,
+1993-09-11,Sheffield United,Tottenham Hotspur,2,2,"(15, 1, 'Teddy Sheringham')","(47, 0, 'Adrian Littlejohn')","(51, 1, 'Teddy Sheringham')","(62, 0, 'Adrian Littlejohn')",,,,,,,,
+1993-09-11,Southampton,Leeds United,0,2,"(50, 1, 'Brian Deane')","(90, 1, 'Gary Speed')",,,,,,,,,,
+1993-09-11,West Ham United,Swindon Town,0,0,,,,,,,,,,,,
+1993-09-12,Liverpool,Blackburn Rovers,0,1,"(54, 1, 'Mike Newell')",,,,,,,,,,,
+1993-09-13,Newcastle United,Sheffield Wednesday,4,2,"(21, 0, 'Andrew Cole')","(26, 1, 'Andy Sinton')","(47, 1, 'Andy Sinton')","(76, 0, 'Andrew Cole')","(81, 0, 'Alex Mathie')","(88, 0, 'Malcolm Allen')",,,,,,
+1993-09-18,Blackburn Rovers,West Ham United,0,2,"(33, 1, 'Lee Chapman')","(71, 1, 'Trevor Morley')",,,,,,,,,,
+1993-09-18,Coventry City,Chelsea,1,1,"(36, 1, 'Gavin Peacock')","(49, 0, 'Steve Morgan')",,,,,,,,,,
+1993-09-18,Everton,Liverpool,2,0,"(27, 0, 'Mark Ward')","(85, 0, 'Tony Cottee')",,,,,,,,,,
+1993-09-18,Ipswich Town,Aston Villa,1,2,"(9, 0, 'Ian Marshall')","(19, 1, 'Dean Saunders')","(55, 1, 'Andy Townsend')",,,,,,,,,
+1993-09-18,Leeds United,Sheffield United,2,1,"(5, 0, 'Gary McAllister')","(29, 0, 'Gordon Strachan')","(45, 1, 'Garry Kelly')",,,,,,,,,
+1993-09-18,Queens Park Rangers,Norwich City,2,2,"(23, 1, 'Alan McDonald')","(29, 0, 'Trevor Sinclair')","(37, 1, 'Darren Eadie')","(83, 0, 'Les Ferdinand')",,,,,,,,
+1993-09-18,Sheffield Wednesday,Southampton,2,0,"(58, 0, 'John Sheridan')","(80, 0, 'David Hirst')",,,,,,,,,,
+1993-09-18,Swindon Town,Newcastle United,2,2,"(37, 1, 'Lee Clark')","(45, 1, 'Malcolm Allen')","(60, 0, 'Martin Ling')","(61, 0, 'Andy Mutch')",,,,,,,,
+1993-09-18,Tottenham Hotspur,Oldham Athletic,5,0,"(5, 0, 'Steve Sedgley')","(6, 0, 'Teddy Sheringham')","(7, 0, 'Teddy Sheringham')","(62, 0, 'Gordon Durie')","(86, 0, 'Jason Dozzell')",,,,,,,
+1993-09-19,Manchester United,Arsenal,1,0,"(37, 0, 'Eric Cantona')",,,,,,,,,,,
+1993-09-20,Wimbledon,Manchester City,1,0,"(55, 0, 'Robbie Earle')",,,,,,,,,,,
+1993-09-25,Arsenal,Southampton,1,0,"(45, 0, 'Paul Merson')",,,,,,,,,,,
+1993-09-25,Blackburn Rovers,Sheffield Wednesday,1,1,"(55, 1, 'Graham Hyde')","(81, 0, 'Alan Shearer')",,,,,,,,,,
+1993-09-25,Chelsea,Liverpool,1,0,"(48, 0, 'Neil Shipperley')",,,,,,,,,,,
+1993-09-25,Coventry City,Leeds United,0,2,"(20, 1, 'Rodney Wallace')","(48, 1, 'Rodney Wallace')",,,,,,,,,,
+1993-09-25,Everton,Norwich City,1,5,"(13, 0, 'Paul Rideout')","(44, 1, 'Efan Ekoku')","(57, 1, 'Efan Ekoku')","(63, 1, 'Efan Ekoku')","(69, 1, 'Efan Ekoku')","(77, 1, 'Chris Sutton')",,,,,,
+1993-09-25,Manchester United,Swindon Town,4,2,"(4, 0, 'Andrei Kanchelskis')","(40, 0, 'Eric Cantona')","(50, 0, 'Mark Hughes')","(77, 1, 'Andy Mutch')","(87, 1, 'Paul Bodin')","(90, 0, 'Mark Hughes')",,,,,,
+1993-09-25,Newcastle United,West Ham United,2,0,"(51, 0, 'Andrew Cole')","(84, 0, 'Andrew Cole')",,,,,,,,,,
+1993-09-25,Oldham Athletic,Aston Villa,1,1,"(14, 0, 'Gunnar Halle')","(51, 1, 'Dean Saunders')",,,,,,,,,,
+1993-09-25,Sheffield United,Manchester City,0,1,"(56, 1, 'Mike Sheron')",,,,,,,,,,,
+1993-09-26,Ipswich Town,Tottenham Hotspur,2,2,"(28, 1, 'Teddy Sheringham')","(58, 0, 'Simon Milton')","(80, 0, 'Ian Marshall')","(87, 1, 'Jason Dozzell')",,,,,,,,
+1993-09-27,Wimbledon,Queens Park Rangers,1,1,"(18, 1, 'Alan McDonald')","(42, 0, 'Les Ferdinand')",,,,,,,,,,
+1993-10-02,Aston Villa,Newcastle United,0,2,"(46, 1, 'Malcolm Allen')","(80, 1, 'Andrew Cole')",,,,,,,,,,
+1993-10-02,Leeds United,Wimbledon,4,0,"(2, 0, 'Gary Speed')","(18, 0, 'Gary McAllister')","(81, 0, 'Gary McAllister')","(90, 0, 'Gary Speed')",,,,,,,,
+1993-10-02,Liverpool,Arsenal,0,0,,,,,,,,,,,,
+1993-10-02,Norwich City,Coventry City,1,0,"(45, 0, 'Ruel Fox')",,,,,,,,,,,
+1993-10-02,Queens Park Rangers,Ipswich Town,3,0,"(57, 0, 'Devon White')","(63, 0, 'Devon White')","(65, 0, 'Simon Barker')",,,,,,,,,
+1993-10-02,Sheffield Wednesday,Manchester United,2,3,"(47, 0, 'Chris Bart-Williams')","(50, 1, 'Mark Hughes')","(66, 1, 'Mark Hughes')","(71, 1, 'Ryan Giggs')","(86, 0, 'Mark Bright')",,,,,,,
+1993-10-02,Southampton,Sheffield United,3,3,"(29, 0, 'Ken Monkou')","(53, 0, 'Neil Maddison')","(72, 1, 'Willie Falconer')","(77, 0, 'Jeff Kenna')","(80, 1, 'Jostein Flo')","(90, 1, 'Jostein Flo')",,,,,,
+1993-10-02,Swindon Town,Blackburn Rovers,1,3,"(15, 1, 'Alan Shearer')","(32, 0, 'Shaun Taylor')","(51, 1, 'Stuart Ripley')","(90, 1, 'Alan Shearer')",,,,,,,,
+1993-10-02,West Ham United,Chelsea,1,0,"(43, 0, 'Trevor Morley')",,,,,,,,,,,
+1993-10-03,Tottenham Hotspur,Everton,3,2,"(15, 1, 'Paul Rideout')","(58, 0, 'Teddy Sheringham')","(67, 1, 'Tony Cottee')","(88, 0, 'Darren Anderton')","(90, 0, 'Darren Caskey')",,,,,,,
+1993-10-04,Manchester City,Oldham Athletic,1,1,"(57, 1, 'Graeme Sharp')","(87, 0, 'Mike Sheron')",,,,,,,,,,
+1993-10-16,Arsenal,Manchester City,0,0,,,,,,,,,,,,
+1993-10-16,Chelsea,Norwich City,1,2,"(23, 1, 'Ruel Fox')","(69, 1, 'Chris Sutton')","(83, 0, 'Gavin Peacock')",,,,,,,,,
+1993-10-16,Coventry City,Southampton,1,1,"(56, 1, 'Simon Charlton')","(87, 0, 'Phil Babb')",,,,,,,,,,
+1993-10-16,Liverpool,Oldham Athletic,2,1,"(73, 1, 'Darren Beckford')","(87, 0, 'Robbie Fowler')","(90, 0, 'Andy Barlow')",,,,,,,,,
+1993-10-16,Manchester United,Tottenham Hotspur,2,1,"(65, 0, 'Roy Keane')","(68, 0, 'Lee Sharpe')","(72, 1, 'Darren Caskey')",,,,,,,,,
+1993-10-16,Newcastle United,Queens Park Rangers,1,2,"(10, 1, 'Les Ferdinand')","(48, 0, 'Malcolm Allen')","(50, 1, 'Bradley Allen')",,,,,,,,,
+1993-10-16,Sheffield Wednesday,Wimbledon,2,2,"(9, 0, 'Chris Waddle')","(46, 1, 'Gary Blissett')","(84, 0, 'Ryan Jones')","(89, 1, 'Vinnie Jones')",,,,,,,,
+1993-10-16,Swindon Town,Everton,1,1,"(27, 1, 'Peter Beagrie')","(89, 0, 'Shaun Taylor')",,,,,,,,,,
+1993-10-16,West Ham United,Aston Villa,0,0,,,,,,,,,,,,
+1993-10-17,Ipswich Town,Leeds United,0,0,,,,,,,,,,,,
+1993-10-18,Blackburn Rovers,Sheffield United,0,0,,,,,,,,,,,,
+1993-10-23,Aston Villa,Chelsea,1,0,"(6, 0, 'Dalian Atkinson')",,,,,,,,,,,
+1993-10-23,Everton,Manchester United,0,1,"(53, 1, 'Lee Sharpe')",,,,,,,,,,,
+1993-10-23,Leeds United,Blackburn Rovers,3,3,"(25, 1, 'Alan Shearer')","(46, 1, 'Alan Shearer')","(56, 0, 'Gary McAllister')","(75, 1, 'Alan Shearer')","(82, 0, 'Jon Newsome')","(85, 0, 'Tim Sherwood')",,,,,,
+1993-10-23,Manchester City,Liverpool,1,1,"(66, 0, 'David White')","(88, 1, 'Ian Rush')",,,,,,,,,,
+1993-10-23,Norwich City,West Ham United,0,0,,,,,,,,,,,,
+1993-10-23,Oldham Athletic,Arsenal,0,0,,,,,,,,,,,,
+1993-10-23,Queens Park Rangers,Coventry City,5,1,"(15, 0, 'Les Ferdinand')","(30, 0, 'Bradley Allen')","(45, 0, 'Bradley Allen')","(74, 0, 'Andy Impey')","(75, 1, 'Peter Ndlovu')","(88, 0, 'Simon Barker')",,,,,,
+1993-10-23,Sheffield United,Sheffield Wednesday,1,1,"(7, 0, 'Glyn Hodges')","(12, 1, 'Carlton Palmer')",,,,,,,,,,
+1993-10-23,Tottenham Hotspur,Swindon Town,1,1,"(50, 0, 'Jason Dozzell')","(63, 1, 'Paul Bodin')",,,,,,,,,,
+1993-10-24,Southampton,Newcastle United,2,1,"(62, 0, 'Matt Le Tissier')","(72, 1, 'Andrew Cole')","(87, 0, 'Matt Le Tissier')",,,,,,,,,
+1993-10-25,Wimbledon,Ipswich Town,0,2,"(72, 1, 'Paul Mason')","(81, 1, 'Micky Stockwell')",,,,,,,,,,
+1993-10-30,Arsenal,Norwich City,0,0,,,,,,,,,,,,
+1993-10-30,Blackburn Rovers,Tottenham Hotspur,1,0,"(15, 0, 'Alan Shearer')",,,,,,,,,,,
+1993-10-30,Chelsea,Oldham Athletic,0,1,"(20, 1, 'Darren Beckford')",,,,,,,,,,,
+1993-10-30,Ipswich Town,Everton,0,2,"(13, 1, 'Stuart Barlow')","(61, 1, 'Peter Beagrie')",,,,,,,,,,
+1993-10-30,Liverpool,Southampton,4,2,"(14, 0, 'Robbie Fowler')","(29, 0, 'Robbie Fowler')","(40, 1, 'Matt Le Tissier')","(63, 0, 'Ian Rush')","(79, 1, 'Matt Le Tissier')","(85, 0, 'Robbie Fowler')",,,,,,
+1993-10-30,Manchester United,Queens Park Rangers,2,1,"(7, 1, 'Bradley Allen')","(52, 0, 'Eric Cantona')","(57, 0, 'Mark Hughes')",,,,,,,,,
+1993-10-30,Newcastle United,Wimbledon,4,0,"(36, 0, 'Peter Beardsley')","(60, 0, 'Andrew Cole')","(63, 0, 'Peter Beardsley')","(71, 0, 'Peter Beardsley')",,,,,,,,
+1993-10-30,Sheffield Wednesday,Leeds United,3,3,"(2, 0, 'Chris Waddle')","(42, 1, 'Chris Fairclough')","(43, 0, 'Ryan Jones')","(56, 1, 'Rodney Wallace')","(64, 1, 'Gary Speed')","(68, 0, 'Mark Bright')",,,,,,
+1993-10-30,Swindon Town,Aston Villa,1,2,"(33, 0, 'Paul Bodin')","(43, 1, 'Shaun Teale')","(68, 1, 'Dalian Atkinson')",,,,,,,,,
+1993-10-31,Coventry City,Sheffield United,0,0,,,,,,,,,,,,
+1993-11-01,West Ham United,Manchester City,3,1,"(3, 0, 'David Burrows')","(29, 0, 'Lee Chapman')","(69, 0, 'Matty Holmes')","(86, 1, 'Keith Curle')",,,,,,,,
+1993-11-06,Arsenal,Aston Villa,1,2,"(58, 0, 'Ian Wright')","(74, 1, 'Guy Whittingham')","(90, 1, 'Andy Townsend')",,,,,,,,,
+1993-11-06,Coventry City,Everton,2,1,"(27, 0, 'Mick Quinn')","(49, 0, 'Mick Quinn')","(69, 1, 'Paul Rideout')",,,,,,,,,
+1993-11-06,Ipswich Town,Sheffield Wednesday,1,4,"(19, 1, 'Nigel Jemson')","(50, 1, 'Nigel Jemson')","(54, 1, 'Mark Bright')","(76, 1, 'Carlton Palmer')","(81, 0, 'Ian Marshall')",,,,,,,
+1993-11-06,Leeds United,Chelsea,4,1,"(46, 0, 'Brian Deane')","(51, 0, 'Rodney Wallace')","(56, 0, 'Rodney Wallace')","(70, 0, 'David Rocastle')","(84, 1, 'Neil Shipperley')",,,,,,,
+1993-11-06,Liverpool,West Ham United,2,0,"(57, 0, 'Nigel Clough')","(83, 0, 'Alvin Martin')",,,,,,,,,,
+1993-11-06,Queens Park Rangers,Blackburn Rovers,1,0,"(82, 0, 'Les Ferdinand')",,,,,,,,,,,
+1993-11-06,Sheffield United,Norwich City,1,2,"(26, 1, 'Jeremy Goss')","(43, 0, 'Dane Whitehouse')","(57, 1, 'Darren Eadie')",,,,,,,,,
+1993-11-06,Southampton,Tottenham Hotspur,1,0,"(60, 0, 'Neil Maddison')",,,,,,,,,,,
+1993-11-06,Wimbledon,Swindon Town,3,0,"(29, 0, 'John Fashanu')","(67, 0, 'Gary Blissett')","(71, 0, 'Dean Holdsworth')",,,,,,,,,
+1993-11-07,Manchester City,Manchester United,2,3,"(21, 0, 'Niall Quinn')","(32, 0, 'Niall Quinn')","(52, 1, 'Eric Cantona')","(77, 1, 'Eric Cantona')","(86, 1, 'Roy Keane')",,,,,,,
+1993-11-08,Oldham Athletic,Newcastle United,1,3,"(35, 0, 'Richard Jobson')","(53, 1, 'Andrew Cole')","(73, 1, 'Peter Beardsley')","(81, 1, 'Andrew Cole')",,,,,,,,
+1993-11-20,Aston Villa,Sheffield United,1,0,"(76, 0, 'Guy Whittingham')",,,,,,,,,,,
+1993-11-20,Blackburn Rovers,Southampton,2,0,"(24, 0, 'Alan Shearer')","(77, 0, 'Alan Shearer')",,,,,,,,,,
+1993-11-20,Chelsea,Arsenal,0,2,"(28, 1, 'Alan Smith')","(44, 1, 'Ian Wright')",,,,,,,,,,
+1993-11-20,Everton,Queens Park Rangers,0,3,"(26, 1, 'Bradley Allen')","(50, 1, 'Bradley Allen')","(83, 1, 'Bradley Allen')",,,,,,,,,
+1993-11-20,Manchester United,Wimbledon,3,1,"(53, 0, 'Gary Pallister')","(62, 1, 'John Fashanu')","(64, 0, 'Mark Hughes')","(79, 0, 'Andrei Kanchelskis')",,,,,,,,
+1993-11-20,Norwich City,Manchester City,1,1,"(57, 0, 'Ruel Fox')","(59, 1, 'Niall Quinn')",,,,,,,,,,
+1993-11-20,Sheffield Wednesday,Coventry City,0,0,,,,,,,,,,,,
+1993-11-20,Swindon Town,Ipswich Town,2,2,"(17, 1, 'John Wark')","(45, 0, 'Keith Scott')","(63, 1, 'John Wark')","(83, 0, 'Paul Bodin')",,,,,,,,
+1993-11-20,Tottenham Hotspur,Leeds United,1,1,"(52, 1, 'Brian Deane')","(80, 0, 'Darren Anderton')",,,,,,,,,,
+1993-11-20,West Ham United,Oldham Athletic,2,0,"(43, 0, 'Alvin Martin')","(74, 0, 'Trevor Morley')",,,,,,,,,,
+1993-11-21,Newcastle United,Liverpool,3,0,"(4, 0, 'Andrew Cole')","(15, 0, 'Andrew Cole')","(30, 0, 'Andrew Cole')",,,,,,,,,
+1993-11-22,Chelsea,Manchester City,0,0,,,,,,,,,,,,
+1993-11-23,Blackburn Rovers,Coventry City,2,1,"(32, 0, 'Alan Shearer')","(62, 1, 'Peter Ndlovu')","(63, 0, 'Alan Shearer')",,,,,,,,,
+1993-11-23,Everton,Leeds United,1,1,"(53, 1, 'Rodney Wallace')","(66, 0, 'Tony Cottee')",,,,,,,,,,
+1993-11-24,Aston Villa,Southampton,0,2,"(50, 1, 'Matt Le Tissier')","(62, 1, 'Matt Le Tissier')",,,,,,,,,,
+1993-11-24,Manchester United,Ipswich Town,0,0,,,,,,,,,,,,
+1993-11-24,Newcastle United,Sheffield United,4,0,"(9, 0, 'Scott Sellars')","(12, 0, 'Peter Beardsley')","(70, 0, 'Andrew Cole')","(73, 0, 'Peter Beardsley')",,,,,,,,
+1993-11-24,Sheffield Wednesday,Oldham Athletic,3,0,"(7, 0, 'Gordon Watson')","(32, 0, 'Gordon Watson')","(64, 0, 'Nigel Jemson')",,,,,,,,,
+1993-11-24,Swindon Town,Queens Park Rangers,1,0,"(37, 0, 'Keith Scott')",,,,,,,,,,,
+1993-11-24,Tottenham Hotspur,Wimbledon,1,1,"(5, 0, 'Nick Barmby')","(71, 1, 'Dean Holdsworth')",,,,,,,,,,
+1993-11-24,West Ham United,Arsenal,0,0,,,,,,,,,,,,
+1993-11-27,Arsenal,Newcastle United,2,1,"(15, 0, 'Ian Wright')","(60, 0, 'Alan Smith')","(61, 1, 'Peter Beardsley')",,,,,,,,,
+1993-11-27,Coventry City,Manchester United,0,1,"(60, 1, 'Eric Cantona')",,,,,,,,,,,
+1993-11-27,Ipswich Town,Blackburn Rovers,1,0,"(40, 0, 'Eddie Youds')",,,,,,,,,,,
+1993-11-27,Leeds United,Swindon Town,3,0,"(80, 0, 'Brian Deane')","(86, 0, 'Rodney Wallace')","(90, 0, 'Gary Speed')",,,,,,,,,
+1993-11-27,Manchester City,Sheffield Wednesday,1,3,"(65, 1, 'Ryan Jones')","(75, 1, 'Ryan Jones')","(84, 1, 'Nigel Jemson')","(85, 0, 'Mike Sheron')",,,,,,,,
+1993-11-27,Oldham Athletic,Norwich City,2,1,"(47, 0, 'Graeme Sharp')","(54, 1, 'Chris Sutton')","(62, 0, 'Chris Makin')",,,,,,,,,
+1993-11-27,Queens Park Rangers,Tottenham Hotspur,1,1,"(2, 0, 'Les Ferdinand')","(87, 1, 'Darren Anderton')",,,,,,,,,,
+1993-11-27,Sheffield United,Chelsea,1,0,"(32, 0, 'Willie Falconer')",,,,,,,,,,,
+1993-11-27,Wimbledon,Everton,1,1,"(33, 1, 'Stuart Barlow')","(49, 0, 'Greg Berry')",,,,,,,,,,
+1993-11-28,Liverpool,Aston Villa,2,1,"(45, 0, 'Robbie Fowler')","(53, 1, 'Dalian Atkinson')","(63, 0, 'Jamie Redknapp')",,,,,,,,,
+1993-11-29,Southampton,West Ham United,0,2,"(30, 1, 'Trevor Morley')","(38, 1, 'Lee Chapman')",,,,,,,,,,
+1993-12-04,Coventry City,Arsenal,1,0,"(78, 0, 'Mick Quinn')",,,,,,,,,,,
+1993-12-04,Everton,Southampton,1,0,"(35, 0, 'Tony Cottee')",,,,,,,,,,,
+1993-12-04,Ipswich Town,Oldham Athletic,0,0,,,,,,,,,,,,
+1993-12-04,Leeds United,Manchester City,3,2,"(11, 0, 'Rodney Wallace')","(22, 0, 'Gary Speed')","(54, 1, 'Mike Sheron')","(60, 1, 'Carl Griffiths')","(85, 0, 'Brian Deane')",,,,,,,
+1993-12-04,Manchester United,Norwich City,2,2,"(30, 0, 'Ryan Giggs')","(31, 1, 'Chris Sutton')","(41, 0, 'Brian McClair')","(47, 1, 'Ruel Fox')",,,,,,,,
+1993-12-04,Queens Park Rangers,Aston Villa,2,2,"(6, 0, 'Paul McGrath')","(26, 1, 'Kevin Richardson')","(40, 0, 'Gary Penrice')","(47, 1, 'Garry Parker')",,,,,,,,
+1993-12-04,Sheffield Wednesday,Liverpool,3,1,"(30, 0, 'Neil Ruddock')","(37, 1, 'Robbie Fowler')","(58, 0, 'Mark Wright')","(80, 0, 'Mark Bright')",,,,,,,,
+1993-12-04,Swindon Town,Sheffield United,0,0,,,,,,,,,,,,
+1993-12-04,Tottenham Hotspur,Newcastle United,1,2,"(54, 1, 'Peter Beardsley')","(60, 0, 'Nick Barmby')","(89, 1, 'Peter Beardsley')",,,,,,,,,
+1993-12-04,Wimbledon,West Ham United,1,2,"(44, 1, 'Lee Chapman')","(79, 1, 'Lee Chapman')","(83, 0, 'Dean Holdsworth')",,,,,,,,,
+1993-12-05,Blackburn Rovers,Chelsea,2,0,"(15, 0, 'Graeme Le Saux')","(90, 0, 'Alan Shearer')",,,,,,,,,,
+1993-12-06,Arsenal,Tottenham Hotspur,1,1,"(25, 1, 'Darren Anderton')","(65, 0, 'Ian Wright')",,,,,,,,,,
+1993-12-07,Oldham Athletic,Swindon Town,2,1,"(12, 0, 'Rick Holden')","(71, 1, 'Andy Mutch')","(84, 0, 'Steve Redmond')",,,,,,,,,
+1993-12-07,Sheffield United,Manchester United,0,3,"(13, 1, 'Mark Hughes')","(27, 1, 'Lee Sharpe')","(60, 1, 'Eric Cantona')",,,,,,,,,
+1993-12-08,Aston Villa,Sheffield Wednesday,2,2,"(24, 1, 'Chris Bart-Williams')","(29, 0, 'Neil Cox')","(53, 0, 'Dean Saunders')","(69, 1, 'Shaun Teale')",,,,,,,,
+1993-12-08,Liverpool,Queens Park Rangers,3,2,"(10, 1, 'Les Ferdinand')","(25, 0, 'John Barnes')","(32, 0, 'Ian Rush')","(46, 1, 'Simon Barker')","(78, 0, 'Jan Molby')",,,,,,,
+1993-12-08,Manchester City,Everton,1,0,"(10, 0, 'Carl Griffiths')",,,,,,,,,,,
+1993-12-08,Southampton,Ipswich Town,0,1,"(54, 1, 'Chris Kiwomya')",,,,,,,,,,,
+1993-12-08,West Ham United,Leeds United,0,1,"(84, 1, 'Rodney Wallace')",,,,,,,,,,,
+1993-12-11,Aston Villa,Wimbledon,0,1,"(77, 1, 'Dean Holdsworth')",,,,,,,,,,,
+1993-12-11,Chelsea,Ipswich Town,1,1,"(23, 0, 'Gavin Peacock')","(60, 1, 'Chris Kiwomya')",,,,,,,,,,
+1993-12-11,Liverpool,Swindon Town,2,2,"(60, 1, 'John Moncur')","(71, 0, 'John Barnes')","(74, 1, 'Keith Scott')","(86, 0, 'Mark Wright')",,,,,,,,
+1993-12-11,Manchester City,Tottenham Hotspur,0,2,"(64, 1, 'Jason Dozzell')","(88, 1, 'Jason Dozzell')",,,,,,,,,,
+1993-12-11,Newcastle United,Manchester United,1,1,"(59, 1, 'Paul Ince')","(71, 0, 'Andrew Cole')",,,,,,,,,,
+1993-12-11,Oldham Athletic,Blackburn Rovers,1,2,"(27, 1, 'Alan Shearer')","(40, 0, 'Rick Holden')","(49, 1, 'Alan Shearer')",,,,,,,,,
+1993-12-11,Sheffield United,Everton,0,0,,,,,,,,,,,,
+1993-12-11,Southampton,Queens Park Rangers,0,1,"(2, 1, 'Les Ferdinand')",,,,,,,,,,,
+1993-12-11,West Ham United,Coventry City,3,2,"(11, 0, 'Tim Breacker')","(40, 0, 'Peter Butler')","(41, 1, 'Julian Darby')","(59, 0, 'Trevor Morley')","(76, 1, 'Julian Darby')",,,,,,,
+1993-12-12,Arsenal,Sheffield Wednesday,1,0,"(90, 0, 'Ian Wright')",,,,,,,,,,,
+1993-12-13,Norwich City,Leeds United,2,1,"(44, 0, 'Chris Sutton')","(67, 1, 'Rodney Wallace')","(80, 0, 'Efan Ekoku')",,,,,,,,,
+1993-12-18,Blackburn Rovers,Manchester City,2,0,"(13, 0, 'Kevin Gallacher')","(76, 0, 'Alan Shearer')",,,,,,,,,,
+1993-12-18,Coventry City,Oldham Athletic,1,1,"(28, 0, 'Roy Wegerle')","(50, 1, 'Paul Bernard')",,,,,,,,,,
+1993-12-18,Everton,Newcastle United,0,2,"(14, 1, 'Andrew Cole')","(76, 1, 'Peter Beardsley')",,,,,,,,,,
+1993-12-18,Ipswich Town,Norwich City,2,1,"(8, 0, 'John Wark')","(40, 1, 'Mark Bowen')","(90, 0, 'Gary Megson')",,,,,,,,,
+1993-12-18,Leeds United,Arsenal,2,1,"(21, 0, 'Gary McAllister')","(27, 1, 'Kevin Campbell')","(60, 0, 'Tony Adams')",,,,,,,,,
+1993-12-18,Sheffield Wednesday,West Ham United,5,0,"(35, 0, 'Mike Marsh')","(47, 0, 'Mark Bright')","(51, 0, 'Chris Waddle')","(72, 0, 'Nigel Jemson')","(87, 0, 'Carlton Palmer')",,,,,,,
+1993-12-18,Swindon Town,Southampton,2,1,"(11, 0, 'Paul Bodin')","(38, 1, 'Matt Le Tissier')","(65, 0, 'Keith Scott')",,,,,,,,,
+1993-12-18,Tottenham Hotspur,Liverpool,3,3,"(36, 0, 'Vinny Samways')","(48, 1, 'Robbie Fowler')","(51, 1, 'Jamie Redknapp')","(54, 1, 'Robbie Fowler')","(68, 0, 'Micky Hazard')","(76, 0, 'Darren Caskey')",,,,,,
+1993-12-18,Wimbledon,Sheffield United,2,0,"(50, 0, 'Warren Barton')","(67, 0, 'Dean Holdsworth')",,,,,,,,,,
+1993-12-19,Manchester United,Aston Villa,3,1,"(21, 0, 'Eric Cantona')","(89, 0, 'Eric Cantona')","(90, 0, 'Paul Ince')","(90, 1, 'Neil Cox')",,,,,,,,
+1993-12-22,Newcastle United,Leeds United,1,1,"(66, 1, 'Chris Fairclough')","(85, 0, 'Andrew Cole')",,,,,,,,,,
+1993-12-26,Manchester United,Blackburn Rovers,1,1,"(15, 1, 'Kevin Gallacher')","(88, 0, 'Paul Ince')",,,,,,,,,,
+1993-12-26,Sheffield United,Liverpool,0,0,,,,,,,,,,,,
+1993-12-26,Wimbledon,Coventry City,1,2,"(16, 1, 'Peter Ndlovu')","(38, 0, 'Dean Holdsworth')","(71, 1, 'John Williams')",,,,,,,,,
+1993-12-27,Everton,Sheffield Wednesday,0,2,"(34, 1, 'Mark Bright')","(44, 1, 'Carlton Palmer')",,,,,,,,,,
+1993-12-27,Ipswich Town,West Ham United,1,1,"(36, 0, 'David Linighan')","(77, 1, 'Lee Chapman')",,,,,,,,,,
+1993-12-27,Queens Park Rangers,Oldham Athletic,2,0,"(56, 0, 'Devon White')","(75, 0, 'Gary Penrice')",,,,,,,,,,
+1993-12-27,Southampton,Chelsea,3,1,"(28, 0, 'Tommy Widdrington')","(42, 1, 'Mark Stein')","(65, 0, 'Iain Dowie')","(89, 0, 'Frankie Bennett')",,,,,,,,
+1993-12-27,Swindon Town,Arsenal,0,4,"(19, 1, 'Kevin Campbell')","(26, 1, 'Kevin Campbell')","(68, 1, 'Kevin Campbell')","(90, 1, 'Ian Wright')",,,,,,,,
+1993-12-27,Tottenham Hotspur,Norwich City,1,3,"(27, 1, 'Chris Sutton')","(36, 1, 'Efan Ekoku')","(74, 0, 'Nick Barmby')","(89, 1, 'Chris Sutton')",,,,,,,,
+1993-12-28,Chelsea,Newcastle United,1,0,"(11, 0, 'Mark Stein')",,,,,,,,,,,
+1993-12-28,Liverpool,Wimbledon,1,1,"(27, 0, 'John Scales')","(40, 1, 'John Fashanu')",,,,,,,,,,
+1993-12-28,Manchester City,Southampton,1,1,"(26, 1, 'Iain Dowie')","(29, 0, 'Terry Phelan')",,,,,,,,,,
+1993-12-28,West Ham United,Tottenham Hotspur,1,3,"(11, 0, 'Matty Holmes')","(34, 1, 'Jason Dozzell')","(42, 1, 'Micky Hazard')","(77, 1, 'Darren Anderton')",,,,,,,,
+1993-12-29,Arsenal,Sheffield United,3,0,"(11, 0, 'Kevin Campbell')","(40, 0, 'Ian Wright')","(55, 0, 'Kevin Campbell')",,,,,,,,,
+1993-12-29,Blackburn Rovers,Everton,2,0,"(24, 0, 'Alan Shearer')","(42, 0, 'Alan Shearer')",,,,,,,,,,
+1993-12-29,Leeds United,Queens Park Rangers,1,1,"(62, 1, 'Michael Meaker')","(71, 0, 'Steve Hodge')",,,,,,,,,,
+1993-12-29,Norwich City,Aston Villa,1,2,"(26, 0, 'Chris Sutton')","(55, 1, 'Ray Houghton')","(58, 1, 'Dean Saunders')",,,,,,,,,
+1993-12-29,Oldham Athletic,Manchester United,2,5,"(4, 1, 'Andrei Kanchelskis')","(15, 0, 'Graeme Sharp')","(18, 1, 'Eric Cantona')","(26, 0, 'Rick Holden')","(38, 1, 'Steve Bruce')","(54, 1, 'Ryan Giggs')","(60, 1, 'Ryan Giggs')",,,,,
+1993-12-29,Sheffield Wednesday,Swindon Town,3,3,"(6, 1, 'Andy Mutch')","(8, 0, 'Mark Bright')","(19, 1, 'Craig Maskell')","(67, 0, 'Gordon Watson')","(70, 0, 'Gordon Watson')","(90, 1, 'Craig Maskell')",,,,,,
+1994-01-01,Aston Villa,Blackburn Rovers,0,1,"(38, 1, 'Alan Shearer')",,,,,,,,,,,
+1994-01-01,Everton,West Ham United,0,1,"(5, 1, 'Tim Breacker')",,,,,,,,,,,
+1994-01-01,Ipswich Town,Liverpool,1,2,"(57, 1, 'Neil Ruddock')","(75, 0, 'Ian Marshall')","(87, 1, 'Ian Rush')",,,,,,,,,
+1994-01-01,Manchester United,Leeds United,0,0,,,,,,,,,,,,
+1994-01-01,Newcastle United,Manchester City,2,0,"(28, 0, 'Andrew Cole')","(45, 0, 'Andrew Cole')",,,,,,,,,,
+1994-01-01,Queens Park Rangers,Sheffield Wednesday,1,2,"(70, 0, 'Les Ferdinand')","(78, 1, 'Mark Bright')","(79, 1, 'Gordon Watson')",,,,,,,,,
+1994-01-01,Sheffield United,Oldham Athletic,2,1,"(23, 0, 'Dane Whitehouse')","(32, 0, 'Mitch Ward')","(45, 1, 'Richard Jobson')",,,,,,,,,
+1994-01-01,Southampton,Norwich City,0,1,"(45, 1, 'Chris Sutton')",,,,,,,,,,,
+1994-01-01,Swindon Town,Chelsea,1,3,"(19, 1, 'Neil Shipperley')","(44, 1, 'Mark Stein')","(90, 0, 'Andy Mutch')","(90, 1, 'Dennis Wise')",,,,,,,,
+1994-01-01,Tottenham Hotspur,Coventry City,1,2,"(25, 1, 'Phil Babb')","(43, 0, 'Darren Caskey')","(77, 1, 'Roy Wegerle')",,,,,,,,,
+1994-01-01,Wimbledon,Arsenal,0,3,"(18, 1, 'Kevin Campbell')","(23, 1, 'Ray Parlour')","(56, 1, 'Ian Wright')",,,,,,,,,
+1994-01-03,Arsenal,Queens Park Rangers,0,0,,,,,,,,,,,,
+1994-01-03,Chelsea,Everton,4,2,"(22, 0, 'Craig Burley')","(40, 0, 'Mark Stein')","(46, 1, 'Tony Cottee')","(55, 1, 'Stuart Barlow')","(62, 0, 'Neil Shipperley')","(86, 0, 'Mark Stein')",,,,,,
+1994-01-03,Coventry City,Swindon Town,1,1,"(73, 0, 'Roy Wegerle')","(90, 1, 'Andy Mutch')",,,,,,,,,,
+1994-01-03,Sheffield Wednesday,Tottenham Hotspur,1,0,"(5, 0, 'Mark Bright')",,,,,,,,,,,
+1994-01-03,West Ham United,Sheffield United,0,0,,,,,,,,,,,,
+1994-01-04,Liverpool,Manchester United,3,3,"(8, 1, 'Steve Bruce')","(20, 1, 'Ryan Giggs')","(23, 1, 'Denis Irwin')","(25, 0, 'Nigel Clough')","(38, 0, 'Nigel Clough')","(79, 0, 'Neil Ruddock')",,,,,,
+1994-01-04,Norwich City,Newcastle United,1,2,"(4, 0, 'Mark Bowen')","(20, 1, 'Peter Beardsley')","(79, 1, 'Andrew Cole')",,,,,,,,,
+1994-01-15,Aston Villa,West Ham United,3,1,"(15, 0, 'Kevin Richardson')","(31, 1, 'Martin Allen')","(43, 0, 'Dalian Atkinson')","(68, 0, 'Dalian Atkinson')",,,,,,,,
+1994-01-15,Everton,Swindon Town,6,2,"(4, 0, 'John Ebbrell')","(42, 0, 'Tony Cottee')","(56, 1, 'John Moncur')","(60, 1, 'Paul Bodin')","(72, 0, 'Gary Ablett')","(82, 0, 'Tony Cottee')","(89, 0, 'Tony Cottee')","(90, 0, 'Peter Beagrie')",,,,
+1994-01-15,Leeds United,Ipswich Town,0,0,,,,,,,,,,,,
+1994-01-15,Manchester City,Arsenal,0,0,,,,,,,,,,,,
+1994-01-15,Norwich City,Chelsea,1,1,"(42, 1, 'Mark Stein')","(59, 0, 'Efan Ekoku')",,,,,,,,,,
+1994-01-15,Oldham Athletic,Liverpool,0,3,"(47, 1, 'Julian Dicks')","(53, 1, 'Robbie Fowler')","(79, 1, 'Jamie Redknapp')",,,,,,,,,
+1994-01-15,Sheffield United,Blackburn Rovers,1,2,"(18, 0, 'Andy Scott')","(38, 1, 'Alan Shearer')","(64, 1, 'Alan Shearer')",,,,,,,,,
+1994-01-15,Southampton,Coventry City,1,0,"(44, 0, 'Matt Le Tissier')",,,,,,,,,,,
+1994-01-15,Tottenham Hotspur,Manchester United,0,1,"(48, 1, 'Mark Hughes')",,,,,,,,,,,
+1994-01-15,Wimbledon,Sheffield Wednesday,2,1,"(12, 0, 'Neal Ardley')","(42, 0, 'John Fashanu')","(68, 1, 'Andy Pearce')",,,,,,,,,
+1994-01-16,Queens Park Rangers,Newcastle United,1,2,"(4, 1, 'Lee Clark')","(20, 0, 'Gary Penrice')","(62, 1, 'Peter Beardsley')",,,,,,,,,
+1994-01-22,Arsenal,Oldham Athletic,1,1,"(4, 1, 'Graeme Sharp')","(45, 0, 'Ian Wright')",,,,,,,,,,
+1994-01-22,Chelsea,Aston Villa,1,1,"(40, 1, 'Dean Saunders')","(67, 0, 'Mark Stein')",,,,,,,,,,
+1994-01-22,Coventry City,Queens Park Rangers,0,1,"(26, 1, 'Devon White')",,,,,,,,,,,
+1994-01-22,Ipswich Town,Wimbledon,0,0,,,,,,,,,,,,
+1994-01-22,Liverpool,Manchester City,2,1,"(3, 1, 'Carl Griffiths')","(21, 0, 'Ian Rush')","(90, 0, 'Ian Rush')",,,,,,,,,
+1994-01-22,Manchester United,Everton,1,0,"(26, 0, 'Ryan Giggs')",,,,,,,,,,,
+1994-01-22,Newcastle United,Southampton,1,2,"(5, 1, 'Neil Maddison')","(38, 0, 'Andrew Cole')","(83, 1, 'Matt Le Tissier')",,,,,,,,,
+1994-01-22,Sheffield Wednesday,Sheffield United,3,1,"(58, 0, 'Mark Bright')","(61, 0, 'Andy Pearce')","(70, 0, 'Gordon Watson')","(87, 1, 'Dane Whitehouse')",,,,,,,,
+1994-01-22,Swindon Town,Tottenham Hotspur,2,1,"(30, 1, 'Nick Barmby')","(38, 0, 'Jan-Aage Fjortoft')","(80, 0, 'Adrian Whitbread')",,,,,,,,,
+1994-01-23,Blackburn Rovers,Leeds United,2,1,"(11, 0, 'Alan Shearer')","(77, 1, 'Gary Speed')","(90, 0, 'Alan Shearer')",,,,,,,,,
+1994-01-24,West Ham United,Norwich City,3,3,"(4, 1, 'Chris Sutton')","(37, 0, 'Martin Allen')","(46, 0, 'Steve Jones')","(57, 1, 'Chris Sutton')","(79, 1, 'Ruel Fox')","(84, 0, 'Trevor Morley')",,,,,,
+1994-02-02,Coventry City,Ipswich Town,1,0,"(5, 0, 'Sean Flynn')",,,,,,,,,,,
+1994-02-05,Blackburn Rovers,Wimbledon,3,0,"(7, 0, 'Alan Shearer')","(30, 0, 'Jason Wilcox')","(39, 0, 'Stuart Ripley')",,,,,,,,,
+1994-02-05,Everton,Chelsea,4,2,"(4, 0, 'John Ebbrell')","(23, 1, 'Mark Stein')","(36, 0, 'Paul Rideout')","(38, 0, 'Paul Rideout')","(85, 0, 'Brett Angell')","(88, 1, 'Mark Stein')",,,,,,
+1994-02-05,Manchester City,Ipswich Town,2,1,"(16, 1, 'Ian Marshall')","(31, 0, 'Carl Griffiths')","(71, 0, 'Garry Flitcroft')",,,,,,,,,
+1994-02-05,Norwich City,Liverpool,2,2,"(11, 0, 'Chris Sutton')","(52, 1, 'Ian Culverhouse')","(63, 0, 'Chris Sutton')","(76, 1, 'John Barnes')",,,,,,,,
+1994-02-05,Oldham Athletic,Southampton,2,1,"(26, 1, 'Matt Le Tissier')","(33, 0, 'Sean McCarthy')","(38, 0, 'Paul Bernard')",,,,,,,,,
+1994-02-05,Queens Park Rangers,Manchester United,2,3,"(18, 1, 'Andrei Kanchelskis')","(44, 0, 'Clive Wilson')","(45, 1, 'Eric Cantona')","(59, 1, 'Ryan Giggs')","(69, 0, 'Les Ferdinand')",,,,,,,
+1994-02-05,Swindon Town,Coventry City,3,1,"(8, 0, 'Jan-Aage Fjortoft')","(35, 0, 'Jan-Aage Fjortoft')","(54, 1, 'Julian Darby')","(79, 0, 'Jan-Aage Fjortoft')",,,,,,,,
+1994-02-05,Tottenham Hotspur,Sheffield Wednesday,1,3,"(17, 1, 'Simon Coleman')","(53, 1, 'Mark Bright')","(61, 1, 'Mark Bright')","(65, 0, 'Ronny Rosenthal')",,,,,,,,
+1994-02-06,Aston Villa,Leeds United,1,0,"(71, 0, 'Andy Townsend')",,,,,,,,,,,
+1994-02-12,Aston Villa,Swindon Town,5,0,"(31, 0, 'Dean Saunders')","(55, 0, 'Steve Froggatt')","(66, 0, 'Dean Saunders')","(73, 0, 'Kevin Richardson')","(84, 0, 'Dean Saunders')",,,,,,,
+1994-02-12,Everton,Ipswich Town,0,0,,,,,,,,,,,,
+1994-02-12,Manchester City,West Ham United,0,0,,,,,,,,,,,,
+1994-02-12,Oldham Athletic,Chelsea,2,1,"(17, 0, 'Richard Jobson')","(52, 1, 'John Spencer')","(81, 0, 'Graeme Sharp')",,,,,,,,,
+1994-02-12,Sheffield United,Coventry City,0,0,,,,,,,,,,,,
+1994-02-12,Tottenham Hotspur,Blackburn Rovers,0,2,"(60, 1, 'Alan Shearer')","(72, 1, 'Kevin Gallacher')",,,,,,,,,,
+1994-02-12,Wimbledon,Newcastle United,4,2,"(9, 0, 'Robbie Earle')","(25, 0, 'Gary Blissett')","(50, 1, 'Peter Beardsley')","(56, 0, 'John Fashanu')","(64, 0, 'Dean Holdsworth')","(89, 1, 'Peter Beardsley')",,,,,,
+1994-02-13,Norwich City,Arsenal,1,1,"(33, 1, 'Kevin Campbell')","(57, 0, 'Efan Ekoku')",,,,,,,,,,
+1994-02-14,Southampton,Liverpool,4,2,"(1, 0, 'Matt Le Tissier')","(6, 0, 'Craig Maskell')","(42, 0, 'Matt Le Tissier')","(50, 0, 'Matt Le Tissier')","(69, 1, 'Julian Dicks')","(86, 1, 'Ian Rush')",,,,,,
+1994-02-19,Blackburn Rovers,Newcastle United,1,0,"(76, 0, 'David May')",,,,,,,,,,,
+1994-02-19,Coventry City,Manchester City,4,0,"(54, 0, 'David Rennie')","(75, 0, 'Mick Quinn')","(87, 0, 'John Williams')","(90, 0, 'Peter Ndlovu')",,,,,,,,
+1994-02-19,Everton,Arsenal,1,1,"(56, 1, 'Paul Merson')","(80, 0, 'Tony Cottee')",,,,,,,,,,
+1994-02-19,Leeds United,Liverpool,2,0,"(9, 0, 'David Wetherall')","(86, 0, 'Gary McAllister')",,,,,,,,,,
+1994-02-19,Swindon Town,Norwich City,3,3,"(15, 1, 'Chris Sutton')","(18, 0, 'Shaun Taylor')","(41, 1, 'Rob Newman')","(45, 0, 'Jan-Aage Fjortoft')","(50, 0, 'Jan-Aage Fjortoft')","(83, 1, 'Jeremy Goss')",,,,,,
+1994-02-22,Aston Villa,Manchester City,0,0,,,,,,,,,,,,
+1994-02-22,Ipswich Town,Sheffield United,3,2,"(2, 0, 'David Linighan')","(8, 0, 'Ian Marshall')","(23, 1, 'Alan Cork')","(35, 0, 'Stuart Slater')","(49, 1, 'Franz Carr')",,,,,,,
+1994-02-22,Norwich City,Blackburn Rovers,2,2,"(31, 1, 'Kevin Gallacher')","(39, 0, 'Chris Sutton')","(57, 0, 'Chris Sutton')","(58, 1, 'Kevin Gallacher')",,,,,,,,
+1994-02-23,Newcastle United,Coventry City,4,0,"(49, 0, 'Andrew Cole')","(70, 0, 'Andrew Cole')","(77, 0, 'Andrew Cole')","(86, 0, 'Alex Mathie')",,,,,,,,
+1994-02-26,Arsenal,Blackburn Rovers,1,0,"(73, 0, 'Paul Merson')",,,,,,,,,,,
+1994-02-26,Liverpool,Coventry City,1,0,"(3, 0, 'Ian Rush')",,,,,,,,,,,
+1994-02-26,Manchester City,Swindon Town,2,1,"(7, 1, 'Jan-Aage Fjortoft')","(25, 0, 'Kevin Horlock')","(50, 0, 'David Rocastle')",,,,,,,,,
+1994-02-26,Norwich City,Sheffield Wednesday,1,1,"(75, 1, 'Gordon Watson')","(90, 0, 'Chris Sutton')",,,,,,,,,,
+1994-02-26,Southampton,Wimbledon,1,0,"(74, 0, 'Matt Le Tissier')",,,,,,,,,,,
+1994-02-26,West Ham United,Manchester United,2,2,"(6, 1, 'Mark Hughes')","(69, 0, 'Lee Chapman')","(72, 0, 'Trevor Morley')","(87, 1, 'Paul Ince')",,,,,,,,
+1994-02-27,Chelsea,Tottenham Hotspur,4,3,"(17, 1, 'Steve Sedgley')","(18, 1, 'Jason Dozzell')","(29, 0, 'Mal Donaghy')","(33, 0, 'Mark Stein')","(40, 0, 'John Spencer')","(72, 1, 'Andy A Gray')","(89, 0, 'Mark Stein')",,,,,
+1994-02-28,Oldham Athletic,Leeds United,1,1,"(2, 1, 'Gary McAllister')","(86, 0, 'Darren Beckford')",,,,,,,,,,
+1994-03-02,Tottenham Hotspur,Aston Villa,1,1,"(8, 1, 'Garry Parker')","(73, 0, 'Ronny Rosenthal')",,,,,,,,,,
+1994-03-05,Blackburn Rovers,Liverpool,2,0,"(17, 0, 'Jason Wilcox')","(65, 0, 'Tim Sherwood')",,,,,,,,,,
+1994-03-05,Everton,Oldham Athletic,2,1,"(40, 0, 'Preki Radosavljevic')","(43, 1, 'Graeme Sharp')","(61, 0, 'Graham Stuart')",,,,,,,,,
+1994-03-05,Ipswich Town,Arsenal,1,5,"(18, 1, 'Ian Wright')","(24, 1, 'Eddie Youds')","(40, 1, 'Ian Wright')","(52, 1, 'Ray Parlour')","(70, 0, 'Lee Dixon')","(86, 1, 'Ian Wright')",,,,,,
+1994-03-05,Leeds United,Southampton,0,0,,,,,,,,,,,,
+1994-03-05,Manchester United,Chelsea,0,1,"(64, 1, 'Gavin Peacock')",,,,,,,,,,,
+1994-03-05,Queens Park Rangers,Manchester City,1,1,"(28, 0, 'Gary Penrice')","(55, 1, 'David Rocastle')",,,,,,,,,,
+1994-03-05,Sheffield Wednesday,Newcastle United,0,1,"(88, 1, 'Andrew Cole')",,,,,,,,,,,
+1994-03-05,Swindon Town,West Ham United,1,1,"(48, 1, 'Trevor Morley')","(88, 0, 'Jan-Aage Fjortoft')",,,,,,,,,,
+1994-03-05,Tottenham Hotspur,Sheffield United,2,2,"(56, 1, 'Brian Gayle')","(63, 0, 'Kevin Scott')","(85, 1, 'Nathan Blake')","(90, 0, 'Jason Dozzell')",,,,,,,,
+1994-03-05,Wimbledon,Norwich City,3,1,"(6, 1, 'Efan Ekoku')","(39, 0, 'Robbie Earle')","(65, 0, 'Robbie Earle')","(76, 0, 'Dean Holdsworth')",,,,,,,,
+1994-03-06,Coventry City,Aston Villa,0,1,"(20, 1, 'Tony Daley')",,,,,,,,,,,
+1994-03-12,Aston Villa,Ipswich Town,0,1,"(8, 1, 'Gavin Johnson')",,,,,,,,,,,
+1994-03-12,Manchester City,Wimbledon,0,1,"(31, 1, 'Robbie Earle')",,,,,,,,,,,
+1994-03-12,Newcastle United,Swindon Town,7,1,"(12, 0, 'Peter Beardsley')","(18, 0, 'Rob Lee')","(67, 0, 'Rob Lee')","(70, 0, 'Peter Beardsley')","(76, 0, 'Steve Watson')","(77, 1, 'John Moncur')","(79, 0, 'Steve Watson')","(84, 0, 'Ruel Fox')",,,,
+1994-03-12,Norwich City,Queens Park Rangers,3,4,"(9, 0, 'Efan Ekoku')","(49, 1, 'Simon Barker')","(55, 0, 'Efan Ekoku')","(64, 1, 'Darren Peacock')","(70, 1, 'Gary Penrice')","(84, 1, 'Devon White')","(88, 0, 'Mark Bowen')",,,,,
+1994-03-12,Southampton,Sheffield Wednesday,1,1,"(67, 1, 'Chris Bart-Williams')","(78, 0, 'Ken Monkou')",,,,,,,,,,
+1994-03-13,Liverpool,Everton,2,1,"(21, 1, 'Dave Watson')","(22, 0, 'Ian Rush')","(44, 0, 'Robbie Fowler')",,,,,,,,,
+1994-03-13,Sheffield United,Leeds United,2,2,"(28, 1, 'Gary Speed')","(58, 1, 'Brian Deane')","(74, 0, 'Jostein Flo')","(89, 0, 'Jostein Flo')",,,,,,,,
+1994-03-16,Chelsea,Wimbledon,2,0,"(20, 0, 'David Hopkin')","(78, 0, 'Craig Burley')",,,,,,,,,,
+1994-03-16,Leeds United,Aston Villa,2,0,"(27, 0, 'Rodney Wallace')","(51, 0, 'Brian Deane')",,,,,,,,,,
+1994-03-16,Manchester United,Sheffield Wednesday,5,0,"(14, 0, 'Ryan Giggs')","(16, 0, 'Mark Hughes')","(21, 0, 'Paul Ince')","(45, 0, 'Eric Cantona')","(55, 0, 'Eric Cantona')",,,,,,,
+1994-03-16,Sheffield United,Queens Park Rangers,1,1,"(12, 1, 'Simon Barker')","(48, 0, 'Nathan Blake')",,,,,,,,,,
+1994-03-19,Aston Villa,Oldham Athletic,1,2,"(58, 0, 'Steve Redmond')","(61, 1, 'Darren Beckford')","(74, 1, 'Rick Holden')",,,,,,,,,
+1994-03-19,Leeds United,Coventry City,1,0,"(53, 0, 'Rodney Wallace')",,,,,,,,,,,
+1994-03-19,Liverpool,Chelsea,2,1,"(8, 0, 'Ian Rush')","(18, 0, 'Craig Burley')","(50, 1, 'Craig Burley')",,,,,,,,,
+1994-03-19,Manchester City,Sheffield United,0,0,,,,,,,,,,,,
+1994-03-19,Queens Park Rangers,Wimbledon,1,0,"(70, 0, 'Darren Peacock')",,,,,,,,,,,
+1994-03-19,Southampton,Arsenal,0,4,"(12, 1, 'Ian Wright')","(30, 1, 'Ian Wright')","(69, 1, 'Ian Wright')","(85, 1, 'Kevin Campbell')",,,,,,,,
+1994-03-19,Swindon Town,Manchester United,2,2,"(13, 1, 'Roy Keane')","(36, 0, 'Luc Nijholt')","(62, 1, 'Paul Ince')","(83, 0, 'Jan-Aage Fjortoft')",,,,,,,,
+1994-03-19,Tottenham Hotspur,Ipswich Town,1,1,"(11, 1, 'Chris Kiwomya')","(55, 0, 'Nick Barmby')",,,,,,,,,,
+1994-03-19,West Ham United,Newcastle United,2,4,"(34, 1, 'Rob Lee')","(56, 0, 'Tim Breacker')","(69, 1, 'Andrew Cole')","(72, 1, 'Rob Lee')","(81, 0, 'Alvin Martin')","(89, 1, 'Alex Mathie')",,,,,,
+1994-03-20,Sheffield Wednesday,Blackburn Rovers,1,2,"(18, 1, 'Jason Wilcox')","(40, 0, 'Gordon Watson')","(89, 1, 'Mike Newell')",,,,,,,,,
+1994-03-21,Norwich City,Everton,3,0,"(40, 0, 'Ian Culverhouse')","(49, 0, 'Chris Sutton')","(70, 0, 'Mark Bowen')",,,,,,,,,
+1994-03-22,Arsenal,Manchester United,2,2,"(10, 1, 'Lee Sharpe')","(36, 0, 'Gary Pallister')","(53, 1, 'Lee Sharpe')","(78, 0, 'Paul Merson')",,,,,,,,
+1994-03-23,Newcastle United,Ipswich Town,2,0,"(37, 0, 'Scott Sellars')","(73, 0, 'Andrew Cole')",,,,,,,,,,
+1994-03-26,Arsenal,Liverpool,1,0,"(47, 0, 'Paul Merson')",,,,,,,,,,,
+1994-03-26,Blackburn Rovers,Swindon Town,3,1,"(4, 1, 'Jan-Aage Fjortoft')","(6, 0, 'Alan Shearer')","(27, 0, 'Tim Sherwood')","(82, 0, 'Alan Shearer')",,,,,,,,
+1994-03-26,Chelsea,West Ham United,2,0,"(39, 0, 'Darren Barnard')","(75, 0, 'Glenn Hoddle')",,,,,,,,,,
+1994-03-26,Coventry City,Norwich City,2,1,"(25, 0, 'Sean Flynn')","(47, 1, 'Darren Eadie')","(70, 0, 'Mick Quinn')",,,,,,,,,
+1994-03-26,Everton,Tottenham Hotspur,0,1,"(70, 1, 'Steve Sedgley')",,,,,,,,,,,
+1994-03-26,Ipswich Town,Queens Park Rangers,1,3,"(64, 1, 'Andy Impey')","(68, 1, 'Andy Impey')","(70, 1, 'Les Ferdinand')","(90, 0, 'Bontcho Guentchev')",,,,,,,,
+1994-03-26,Oldham Athletic,Manchester City,0,0,,,,,,,,,,,,
+1994-03-26,Sheffield United,Southampton,0,0,,,,,,,,,,,,
+1994-03-26,Wimbledon,Leeds United,1,0,"(3, 0, 'Peter Fear')",,,,,,,,,,,
+1994-03-28,Sheffield United,West Ham United,3,2,"(9, 1, 'Ian Bishop')","(30, 1, 'Matty Holmes')","(40, 0, 'Dane Whitehouse')","(48, 0, 'Brian Gayle')","(73, 0, 'Paul Rogers')",,,,,,,
+1994-03-29,Ipswich Town,Manchester City,2,2,"(23, 0, 'David Linighan')","(32, 1, 'Paul Walsh')","(61, 1, 'Uwe Rosler')","(67, 0, 'Bontcho Guentchev')",,,,,,,,
+1994-03-29,Newcastle United,Norwich City,3,0,"(37, 0, 'Andrew Cole')","(50, 0, 'Rob Lee')","(70, 0, 'Peter Beardsley')",,,,,,,,,
+1994-03-29,Wimbledon,Blackburn Rovers,4,1,"(15, 1, 'Jason Wilcox')","(51, 0, 'John Fashanu')","(76, 0, 'Henning Berg')","(80, 0, 'Dean Holdsworth')","(83, 0, 'Robbie Earle')",,,,,,,
+1994-03-30,Aston Villa,Everton,0,0,,,,,,,,,,,,
+1994-03-30,Manchester United,Liverpool,1,0,"(37, 0, 'Paul Ince')",,,,,,,,,,,
+1994-03-30,Sheffield Wednesday,Chelsea,3,1,"(6, 0, 'Chris Bart-Williams')","(21, 0, 'Carlton Palmer')","(65, 1, 'John Spencer')","(85, 0, 'John Sheridan')",,,,,,,,
+1994-03-30,Southampton,Oldham Athletic,1,3,"(13, 1, 'Graeme Sharp')","(42, 1, 'Francis Benali')","(58, 0, 'Matt Le Tissier')","(88, 1, 'Rick Holden')",,,,,,,,
+1994-04-01,Leeds United,Newcastle United,1,1,"(3, 1, 'Andrew Cole')","(88, 0, 'Chris Fairclough')",,,,,,,,,,
+1994-04-02,Arsenal,Swindon Town,1,1,"(4, 0, 'Alan Smith')","(29, 1, 'Paul Bodin')",,,,,,,,,,
+1994-04-02,Blackburn Rovers,Manchester United,2,0,"(46, 0, 'Alan Shearer')","(76, 0, 'Alan Shearer')",,,,,,,,,,
+1994-04-02,Chelsea,Southampton,2,0,"(45, 0, 'John Spencer')","(80, 0, 'Erland Johnsen')",,,,,,,,,,
+1994-04-02,Coventry City,Wimbledon,1,2,"(31, 1, 'Stewart Castledine')","(40, 1, 'Dean Holdsworth')","(64, 0, 'Peter Ndlovu')",,,,,,,,,
+1994-04-02,Liverpool,Sheffield United,1,2,"(4, 0, 'Ian Rush')","(46, 1, 'Jostein Flo')","(72, 1, 'Jostein Flo')",,,,,,,,,
+1994-04-02,Manchester City,Aston Villa,3,0,"(39, 0, 'Peter Beagrie')","(45, 0, 'Paul Walsh')","(53, 0, 'Uwe Rosler')",,,,,,,,,
+1994-04-02,Norwich City,Tottenham Hotspur,1,2,"(55, 1, 'Teddy Sheringham')","(70, 0, 'Chris Sutton')","(76, 1, 'Colin Woodthorpe')",,,,,,,,,
+1994-04-02,Oldham Athletic,Queens Park Rangers,4,1,"(35, 1, 'Les Ferdinand')","(44, 0, 'Richard Jobson')","(46, 0, 'Darren Beckford')","(52, 0, 'Sean McCarthy')","(89, 0, 'Alan McCarthy')",,,,,,,
+1994-04-02,Sheffield Wednesday,Everton,5,1,"(11, 0, 'Ryan Jones')","(43, 0, 'Chris Bart-Williams')","(76, 0, 'Nigel Worthington')","(76, 1, 'Tony Cottee')","(81, 0, 'Mark Bright')","(87, 0, 'Mark Bright')",,,,,,
+1994-04-02,West Ham United,Ipswich Town,2,1,"(17, 0, 'Matthew Rush')","(75, 0, 'Trevor Morley')","(87, 1, 'Paul Mason')",,,,,,,,,
+1994-04-04,Aston Villa,Norwich City,0,0,,,,,,,,,,,,
+1994-04-04,Everton,Blackburn Rovers,0,3,"(27, 1, 'Mike Newell')","(60, 1, 'Jason Wilcox')","(81, 1, 'Mike Newell')",,,,,,,,,
+1994-04-04,Ipswich Town,Coventry City,0,2,"(55, 1, 'Sean Flynn')","(66, 1, 'Peter Ndlovu')",,,,,,,,,,
+1994-04-04,Manchester United,Oldham Athletic,3,2,"(17, 0, 'Ryan Giggs')","(49, 1, 'Sean McCarthy')","(66, 0, 'Dion Dublin')","(67, 0, 'Paul Ince')","(70, 1, 'Graeme Sharp')",,,,,,,
+1994-04-04,Newcastle United,Chelsea,0,0,,,,,,,,,,,,
+1994-04-04,Queens Park Rangers,Leeds United,0,4,"(9, 1, 'Brian Deane')","(44, 1, 'Rodney Wallace')","(53, 1, 'David White')","(84, 1, 'David White')",,,,,,,,
+1994-04-04,Sheffield United,Arsenal,1,1,"(54, 0, 'Paul Rogers')","(69, 1, 'Kevin Campbell')",,,,,,,,,,
+1994-04-04,Southampton,Manchester City,0,1,"(88, 1, 'Steffen Karl')",,,,,,,,,,,
+1994-04-04,Swindon Town,Sheffield Wednesday,0,1,"(69, 1, 'Gordon Watson')",,,,,,,,,,,
+1994-04-04,Tottenham Hotspur,West Ham United,1,4,"(37, 1, 'Steve Jones')","(60, 1, 'Trevor Morley')","(65, 0, 'Teddy Sheringham')","(72, 1, 'Trevor Morley')","(79, 1, 'Mike Marsh')",,,,,,,
+1994-04-04,Wimbledon,Liverpool,1,1,"(64, 1, 'Jamie Redknapp')","(90, 0, 'Gary Elkins')",,,,,,,,,,
+1994-04-09,Coventry City,Tottenham Hotspur,1,0,"(63, 0, 'Peter Ndlovu')",,,,,,,,,,,
+1994-04-09,Liverpool,Ipswich Town,1,0,"(75, 0, 'Julian Dicks')",,,,,,,,,,,
+1994-04-09,Manchester City,Newcastle United,2,1,"(19, 1, 'Scott Sellars')","(33, 0, 'Paul Walsh')","(48, 0, 'David Brightwell')",,,,,,,,,
+1994-04-09,Norwich City,Southampton,4,5,"(37, 0, 'Mark Robins')","(44, 1, 'Rob Ullathorne')","(48, 0, 'Jeremy Goss')","(55, 0, 'Chris Sutton')","(57, 1, 'Matt Le Tissier')","(63, 0, 'Chris Sutton')","(63, 1, 'Matt Le Tissier')","(72, 1, 'Matt Le Tissier')","(90, 1, 'Ken Monkou')",,,
+1994-04-09,Sheffield Wednesday,Queens Park Rangers,3,1,"(7, 0, 'Mark Bright')","(21, 0, 'John Sheridan')","(31, 0, 'Mark Bright')","(90, 1, 'Devon White')",,,,,,,,
+1994-04-09,West Ham United,Everton,0,1,"(71, 1, 'Tony Cottee')",,,,,,,,,,,
+1994-04-11,Blackburn Rovers,Aston Villa,1,0,"(10, 0, 'Alan Shearer')",,,,,,,,,,,
+1994-04-13,Queens Park Rangers,Chelsea,1,1,"(66, 0, 'Les Ferdinand')","(79, 1, 'Dennis Wise')",,,,,,,,,,
+1994-04-16,Arsenal,Chelsea,1,0,"(72, 0, 'Ian Wright')",,,,,,,,,,,
+1994-04-16,Coventry City,Sheffield Wednesday,1,1,"(26, 0, 'Peter Ndlovu')","(50, 1, 'Ryan Jones')",,,,,,,,,,
+1994-04-16,Ipswich Town,Swindon Town,1,1,"(14, 1, 'Jan-Aage Fjortoft')","(60, 0, 'Ian Marshall')",,,,,,,,,,
+1994-04-16,Liverpool,Newcastle United,0,2,"(3, 1, 'Rob Lee')","(56, 1, 'Andrew Cole')",,,,,,,,,,
+1994-04-16,Manchester City,Norwich City,1,1,"(14, 1, 'Rob Ullathorne')","(46, 0, 'Uwe Rosler')",,,,,,,,,,
+1994-04-16,Oldham Athletic,West Ham United,1,2,"(1, 1, 'Martin Allen')","(29, 1, 'Trevor Morley')","(43, 0, 'Rick Holden')",,,,,,,,,
+1994-04-16,Queens Park Rangers,Everton,2,1,"(64, 1, 'Tony Cottee')","(67, 0, 'Devon White')","(87, 0, 'Les Ferdinand')",,,,,,,,,
+1994-04-16,Sheffield United,Aston Villa,1,2,"(17, 0, 'Adrian Littlejohn')","(23, 1, 'Kevin Richardson')","(25, 1, 'Graham Fenton')",,,,,,,,,
+1994-04-16,Southampton,Blackburn Rovers,3,1,"(28, 0, 'Iain Dowie')","(38, 0, 'Paul Allen')","(48, 1, 'Stuart Ripley')","(69, 0, 'Matt Le Tissier')",,,,,,,,
+1994-04-16,Wimbledon,Manchester United,1,0,"(20, 0, 'John Fashanu')",,,,,,,,,,,
+1994-04-17,Leeds United,Tottenham Hotspur,2,0,"(61, 0, 'Rodney Wallace')","(88, 0, 'Rodney Wallace')",,,,,,,,,,
+1994-04-19,Arsenal,Wimbledon,1,1,"(37, 1, 'Robbie Earle')","(51, 0, 'Steve Bould')",,,,,,,,,,
+1994-04-23,Aston Villa,Arsenal,1,2,"(29, 1, 'Ian Wright')","(57, 0, 'Ray Houghton')","(90, 1, 'Ian Wright')",,,,,,,,,
+1994-04-23,Chelsea,Leeds United,1,1,"(36, 1, 'Gary Speed')","(65, 0, 'John Spencer')",,,,,,,,,,
+1994-04-23,Everton,Coventry City,0,0,,,,,,,,,,,,
+1994-04-23,Manchester United,Manchester City,2,0,"(40, 0, 'Eric Cantona')","(45, 0, 'Eric Cantona')",,,,,,,,,,
+1994-04-23,Newcastle United,Oldham Athletic,3,2,"(19, 0, 'Ruel Fox')","(43, 1, 'Richard Jobson')","(56, 0, 'Peter Beardsley')","(57, 1, 'Graeme Sharp')","(63, 0, 'Rob Lee')",,,,,,,
+1994-04-23,Norwich City,Sheffield United,0,1,"(31, 1, 'Nathan Blake')",,,,,,,,,,,
+1994-04-23,Sheffield Wednesday,Ipswich Town,5,0,"(6, 0, 'David Linighan')","(16, 0, 'Gordon Watson')","(56, 0, 'Andy Pearce')","(69, 0, 'Chris Bart-Williams')","(90, 0, 'Mark Bright')",,,,,,,
+1994-04-23,Swindon Town,Wimbledon,2,4,"(13, 1, 'John Fashanu')","(67, 0, 'Nicky Summerbee')","(71, 1, 'Robbie Earle')","(75, 1, 'Robbie Earle')","(80, 0, 'Warren Barton')","(81, 1, 'Dean Holdsworth')",,,,,,
+1994-04-23,Tottenham Hotspur,Southampton,3,0,"(4, 0, 'Steve Sedgley')","(66, 0, 'Vinny Samways')","(88, 0, 'Darren Anderton')",,,,,,,,,
+1994-04-23,West Ham United,Liverpool,1,2,"(1, 0, 'Martin Allen')","(13, 1, 'Robbie Fowler')","(87, 1, 'Ian Rush')",,,,,,,,,
+1994-04-24,Blackburn Rovers,Queens Park Rangers,1,1,"(45, 0, 'Alan Shearer')","(84, 1, 'Karl Ready')",,,,,,,,,,
+1994-04-26,Wimbledon,Oldham Athletic,3,0,"(32, 0, 'Dean Holdsworth')","(47, 0, 'Dean Holdsworth')","(55, 0, 'Dean Holdsworth')",,,,,,,,,
+1994-04-27,Chelsea,Swindon Town,2,0,"(25, 0, 'Dennis Wise')","(39, 0, 'Gavin Peacock')",,,,,,,,,,
+1994-04-27,Leeds United,Manchester United,0,2,"(47, 1, 'Andrei Kanchelskis')","(84, 1, 'Ryan Giggs')",,,,,,,,,,
+1994-04-27,Newcastle United,Aston Villa,5,1,"(10, 1, 'Stefan Beinlich')","(15, 0, 'Paul Bracewell')","(23, 0, 'Peter Beardsley')","(41, 0, 'Andrew Cole')","(66, 0, 'Peter Beardsley')","(79, 0, 'Scott Sellars')",,,,,,
+1994-04-27,Queens Park Rangers,Arsenal,1,1,"(3, 0, 'Gary Penrice')","(46, 1, 'Paul Merson')",,,,,,,,,,
+1994-04-27,West Ham United,Blackburn Rovers,1,2,"(11, 1, 'Henning Berg')","(64, 0, 'Martin Allen')","(74, 1, 'Ian Pearce')",,,,,,,,,
+1994-04-30,Arsenal,West Ham United,0,2,"(77, 1, 'Trevor Morley')","(88, 1, 'Martin Allen')",,,,,,,,,,
+1994-04-30,Leeds United,Everton,3,0,"(72, 0, 'Gary McAllister')","(82, 0, 'Dave Watson')","(90, 0, 'David White')",,,,,,,,,
+1994-04-30,Liverpool,Norwich City,0,1,"(35, 1, 'Jeremy Goss')",,,,,,,,,,,
+1994-04-30,Manchester City,Chelsea,2,2,"(15, 1, 'Robert Fleck')","(19, 1, 'Tony Cascarino')","(22, 0, 'Uwe Rosler')","(37, 0, 'Paul Walsh')",,,,,,,,
+1994-04-30,Oldham Athletic,Sheffield Wednesday,0,0,,,,,,,,,,,,
+1994-04-30,Queens Park Rangers,Swindon Town,1,3,"(63, 1, 'Shaun Taylor')","(71, 0, 'Les Ferdinand')","(76, 1, 'Jan-Aage Fjortoft')","(89, 1, 'Nicky Summerbee')",,,,,,,,
+1994-04-30,Sheffield United,Newcastle United,2,0,"(63, 0, 'Nathan Blake')","(90, 0, 'Nathan Blake')",,,,,,,,,,
+1994-04-30,Southampton,Aston Villa,4,1,"(19, 0, 'Matt Le Tissier')","(31, 0, 'Ken Monkou')","(57, 1, 'Dean Saunders')","(76, 0, 'Matt Le Tissier')","(85, 0, 'Neil Maddison')",,,,,,,
+1994-04-30,Wimbledon,Tottenham Hotspur,2,1,"(58, 0, 'Dean Holdsworth')","(63, 0, 'Andy Clarke')","(72, 1, 'Teddy Sheringham')",,,,,,,,,
+1994-05-01,Ipswich Town,Manchester United,1,2,"(20, 0, 'Chris Kiwomya')","(36, 1, 'Eric Cantona')","(47, 1, 'Ryan Giggs')",,,,,,,,,
+1994-05-02,Coventry City,Blackburn Rovers,2,1,"(11, 0, 'Julian Darby')","(29, 1, 'Graeme Le Saux')","(55, 0, 'Julian Darby')",,,,,,,,,
+1994-05-03,Leeds United,Sheffield Wednesday,2,2,"(20, 1, 'Chris Bart-Williams')","(50, 1, 'Gordon Watson')","(71, 0, 'David White')","(73, 0, 'Rodney Wallace')",,,,,,,,
+1994-05-03,Oldham Athletic,Sheffield United,1,1,"(9, 1, 'Alan Cork')","(24, 0, 'Darren Beckford')",,,,,,,,,,
+1994-05-03,Queens Park Rangers,West Ham United,0,0,,,,,,,,,,,,
+1994-05-04,Chelsea,Coventry City,1,2,"(32, 1, 'Peter Ndlovu')","(34, 1, 'Steve Morgan')","(43, 0, 'Tony Cascarino')",,,,,,,,,
+1994-05-04,Manchester United,Southampton,2,0,"(60, 0, 'Andrei Kanchelskis')","(89, 0, 'Mark Hughes')",,,,,,,,,,
+1994-05-05,Oldham Athletic,Tottenham Hotspur,0,2,"(37, 1, 'Vinny Samways')","(78, 1, 'David Howells')",,,,,,,,,,
+1994-05-07,Aston Villa,Liverpool,2,1,"(17, 1, 'Robbie Fowler')","(65, 0, 'Dwight Yorke')","(81, 0, 'Dwight Yorke')",,,,,,,,,
+1994-05-07,Blackburn Rovers,Ipswich Town,0,0,,,,,,,,,,,,
+1994-05-07,Chelsea,Sheffield United,3,2,"(29, 1, 'Jostein Flo')","(58, 0, 'Jakob Kjeldberg')","(60, 1, 'Glyn Hodges')","(76, 0, 'Mark Stein')","(90, 0, 'Mark Stein')",,,,,,,
+1994-05-07,Everton,Wimbledon,3,2,"(4, 1, 'Dean Holdsworth')","(20, 1, 'Gary Ablett')","(24, 0, 'Graham Stuart')","(67, 0, 'Barry Horne')","(81, 0, 'Graham Stuart')",,,,,,,
+1994-05-07,Newcastle United,Arsenal,2,0,"(46, 0, 'Andrew Cole')","(66, 0, 'Peter Beardsley')",,,,,,,,,,
+1994-05-07,Norwich City,Oldham Athletic,1,1,"(14, 1, 'Sean McCarthy')","(72, 0, 'Rob Ullathorne')",,,,,,,,,,
+1994-05-07,Sheffield Wednesday,Manchester City,1,1,"(25, 0, 'Gordon Watson')","(48, 1, 'Uwe Rosler')",,,,,,,,,,
+1994-05-07,Swindon Town,Leeds United,0,5,"(18, 1, 'Brian Deane')","(28, 1, 'David White')","(58, 1, 'Rodney Wallace')","(67, 1, 'Brian Deane')","(90, 1, 'Chris Fairclough')",,,,,,,
+1994-05-07,Tottenham Hotspur,Queens Park Rangers,1,2,"(36, 1, 'Trevor Sinclair')","(39, 0, 'Teddy Sheringham')","(77, 1, 'Trevor Sinclair')",,,,,,,,,
+1994-05-07,West Ham United,Southampton,3,3,"(11, 0, 'Danny Williamson')","(45, 1, 'Matt Le Tissier')","(52, 1, 'Neil Maddison')","(62, 0, 'Martin Allen')","(65, 1, 'Matt Le Tissier')","(89, 0, 'Lee Chapman')",,,,,,
+1994-05-08,Manchester United,Coventry City,0,0,,,,,,,,,,,,

@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-19/08/2000,Sunderland,Arsenal,1,0,"(53, 0, 'Niall Quinn')"
-21/08/2000,Arsenal,Liverpool,2,0,"(8, 0, 'Bissan Lauren')","(90, 0, 'Thierry Henry')"
-26/08/2000,Arsenal,Charlton Athletic,5,3,"(19, 0, 'Patrick Vieira')","(24, 1, 'Andy Hunt')","(31, 1, 'Andy Hunt')","(46, 0, 'Thierry Henry')","(58, 1, 'Graham Stuart')","(61, 0, 'Patrick Vieira')","(67, 0, 'Thierry Henry')","(89, 0, ' Silvinho')"
-06/09/2000,Chelsea,Arsenal,2,2,"(31, 0, 'Jimmy Floyd Hasselbaink')","(58, 0, 'Gianfranco Zola')","(76, 1, 'Thierry Henry')","(86, 1, ' Silvinho')"
-09/09/2000,Bradford City,Arsenal,1,1,"(10, 0, 'Stuart McCall')","(66, 1, 'Ashley Cole')"
-16/09/2000,Arsenal,Coventry City,2,1,"(24, 0, 'Sylvain Wiltord')","(72, 0, 'Paolo Vernazza')","(80, 1, 'Mustapha Hadji')"
-23/09/2000,Ipswich Town,Arsenal,1,1,"(49, 0, 'Marcus Stewart')","(84, 1, 'Dennis Bergkamp')"
-01/10/2000,Arsenal,Manchester United,1,0,"(30, 0, 'Thierry Henry')"
-14/10/2000,Arsenal,Aston Villa,1,0,"(61, 0, 'Thierry Henry')"
-21/10/2000,West Ham United,Arsenal,1,2,"(12, 1, 'Robert Pires')","(21, 1, 'Rio Ferdinand')","(56, 0, 'Stuart Pearce')"
-28/10/2000,Arsenal,Manchester City,5,0,"(44, 0, 'Ashley Cole')","(58, 0, 'Dennis Bergkamp')","(75, 0, 'Sylvain Wiltord')","(82, 0, 'Thierry Henry')","(88, 0, 'Thierry Henry')"
-04/11/2000,Middlesbrough,Arsenal,0,1,"(25, 1, 'Thierry Henry')"
-11/11/2000,Arsenal,Derby County,0,0
-18/11/2000,Everton,Arsenal,2,0,"(54, 0, 'Danny Cadamarteri')","(73, 0, 'Kevin Campbell')"
-26/11/2000,Leeds United,Arsenal,1,0,"(56, 0, 'Olivier Dacourt')"
-02/12/2000,Arsenal,Southampton,1,0,"(85, 0, 'Claus Lundekvam')"
-09/12/2000,Arsenal,Newcastle United,5,0,"(13, 0, 'Thierry Henry')","(16, 0, 'Ray Parlour')","(52, 0, 'Nwankwo Kanu')","(86, 0, 'Ray Parlour')","(90, 0, 'Ray Parlour')"
-18/12/2000,Tottenham Hotspur,Arsenal,1,1,"(31, 0, 'Sergei Rebrov')","(89, 1, 'Patrick Vieira')"
-23/12/2000,Liverpool,Arsenal,4,0,"(11, 0, 'Steven Gerrard')","(62, 0, 'Michael Owen')","(71, 0, 'Nick Barmby')","(90, 0, 'Robbie Fowler')"
-26/12/2000,Arsenal,Leicester City,6,1,"(35, 0, 'Thierry Henry')","(50, 0, 'Patrick Vieira')","(54, 1, 'Ade Akinbiyi')","(66, 0, 'Thierry Henry')","(75, 0, 'Freddie Ljungberg')","(82, 0, 'Thierry Henry')","(90, 0, 'Tony Adams')"
-30/12/2000,Arsenal,Sunderland,2,2,"(5, 0, 'Patrick Vieira')","(40, 0, 'Lee Dixon')","(53, 1, 'Kevin Phillips')","(83, 1, 'Gavin McCann')"
-01/01/2001,Charlton Athletic,Arsenal,1,0,"(39, 0, 'Jonatan Johansson')"
-13/01/2001,Arsenal,Chelsea,1,1,"(3, 0, 'Robert Pires')","(62, 1, 'John Terry')"
-20/01/2001,Leicester City,Arsenal,0,0
-30/01/2001,Arsenal,Bradford City,2,0,"(17, 0, 'Ray Parlour')","(26, 0, 'Bissan Lauren')"
-03/02/2001,Coventry City,Arsenal,0,1,"(78, 1, 'Dennis Bergkamp')"
-10/02/2001,Arsenal,Ipswich Town,1,0,"(67, 0, 'Thierry Henry')"
-25/02/2001,Manchester United,Arsenal,6,1,"(3, 0, 'Dwight Yorke')","(16, 1, 'Thierry Henry')","(18, 0, 'Dwight Yorke')","(22, 0, 'Dwight Yorke')","(26, 0, 'Roy Keane')","(38, 0, 'Ole Gunnar Solskjaer')","(90, 0, 'Teddy Sheringham')"
-03/03/2001,Arsenal,West Ham United,3,0,"(6, 0, 'Sylvain Wiltord')","(13, 0, 'Sylvain Wiltord')","(39, 0, 'Sylvain Wiltord')"
-18/03/2001,Aston Villa,Arsenal,0,0
-31/03/2001,Arsenal,Tottenham Hotspur,2,0,"(70, 0, 'Robert Pires')","(87, 0, 'Thierry Henry')"
-11/04/2001,Manchester City,Arsenal,0,4,"(8, 1, 'Freddie Ljungberg')","(8, 1, 'Sylvain Wiltord')","(16, 1, 'Freddie Ljungberg')","(36, 1, 'Nwankwo Kanu')"
-14/04/2001,Arsenal,Middlesbrough,0,3,"(34, 1, ' Edu')","(38, 1, ' Silvinho')","(58, 1, 'Hamilton Ricard')"
-21/04/2001,Arsenal,Everton,4,1,"(21, 0, 'Freddie Ljungberg')","(24, 1, 'Kevin Campbell')","(55, 0, 'Gilles Grimandi')","(67, 0, 'Sylvain Wiltord')","(87, 0, 'Thierry Henry')"
-28/04/2001,Derby County,Arsenal,1,2,"(21, 1, 'Nwankwo Kanu')","(45, 0, 'Stefano Eranio')","(80, 1, 'Robert Pires')"
-05/05/2001,Arsenal,Leeds United,2,1,"(17, 0, 'Freddie Ljungberg')","(57, 0, 'Sylvain Wiltord')","(58, 1, 'Ian Harte')"
-15/05/2001,Newcastle United,Arsenal,0,0
-19/05/2001,Southampton,Arsenal,3,2,"(28, 1, 'Ashley Cole')","(46, 0, 'Hassan Kachloul')","(54, 1, 'Freddie Ljungberg')","(61, 0, 'Hassan Kachloul')","(89, 0, 'Matt Le Tissier')"
-19/08/2000,Leeds United,Everton,2,0,"(15, 0, 'Alan Smith')","(37, 0, 'Alan Smith')"
-26/08/2000,Middlesbrough,Leeds United,1,2,"(6, 1, 'Lee Bowyer')","(12, 1, 'Alan Smith')","(82, 0, 'Phil Stamp')"
-05/09/2000,Leeds United,Manchester City,1,2,"(34, 1, 'Steve Howey')","(40, 1, 'Gerard Wiekens')","(56, 0, 'Lee Bowyer')"
-09/09/2000,Coventry City,Leeds United,0,0
-16/09/2000,Leeds United,Ipswich Town,1,2,"(4, 0, 'Lee Bowyer')","(12, 1, 'James Scowcroft')","(47, 1, 'Jermaine Wright')"
-23/09/2000,Derby County,Leeds United,1,1,"(34, 1, 'Ian Harte')","(75, 0, 'Georgi Kinkladze')"
-30/09/2000,Leeds United,Tottenham Hotspur,4,3,"(37, 1, 'Sergei Rebrov')","(52, 0, 'Mark Viduka')","(55, 0, 'Mark Viduka')","(59, 0, 'Alan Smith')","(60, 1, 'Chris Perry')","(64, 0, 'Alan Smith')","(74, 1, 'Sergei Rebrov')"
-14/10/2000,Leeds United,Charlton Athletic,3,1,"(38, 0, 'Alan Smith')","(73, 0, 'Mark Viduka')","(84, 1, 'Claus Jensen')","(90, 0, 'Mark Viduka')"
-21/10/2000,Manchester United,Leeds United,3,0,"(41, 0, 'Dwight Yorke')","(50, 0, 'David Beckham')","(83, 0, 'Jacob Burns')"
-29/10/2000,Bradford City,Leeds United,1,1,"(21, 0, 'Stan Collymore')","(80, 1, 'Mark Viduka')"
-04/11/2000,Leeds United,Liverpool,4,3,"(2, 1, 'Sami Hyypia')","(18, 1, 'Christian Ziege')","(24, 0, 'Mark Viduka')","(47, 0, 'Mark Viduka')","(61, 1, 'Vladimir Smicer')","(73, 0, 'Mark Viduka')","(75, 0, 'Mark Viduka')"
-12/11/2000,Chelsea,Leeds United,1,1,"(62, 1, 'Mark Viduka')","(79, 0, 'Gus Poyet')"
-18/11/2000,Leeds United,West Ham United,0,1,"(45, 1, 'Nigel Winterburn')"
-02/12/2000,Leicester City,Leeds United,3,1,"(8, 0, 'Robbie Savage')","(17, 0, 'Ade Akinbiyi')","(29, 0, 'Gerry Taggart')","(75, 1, 'Mark Viduka')"
-09/12/2000,Southampton,Leeds United,1,0,"(43, 0, 'James Beattie')"
-16/12/2000,Leeds United,Sunderland,2,0,"(23, 0, 'Lee Bowyer')","(78, 0, 'Mark Viduka')"
-23/12/2000,Leeds United,Aston Villa,1,2,"(43, 1, 'Gareth Southgate')","(88, 1, 'George Boateng')","(90, 0, 'Jonathan Woodgate')"
-26/12/2000,Newcastle United,Leeds United,2,1,"(10, 1, 'Olivier Dacourt')","(41, 0, 'Nolberto Solano')","(44, 0, 'Clarence Acuna')"
-01/01/2001,Leeds United,Middlesbrough,1,1,"(27, 1, 'Alen Boksic')","(55, 0, 'Robbie Keane')"
-13/01/2001,Manchester City,Leeds United,0,4,"(31, 1, 'Eirik Bakke')","(80, 1, 'Lee Bowyer')","(90, 1, 'Robbie Keane')","(90, 1, 'Robbie Keane')"
-20/01/2001,Leeds United,Newcastle United,1,3,"(2, 0, 'Robbie Keane')","(4, 1, 'Nolberto Solano')","(44, 1, 'Clarence Acuna')","(86, 1, 'Shola Ameobi')"
-24/01/2001,Aston Villa,Leeds United,1,2,"(24, 0, 'Paul Merson')","(28, 1, 'Lee Bowyer')","(75, 1, 'Ian Harte')"
-31/01/2001,Leeds United,Coventry City,1,0,"(69, 0, 'Robbie Keane')"
-03/02/2001,Ipswich Town,Leeds United,1,2,"(28, 1, 'Mark Venus')","(41, 1, 'Robbie Keane')","(63, 0, 'Mark Venus')"
-07/02/2001,Everton,Leeds United,2,2,"(23, 0, 'Duncan Ferguson')","(66, 1, 'Ian Harte')","(73, 0, 'Kevin Campbell')","(76, 1, 'Olivier Dacourt')"
-10/02/2001,Leeds United,Derby County,0,0
-24/02/2001,Tottenham Hotspur,Leeds United,1,2,"(33, 0, 'Les Ferdinand')","(45, 1, 'Ian Harte')","(57, 1, 'Lee Bowyer')"
-03/03/2001,Leeds United,Manchester United,1,1,"(64, 1, 'Luke Chadwick')","(84, 0, 'Mark Viduka')"
-17/03/2001,Charlton Athletic,Leeds United,1,2,"(1, 1, 'Mark Viduka')","(18, 0, 'Shaun Bartlett')","(46, 1, 'Alan Smith')"
-31/03/2001,Sunderland,Leeds United,0,2,"(33, 1, 'Alan Smith')","(90, 1, 'Mark Viduka')"
-07/04/2001,Leeds United,Southampton,2,0,"(10, 0, 'Harry Kewell')","(72, 0, 'Robbie Keane')"
-13/04/2001,Liverpool,Leeds United,1,2,"(4, 1, 'Rio Ferdinand')","(33, 1, 'Lee Bowyer')","(55, 0, 'Steven Gerrard')"
-21/04/2001,West Ham United,Leeds United,0,2,"(8, 1, 'Robbie Keane')","(47, 1, 'Rio Ferdinand')"
-28/04/2001,Leeds United,Chelsea,2,0,"(86, 0, 'Robbie Keane')","(88, 0, 'Mark Viduka')"
-13/05/2001,Leeds United,Bradford City,6,1,"(14, 0, 'Mark Viduka')","(19, 0, 'Ian Harte')","(22, 1, 'Ashley Ward')","(27, 0, 'Eirik Bakke')","(38, 0, 'Alan Smith')","(43, 0, 'Harry Kewell')","(84, 0, 'Lee Bowyer')"
-19/05/2001,Leeds United,Leicester City,3,1,"(27, 0, 'Alan Smith')","(32, 1, 'Rio Ferdinand')","(77, 0, 'Ian Harte')","(90, 0, 'Alan Smith')"
-20/08/2000,Manchester United,Newcastle United,2,0,"(20, 0, 'Ronny Johnsen')","(69, 0, 'Andrew Cole')"
-23/08/2000,Newcastle United,Derby County,3,2,"(4, 0, 'Carl Cort')","(45, 1, 'Branko Strupar')","(46, 0, 'Daniel Cordone')","(54, 0, 'Stephen Glass')","(83, 1, 'Seth Johnson')"
-26/08/2000,Newcastle United,Tottenham Hotspur,2,0,"(9, 0, 'Gary Speed')","(66, 0, 'Daniel Cordone')"
-06/09/2000,Coventry City,Newcastle United,0,2,"(30, 1, 'Alan Shearer')","(58, 1, 'Kevin Gallacher')"
-09/09/2000,Newcastle United,Chelsea,0,0
-16/09/2000,Southampton,Newcastle United,2,0,"(47, 0, 'Marian Pahars')","(61, 0, 'Marian Pahars')"
-23/09/2000,Newcastle United,Charlton Athletic,0,1,"(8, 1, 'Graham Stuart')"
-30/09/2000,Manchester City,Newcastle United,0,1,"(74, 1, 'Alan Shearer')"
-16/10/2000,Middlesbrough,Newcastle United,1,3,"(38, 1, 'Alan Shearer')","(55, 1, 'Alain Goma')","(88, 1, 'Kieron Dyer')","(90, 0, 'Brian Deane')"
-21/10/2000,Newcastle United,Everton,0,1,"(80, 1, 'Kevin Campbell')"
-28/10/2000,West Ham United,Newcastle United,1,0,"(73, 0, 'Frederic Kanoute')"
-04/11/2000,Newcastle United,Ipswich Town,2,1,"(13, 1, 'Marcus Stewart')","(22, 0, 'Alan Shearer')","(67, 0, 'Alan Shearer')"
-11/11/2000,Leicester City,Newcastle United,1,1,"(63, 0, 'Arnar Gunnlaugsson')","(75, 1, 'Gary Speed')"
-18/11/2000,Newcastle United,Sunderland,1,2,"(4, 0, 'Gary Speed')","(68, 1, 'Don Hutchison')","(76, 1, 'Niall Quinn')"
-26/11/2000,Newcastle United,Liverpool,2,1,"(4, 0, 'Nolberto Solano')","(70, 0, 'Kieron Dyer')","(78, 1, 'Emile Heskey')"
-02/12/2000,Aston Villa,Newcastle United,1,1,"(4, 0, 'Dion Dublin')","(82, 1, 'Nolberto Solano')"
-16/12/2000,Newcastle United,Bradford City,2,1,"(14, 0, 'Gary Speed')","(70, 0, 'Kieron Dyer')","(83, 1, 'Robert Molenaar')"
-23/12/2000,Derby County,Newcastle United,2,0,"(33, 0, 'Horacio Carbonari')","(73, 0, 'Deon Burton')"
-30/12/2000,Newcastle United,Manchester United,1,1,"(25, 1, 'David Beckham')","(81, 0, 'Stephen Glass')"
-02/01/2001,Tottenham Hotspur,Newcastle United,4,2,"(23, 1, 'Nolberto Solano')","(27, 0, 'Gary Doherty')","(30, 0, 'Darren Anderton')","(35, 0, 'Sergei Rebrov')","(49, 1, 'Kieron Dyer')","(77, 0, 'Les Ferdinand')"
-13/01/2001,Newcastle United,Coventry City,3,1,"(4, 0, 'Gary Speed')","(55, 0, 'Shola Ameobi')","(66, 0, 'Kieron Dyer')","(78, 1, 'David Thompson')"
-31/01/2001,Chelsea,Newcastle United,3,1,"(23, 1, 'Christian Bassedas')","(37, 0, 'Gianfranco Zola')","(62, 0, 'Gus Poyet')","(79, 0, 'Jesper Gronkjaer')"
-11/02/2001,Charlton Athletic,Newcastle United,2,0,"(37, 0, 'Mathias Svensson')","(43, 0, 'Shaun Bartlett')"
-24/02/2001,Newcastle United,Manchester City,0,1,"(61, 1, 'Shaun Goater')"
-03/03/2001,Everton,Newcastle United,1,1,"(47, 1, 'David Unsworth')","(82, 0, 'David Unsworth')"
-17/03/2001,Newcastle United,Middlesbrough,1,2,"(28, 1, 'Alen Boksic')","(33, 1, 'Alen Boksic')","(60, 0, 'Carl Cort')"
-31/03/2001,Bradford City,Newcastle United,2,2,"(8, 0, 'David Wetherall')","(10, 0, 'Robbie Blake')","(25, 1, 'Carl Cort')","(75, 1, 'Clarence Acuna')"
-14/04/2001,Ipswich Town,Newcastle United,1,0,"(76, 0, 'Marcus Stewart')"
-16/04/2001,Newcastle United,West Ham United,2,1,"(32, 0, 'Carl Cort')","(56, 0, 'Nolberto Solano')","(80, 1, 'Frank Lampard')"
-21/04/2001,Sunderland,Newcastle United,1,1,"(67, 0, 'Patrice Carteron')","(78, 1, ""Andy O'Brien"")"
-28/04/2001,Newcastle United,Leicester City,1,0,"(90, 0, 'Carl Cort')"
-01/05/2001,Newcastle United,Southampton,1,1,"(26, 0, 'Kevin Gallacher')","(81, 1, 'Marian Pahars')"
-05/05/2001,Liverpool,Newcastle United,3,0,"(25, 0, 'Michael Owen')","(72, 0, 'Michael Owen')","(81, 0, 'Michael Owen')"
-19/05/2001,Newcastle United,Aston Villa,3,0,"(9, 0, 'Stephen Glass')","(13, 0, 'Carl Cort')","(74, 0, 'Mark Delaney')"
-19/08/2000,Coventry City,Middlesbrough,1,3,"(19, 1, 'Joseph-Desire Job')","(40, 0, 'John Eustace')","(58, 1, 'Alen Boksic')","(63, 1, 'Alen Boksic')"
-23/08/2000,Southampton,Coventry City,1,2,"(19, 1, 'Craig Bellamy')","(52, 0, 'Jo Tessem')","(61, 1, 'Cedric Roussel')"
-26/08/2000,Manchester City,Coventry City,1,2,"(23, 1, 'Richard Edghill')","(45, 1, 'Craig Bellamy')","(78, 0, 'Kevin Horlock')"
-23/09/2000,Coventry City,West Ham United,0,3,"(38, 1, 'Paolo Di Canio')","(40, 1, 'Joe Cole')","(69, 1, 'Frank Lampard')"
-30/09/2000,Charlton Athletic,Coventry City,2,2,"(41, 1, 'John Aloisi')","(60, 0, 'Andy Hunt')","(71, 1, 'Craig Bellamy')","(88, 0, 'Jonatan Johansson')"
-14/10/2000,Coventry City,Tottenham Hotspur,2,1,"(12, 0, 'John Aloisi')","(26, 0, 'John Eustace')","(53, 1, 'Sergei Rebrov')"
-21/10/2000,Chelsea,Coventry City,6,1,"(25, 0, 'Jimmy Floyd Hasselbaink')","(42, 0, 'Jimmy Floyd Hasselbaink')","(48, 0, 'Gianfranco Zola')","(52, 0, 'Jimmy Floyd Hasselbaink')","(58, 0, 'Jimmy Floyd Hasselbaink')","(68, 0, 'Tore Andre Flo')","(89, 1, 'Cedric Roussel')"
-28/10/2000,Sunderland,Coventry City,1,0,"(52, 0, 'Emerson Thome')"
-04/11/2000,Coventry City,Manchester United,1,2,"(27, 1, 'Andrew Cole')","(37, 1, 'David Beckham')","(64, 0, 'Ysrael Zuniga')"
-12/11/2000,Liverpool,Coventry City,4,1,"(13, 0, 'Gary McAllister')","(51, 0, 'Steven Gerrard')","(56, 1, 'David Thompson')","(82, 0, 'Emile Heskey')","(87, 0, 'Emile Heskey')"
-20/11/2000,Coventry City,Ipswich Town,0,1,"(90, 1, 'Fabian Wilnis')"
-25/11/2000,Coventry City,Aston Villa,1,1,"(8, 1, 'Dion Dublin')","(83, 0, 'Mustapha Hadji')"
-02/12/2000,Bradford City,Coventry City,2,1,"(64, 1, 'John Aloisi')","(80, 0, 'Stan Collymore')","(83, 0, 'Peter Beagrie')"
-10/12/2000,Coventry City,Leicester City,1,0,"(40, 0, 'Craig Bellamy')"
-16/12/2000,Derby County,Coventry City,1,0,"(9, 0, 'Malcolm Christie')"
-22/12/2000,Coventry City,Southampton,1,1,"(33, 0, 'David Thompson')","(51, 1, 'Jo Tessem')"
-26/12/2000,Everton,Coventry City,1,2,"(69, 1, 'Mustapha Hadji')","(85, 0, 'Scot Gemmill')","(87, 1, 'Gary Breen')"
-30/12/2000,Middlesbrough,Coventry City,1,1,"(41, 1, 'Noel Whelan')","(86, 0, 'Alen Boksic')"
-01/01/2001,Coventry City,Manchester City,1,1,"(54, 1, 'Paulo Wanchope')","(72, 0, 'Marc Edworthy')"
-20/01/2001,Coventry City,Everton,1,3,"(8, 1, 'Scot Gemmill')","(15, 1, 'Danny Cadamarteri')","(31, 1, 'Kevin Campbell')","(86, 0, 'Lee Carsley')"
-12/02/2001,West Ham United,Coventry City,1,1,"(83, 0, 'Joe Cole')","(90, 1, 'Christian Dailly')"
-24/02/2001,Coventry City,Charlton Athletic,2,2,"(10, 0, 'Craig Bellamy')","(22, 1, 'Richard Rufus')","(46, 1, 'Jonatan Johansson')","(67, 0, 'John Hartson')"
-03/03/2001,Coventry City,Chelsea,0,0
-17/03/2001,Tottenham Hotspur,Coventry City,3,0,"(29, 0, 'Steffen Iversen')","(34, 0, 'Les Ferdinand')","(59, 0, 'Sergei Rebrov')"
-31/03/2001,Coventry City,Derby County,2,0,"(44, 0, 'Mustapha Hadji')","(49, 0, 'John Hartson')"
-07/04/2001,Leicester City,Coventry City,1,3,"(2, 1, 'Craig Bellamy')","(10, 0, 'Ade Akinbiyi')","(19, 1, 'Lee Carsley')","(51, 1, 'John Hartson')"
-14/04/2001,Manchester United,Coventry City,4,2,"(10, 1, 'John Hartson')","(12, 0, 'Dwight Yorke')","(27, 0, 'Dwight Yorke')","(33, 1, 'John Hartson')","(81, 0, 'Ryan Giggs')","(87, 0, 'Paul Scholes')"
-16/04/2001,Coventry City,Sunderland,1,0,"(21, 0, 'John Hartson')"
-21/04/2001,Ipswich Town,Coventry City,2,0,"(20, 0, 'Martijn Reuser')","(56, 0, 'Jermaine Wright')"
-28/04/2001,Coventry City,Liverpool,0,2,"(83, 1, 'Sami Hyypia')","(86, 1, 'Gary McAllister')"
-05/05/2001,Aston Villa,Coventry City,3,2,"(18, 1, 'Mustapha Hadji')","(26, 1, 'Mustapha Hadji')","(61, 0, 'Darius Vassell')","(81, 0, 'Juan Pablo Angel')","(86, 0, 'Paul Merson')"
-19/05/2001,Coventry City,Bradford City,0,0
-22/08/2000,Ipswich Town,Manchester United,1,1,"(6, 0, 'Fabian Wilnis')","(39, 1, 'David Beckham')"
-26/08/2000,West Ham United,Manchester United,2,2,"(6, 1, 'David Beckham')","(49, 1, 'Andrew Cole')","(86, 0, 'Paolo Di Canio')","(89, 0, 'Davor Suker')"
-05/09/2000,Manchester United,Bradford City,6,0,"(11, 0, 'Andrew Cole')","(23, 0, 'Quinton Fortune')","(60, 0, 'Quinton Fortune')","(71, 0, 'Teddy Sheringham')","(81, 0, 'Teddy Sheringham')","(85, 0, 'David Beckham')"
-09/09/2000,Manchester United,Sunderland,3,0,"(14, 0, 'Paul Scholes')","(76, 0, 'Teddy Sheringham')","(82, 0, 'Paul Scholes')"
-16/09/2000,Everton,Manchester United,1,3,"(27, 1, 'Nicky Butt')","(29, 1, 'Ryan Giggs')","(38, 1, 'Ole Gunnar Solskjaer')","(54, 0, 'Thomas Gravesen')"
-23/09/2000,Manchester United,Chelsea,3,3,"(8, 1, 'Jimmy Floyd Hasselbaink')","(14, 0, 'Paul Scholes')","(37, 0, 'Teddy Sheringham')","(39, 0, 'David Beckham')","(45, 1, 'Tore Andre Flo')","(70, 1, 'Tore Andre Flo')"
-14/10/2000,Leicester City,Manchester United,0,3,"(37, 1, 'Teddy Sheringham')","(55, 1, 'Teddy Sheringham')","(90, 1, 'Ole Gunnar Solskjaer')"
-28/10/2000,Manchester United,Southampton,5,0,"(9, 0, 'Andrew Cole')","(45, 0, 'Teddy Sheringham')","(51, 0, 'Teddy Sheringham')","(55, 0, 'Teddy Sheringham')","(73, 0, 'Andrew Cole')"
-11/11/2000,Manchester United,Middlesbrough,2,1,"(32, 1, 'Christian Karembeu')","(62, 0, 'Nicky Butt')","(65, 0, 'Teddy Sheringham')"
-18/11/2000,Manchester City,Manchester United,0,1,"(2, 1, 'David Beckham')"
-25/11/2000,Derby County,Manchester United,0,3,"(61, 1, 'Teddy Sheringham')","(69, 1, 'Nicky Butt')","(76, 1, 'Dwight Yorke')"
-02/12/2000,Manchester United,Tottenham Hotspur,2,0,"(40, 0, 'Paul Scholes')","(84, 0, 'Ole Gunnar Solskjaer')"
-09/12/2000,Charlton Athletic,Manchester United,3,3,"(10, 0, 'Shaun Bartlett')","(42, 1, 'Ryan Giggs')","(43, 1, 'Ole Gunnar Solskjaer')","(66, 1, 'Roy Keane')","(79, 0, 'Shaun Bartlett')","(85, 0, 'John Robinson')"
-17/12/2000,Manchester United,Liverpool,0,1,"(43, 1, 'Danny Murphy')"
-23/12/2000,Manchester United,Ipswich Town,2,0,"(20, 0, 'Ole Gunnar Solskjaer')","(32, 0, 'Ole Gunnar Solskjaer')"
-26/12/2000,Aston Villa,Manchester United,0,1,"(85, 1, 'Ole Gunnar Solskjaer')"
-01/01/2001,Manchester United,West Ham United,3,1,"(3, 0, 'Ole Gunnar Solskjaer')","(33, 0, 'Stuart Pearce')","(58, 0, 'Dwight Yorke')","(72, 1, 'Frederic Kanoute')"
-13/01/2001,Bradford City,Manchester United,0,3,"(72, 1, 'Teddy Sheringham')","(75, 1, 'Ryan Giggs')","(87, 1, 'Luke Chadwick')"
-20/01/2001,Manchester United,Aston Villa,2,0,"(57, 0, 'Gary Neville')","(87, 0, 'Teddy Sheringham')"
-31/01/2001,Sunderland,Manchester United,0,1,"(46, 1, 'Andrew Cole')"
-03/02/2001,Manchester United,Everton,1,0,"(52, 0, 'Steve Watson')"
-10/02/2001,Chelsea,Manchester United,1,1,"(24, 0, 'Jimmy Floyd Hasselbaink')","(69, 1, 'Andrew Cole')"
-17/03/2001,Manchester United,Leicester City,2,0,"(88, 0, 'Dwight Yorke')","(90, 0, 'Mikael Silvestre')"
-31/03/2001,Liverpool,Manchester United,2,0,"(16, 0, 'Steven Gerrard')","(41, 0, 'Robbie Fowler')"
-10/04/2001,Manchester United,Charlton Athletic,2,1,"(45, 0, 'Andrew Cole')","(63, 1, 'Mark Fish')","(82, 0, 'Ole Gunnar Solskjaer')"
-21/04/2001,Manchester United,Manchester City,1,1,"(71, 0, 'Teddy Sheringham')","(84, 1, 'Steve Howey')"
-28/04/2001,Middlesbrough,Manchester United,0,2,"(4, 1, 'Phil Neville')","(84, 1, 'David Beckham')"
-05/05/2001,Manchester United,Derby County,0,1,"(34, 1, 'Malcolm Christie')"
-13/05/2001,Southampton,Manchester United,2,1,"(11, 0, 'Wes Brown')","(15, 0, 'Marian Pahars')","(71, 1, 'Ryan Giggs')"
-19/05/2001,Tottenham Hotspur,Manchester United,3,1,"(17, 0, 'Willem Korsten')","(22, 1, 'Paul Scholes')","(67, 0, 'Willem Korsten')","(75, 0, 'Les Ferdinand')"
-19/08/2000,Leicester City,Aston Villa,0,0
-23/08/2000,West Ham United,Leicester City,0,1,"(53, 1, 'Darren Eadie')"
-26/08/2000,Bradford City,Leicester City,0,0
-06/09/2000,Leicester City,Ipswich Town,2,1,"(57, 0, 'Ade Akinbiyi')","(73, 0, 'Matt Elliott')","(89, 1, 'Jim Magilton')"
-09/09/2000,Leicester City,Southampton,1,0,"(66, 0, 'Gerry Taggart')"
-17/09/2000,Chelsea,Leicester City,0,2,"(8, 1, 'Muzzy Izzet')","(82, 1, 'Stan Collymore')"
-24/09/2000,Leicester City,Everton,1,1,"(23, 0, 'Ade Akinbiyi')","(52, 1, 'David Unsworth')"
-01/10/2000,Sunderland,Leicester City,0,0
-21/10/2000,Liverpool,Leicester City,1,0,"(69, 0, 'Emile Heskey')"
-28/10/2000,Leicester City,Derby County,2,1,"(12, 1, 'Rory Delap')","(31, 0, 'Muzzy Izzet')","(76, 0, 'Arnar Gunnlaugsson')"
-04/11/2000,Manchester City,Leicester City,0,1,"(56, 1, 'Robbie Savage')"
-18/11/2000,Middlesbrough,Leicester City,0,3,"(8, 1, 'Muzzy Izzet')","(13, 1, 'Trevor Benjamin')","(57, 1, 'Darren Eadie')"
-25/11/2000,Tottenham Hotspur,Leicester City,3,0,"(34, 0, 'Les Ferdinand')","(39, 0, 'Les Ferdinand')","(84, 0, 'Les Ferdinand')"
-16/12/2000,Leicester City,Charlton Athletic,3,1,"(6, 1, 'Jonatan Johansson')","(35, 0, 'Ade Akinbiyi')","(79, 0, 'Matt Elliott')","(90, 0, 'Arnar Gunnlaugsson')"
-23/12/2000,Leicester City,West Ham United,2,1,"(8, 1, 'Frederic Kanoute')","(26, 0, 'Muzzy Izzet')","(63, 0, 'Robbie Savage')"
-01/01/2001,Leicester City,Bradford City,1,2,"(25, 1, 'Eoin Jess')","(30, 1, 'Wayne Jacobs')","(38, 0, 'Muzzy Izzet')"
-14/01/2001,Ipswich Town,Leicester City,2,0,"(80, 0, 'Marcus Stewart')","(90, 0, 'James Scowcroft')"
-31/01/2001,Southampton,Leicester City,1,0,"(79, 0, 'Dan Petrescu')"
-03/02/2001,Leicester City,Chelsea,2,1,"(24, 0, 'Muzzy Izzet')","(75, 1, 'Jimmy Floyd Hasselbaink')","(76, 0, 'Gary Rowett')"
-10/02/2001,Everton,Leicester City,2,1,"(8, 0, 'Francis Jeffers')","(43, 0, 'Kevin Campbell')","(79, 1, 'Dean Sturridge')"
-24/02/2001,Leicester City,Sunderland,2,0,"(30, 0, 'Dean Sturridge')","(65, 0, 'Ade Akinbiyi')"
-03/03/2001,Leicester City,Liverpool,2,0,"(51, 0, 'Ade Akinbiyi')","(90, 0, 'Muzzy Izzet')"
-01/04/2001,Charlton Athletic,Leicester City,2,0,"(33, 0, 'Andy Todd')","(82, 0, 'Shaun Bartlett')"
-04/04/2001,Aston Villa,Leicester City,2,1,"(27, 1, 'Callum Davidson')","(30, 0, 'Dion Dublin')","(72, 0, 'Lee Hendrie')"
-14/04/2001,Leicester City,Manchester City,1,2,"(17, 1, 'Shaun Goater')","(41, 0, 'Ade Akinbiyi')","(67, 1, 'Paulo Wanchope')"
-16/04/2001,Derby County,Leicester City,2,0,"(24, 0, 'Paul Boertien')","(90, 0, 'Stefano Eranio')"
-21/04/2001,Leicester City,Middlesbrough,0,3,"(12, 1, 'Hamilton Ricard')","(50, 1, 'Alen Boksic')","(52, 1, 'Paul Ince')"
-05/05/2001,Leicester City,Tottenham Hotspur,4,2,"(42, 0, 'Gary Rowett')","(54, 1, 'Simon Davies')","(56, 0, 'Dean Sturridge')","(61, 1, 'Stephen Carr')","(82, 0, 'Steve Guppy')","(90, 0, 'Robbie Savage')"
-23/08/2000,Everton,Charlton Athletic,3,0,"(54, 0, 'Francis Jeffers')","(84, 0, 'Duncan Ferguson')","(90, 0, 'Duncan Ferguson')"
-26/08/2000,Everton,Derby County,2,2,"(38, 0, 'Francis Jeffers')","(40, 0, 'Thomas Gravesen')","(52, 1, 'Dean Sturridge')","(68, 1, 'Branko Strupar')"
-05/09/2000,Tottenham Hotspur,Everton,3,2,"(25, 1, 'Francis Jeffers')","(41, 1, 'Alex Nyarko')","(45, 0, 'Sergei Rebrov')","(61, 0, 'Sergei Rebrov')","(62, 0, 'Les Ferdinand')"
-09/09/2000,Middlesbrough,Everton,1,2,"(7, 0, 'Steve Watson')","(54, 1, 'Francis Jeffers')","(87, 1, 'Francis Jeffers')"
-30/09/2000,Everton,Ipswich Town,0,3,"(19, 1, 'John McGreal')","(49, 1, 'Marcus Stewart')","(60, 1, 'Marcus Stewart')"
-14/10/2000,Everton,Southampton,1,1,"(76, 1, 'Jason Dodd')","(81, 0, 'Michael Ball')"
-29/10/2000,Liverpool,Everton,3,1,"(12, 0, 'Nick Barmby')","(17, 1, 'Kevin Campbell')","(56, 0, 'Emile Heskey')","(78, 0, 'Patrik Berger')"
-05/11/2000,Everton,Aston Villa,0,1,"(90, 1, 'Paul Merson')"
-11/11/2000,Bradford City,Everton,0,1,"(87, 1, 'Gary Naysmith')"
-25/11/2000,Everton,Chelsea,2,1,"(45, 1, 'Samuele Dalla Bona')","(47, 0, 'Danny Cadamarteri')","(74, 0, 'Kevin Campbell')"
-04/12/2000,Sunderland,Everton,2,0,"(45, 0, 'Alex Rae')","(65, 0, 'Kevin Phillips')"
-09/12/2000,Manchester City,Everton,5,0,"(14, 0, 'Paulo Wanchope')","(23, 0, 'Steve Howey')","(42, 0, 'Shaun Goater')","(54, 0, 'Paul Dickov')","(67, 0, 'Gary Naysmith')"
-16/12/2000,Everton,West Ham United,1,1,"(75, 0, 'Danny Cadamarteri')","(83, 1, 'Frederic Kanoute')"
-23/12/2000,Charlton Athletic,Everton,1,0,"(8, 0, 'Mathias Svensson')"
-01/01/2001,Derby County,Everton,1,0,"(20, 0, 'Deon Burton')"
-13/01/2001,Everton,Tottenham Hotspur,0,0
-31/01/2001,Everton,Middlesbrough,2,2,"(11, 1, 'Hamilton Ricard')","(49, 0, 'Gary Naysmith')","(63, 1, 'Colin Cooper')","(79, 0, 'Idan Tal')"
-24/02/2001,Ipswich Town,Everton,2,0,"(82, 0, 'Matt Holland')","(84, 0, 'Alun Armstrong')"
-17/03/2001,Southampton,Everton,1,0,"(58, 0, 'Jo Tessem')"
-31/03/2001,West Ham United,Everton,0,2,"(45, 1, 'David Unsworth')","(72, 1, 'Niclas Alexandersson')"
-08/04/2001,Everton,Manchester City,3,1,"(9, 1, 'Jeff Whitley')","(16, 0, 'Duncan Ferguson')","(40, 0, 'Michael Ball')","(84, 0, 'David Weir')"
-14/04/2001,Aston Villa,Everton,2,1,"(2, 0, 'Dion Dublin')","(21, 1, 'David Unsworth')","(81, 0, 'Ian Taylor')"
-16/04/2001,Everton,Liverpool,2,3,"(5, 1, 'Emile Heskey')","(42, 0, 'Duncan Ferguson')","(57, 1, 'Markus Babbel')","(84, 0, 'David Unsworth')","(90, 1, 'Gary McAllister')"
-28/04/2001,Everton,Bradford City,2,1,"(3, 1, 'Andy Myers')","(47, 0, 'Duncan Ferguson')","(64, 0, 'Niclas Alexandersson')"
-05/05/2001,Chelsea,Everton,2,1,"(3, 1, 'Kevin Campbell')","(32, 0, 'Jimmy Floyd Hasselbaink')","(35, 0, 'Jimmy Floyd Hasselbaink')"
-19/05/2001,Everton,Sunderland,2,2,"(10, 0, 'Idan Tal')","(21, 1, 'Kevin Phillips')","(77, 0, 'Michael Ball')","(83, 1, 'Kevin Phillips')"
-22/08/2000,Middlesbrough,Tottenham Hotspur,1,1,"(41, 1, 'Oyvind Leonhardsen')","(59, 0, 'Mark Summerbell')"
-06/09/2000,Derby County,Middlesbrough,3,3,"(12, 1, 'Alen Boksic')","(51, 1, 'Joseph-Desire Job')","(59, 1, 'Brian Deane')","(68, 0, 'Malcolm Christie')","(83, 0, 'Branko Strupar')","(88, 0, 'Malcolm Christie')"
-17/09/2000,Manchester City,Middlesbrough,1,1,"(55, 1, 'Gianluca Festa')","(67, 0, 'Paulo Wanchope')"
-23/09/2000,Middlesbrough,Aston Villa,1,1,"(74, 1, 'Julian Joachim')","(89, 0, ' Alpay Ozalan')"
-30/09/2000,Southampton,Middlesbrough,1,3,"(17, 1, 'Alen Boksic')","(32, 1, 'Gianluca Festa')","(81, 0, 'Marian Pahars')","(82, 1, 'Alen Boksic')"
-21/10/2000,Charlton Athletic,Middlesbrough,1,0,"(68, 0, 'Mathias Svensson')"
-28/10/2000,Ipswich Town,Middlesbrough,2,1,"(25, 0, 'Richard Naylor')","(28, 0, 'Mark Venus')","(68, 1, 'Dean Gordon')"
-25/11/2000,Middlesbrough,Bradford City,2,2,"(3, 1, 'Dean Windass')","(10, 1, 'Benito Carbone')","(48, 0, 'Ugo Ehiogu')","(89, 0, 'Paul Ince')"
-02/12/2000,West Ham United,Middlesbrough,1,0,"(42, 0, 'Paolo Di Canio')"
-09/12/2000,Sunderland,Middlesbrough,1,0,"(54, 0, 'Michael Gray')"
-16/12/2000,Middlesbrough,Chelsea,1,0,"(71, 0, 'Dean Gordon')"
-23/12/2000,Tottenham Hotspur,Middlesbrough,0,0
-26/12/2000,Middlesbrough,Liverpool,1,0,"(41, 0, 'Christian Karembeu')"
-13/01/2001,Middlesbrough,Derby County,4,0,"(43, 0, 'Alen Boksic')","(60, 0, 'Ugo Ehiogu')","(81, 0, 'Alen Boksic')","(90, 0, 'Hamilton Ricard')"
-20/01/2001,Liverpool,Middlesbrough,0,0
-03/02/2001,Middlesbrough,Manchester City,1,1,"(28, 1, 'Steve Vickers')","(62, 0, 'Colin Cooper')"
-10/02/2001,Aston Villa,Middlesbrough,1,1,"(38, 0, 'Steve Stone')","(49, 1, 'Ugo Ehiogu')"
-24/02/2001,Middlesbrough,Southampton,0,1,"(49, 1, 'Mark Draper')"
-03/03/2001,Middlesbrough,Charlton Athletic,0,0
-31/03/2001,Chelsea,Middlesbrough,2,1,"(35, 0, 'Gianfranco Zola')","(54, 1, 'Dean Windass')","(63, 0, 'Eidur Gudjohnsen')"
-09/04/2001,Middlesbrough,Sunderland,0,0
-16/04/2001,Middlesbrough,Ipswich Town,1,2,"(39, 0, 'Dean Windass')","(46, 1, 'Alun Armstrong')","(50, 1, 'Alun Armstrong')"
-05/05/2001,Bradford City,Middlesbrough,1,1,"(38, 0, 'Wayne Jacobs')","(81, 1, 'Christian Karembeu')"
-19/05/2001,Middlesbrough,West Ham United,2,1,"(21, 0, 'Joseph-Desire Job')","(31, 1, 'Svetoslav Todorov')","(45, 0, 'Christian Karembeu')"
-19/08/2000,Liverpool,Bradford City,1,0,"(66, 0, 'Emile Heskey')"
-22/08/2000,Bradford City,Chelsea,2,0,"(25, 0, 'Dean Windass')","(75, 0, 'Benito Carbone')"
-16/09/2000,Aston Villa,Bradford City,2,0,"(5, 0, 'Gareth Southgate')","(75, 0, 'Dion Dublin')"
-23/09/2000,Bradford City,Southampton,0,1,"(29, 1, 'Gunnar Halle')"
-30/09/2000,West Ham United,Bradford City,1,1,"(26, 0, 'Joe Cole')","(90, 1, 'Dan Petrescu')"
-14/10/2000,Manchester City,Bradford City,2,0,"(30, 0, 'Paul Dickov')","(45, 0, 'Alfe-Inge Haaland')"
-21/10/2000,Bradford City,Ipswich Town,0,2,"(34, 1, 'David Wetherall')","(88, 1, 'Jamie Clapham')"
-04/11/2000,Charlton Athletic,Bradford City,2,0,"(4, 0, 'Jonatan Johansson')","(18, 0, 'Graham Stuart')"
-18/11/2000,Derby County,Bradford City,2,0,"(55, 0, 'Malcolm Christie')","(68, 0, 'Rory Delap')"
-09/12/2000,Bradford City,Tottenham Hotspur,3,3,"(1, 1, 'Ledley King')","(9, 0, 'Jamie Lawrence')","(21, 1, 'Sol Campbell')","(54, 1, 'Chris Armstrong')","(69, 0, 'Dean Windass')","(89, 0, 'Benito Carbone')"
-23/12/2000,Chelsea,Bradford City,3,0,"(22, 0, 'Gus Poyet')","(68, 0, 'Samuele Dalla Bona')","(90, 0, 'Eidur Gudjohnsen')"
-26/12/2000,Bradford City,Sunderland,1,4,"(45, 1, 'Niall Quinn')","(48, 1, 'Kevin Phillips')","(55, 1, 'Kevin Phillips')","(75, 0, 'Robbie Blake')","(85, 1, 'Kevin Phillips')"
-21/01/2001,Sunderland,Bradford City,0,0
-03/02/2001,Bradford City,Aston Villa,0,3,"(50, 1, 'Darius Vassell')","(58, 1, 'Darius Vassell')","(87, 1, 'Julian Joachim')"
-10/02/2001,Southampton,Bradford City,2,0,"(60, 0, 'Marian Pahars')","(63, 0, 'James Beattie')"
-24/02/2001,Bradford City,West Ham United,1,2,"(18, 1, 'Frank Lampard')","(62, 0, 'Eoin Jess')","(75, 1, 'Frank Lampard')"
-04/03/2001,Ipswich Town,Bradford City,3,1,"(27, 1, 'Benito Carbone')","(59, 0, 'Martijn Reuser')","(72, 0, 'Martijn Reuser')","(75, 0, 'Mark Burchill')"
-17/03/2001,Bradford City,Manchester City,2,2,"(22, 1, 'Gerard Wiekens')","(52, 0, 'Robbie Blake')","(57, 0, 'Ashley Ward')","(70, 1, 'Shaun Goater')"
-10/04/2001,Tottenham Hotspur,Bradford City,2,1,"(26, 0, 'Steffen Iversen')","(44, 1, 'Eoin Jess')","(76, 0, 'Simon Davies')"
-13/04/2001,Bradford City,Charlton Athletic,2,0,"(74, 0, 'Robbie Blake')","(80, 0, 'Benito Carbone')"
-21/04/2001,Bradford City,Derby County,2,0,"(16, 0, 'Ashley Ward')","(87, 0, 'Ashley Ward')"
-01/05/2001,Bradford City,Liverpool,0,2,"(47, 1, 'Michael Owen')","(67, 1, 'Gary McAllister')"
-19/08/2000,Chelsea,West Ham United,4,2,"(31, 0, 'Jimmy Floyd Hasselbaink')","(47, 1, 'Paolo Di Canio')","(59, 0, 'Gianfranco Zola')","(77, 0, 'Mario Stanic')","(84, 1, 'Frederic Kanoute')","(89, 0, 'Mario Stanic')"
-27/08/2000,Aston Villa,Chelsea,1,1,"(10, 0, 'Luc Nilis')","(30, 1, 'Marcel Desailly')"
-01/10/2000,Chelsea,Liverpool,3,0,"(10, 0, 'Sander Westerveld')","(11, 0, 'Jimmy Floyd Hasselbaink')","(71, 0, 'Eidur Gudjohnsen')"
-14/10/2000,Sunderland,Chelsea,1,0,"(63, 0, 'Kevin Phillips')"
-28/10/2000,Chelsea,Tottenham Hotspur,3,0,"(13, 0, 'Jimmy Floyd Hasselbaink')","(39, 0, 'Gianfranco Zola')","(87, 0, 'Jimmy Floyd Hasselbaink')"
-04/11/2000,Southampton,Chelsea,3,2,"(3, 0, 'James Beattie')","(37, 0, 'Jo Tessem')","(69, 1, 'Dennis Wise')","(78, 1, 'Gus Poyet')","(90, 0, 'James Beattie')"
-18/11/2000,Charlton Athletic,Chelsea,2,0,"(35, 0, 'Jonatan Johansson')","(90, 0, 'Martin Pringle')"
-03/12/2000,Chelsea,Manchester City,2,1,"(28, 0, 'Gianfranco Zola')","(45, 0, 'Jimmy Floyd Hasselbaink')","(82, 1, 'Paul Dickov')"
-09/12/2000,Chelsea,Derby County,4,1,"(10, 0, 'Eidur Gudjohnsen')","(16, 0, 'Eidur Gudjohnsen')","(37, 0, 'Gus Poyet')","(54, 0, 'Gianfranco Zola')","(56, 1, 'Chris Riggott')"
-26/12/2000,Ipswich Town,Chelsea,2,2,"(8, 1, 'Eidur Gudjohnsen')","(17, 1, 'Eidur Gudjohnsen')","(43, 0, 'James Scowcroft')","(82, 0, 'Marcus Stewart')"
-01/01/2001,Chelsea,Aston Villa,1,0,"(45, 0, 'Jimmy Floyd Hasselbaink')"
-20/01/2001,Chelsea,Ipswich Town,4,1,"(23, 1, 'Marcus Stewart')","(45, 0, 'Gus Poyet')","(58, 0, 'Dennis Wise')","(65, 0, 'Gus Poyet')","(73, 0, 'Jimmy Floyd Hasselbaink')"
-07/03/2001,West Ham United,Chelsea,0,2,"(32, 1, 'Eidur Gudjohnsen')","(38, 1, 'Jimmy Floyd Hasselbaink')"
-17/03/2001,Chelsea,Sunderland,2,4,"(15, 0, 'Marcel Desailly')","(28, 1, 'Don Hutchison')","(38, 0, 'Eidur Gudjohnsen')","(52, 1, 'Don Hutchison')","(61, 1, 'Gavin McCann')","(79, 1, 'Kevin Phillips')"
-07/04/2001,Derby County,Chelsea,0,4,"(64, 1, 'Gianfranco Zola')","(85, 1, 'Jimmy Floyd Hasselbaink')","(90, 1, 'Gus Poyet')","(90, 1, 'Gus Poyet')"
-14/04/2001,Chelsea,Southampton,1,0,"(43, 0, 'Gus Poyet')"
-17/04/2001,Tottenham Hotspur,Chelsea,0,3,"(28, 1, 'Jimmy Floyd Hasselbaink')","(58, 1, 'Gus Poyet')","(90, 1, 'Eidur Gudjohnsen')"
-21/04/2001,Chelsea,Charlton Athletic,0,1,"(35, 1, 'Shaun Bartlett')"
-08/05/2001,Liverpool,Chelsea,2,2,"(7, 0, 'Michael Owen')","(13, 1, 'Jimmy Floyd Hasselbaink')","(60, 0, 'Michael Owen')","(66, 1, 'Jimmy Floyd Hasselbaink')"
-19/05/2001,Manchester City,Chelsea,1,2,"(19, 1, 'Dennis Wise')","(39, 0, 'Steve Howey')","(62, 1, 'Jimmy Floyd Hasselbaink')"
-19/08/2000,Tottenham Hotspur,Ipswich Town,3,1,"(9, 1, 'Mark Venus')","(28, 0, 'Darren Anderton')","(29, 0, 'Stephen Carr')","(82, 0, 'Les Ferdinand')"
-11/09/2000,Tottenham Hotspur,West Ham United,1,0,"(67, 0, 'Sol Campbell')"
-16/09/2000,Charlton Athletic,Tottenham Hotspur,1,0,"(39, 0, 'Jonatan Johansson')"
-23/09/2000,Tottenham Hotspur,Manchester City,0,0
-21/10/2000,Tottenham Hotspur,Derby County,3,1,"(4, 0, 'Oyvind Leonhardsen')","(39, 1, 'Chris Riggott')","(45, 0, 'Stephen Carr')","(48, 0, 'Oyvind Leonhardsen')"
-04/11/2000,Tottenham Hotspur,Sunderland,2,1,"(43, 0, 'Tim Sherwood')","(63, 1, 'Don Hutchison')","(79, 0, 'Chris Armstrong')"
-11/11/2000,Aston Villa,Tottenham Hotspur,2,0,"(22, 0, 'Ian Taylor')","(57, 0, 'Ian Taylor')"
-19/11/2000,Tottenham Hotspur,Liverpool,2,1,"(18, 1, 'Robbie Fowler')","(32, 0, 'Les Ferdinand')","(41, 0, 'Tim Sherwood')"
-27/12/2000,Southampton,Tottenham Hotspur,2,0,"(38, 0, 'James Beattie')","(40, 0, 'Kevin Davies')"
-30/12/2000,Ipswich Town,Tottenham Hotspur,3,0,"(9, 0, 'Marcus Stewart')","(62, 0, 'Alun Armstrong')","(88, 0, 'Jamie Clapham')"
-20/01/2001,Tottenham Hotspur,Southampton,0,0
-31/01/2001,West Ham United,Tottenham Hotspur,0,0
-03/02/2001,Tottenham Hotspur,Charlton Athletic,0,0
-10/02/2001,Manchester City,Tottenham Hotspur,0,1,"(89, 1, 'Sergei Rebrov')"
-03/03/2001,Derby County,Tottenham Hotspur,2,1,"(12, 0, 'Branko Strupar')","(33, 0, 'Branko Strupar')","(70, 1, 'Taribo West')"
-14/04/2001,Sunderland,Tottenham Hotspur,2,3,"(3, 0, 'Kevin Kilbane')","(12, 0, 'Niall Quinn')","(53, 1, 'Stephen Clemence')","(75, 1, 'Gary Doherty')","(88, 1, 'Gary Doherty')"
-22/04/2001,Liverpool,Tottenham Hotspur,3,1,"(7, 0, 'Emile Heskey')","(24, 1, 'Willem Korsten')","(73, 0, 'Gary McAllister')","(88, 0, 'Robbie Fowler')"
-28/04/2001,Tottenham Hotspur,Aston Villa,0,0
-26/08/2000,Southampton,Liverpool,3,3,"(24, 1, 'Michael Owen')","(55, 1, 'Sami Hyypia')","(64, 1, 'Michael Owen')","(73, 0, 'Marian Pahars')","(85, 0, 'Tahar El Khalej')","(90, 0, 'Marian Pahars')"
-06/09/2000,Liverpool,Aston Villa,3,1,"(5, 0, 'Michael Owen')","(14, 0, 'Michael Owen')","(33, 0, 'Michael Owen')","(83, 1, 'Steve Stone')"
-09/09/2000,Liverpool,Manchester City,3,2,"(11, 0, 'Michael Owen')","(56, 0, 'Dietmar Hamann')","(67, 1, 'George Weah')","(81, 1, 'Kevin Horlock')","(82, 0, 'Dietmar Hamann')"
-17/09/2000,West Ham United,Liverpool,1,1,"(12, 1, 'Steven Gerrard')","(69, 0, 'Paolo Di Canio')"
-23/09/2000,Liverpool,Sunderland,1,1,"(14, 1, 'Kevin Phillips')","(34, 0, 'Michael Owen')"
-15/10/2000,Derby County,Liverpool,0,4,"(17, 1, 'Emile Heskey')","(54, 1, 'Emile Heskey')","(67, 1, 'Emile Heskey')","(80, 1, 'Patrik Berger')"
-02/12/2000,Liverpool,Charlton Athletic,3,0,"(5, 0, 'Mark Fish')","(78, 0, 'Emile Heskey')","(90, 0, 'Markus Babbel')"
-10/12/2000,Liverpool,Ipswich Town,0,1,"(45, 1, 'Marcus Stewart')"
-01/01/2001,Liverpool,Southampton,2,1,"(12, 0, 'Steven Gerrard')","(20, 1, 'Trond Egil Soltvedt')","(86, 0, 'Markus Babbel')"
-13/01/2001,Aston Villa,Liverpool,0,3,"(24, 1, 'Danny Murphy')","(32, 1, 'Steven Gerrard')","(53, 1, 'Danny Murphy')"
-31/01/2001,Manchester City,Liverpool,1,1,"(43, 1, 'Emile Heskey')","(48, 0, 'Danny Tiatto')"
-03/02/2001,Liverpool,West Ham United,3,0,"(20, 0, 'Vladimir Smicer')","(45, 0, 'Robbie Fowler')","(57, 0, 'Robbie Fowler')"
-10/02/2001,Sunderland,Liverpool,1,1,"(61, 0, 'Don Hutchison')","(79, 1, 'Jari Litmanen')"
-18/03/2001,Liverpool,Derby County,1,1,"(9, 1, 'Deon Burton')","(52, 0, 'Michael Owen')"
-10/04/2001,Ipswich Town,Liverpool,1,1,"(46, 1, 'Emile Heskey')","(77, 0, 'Alun Armstrong')"
-19/05/2001,Charlton Athletic,Liverpool,0,4,"(55, 1, 'Robbie Fowler')","(61, 1, 'Danny Murphy')","(71, 1, 'Robbie Fowler')","(80, 1, 'Michael Owen')"
-26/08/2000,Ipswich Town,Sunderland,1,0,"(52, 0, 'Titus Bramble')"
-09/09/2000,Ipswich Town,Aston Villa,1,2,"(28, 1, 'Lee Hendrie')","(54, 1, 'Dion Dublin')","(90, 0, 'Marcus Stewart')"
-14/10/2000,Ipswich Town,West Ham United,1,1,"(5, 0, 'Marcus Stewart')","(73, 1, 'Paolo Di Canio')"
-11/11/2000,Ipswich Town,Charlton Athletic,2,0,"(80, 0, 'Matt Holland')","(84, 0, 'Marcus Stewart')"
-25/11/2000,Manchester City,Ipswich Town,2,3,"(9, 1, 'Marcus Stewart')","(32, 1, 'Hermann Hreidarsson')","(53, 1, 'Marcus Stewart')","(71, 0, 'Paulo Wanchope')","(81, 0, 'Steve Howey')"
-02/12/2000,Ipswich Town,Derby County,0,1,"(28, 1, 'Rory Delap')"
-16/12/2000,Ipswich Town,Southampton,3,1,"(3, 1, 'James Beattie')","(48, 0, 'James Scowcroft')","(51, 0, 'Alun Armstrong')","(90, 0, 'Wayne Bridge')"
-01/01/2001,Sunderland,Ipswich Town,4,1,"(5, 1, 'Marcus Stewart')","(25, 0, 'Julio Arca')","(57, 0, 'Kevin Phillips')","(63, 0, 'Danny Dichio')","(88, 0, 'Stefan Schwarz')"
-10/03/2001,Aston Villa,Ipswich Town,2,1,"(30, 1, 'Alun Armstrong')","(52, 0, 'Julian Joachim')","(71, 0, 'Julian Joachim')"
-17/03/2001,West Ham United,Ipswich Town,0,1,"(60, 1, 'Martijn Reuser')"
-02/04/2001,Southampton,Ipswich Town,0,3,"(33, 1, 'Marcus Stewart')","(68, 1, 'Marcus Stewart')","(71, 1, 'Marcus Stewart')"
-30/04/2001,Charlton Athletic,Ipswich Town,2,1,"(12, 0, 'Mathias Svensson')","(20, 1, 'Martijn Reuser')","(57, 0, 'Richard Rufus')"
-07/05/2001,Ipswich Town,Manchester City,2,1,"(74, 1, 'Shaun Goater')","(78, 0, 'Matt Holland')","(85, 0, 'Martijn Reuser')"
-19/05/2001,Derby County,Ipswich Town,1,1,"(31, 0, 'Malcolm Christie')","(46, 1, 'Horacio Carbonari')"
-19/08/2000,Charlton Athletic,Manchester City,4,0,"(9, 0, 'Andy Hunt')","(41, 0, 'John Robinson')","(73, 0, 'Mark Kinsella')","(80, 0, 'Graham Stuart')"
-06/09/2000,Charlton Athletic,Southampton,1,1,"(79, 1, 'Marian Pahars')","(82, 0, 'Jonatan Johansson')"
-10/09/2000,Derby County,Charlton Athletic,2,2,"(7, 0, 'Malcolm Christie')","(39, 0, 'Simo Valakari')","(59, 1, 'Claus Jensen')","(62, 1, 'Jonatan Johansson')"
-28/10/2000,Aston Villa,Charlton Athletic,2,1,"(33, 0, 'Ian Taylor')","(41, 0, 'Paul Merson')","(82, 1, 'Dion Dublin')"
-25/11/2000,Charlton Athletic,Sunderland,0,1,"(58, 1, 'Alex Rae')"
-26/12/2000,West Ham United,Charlton Athletic,5,0,"(13, 0, 'Richard Rufus')","(18, 0, 'Frederic Kanoute')","(45, 0, 'Frank Lampard')","(71, 0, 'Trevor Sinclair')","(84, 0, 'Frederic Kanoute')"
-30/12/2000,Manchester City,Charlton Athletic,1,4,"(26, 1, 'Jonatan Johansson')","(37, 1, 'Jonatan Johansson')","(79, 1, 'Graham Stuart')","(89, 1, 'Claus Jensen')","(90, 0, 'Darren Huckerby')"
-13/01/2001,Southampton,Charlton Athletic,0,0
-22/01/2001,Charlton Athletic,West Ham United,1,1,"(7, 0, 'Shaun Bartlett')","(74, 1, 'Paolo Di Canio')"
-30/01/2001,Charlton Athletic,Derby County,2,1,"(8, 0, 'Youl Mawene')","(35, 1, 'Craig Burley')","(61, 0, 'Scott Parker')"
-17/04/2001,Charlton Athletic,Aston Villa,3,3,"(16, 0, 'George Boateng')","(45, 0, 'Claus Jensen')","(59, 1, 'David Ginola')","(75, 1, 'Darius Vassell')","(89, 0, 'Mark Kinsella')","(90, 1, 'Lee Hendrie')"
-05/05/2001,Sunderland,Charlton Athletic,3,2,"(11, 0, 'Kevin Kilbane')","(18, 1, 'Mathias Svensson')","(20, 0, 'Niall Quinn')","(50, 0, 'Kevin Phillips')","(60, 1, 'Claus Jensen')"
-23/08/2000,Manchester City,Sunderland,4,2,"(3, 0, 'Paulo Wanchope')","(23, 0, 'Alfe-Inge Haaland')","(64, 1, 'Niall Quinn')","(67, 1, 'Kevin Phillips')","(79, 0, 'Paulo Wanchope')","(88, 0, 'Paulo Wanchope')"
-05/09/2000,Sunderland,West Ham United,1,1,"(25, 0, 'Julio Arca')","(32, 1, 'Davor Suker')"
-16/09/2000,Sunderland,Derby County,2,1,"(40, 0, 'Kevin Kilbane')","(74, 0, 'Kevin Phillips')","(83, 1, 'Malcolm Christie')"
-22/10/2000,Aston Villa,Sunderland,0,0
-11/11/2000,Sunderland,Southampton,2,2,"(12, 1, 'James Beattie')","(23, 0, 'Niall Quinn')","(80, 0, 'Don Hutchison')","(89, 1, 'Dean Richards')"
-23/12/2000,Sunderland,Manchester City,1,0,"(19, 0, 'Don Hutchison')"
-13/01/2001,West Ham United,Sunderland,0,2,"(22, 1, 'Stanislav Varga')","(68, 1, 'Don Hutchison')"
-03/02/2001,Derby County,Sunderland,1,0,"(42, 0, 'Craig Burley')"
-05/03/2001,Sunderland,Aston Villa,1,1,"(52, 1, 'Julian Joachim')","(84, 0, 'Gavin McCann')"
-28/04/2001,Southampton,Sunderland,0,1,"(54, 1, 'Kevin Kilbane')"
-23/10/2000,Southampton,Manchester City,0,2,"(38, 1, 'Paul Dickov')","(90, 1, 'Danny Tiatto')"
-11/11/2000,West Ham United,Manchester City,4,1,"(32, 1, 'Spencer Prior')","(53, 0, 'Steve Lomas')","(58, 0, 'Trevor Sinclair')","(67, 0, 'Ian Pearce')","(90, 0, 'Paolo Di Canio')"
-16/12/2000,Aston Villa,Manchester City,2,2,"(65, 1, 'Alfe-Inge Haaland')","(71, 0, 'Dion Dublin')","(73, 1, 'Paulo Wanchope')","(86, 0, 'David Ginola')"
-26/12/2000,Manchester City,Derby County,0,0
-20/01/2001,Derby County,Manchester City,1,1,"(49, 0, 'Darryl Powell')","(51, 1, 'Steve Howey')"
-03/03/2001,Manchester City,Southampton,0,1,"(55, 1, 'Dan Petrescu')"
-31/03/2001,Manchester City,Aston Villa,1,3,"(12, 0, 'Shaun Goater')","(14, 1, 'Paul Merson')","(45, 1, 'Dion Dublin')","(65, 1, 'Lee Hendrie')"
-28/04/2001,Manchester City,West Ham United,1,0,"(23, 0, 'Ian Pearce')"
-30/09/2000,Aston Villa,Derby County,4,1,"(28, 0, 'Julian Joachim')","(37, 0, 'Paul Merson')","(54, 0, 'Alan Wright')","(61, 1, 'Chris Riggott')","(87, 0, 'Julian Joachim')"
-18/11/2000,Southampton,Aston Villa,2,0,"(22, 0, 'James Beattie')","(24, 0, 'James Beattie')"
-09/12/2000,West Ham United,Aston Villa,1,1,"(15, 0, 'Michael Carrick')","(37, 1, 'Lee Hendrie')"
-24/02/2001,Derby County,Aston Villa,1,0,"(42, 0, 'Deon Burton')"
-07/04/2001,Aston Villa,West Ham United,2,2,"(46, 1, 'Frederic Kanoute')","(71, 0, 'David Ginola')","(78, 0, 'Lee Hendrie')","(87, 1, 'Frank Lampard')"
-21/04/2001,Aston Villa,Southampton,0,0
-19/08/2000,Derby County,Southampton,2,2,"(15, 1, 'Hassan Kachloul')","(22, 1, 'Hassan Kachloul')","(31, 0, 'Branko Strupar')","(48, 0, 'Deon Burton')"
-06/11/2000,Derby County,West Ham United,0,0
-30/12/2000,Southampton,Derby County,1,0,"(73, 0, 'James Beattie')"
-14/04/2001,West Ham United,Derby County,3,1,"(4, 0, 'Frederic Kanoute')","(7, 0, 'Frank Lampard')","(45, 0, 'Joe Cole')","(83, 1, 'Thordur Gudjonsson')"
-25/11/2000,Southampton,West Ham United,2,3,"(20, 0, 'Matt Oakley')","(41, 1, 'Frederic Kanoute')","(43, 1, 'Stuart Pearce')","(53, 0, 'James Beattie')","(69, 1, 'Trevor Sinclair')"
-05/05/2001,West Ham United,Southampton,3,0,"(59, 0, 'Joe Cole')","(70, 0, 'Paolo Di Canio')","(90, 0, 'Frederic Kanoute')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+2000-08-19,Charlton Athletic,Manchester City,4,0,"(9, 0, 'Andy Hunt')","(41, 0, 'John Robinson')","(73, 0, 'Mark Kinsella')","(80, 0, 'Graham Stuart')",,,,,,,,
+2000-08-19,Chelsea,West Ham United,4,2,"(31, 0, 'Jimmy Floyd Hasselbaink')","(47, 1, 'Paolo Di Canio')","(59, 0, 'Gianfranco Zola')","(77, 0, 'Mario Stanic')","(84, 1, 'Frederic Kanoute')","(89, 0, 'Mario Stanic')",,,,,,
+2000-08-19,Coventry City,Middlesbrough,1,3,"(19, 1, 'Joseph-Desire Job')","(40, 0, 'John Eustace')","(58, 1, 'Alen Boksic')","(63, 1, 'Alen Boksic')",,,,,,,,
+2000-08-19,Derby County,Southampton,2,2,"(15, 1, 'Hassan Kachloul')","(22, 1, 'Hassan Kachloul')","(31, 0, 'Branko Strupar')","(48, 0, 'Deon Burton')",,,,,,,,
+2000-08-19,Leeds United,Everton,2,0,"(15, 0, 'Alan Smith')","(37, 0, 'Alan Smith')",,,,,,,,,,
+2000-08-19,Leicester City,Aston Villa,0,0,,,,,,,,,,,,
+2000-08-19,Liverpool,Bradford City,1,0,"(66, 0, 'Emile Heskey')",,,,,,,,,,,
+2000-08-19,Sunderland,Arsenal,1,0,"(53, 0, 'Niall Quinn')",,,,,,,,,,,
+2000-08-19,Tottenham Hotspur,Ipswich Town,3,1,"(9, 1, 'Mark Venus')","(28, 0, 'Darren Anderton')","(29, 0, 'Stephen Carr')","(82, 0, 'Les Ferdinand')",,,,,,,,
+2000-08-20,Manchester United,Newcastle United,2,0,"(20, 0, 'Ronny Johnsen')","(69, 0, 'Andrew Cole')",,,,,,,,,,
+2000-08-21,Arsenal,Liverpool,2,0,"(8, 0, 'Bissan Lauren')","(90, 0, 'Thierry Henry')",,,,,,,,,,
+2000-08-22,Bradford City,Chelsea,2,0,"(25, 0, 'Dean Windass')","(75, 0, 'Benito Carbone')",,,,,,,,,,
+2000-08-22,Ipswich Town,Manchester United,1,1,"(6, 0, 'Fabian Wilnis')","(39, 1, 'David Beckham')",,,,,,,,,,
+2000-08-22,Middlesbrough,Tottenham Hotspur,1,1,"(41, 1, 'Oyvind Leonhardsen')","(59, 0, 'Mark Summerbell')",,,,,,,,,,
+2000-08-23,Everton,Charlton Athletic,3,0,"(54, 0, 'Francis Jeffers')","(84, 0, 'Duncan Ferguson')","(90, 0, 'Duncan Ferguson')",,,,,,,,,
+2000-08-23,Manchester City,Sunderland,4,2,"(3, 0, 'Paulo Wanchope')","(23, 0, 'Alfe-Inge Haaland')","(64, 1, 'Niall Quinn')","(67, 1, 'Kevin Phillips')","(79, 0, 'Paulo Wanchope')","(88, 0, 'Paulo Wanchope')",,,,,,
+2000-08-23,Newcastle United,Derby County,3,2,"(4, 0, 'Carl Cort')","(45, 1, 'Branko Strupar')","(46, 0, 'Daniel Cordone')","(54, 0, 'Stephen Glass')","(83, 1, 'Seth Johnson')",,,,,,,
+2000-08-23,Southampton,Coventry City,1,2,"(19, 1, 'Craig Bellamy')","(52, 0, 'Jo Tessem')","(61, 1, 'Cedric Roussel')",,,,,,,,,
+2000-08-23,West Ham United,Leicester City,0,1,"(53, 1, 'Darren Eadie')",,,,,,,,,,,
+2000-08-26,Arsenal,Charlton Athletic,5,3,"(19, 0, 'Patrick Vieira')","(24, 1, 'Andy Hunt')","(31, 1, 'Andy Hunt')","(46, 0, 'Thierry Henry')","(58, 1, 'Graham Stuart')","(61, 0, 'Patrick Vieira')","(67, 0, 'Thierry Henry')","(89, 0, ' Silvinho')",,,,
+2000-08-26,Bradford City,Leicester City,0,0,,,,,,,,,,,,
+2000-08-26,Everton,Derby County,2,2,"(38, 0, 'Francis Jeffers')","(40, 0, 'Thomas Gravesen')","(52, 1, 'Dean Sturridge')","(68, 1, 'Branko Strupar')",,,,,,,,
+2000-08-26,Ipswich Town,Sunderland,1,0,"(52, 0, 'Titus Bramble')",,,,,,,,,,,
+2000-08-26,Manchester City,Coventry City,1,2,"(23, 1, 'Richard Edghill')","(45, 1, 'Craig Bellamy')","(78, 0, 'Kevin Horlock')",,,,,,,,,
+2000-08-26,Middlesbrough,Leeds United,1,2,"(6, 1, 'Lee Bowyer')","(12, 1, 'Alan Smith')","(82, 0, 'Phil Stamp')",,,,,,,,,
+2000-08-26,Newcastle United,Tottenham Hotspur,2,0,"(9, 0, 'Gary Speed')","(66, 0, 'Daniel Cordone')",,,,,,,,,,
+2000-08-26,Southampton,Liverpool,3,3,"(24, 1, 'Michael Owen')","(55, 1, 'Sami Hyypia')","(64, 1, 'Michael Owen')","(73, 0, 'Marian Pahars')","(85, 0, 'Tahar El Khalej')","(90, 0, 'Marian Pahars')",,,,,,
+2000-08-26,West Ham United,Manchester United,2,2,"(6, 1, 'David Beckham')","(49, 1, 'Andrew Cole')","(86, 0, 'Paolo Di Canio')","(89, 0, 'Davor Suker')",,,,,,,,
+2000-08-27,Aston Villa,Chelsea,1,1,"(10, 0, 'Luc Nilis')","(30, 1, 'Marcel Desailly')",,,,,,,,,,
+2000-09-05,Leeds United,Manchester City,1,2,"(34, 1, 'Steve Howey')","(40, 1, 'Gerard Wiekens')","(56, 0, 'Lee Bowyer')",,,,,,,,,
+2000-09-05,Manchester United,Bradford City,6,0,"(11, 0, 'Andrew Cole')","(23, 0, 'Quinton Fortune')","(60, 0, 'Quinton Fortune')","(71, 0, 'Teddy Sheringham')","(81, 0, 'Teddy Sheringham')","(85, 0, 'David Beckham')",,,,,,
+2000-09-05,Sunderland,West Ham United,1,1,"(25, 0, 'Julio Arca')","(32, 1, 'Davor Suker')",,,,,,,,,,
+2000-09-05,Tottenham Hotspur,Everton,3,2,"(25, 1, 'Francis Jeffers')","(41, 1, 'Alex Nyarko')","(45, 0, 'Sergei Rebrov')","(61, 0, 'Sergei Rebrov')","(62, 0, 'Les Ferdinand')",,,,,,,
+2000-09-06,Charlton Athletic,Southampton,1,1,"(79, 1, 'Marian Pahars')","(82, 0, 'Jonatan Johansson')",,,,,,,,,,
+2000-09-06,Chelsea,Arsenal,2,2,"(31, 0, 'Jimmy Floyd Hasselbaink')","(58, 0, 'Gianfranco Zola')","(76, 1, 'Thierry Henry')","(86, 1, ' Silvinho')",,,,,,,,
+2000-09-06,Coventry City,Newcastle United,0,2,"(30, 1, 'Alan Shearer')","(58, 1, 'Kevin Gallacher')",,,,,,,,,,
+2000-09-06,Derby County,Middlesbrough,3,3,"(12, 1, 'Alen Boksic')","(51, 1, 'Joseph-Desire Job')","(59, 1, 'Brian Deane')","(68, 0, 'Malcolm Christie')","(83, 0, 'Branko Strupar')","(88, 0, 'Malcolm Christie')",,,,,,
+2000-09-06,Leicester City,Ipswich Town,2,1,"(57, 0, 'Ade Akinbiyi')","(73, 0, 'Matt Elliott')","(89, 1, 'Jim Magilton')",,,,,,,,,
+2000-09-06,Liverpool,Aston Villa,3,1,"(5, 0, 'Michael Owen')","(14, 0, 'Michael Owen')","(33, 0, 'Michael Owen')","(83, 1, 'Steve Stone')",,,,,,,,
+2000-09-09,Bradford City,Arsenal,1,1,"(10, 0, 'Stuart McCall')","(66, 1, 'Ashley Cole')",,,,,,,,,,
+2000-09-09,Coventry City,Leeds United,0,0,,,,,,,,,,,,
+2000-09-09,Ipswich Town,Aston Villa,1,2,"(28, 1, 'Lee Hendrie')","(54, 1, 'Dion Dublin')","(90, 0, 'Marcus Stewart')",,,,,,,,,
+2000-09-09,Leicester City,Southampton,1,0,"(66, 0, 'Gerry Taggart')",,,,,,,,,,,
+2000-09-09,Liverpool,Manchester City,3,2,"(11, 0, 'Michael Owen')","(56, 0, 'Dietmar Hamann')","(67, 1, 'George Weah')","(81, 1, 'Kevin Horlock')","(82, 0, 'Dietmar Hamann')",,,,,,,
+2000-09-09,Manchester United,Sunderland,3,0,"(14, 0, 'Paul Scholes')","(76, 0, 'Teddy Sheringham')","(82, 0, 'Paul Scholes')",,,,,,,,,
+2000-09-09,Middlesbrough,Everton,1,2,"(7, 0, 'Steve Watson')","(54, 1, 'Francis Jeffers')","(87, 1, 'Francis Jeffers')",,,,,,,,,
+2000-09-09,Newcastle United,Chelsea,0,0,,,,,,,,,,,,
+2000-09-10,Derby County,Charlton Athletic,2,2,"(7, 0, 'Malcolm Christie')","(39, 0, 'Simo Valakari')","(59, 1, 'Claus Jensen')","(62, 1, 'Jonatan Johansson')",,,,,,,,
+2000-09-11,Tottenham Hotspur,West Ham United,1,0,"(67, 0, 'Sol Campbell')",,,,,,,,,,,
+2000-09-16,Arsenal,Coventry City,2,1,"(24, 0, 'Sylvain Wiltord')","(72, 0, 'Paolo Vernazza')","(80, 1, 'Mustapha Hadji')",,,,,,,,,
+2000-09-16,Aston Villa,Bradford City,2,0,"(5, 0, 'Gareth Southgate')","(75, 0, 'Dion Dublin')",,,,,,,,,,
+2000-09-16,Charlton Athletic,Tottenham Hotspur,1,0,"(39, 0, 'Jonatan Johansson')",,,,,,,,,,,
+2000-09-16,Everton,Manchester United,1,3,"(27, 1, 'Nicky Butt')","(29, 1, 'Ryan Giggs')","(38, 1, 'Ole Gunnar Solskjaer')","(54, 0, 'Thomas Gravesen')",,,,,,,,
+2000-09-16,Leeds United,Ipswich Town,1,2,"(4, 0, 'Lee Bowyer')","(12, 1, 'James Scowcroft')","(47, 1, 'Jermaine Wright')",,,,,,,,,
+2000-09-16,Southampton,Newcastle United,2,0,"(47, 0, 'Marian Pahars')","(61, 0, 'Marian Pahars')",,,,,,,,,,
+2000-09-16,Sunderland,Derby County,2,1,"(40, 0, 'Kevin Kilbane')","(74, 0, 'Kevin Phillips')","(83, 1, 'Malcolm Christie')",,,,,,,,,
+2000-09-17,Chelsea,Leicester City,0,2,"(8, 1, 'Muzzy Izzet')","(82, 1, 'Stan Collymore')",,,,,,,,,,
+2000-09-17,Manchester City,Middlesbrough,1,1,"(55, 1, 'Gianluca Festa')","(67, 0, 'Paulo Wanchope')",,,,,,,,,,
+2000-09-17,West Ham United,Liverpool,1,1,"(12, 1, 'Steven Gerrard')","(69, 0, 'Paolo Di Canio')",,,,,,,,,,
+2000-09-23,Bradford City,Southampton,0,1,"(29, 1, 'Gunnar Halle')",,,,,,,,,,,
+2000-09-23,Coventry City,West Ham United,0,3,"(38, 1, 'Paolo Di Canio')","(40, 1, 'Joe Cole')","(69, 1, 'Frank Lampard')",,,,,,,,,
+2000-09-23,Derby County,Leeds United,1,1,"(34, 1, 'Ian Harte')","(75, 0, 'Georgi Kinkladze')",,,,,,,,,,
+2000-09-23,Ipswich Town,Arsenal,1,1,"(49, 0, 'Marcus Stewart')","(84, 1, 'Dennis Bergkamp')",,,,,,,,,,
+2000-09-23,Liverpool,Sunderland,1,1,"(14, 1, 'Kevin Phillips')","(34, 0, 'Michael Owen')",,,,,,,,,,
+2000-09-23,Manchester United,Chelsea,3,3,"(8, 1, 'Jimmy Floyd Hasselbaink')","(14, 0, 'Paul Scholes')","(37, 0, 'Teddy Sheringham')","(39, 0, 'David Beckham')","(45, 1, 'Tore Andre Flo')","(70, 1, 'Tore Andre Flo')",,,,,,
+2000-09-23,Middlesbrough,Aston Villa,1,1,"(74, 1, 'Julian Joachim')","(89, 0, ' Alpay Ozalan')",,,,,,,,,,
+2000-09-23,Newcastle United,Charlton Athletic,0,1,"(8, 1, 'Graham Stuart')",,,,,,,,,,,
+2000-09-23,Tottenham Hotspur,Manchester City,0,0,,,,,,,,,,,,
+2000-09-24,Leicester City,Everton,1,1,"(23, 0, 'Ade Akinbiyi')","(52, 1, 'David Unsworth')",,,,,,,,,,
+2000-09-30,Aston Villa,Derby County,4,1,"(28, 0, 'Julian Joachim')","(37, 0, 'Paul Merson')","(54, 0, 'Alan Wright')","(61, 1, 'Chris Riggott')","(87, 0, 'Julian Joachim')",,,,,,,
+2000-09-30,Charlton Athletic,Coventry City,2,2,"(41, 1, 'John Aloisi')","(60, 0, 'Andy Hunt')","(71, 1, 'Craig Bellamy')","(88, 0, 'Jonatan Johansson')",,,,,,,,
+2000-09-30,Everton,Ipswich Town,0,3,"(19, 1, 'John McGreal')","(49, 1, 'Marcus Stewart')","(60, 1, 'Marcus Stewart')",,,,,,,,,
+2000-09-30,Leeds United,Tottenham Hotspur,4,3,"(37, 1, 'Sergei Rebrov')","(52, 0, 'Mark Viduka')","(55, 0, 'Mark Viduka')","(59, 0, 'Alan Smith')","(60, 1, 'Chris Perry')","(64, 0, 'Alan Smith')","(74, 1, 'Sergei Rebrov')",,,,,
+2000-09-30,Manchester City,Newcastle United,0,1,"(74, 1, 'Alan Shearer')",,,,,,,,,,,
+2000-09-30,Southampton,Middlesbrough,1,3,"(17, 1, 'Alen Boksic')","(32, 1, 'Gianluca Festa')","(81, 0, 'Marian Pahars')","(82, 1, 'Alen Boksic')",,,,,,,,
+2000-09-30,West Ham United,Bradford City,1,1,"(26, 0, 'Joe Cole')","(90, 1, 'Dan Petrescu')",,,,,,,,,,
+2000-10-01,Arsenal,Manchester United,1,0,"(30, 0, 'Thierry Henry')",,,,,,,,,,,
+2000-10-01,Chelsea,Liverpool,3,0,"(10, 0, 'Sander Westerveld')","(11, 0, 'Jimmy Floyd Hasselbaink')","(71, 0, 'Eidur Gudjohnsen')",,,,,,,,,
+2000-10-01,Sunderland,Leicester City,0,0,,,,,,,,,,,,
+2000-10-14,Arsenal,Aston Villa,1,0,"(61, 0, 'Thierry Henry')",,,,,,,,,,,
+2000-10-14,Coventry City,Tottenham Hotspur,2,1,"(12, 0, 'John Aloisi')","(26, 0, 'John Eustace')","(53, 1, 'Sergei Rebrov')",,,,,,,,,
+2000-10-14,Everton,Southampton,1,1,"(76, 1, 'Jason Dodd')","(81, 0, 'Michael Ball')",,,,,,,,,,
+2000-10-14,Ipswich Town,West Ham United,1,1,"(5, 0, 'Marcus Stewart')","(73, 1, 'Paolo Di Canio')",,,,,,,,,,
+2000-10-14,Leeds United,Charlton Athletic,3,1,"(38, 0, 'Alan Smith')","(73, 0, 'Mark Viduka')","(84, 1, 'Claus Jensen')","(90, 0, 'Mark Viduka')",,,,,,,,
+2000-10-14,Leicester City,Manchester United,0,3,"(37, 1, 'Teddy Sheringham')","(55, 1, 'Teddy Sheringham')","(90, 1, 'Ole Gunnar Solskjaer')",,,,,,,,,
+2000-10-14,Manchester City,Bradford City,2,0,"(30, 0, 'Paul Dickov')","(45, 0, 'Alfe-Inge Haaland')",,,,,,,,,,
+2000-10-14,Sunderland,Chelsea,1,0,"(63, 0, 'Kevin Phillips')",,,,,,,,,,,
+2000-10-15,Derby County,Liverpool,0,4,"(17, 1, 'Emile Heskey')","(54, 1, 'Emile Heskey')","(67, 1, 'Emile Heskey')","(80, 1, 'Patrik Berger')",,,,,,,,
+2000-10-16,Middlesbrough,Newcastle United,1,3,"(38, 1, 'Alan Shearer')","(55, 1, 'Alain Goma')","(88, 1, 'Kieron Dyer')","(90, 0, 'Brian Deane')",,,,,,,,
+2000-10-21,Bradford City,Ipswich Town,0,2,"(34, 1, 'David Wetherall')","(88, 1, 'Jamie Clapham')",,,,,,,,,,
+2000-10-21,Charlton Athletic,Middlesbrough,1,0,"(68, 0, 'Mathias Svensson')",,,,,,,,,,,
+2000-10-21,Chelsea,Coventry City,6,1,"(25, 0, 'Jimmy Floyd Hasselbaink')","(42, 0, 'Jimmy Floyd Hasselbaink')","(48, 0, 'Gianfranco Zola')","(52, 0, 'Jimmy Floyd Hasselbaink')","(58, 0, 'Jimmy Floyd Hasselbaink')","(68, 0, 'Tore Andre Flo')","(89, 1, 'Cedric Roussel')",,,,,
+2000-10-21,Liverpool,Leicester City,1,0,"(69, 0, 'Emile Heskey')",,,,,,,,,,,
+2000-10-21,Manchester United,Leeds United,3,0,"(41, 0, 'Dwight Yorke')","(50, 0, 'David Beckham')","(83, 0, 'Jacob Burns')",,,,,,,,,
+2000-10-21,Newcastle United,Everton,0,1,"(80, 1, 'Kevin Campbell')",,,,,,,,,,,
+2000-10-21,Tottenham Hotspur,Derby County,3,1,"(4, 0, 'Oyvind Leonhardsen')","(39, 1, 'Chris Riggott')","(45, 0, 'Stephen Carr')","(48, 0, 'Oyvind Leonhardsen')",,,,,,,,
+2000-10-21,West Ham United,Arsenal,1,2,"(12, 1, 'Robert Pires')","(21, 1, 'Rio Ferdinand')","(56, 0, 'Stuart Pearce')",,,,,,,,,
+2000-10-22,Aston Villa,Sunderland,0,0,,,,,,,,,,,,
+2000-10-23,Southampton,Manchester City,0,2,"(38, 1, 'Paul Dickov')","(90, 1, 'Danny Tiatto')",,,,,,,,,,
+2000-10-28,Arsenal,Manchester City,5,0,"(44, 0, 'Ashley Cole')","(58, 0, 'Dennis Bergkamp')","(75, 0, 'Sylvain Wiltord')","(82, 0, 'Thierry Henry')","(88, 0, 'Thierry Henry')",,,,,,,
+2000-10-28,Aston Villa,Charlton Athletic,2,1,"(33, 0, 'Ian Taylor')","(41, 0, 'Paul Merson')","(82, 1, 'Dion Dublin')",,,,,,,,,
+2000-10-28,Chelsea,Tottenham Hotspur,3,0,"(13, 0, 'Jimmy Floyd Hasselbaink')","(39, 0, 'Gianfranco Zola')","(87, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,,
+2000-10-28,Ipswich Town,Middlesbrough,2,1,"(25, 0, 'Richard Naylor')","(28, 0, 'Mark Venus')","(68, 1, 'Dean Gordon')",,,,,,,,,
+2000-10-28,Leicester City,Derby County,2,1,"(12, 1, 'Rory Delap')","(31, 0, 'Muzzy Izzet')","(76, 0, 'Arnar Gunnlaugsson')",,,,,,,,,
+2000-10-28,Manchester United,Southampton,5,0,"(9, 0, 'Andrew Cole')","(45, 0, 'Teddy Sheringham')","(51, 0, 'Teddy Sheringham')","(55, 0, 'Teddy Sheringham')","(73, 0, 'Andrew Cole')",,,,,,,
+2000-10-28,Sunderland,Coventry City,1,0,"(52, 0, 'Emerson Thome')",,,,,,,,,,,
+2000-10-28,West Ham United,Newcastle United,1,0,"(73, 0, 'Frederic Kanoute')",,,,,,,,,,,
+2000-10-29,Bradford City,Leeds United,1,1,"(21, 0, 'Stan Collymore')","(80, 1, 'Mark Viduka')",,,,,,,,,,
+2000-10-29,Liverpool,Everton,3,1,"(12, 0, 'Nick Barmby')","(17, 1, 'Kevin Campbell')","(56, 0, 'Emile Heskey')","(78, 0, 'Patrik Berger')",,,,,,,,
+2000-11-04,Charlton Athletic,Bradford City,2,0,"(4, 0, 'Jonatan Johansson')","(18, 0, 'Graham Stuart')",,,,,,,,,,
+2000-11-04,Coventry City,Manchester United,1,2,"(27, 1, 'Andrew Cole')","(37, 1, 'David Beckham')","(64, 0, 'Ysrael Zuniga')",,,,,,,,,
+2000-11-04,Leeds United,Liverpool,4,3,"(2, 1, 'Sami Hyypia')","(18, 1, 'Christian Ziege')","(24, 0, 'Mark Viduka')","(47, 0, 'Mark Viduka')","(61, 1, 'Vladimir Smicer')","(73, 0, 'Mark Viduka')","(75, 0, 'Mark Viduka')",,,,,
+2000-11-04,Manchester City,Leicester City,0,1,"(56, 1, 'Robbie Savage')",,,,,,,,,,,
+2000-11-04,Middlesbrough,Arsenal,0,1,"(25, 1, 'Thierry Henry')",,,,,,,,,,,
+2000-11-04,Newcastle United,Ipswich Town,2,1,"(13, 1, 'Marcus Stewart')","(22, 0, 'Alan Shearer')","(67, 0, 'Alan Shearer')",,,,,,,,,
+2000-11-04,Southampton,Chelsea,3,2,"(3, 0, 'James Beattie')","(37, 0, 'Jo Tessem')","(69, 1, 'Dennis Wise')","(78, 1, 'Gus Poyet')","(90, 0, 'James Beattie')",,,,,,,
+2000-11-04,Tottenham Hotspur,Sunderland,2,1,"(43, 0, 'Tim Sherwood')","(63, 1, 'Don Hutchison')","(79, 0, 'Chris Armstrong')",,,,,,,,,
+2000-11-05,Everton,Aston Villa,0,1,"(90, 1, 'Paul Merson')",,,,,,,,,,,
+2000-11-06,Derby County,West Ham United,0,0,,,,,,,,,,,,
+2000-11-11,Arsenal,Derby County,0,0,,,,,,,,,,,,
+2000-11-11,Aston Villa,Tottenham Hotspur,2,0,"(22, 0, 'Ian Taylor')","(57, 0, 'Ian Taylor')",,,,,,,,,,
+2000-11-11,Bradford City,Everton,0,1,"(87, 1, 'Gary Naysmith')",,,,,,,,,,,
+2000-11-11,Ipswich Town,Charlton Athletic,2,0,"(80, 0, 'Matt Holland')","(84, 0, 'Marcus Stewart')",,,,,,,,,,
+2000-11-11,Leicester City,Newcastle United,1,1,"(63, 0, 'Arnar Gunnlaugsson')","(75, 1, 'Gary Speed')",,,,,,,,,,
+2000-11-11,Manchester United,Middlesbrough,2,1,"(32, 1, 'Christian Karembeu')","(62, 0, 'Nicky Butt')","(65, 0, 'Teddy Sheringham')",,,,,,,,,
+2000-11-11,Sunderland,Southampton,2,2,"(12, 1, 'James Beattie')","(23, 0, 'Niall Quinn')","(80, 0, 'Don Hutchison')","(89, 1, 'Dean Richards')",,,,,,,,
+2000-11-11,West Ham United,Manchester City,4,1,"(32, 1, 'Spencer Prior')","(53, 0, 'Steve Lomas')","(58, 0, 'Trevor Sinclair')","(67, 0, 'Ian Pearce')","(90, 0, 'Paolo Di Canio')",,,,,,,
+2000-11-12,Chelsea,Leeds United,1,1,"(62, 1, 'Mark Viduka')","(79, 0, 'Gus Poyet')",,,,,,,,,,
+2000-11-12,Liverpool,Coventry City,4,1,"(13, 0, 'Gary McAllister')","(51, 0, 'Steven Gerrard')","(56, 1, 'David Thompson')","(82, 0, 'Emile Heskey')","(87, 0, 'Emile Heskey')",,,,,,,
+2000-11-18,Charlton Athletic,Chelsea,2,0,"(35, 0, 'Jonatan Johansson')","(90, 0, 'Martin Pringle')",,,,,,,,,,
+2000-11-18,Derby County,Bradford City,2,0,"(55, 0, 'Malcolm Christie')","(68, 0, 'Rory Delap')",,,,,,,,,,
+2000-11-18,Everton,Arsenal,2,0,"(54, 0, 'Danny Cadamarteri')","(73, 0, 'Kevin Campbell')",,,,,,,,,,
+2000-11-18,Leeds United,West Ham United,0,1,"(45, 1, 'Nigel Winterburn')",,,,,,,,,,,
+2000-11-18,Manchester City,Manchester United,0,1,"(2, 1, 'David Beckham')",,,,,,,,,,,
+2000-11-18,Middlesbrough,Leicester City,0,3,"(8, 1, 'Muzzy Izzet')","(13, 1, 'Trevor Benjamin')","(57, 1, 'Darren Eadie')",,,,,,,,,
+2000-11-18,Newcastle United,Sunderland,1,2,"(4, 0, 'Gary Speed')","(68, 1, 'Don Hutchison')","(76, 1, 'Niall Quinn')",,,,,,,,,
+2000-11-18,Southampton,Aston Villa,2,0,"(22, 0, 'James Beattie')","(24, 0, 'James Beattie')",,,,,,,,,,
+2000-11-19,Tottenham Hotspur,Liverpool,2,1,"(18, 1, 'Robbie Fowler')","(32, 0, 'Les Ferdinand')","(41, 0, 'Tim Sherwood')",,,,,,,,,
+2000-11-20,Coventry City,Ipswich Town,0,1,"(90, 1, 'Fabian Wilnis')",,,,,,,,,,,
+2000-11-25,Charlton Athletic,Sunderland,0,1,"(58, 1, 'Alex Rae')",,,,,,,,,,,
+2000-11-25,Coventry City,Aston Villa,1,1,"(8, 1, 'Dion Dublin')","(83, 0, 'Mustapha Hadji')",,,,,,,,,,
+2000-11-25,Derby County,Manchester United,0,3,"(61, 1, 'Teddy Sheringham')","(69, 1, 'Nicky Butt')","(76, 1, 'Dwight Yorke')",,,,,,,,,
+2000-11-25,Everton,Chelsea,2,1,"(45, 1, 'Samuele Dalla Bona')","(47, 0, 'Danny Cadamarteri')","(74, 0, 'Kevin Campbell')",,,,,,,,,
+2000-11-25,Manchester City,Ipswich Town,2,3,"(9, 1, 'Marcus Stewart')","(32, 1, 'Hermann Hreidarsson')","(53, 1, 'Marcus Stewart')","(71, 0, 'Paulo Wanchope')","(81, 0, 'Steve Howey')",,,,,,,
+2000-11-25,Middlesbrough,Bradford City,2,2,"(3, 1, 'Dean Windass')","(10, 1, 'Benito Carbone')","(48, 0, 'Ugo Ehiogu')","(89, 0, 'Paul Ince')",,,,,,,,
+2000-11-25,Southampton,West Ham United,2,3,"(20, 0, 'Matt Oakley')","(41, 1, 'Frederic Kanoute')","(43, 1, 'Stuart Pearce')","(53, 0, 'James Beattie')","(69, 1, 'Trevor Sinclair')",,,,,,,
+2000-11-25,Tottenham Hotspur,Leicester City,3,0,"(34, 0, 'Les Ferdinand')","(39, 0, 'Les Ferdinand')","(84, 0, 'Les Ferdinand')",,,,,,,,,
+2000-11-26,Leeds United,Arsenal,1,0,"(56, 0, 'Olivier Dacourt')",,,,,,,,,,,
+2000-11-26,Newcastle United,Liverpool,2,1,"(4, 0, 'Nolberto Solano')","(70, 0, 'Kieron Dyer')","(78, 1, 'Emile Heskey')",,,,,,,,,
+2000-12-02,Arsenal,Southampton,1,0,"(85, 0, 'Claus Lundekvam')",,,,,,,,,,,
+2000-12-02,Aston Villa,Newcastle United,1,1,"(4, 0, 'Dion Dublin')","(82, 1, 'Nolberto Solano')",,,,,,,,,,
+2000-12-02,Bradford City,Coventry City,2,1,"(64, 1, 'John Aloisi')","(80, 0, 'Stan Collymore')","(83, 0, 'Peter Beagrie')",,,,,,,,,
+2000-12-02,Ipswich Town,Derby County,0,1,"(28, 1, 'Rory Delap')",,,,,,,,,,,
+2000-12-02,Leicester City,Leeds United,3,1,"(8, 0, 'Robbie Savage')","(17, 0, 'Ade Akinbiyi')","(29, 0, 'Gerry Taggart')","(75, 1, 'Mark Viduka')",,,,,,,,
+2000-12-02,Liverpool,Charlton Athletic,3,0,"(5, 0, 'Mark Fish')","(78, 0, 'Emile Heskey')","(90, 0, 'Markus Babbel')",,,,,,,,,
+2000-12-02,Manchester United,Tottenham Hotspur,2,0,"(40, 0, 'Paul Scholes')","(84, 0, 'Ole Gunnar Solskjaer')",,,,,,,,,,
+2000-12-02,West Ham United,Middlesbrough,1,0,"(42, 0, 'Paolo Di Canio')",,,,,,,,,,,
+2000-12-03,Chelsea,Manchester City,2,1,"(28, 0, 'Gianfranco Zola')","(45, 0, 'Jimmy Floyd Hasselbaink')","(82, 1, 'Paul Dickov')",,,,,,,,,
+2000-12-04,Sunderland,Everton,2,0,"(45, 0, 'Alex Rae')","(65, 0, 'Kevin Phillips')",,,,,,,,,,
+2000-12-09,Arsenal,Newcastle United,5,0,"(13, 0, 'Thierry Henry')","(16, 0, 'Ray Parlour')","(52, 0, 'Nwankwo Kanu')","(86, 0, 'Ray Parlour')","(90, 0, 'Ray Parlour')",,,,,,,
+2000-12-09,Bradford City,Tottenham Hotspur,3,3,"(1, 1, 'Ledley King')","(9, 0, 'Jamie Lawrence')","(21, 1, 'Sol Campbell')","(54, 1, 'Chris Armstrong')","(69, 0, 'Dean Windass')","(89, 0, 'Benito Carbone')",,,,,,
+2000-12-09,Charlton Athletic,Manchester United,3,3,"(10, 0, 'Shaun Bartlett')","(42, 1, 'Ryan Giggs')","(43, 1, 'Ole Gunnar Solskjaer')","(66, 1, 'Roy Keane')","(79, 0, 'Shaun Bartlett')","(85, 0, 'John Robinson')",,,,,,
+2000-12-09,Chelsea,Derby County,4,1,"(10, 0, 'Eidur Gudjohnsen')","(16, 0, 'Eidur Gudjohnsen')","(37, 0, 'Gus Poyet')","(54, 0, 'Gianfranco Zola')","(56, 1, 'Chris Riggott')",,,,,,,
+2000-12-09,Manchester City,Everton,5,0,"(14, 0, 'Paulo Wanchope')","(23, 0, 'Steve Howey')","(42, 0, 'Shaun Goater')","(54, 0, 'Paul Dickov')","(67, 0, 'Gary Naysmith')",,,,,,,
+2000-12-09,Southampton,Leeds United,1,0,"(43, 0, 'James Beattie')",,,,,,,,,,,
+2000-12-09,Sunderland,Middlesbrough,1,0,"(54, 0, 'Michael Gray')",,,,,,,,,,,
+2000-12-09,West Ham United,Aston Villa,1,1,"(15, 0, 'Michael Carrick')","(37, 1, 'Lee Hendrie')",,,,,,,,,,
+2000-12-10,Coventry City,Leicester City,1,0,"(40, 0, 'Craig Bellamy')",,,,,,,,,,,
+2000-12-10,Liverpool,Ipswich Town,0,1,"(45, 1, 'Marcus Stewart')",,,,,,,,,,,
+2000-12-16,Aston Villa,Manchester City,2,2,"(65, 1, 'Alfe-Inge Haaland')","(71, 0, 'Dion Dublin')","(73, 1, 'Paulo Wanchope')","(86, 0, 'David Ginola')",,,,,,,,
+2000-12-16,Derby County,Coventry City,1,0,"(9, 0, 'Malcolm Christie')",,,,,,,,,,,
+2000-12-16,Everton,West Ham United,1,1,"(75, 0, 'Danny Cadamarteri')","(83, 1, 'Frederic Kanoute')",,,,,,,,,,
+2000-12-16,Ipswich Town,Southampton,3,1,"(3, 1, 'James Beattie')","(48, 0, 'James Scowcroft')","(51, 0, 'Alun Armstrong')","(90, 0, 'Wayne Bridge')",,,,,,,,
+2000-12-16,Leeds United,Sunderland,2,0,"(23, 0, 'Lee Bowyer')","(78, 0, 'Mark Viduka')",,,,,,,,,,
+2000-12-16,Leicester City,Charlton Athletic,3,1,"(6, 1, 'Jonatan Johansson')","(35, 0, 'Ade Akinbiyi')","(79, 0, 'Matt Elliott')","(90, 0, 'Arnar Gunnlaugsson')",,,,,,,,
+2000-12-16,Middlesbrough,Chelsea,1,0,"(71, 0, 'Dean Gordon')",,,,,,,,,,,
+2000-12-16,Newcastle United,Bradford City,2,1,"(14, 0, 'Gary Speed')","(70, 0, 'Kieron Dyer')","(83, 1, 'Robert Molenaar')",,,,,,,,,
+2000-12-17,Manchester United,Liverpool,0,1,"(43, 1, 'Danny Murphy')",,,,,,,,,,,
+2000-12-18,Tottenham Hotspur,Arsenal,1,1,"(31, 0, 'Sergei Rebrov')","(89, 1, 'Patrick Vieira')",,,,,,,,,,
+2000-12-22,Coventry City,Southampton,1,1,"(33, 0, 'David Thompson')","(51, 1, 'Jo Tessem')",,,,,,,,,,
+2000-12-23,Charlton Athletic,Everton,1,0,"(8, 0, 'Mathias Svensson')",,,,,,,,,,,
+2000-12-23,Chelsea,Bradford City,3,0,"(22, 0, 'Gus Poyet')","(68, 0, 'Samuele Dalla Bona')","(90, 0, 'Eidur Gudjohnsen')",,,,,,,,,
+2000-12-23,Derby County,Newcastle United,2,0,"(33, 0, 'Horacio Carbonari')","(73, 0, 'Deon Burton')",,,,,,,,,,
+2000-12-23,Leeds United,Aston Villa,1,2,"(43, 1, 'Gareth Southgate')","(88, 1, 'George Boateng')","(90, 0, 'Jonathan Woodgate')",,,,,,,,,
+2000-12-23,Leicester City,West Ham United,2,1,"(8, 1, 'Frederic Kanoute')","(26, 0, 'Muzzy Izzet')","(63, 0, 'Robbie Savage')",,,,,,,,,
+2000-12-23,Liverpool,Arsenal,4,0,"(11, 0, 'Steven Gerrard')","(62, 0, 'Michael Owen')","(71, 0, 'Nick Barmby')","(90, 0, 'Robbie Fowler')",,,,,,,,
+2000-12-23,Manchester United,Ipswich Town,2,0,"(20, 0, 'Ole Gunnar Solskjaer')","(32, 0, 'Ole Gunnar Solskjaer')",,,,,,,,,,
+2000-12-23,Sunderland,Manchester City,1,0,"(19, 0, 'Don Hutchison')",,,,,,,,,,,
+2000-12-23,Tottenham Hotspur,Middlesbrough,0,0,,,,,,,,,,,,
+2000-12-26,Arsenal,Leicester City,6,1,"(35, 0, 'Thierry Henry')","(50, 0, 'Patrick Vieira')","(54, 1, 'Ade Akinbiyi')","(66, 0, 'Thierry Henry')","(75, 0, 'Freddie Ljungberg')","(82, 0, 'Thierry Henry')","(90, 0, 'Tony Adams')",,,,,
+2000-12-26,Aston Villa,Manchester United,0,1,"(85, 1, 'Ole Gunnar Solskjaer')",,,,,,,,,,,
+2000-12-26,Bradford City,Sunderland,1,4,"(45, 1, 'Niall Quinn')","(48, 1, 'Kevin Phillips')","(55, 1, 'Kevin Phillips')","(75, 0, 'Robbie Blake')","(85, 1, 'Kevin Phillips')",,,,,,,
+2000-12-26,Everton,Coventry City,1,2,"(69, 1, 'Mustapha Hadji')","(85, 0, 'Scot Gemmill')","(87, 1, 'Gary Breen')",,,,,,,,,
+2000-12-26,Ipswich Town,Chelsea,2,2,"(8, 1, 'Eidur Gudjohnsen')","(17, 1, 'Eidur Gudjohnsen')","(43, 0, 'James Scowcroft')","(82, 0, 'Marcus Stewart')",,,,,,,,
+2000-12-26,Manchester City,Derby County,0,0,,,,,,,,,,,,
+2000-12-26,Middlesbrough,Liverpool,1,0,"(41, 0, 'Christian Karembeu')",,,,,,,,,,,
+2000-12-26,Newcastle United,Leeds United,2,1,"(10, 1, 'Olivier Dacourt')","(41, 0, 'Nolberto Solano')","(44, 0, 'Clarence Acuna')",,,,,,,,,
+2000-12-26,West Ham United,Charlton Athletic,5,0,"(13, 0, 'Richard Rufus')","(18, 0, 'Frederic Kanoute')","(45, 0, 'Frank Lampard')","(71, 0, 'Trevor Sinclair')","(84, 0, 'Frederic Kanoute')",,,,,,,
+2000-12-27,Southampton,Tottenham Hotspur,2,0,"(38, 0, 'James Beattie')","(40, 0, 'Kevin Davies')",,,,,,,,,,
+2000-12-30,Arsenal,Sunderland,2,2,"(5, 0, 'Patrick Vieira')","(40, 0, 'Lee Dixon')","(53, 1, 'Kevin Phillips')","(83, 1, 'Gavin McCann')",,,,,,,,
+2000-12-30,Ipswich Town,Tottenham Hotspur,3,0,"(9, 0, 'Marcus Stewart')","(62, 0, 'Alun Armstrong')","(88, 0, 'Jamie Clapham')",,,,,,,,,
+2000-12-30,Manchester City,Charlton Athletic,1,4,"(26, 1, 'Jonatan Johansson')","(37, 1, 'Jonatan Johansson')","(79, 1, 'Graham Stuart')","(89, 1, 'Claus Jensen')","(90, 0, 'Darren Huckerby')",,,,,,,
+2000-12-30,Middlesbrough,Coventry City,1,1,"(41, 1, 'Noel Whelan')","(86, 0, 'Alen Boksic')",,,,,,,,,,
+2000-12-30,Newcastle United,Manchester United,1,1,"(25, 1, 'David Beckham')","(81, 0, 'Stephen Glass')",,,,,,,,,,
+2000-12-30,Southampton,Derby County,1,0,"(73, 0, 'James Beattie')",,,,,,,,,,,
+2001-01-01,Charlton Athletic,Arsenal,1,0,"(39, 0, 'Jonatan Johansson')",,,,,,,,,,,
+2001-01-01,Chelsea,Aston Villa,1,0,"(45, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,,,,
+2001-01-01,Coventry City,Manchester City,1,1,"(54, 1, 'Paulo Wanchope')","(72, 0, 'Marc Edworthy')",,,,,,,,,,
+2001-01-01,Derby County,Everton,1,0,"(20, 0, 'Deon Burton')",,,,,,,,,,,
+2001-01-01,Leeds United,Middlesbrough,1,1,"(27, 1, 'Alen Boksic')","(55, 0, 'Robbie Keane')",,,,,,,,,,
+2001-01-01,Leicester City,Bradford City,1,2,"(25, 1, 'Eoin Jess')","(30, 1, 'Wayne Jacobs')","(38, 0, 'Muzzy Izzet')",,,,,,,,,
+2001-01-01,Liverpool,Southampton,2,1,"(12, 0, 'Steven Gerrard')","(20, 1, 'Trond Egil Soltvedt')","(86, 0, 'Markus Babbel')",,,,,,,,,
+2001-01-01,Manchester United,West Ham United,3,1,"(3, 0, 'Ole Gunnar Solskjaer')","(33, 0, 'Stuart Pearce')","(58, 0, 'Dwight Yorke')","(72, 1, 'Frederic Kanoute')",,,,,,,,
+2001-01-01,Sunderland,Ipswich Town,4,1,"(5, 1, 'Marcus Stewart')","(25, 0, 'Julio Arca')","(57, 0, 'Kevin Phillips')","(63, 0, 'Danny Dichio')","(88, 0, 'Stefan Schwarz')",,,,,,,
+2001-01-02,Tottenham Hotspur,Newcastle United,4,2,"(23, 1, 'Nolberto Solano')","(27, 0, 'Gary Doherty')","(30, 0, 'Darren Anderton')","(35, 0, 'Sergei Rebrov')","(49, 1, 'Kieron Dyer')","(77, 0, 'Les Ferdinand')",,,,,,
+2001-01-13,Arsenal,Chelsea,1,1,"(3, 0, 'Robert Pires')","(62, 1, 'John Terry')",,,,,,,,,,
+2001-01-13,Aston Villa,Liverpool,0,3,"(24, 1, 'Danny Murphy')","(32, 1, 'Steven Gerrard')","(53, 1, 'Danny Murphy')",,,,,,,,,
+2001-01-13,Bradford City,Manchester United,0,3,"(72, 1, 'Teddy Sheringham')","(75, 1, 'Ryan Giggs')","(87, 1, 'Luke Chadwick')",,,,,,,,,
+2001-01-13,Everton,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2001-01-13,Manchester City,Leeds United,0,4,"(31, 1, 'Eirik Bakke')","(80, 1, 'Lee Bowyer')","(90, 1, 'Robbie Keane')","(90, 1, 'Robbie Keane')",,,,,,,,
+2001-01-13,Middlesbrough,Derby County,4,0,"(43, 0, 'Alen Boksic')","(60, 0, 'Ugo Ehiogu')","(81, 0, 'Alen Boksic')","(90, 0, 'Hamilton Ricard')",,,,,,,,
+2001-01-13,Newcastle United,Coventry City,3,1,"(4, 0, 'Gary Speed')","(55, 0, 'Shola Ameobi')","(66, 0, 'Kieron Dyer')","(78, 1, 'David Thompson')",,,,,,,,
+2001-01-13,Southampton,Charlton Athletic,0,0,,,,,,,,,,,,
+2001-01-13,West Ham United,Sunderland,0,2,"(22, 1, 'Stanislav Varga')","(68, 1, 'Don Hutchison')",,,,,,,,,,
+2001-01-14,Ipswich Town,Leicester City,2,0,"(80, 0, 'Marcus Stewart')","(90, 0, 'James Scowcroft')",,,,,,,,,,
+2001-01-20,Chelsea,Ipswich Town,4,1,"(23, 1, 'Marcus Stewart')","(45, 0, 'Gus Poyet')","(58, 0, 'Dennis Wise')","(65, 0, 'Gus Poyet')","(73, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,
+2001-01-20,Coventry City,Everton,1,3,"(8, 1, 'Scot Gemmill')","(15, 1, 'Danny Cadamarteri')","(31, 1, 'Kevin Campbell')","(86, 0, 'Lee Carsley')",,,,,,,,
+2001-01-20,Derby County,Manchester City,1,1,"(49, 0, 'Darryl Powell')","(51, 1, 'Steve Howey')",,,,,,,,,,
+2001-01-20,Leeds United,Newcastle United,1,3,"(2, 0, 'Robbie Keane')","(4, 1, 'Nolberto Solano')","(44, 1, 'Clarence Acuna')","(86, 1, 'Shola Ameobi')",,,,,,,,
+2001-01-20,Leicester City,Arsenal,0,0,,,,,,,,,,,,
+2001-01-20,Liverpool,Middlesbrough,0,0,,,,,,,,,,,,
+2001-01-20,Manchester United,Aston Villa,2,0,"(57, 0, 'Gary Neville')","(87, 0, 'Teddy Sheringham')",,,,,,,,,,
+2001-01-20,Tottenham Hotspur,Southampton,0,0,,,,,,,,,,,,
+2001-01-21,Sunderland,Bradford City,0,0,,,,,,,,,,,,
+2001-01-22,Charlton Athletic,West Ham United,1,1,"(7, 0, 'Shaun Bartlett')","(74, 1, 'Paolo Di Canio')",,,,,,,,,,
+2001-01-24,Aston Villa,Leeds United,1,2,"(24, 0, 'Paul Merson')","(28, 1, 'Lee Bowyer')","(75, 1, 'Ian Harte')",,,,,,,,,
+2001-01-30,Arsenal,Bradford City,2,0,"(17, 0, 'Ray Parlour')","(26, 0, 'Bissan Lauren')",,,,,,,,,,
+2001-01-30,Charlton Athletic,Derby County,2,1,"(8, 0, 'Youl Mawene')","(35, 1, 'Craig Burley')","(61, 0, 'Scott Parker')",,,,,,,,,
+2001-01-31,Chelsea,Newcastle United,3,1,"(23, 1, 'Christian Bassedas')","(37, 0, 'Gianfranco Zola')","(62, 0, 'Gus Poyet')","(79, 0, 'Jesper Gronkjaer')",,,,,,,,
+2001-01-31,Everton,Middlesbrough,2,2,"(11, 1, 'Hamilton Ricard')","(49, 0, 'Gary Naysmith')","(63, 1, 'Colin Cooper')","(79, 0, 'Idan Tal')",,,,,,,,
+2001-01-31,Leeds United,Coventry City,1,0,"(69, 0, 'Robbie Keane')",,,,,,,,,,,
+2001-01-31,Manchester City,Liverpool,1,1,"(43, 1, 'Emile Heskey')","(48, 0, 'Danny Tiatto')",,,,,,,,,,
+2001-01-31,Southampton,Leicester City,1,0,"(79, 0, 'Dan Petrescu')",,,,,,,,,,,
+2001-01-31,Sunderland,Manchester United,0,1,"(46, 1, 'Andrew Cole')",,,,,,,,,,,
+2001-01-31,West Ham United,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2001-02-03,Bradford City,Aston Villa,0,3,"(50, 1, 'Darius Vassell')","(58, 1, 'Darius Vassell')","(87, 1, 'Julian Joachim')",,,,,,,,,
+2001-02-03,Coventry City,Arsenal,0,1,"(78, 1, 'Dennis Bergkamp')",,,,,,,,,,,
+2001-02-03,Derby County,Sunderland,1,0,"(42, 0, 'Craig Burley')",,,,,,,,,,,
+2001-02-03,Ipswich Town,Leeds United,1,2,"(28, 1, 'Mark Venus')","(41, 1, 'Robbie Keane')","(63, 0, 'Mark Venus')",,,,,,,,,
+2001-02-03,Leicester City,Chelsea,2,1,"(24, 0, 'Muzzy Izzet')","(75, 1, 'Jimmy Floyd Hasselbaink')","(76, 0, 'Gary Rowett')",,,,,,,,,
+2001-02-03,Liverpool,West Ham United,3,0,"(20, 0, 'Vladimir Smicer')","(45, 0, 'Robbie Fowler')","(57, 0, 'Robbie Fowler')",,,,,,,,,
+2001-02-03,Manchester United,Everton,1,0,"(52, 0, 'Steve Watson')",,,,,,,,,,,
+2001-02-03,Middlesbrough,Manchester City,1,1,"(28, 1, 'Steve Vickers')","(62, 0, 'Colin Cooper')",,,,,,,,,,
+2001-02-03,Tottenham Hotspur,Charlton Athletic,0,0,,,,,,,,,,,,
+2001-02-07,Everton,Leeds United,2,2,"(23, 0, 'Duncan Ferguson')","(66, 1, 'Ian Harte')","(73, 0, 'Kevin Campbell')","(76, 1, 'Olivier Dacourt')",,,,,,,,
+2001-02-10,Arsenal,Ipswich Town,1,0,"(67, 0, 'Thierry Henry')",,,,,,,,,,,
+2001-02-10,Aston Villa,Middlesbrough,1,1,"(38, 0, 'Steve Stone')","(49, 1, 'Ugo Ehiogu')",,,,,,,,,,
+2001-02-10,Chelsea,Manchester United,1,1,"(24, 0, 'Jimmy Floyd Hasselbaink')","(69, 1, 'Andrew Cole')",,,,,,,,,,
+2001-02-10,Everton,Leicester City,2,1,"(8, 0, 'Francis Jeffers')","(43, 0, 'Kevin Campbell')","(79, 1, 'Dean Sturridge')",,,,,,,,,
+2001-02-10,Leeds United,Derby County,0,0,,,,,,,,,,,,
+2001-02-10,Manchester City,Tottenham Hotspur,0,1,"(89, 1, 'Sergei Rebrov')",,,,,,,,,,,
+2001-02-10,Southampton,Bradford City,2,0,"(60, 0, 'Marian Pahars')","(63, 0, 'James Beattie')",,,,,,,,,,
+2001-02-10,Sunderland,Liverpool,1,1,"(61, 0, 'Don Hutchison')","(79, 1, 'Jari Litmanen')",,,,,,,,,,
+2001-02-11,Charlton Athletic,Newcastle United,2,0,"(37, 0, 'Mathias Svensson')","(43, 0, 'Shaun Bartlett')",,,,,,,,,,
+2001-02-12,West Ham United,Coventry City,1,1,"(83, 0, 'Joe Cole')","(90, 1, 'Christian Dailly')",,,,,,,,,,
+2001-02-24,Bradford City,West Ham United,1,2,"(18, 1, 'Frank Lampard')","(62, 0, 'Eoin Jess')","(75, 1, 'Frank Lampard')",,,,,,,,,
+2001-02-24,Coventry City,Charlton Athletic,2,2,"(10, 0, 'Craig Bellamy')","(22, 1, 'Richard Rufus')","(46, 1, 'Jonatan Johansson')","(67, 0, 'John Hartson')",,,,,,,,
+2001-02-24,Derby County,Aston Villa,1,0,"(42, 0, 'Deon Burton')",,,,,,,,,,,
+2001-02-24,Ipswich Town,Everton,2,0,"(82, 0, 'Matt Holland')","(84, 0, 'Alun Armstrong')",,,,,,,,,,
+2001-02-24,Leicester City,Sunderland,2,0,"(30, 0, 'Dean Sturridge')","(65, 0, 'Ade Akinbiyi')",,,,,,,,,,
+2001-02-24,Middlesbrough,Southampton,0,1,"(49, 1, 'Mark Draper')",,,,,,,,,,,
+2001-02-24,Newcastle United,Manchester City,0,1,"(61, 1, 'Shaun Goater')",,,,,,,,,,,
+2001-02-24,Tottenham Hotspur,Leeds United,1,2,"(33, 0, 'Les Ferdinand')","(45, 1, 'Ian Harte')","(57, 1, 'Lee Bowyer')",,,,,,,,,
+2001-02-25,Manchester United,Arsenal,6,1,"(3, 0, 'Dwight Yorke')","(16, 1, 'Thierry Henry')","(18, 0, 'Dwight Yorke')","(22, 0, 'Dwight Yorke')","(26, 0, 'Roy Keane')","(38, 0, 'Ole Gunnar Solskjaer')","(90, 0, 'Teddy Sheringham')",,,,,
+2001-03-03,Arsenal,West Ham United,3,0,"(6, 0, 'Sylvain Wiltord')","(13, 0, 'Sylvain Wiltord')","(39, 0, 'Sylvain Wiltord')",,,,,,,,,
+2001-03-03,Coventry City,Chelsea,0,0,,,,,,,,,,,,
+2001-03-03,Derby County,Tottenham Hotspur,2,1,"(12, 0, 'Branko Strupar')","(33, 0, 'Branko Strupar')","(70, 1, 'Taribo West')",,,,,,,,,
+2001-03-03,Everton,Newcastle United,1,1,"(47, 1, 'David Unsworth')","(82, 0, 'David Unsworth')",,,,,,,,,,
+2001-03-03,Leeds United,Manchester United,1,1,"(64, 1, 'Luke Chadwick')","(84, 0, 'Mark Viduka')",,,,,,,,,,
+2001-03-03,Leicester City,Liverpool,2,0,"(51, 0, 'Ade Akinbiyi')","(90, 0, 'Muzzy Izzet')",,,,,,,,,,
+2001-03-03,Manchester City,Southampton,0,1,"(55, 1, 'Dan Petrescu')",,,,,,,,,,,
+2001-03-03,Middlesbrough,Charlton Athletic,0,0,,,,,,,,,,,,
+2001-03-04,Ipswich Town,Bradford City,3,1,"(27, 1, 'Benito Carbone')","(59, 0, 'Martijn Reuser')","(72, 0, 'Martijn Reuser')","(75, 0, 'Mark Burchill')",,,,,,,,
+2001-03-05,Sunderland,Aston Villa,1,1,"(52, 1, 'Julian Joachim')","(84, 0, 'Gavin McCann')",,,,,,,,,,
+2001-03-07,West Ham United,Chelsea,0,2,"(32, 1, 'Eidur Gudjohnsen')","(38, 1, 'Jimmy Floyd Hasselbaink')",,,,,,,,,,
+2001-03-10,Aston Villa,Ipswich Town,2,1,"(30, 1, 'Alun Armstrong')","(52, 0, 'Julian Joachim')","(71, 0, 'Julian Joachim')",,,,,,,,,
+2001-03-17,Bradford City,Manchester City,2,2,"(22, 1, 'Gerard Wiekens')","(52, 0, 'Robbie Blake')","(57, 0, 'Ashley Ward')","(70, 1, 'Shaun Goater')",,,,,,,,
+2001-03-17,Charlton Athletic,Leeds United,1,2,"(1, 1, 'Mark Viduka')","(18, 0, 'Shaun Bartlett')","(46, 1, 'Alan Smith')",,,,,,,,,
+2001-03-17,Chelsea,Sunderland,2,4,"(15, 0, 'Marcel Desailly')","(28, 1, 'Don Hutchison')","(38, 0, 'Eidur Gudjohnsen')","(52, 1, 'Don Hutchison')","(61, 1, 'Gavin McCann')","(79, 1, 'Kevin Phillips')",,,,,,
+2001-03-17,Manchester United,Leicester City,2,0,"(88, 0, 'Dwight Yorke')","(90, 0, 'Mikael Silvestre')",,,,,,,,,,
+2001-03-17,Newcastle United,Middlesbrough,1,2,"(28, 1, 'Alen Boksic')","(33, 1, 'Alen Boksic')","(60, 0, 'Carl Cort')",,,,,,,,,
+2001-03-17,Southampton,Everton,1,0,"(58, 0, 'Jo Tessem')",,,,,,,,,,,
+2001-03-17,Tottenham Hotspur,Coventry City,3,0,"(29, 0, 'Steffen Iversen')","(34, 0, 'Les Ferdinand')","(59, 0, 'Sergei Rebrov')",,,,,,,,,
+2001-03-17,West Ham United,Ipswich Town,0,1,"(60, 1, 'Martijn Reuser')",,,,,,,,,,,
+2001-03-18,Aston Villa,Arsenal,0,0,,,,,,,,,,,,
+2001-03-18,Liverpool,Derby County,1,1,"(9, 1, 'Deon Burton')","(52, 0, 'Michael Owen')",,,,,,,,,,
+2001-03-31,Arsenal,Tottenham Hotspur,2,0,"(70, 0, 'Robert Pires')","(87, 0, 'Thierry Henry')",,,,,,,,,,
+2001-03-31,Bradford City,Newcastle United,2,2,"(8, 0, 'David Wetherall')","(10, 0, 'Robbie Blake')","(25, 1, 'Carl Cort')","(75, 1, 'Clarence Acuna')",,,,,,,,
+2001-03-31,Chelsea,Middlesbrough,2,1,"(35, 0, 'Gianfranco Zola')","(54, 1, 'Dean Windass')","(63, 0, 'Eidur Gudjohnsen')",,,,,,,,,
+2001-03-31,Coventry City,Derby County,2,0,"(44, 0, 'Mustapha Hadji')","(49, 0, 'John Hartson')",,,,,,,,,,
+2001-03-31,Liverpool,Manchester United,2,0,"(16, 0, 'Steven Gerrard')","(41, 0, 'Robbie Fowler')",,,,,,,,,,
+2001-03-31,Manchester City,Aston Villa,1,3,"(12, 0, 'Shaun Goater')","(14, 1, 'Paul Merson')","(45, 1, 'Dion Dublin')","(65, 1, 'Lee Hendrie')",,,,,,,,
+2001-03-31,Sunderland,Leeds United,0,2,"(33, 1, 'Alan Smith')","(90, 1, 'Mark Viduka')",,,,,,,,,,
+2001-03-31,West Ham United,Everton,0,2,"(45, 1, 'David Unsworth')","(72, 1, 'Niclas Alexandersson')",,,,,,,,,,
+2001-04-01,Charlton Athletic,Leicester City,2,0,"(33, 0, 'Andy Todd')","(82, 0, 'Shaun Bartlett')",,,,,,,,,,
+2001-04-02,Southampton,Ipswich Town,0,3,"(33, 1, 'Marcus Stewart')","(68, 1, 'Marcus Stewart')","(71, 1, 'Marcus Stewart')",,,,,,,,,
+2001-04-04,Aston Villa,Leicester City,2,1,"(27, 1, 'Callum Davidson')","(30, 0, 'Dion Dublin')","(72, 0, 'Lee Hendrie')",,,,,,,,,
+2001-04-07,Aston Villa,West Ham United,2,2,"(46, 1, 'Frederic Kanoute')","(71, 0, 'David Ginola')","(78, 0, 'Lee Hendrie')","(87, 1, 'Frank Lampard')",,,,,,,,
+2001-04-07,Derby County,Chelsea,0,4,"(64, 1, 'Gianfranco Zola')","(85, 1, 'Jimmy Floyd Hasselbaink')","(90, 1, 'Gus Poyet')","(90, 1, 'Gus Poyet')",,,,,,,,
+2001-04-07,Leeds United,Southampton,2,0,"(10, 0, 'Harry Kewell')","(72, 0, 'Robbie Keane')",,,,,,,,,,
+2001-04-07,Leicester City,Coventry City,1,3,"(2, 1, 'Craig Bellamy')","(10, 0, 'Ade Akinbiyi')","(19, 1, 'Lee Carsley')","(51, 1, 'John Hartson')",,,,,,,,
+2001-04-08,Everton,Manchester City,3,1,"(9, 1, 'Jeff Whitley')","(16, 0, 'Duncan Ferguson')","(40, 0, 'Michael Ball')","(84, 0, 'David Weir')",,,,,,,,
+2001-04-09,Middlesbrough,Sunderland,0,0,,,,,,,,,,,,
+2001-04-10,Ipswich Town,Liverpool,1,1,"(46, 1, 'Emile Heskey')","(77, 0, 'Alun Armstrong')",,,,,,,,,,
+2001-04-10,Manchester United,Charlton Athletic,2,1,"(45, 0, 'Andrew Cole')","(63, 1, 'Mark Fish')","(82, 0, 'Ole Gunnar Solskjaer')",,,,,,,,,
+2001-04-10,Tottenham Hotspur,Bradford City,2,1,"(26, 0, 'Steffen Iversen')","(44, 1, 'Eoin Jess')","(76, 0, 'Simon Davies')",,,,,,,,,
+2001-04-11,Manchester City,Arsenal,0,4,"(8, 1, 'Freddie Ljungberg')","(8, 1, 'Sylvain Wiltord')","(16, 1, 'Freddie Ljungberg')","(36, 1, 'Nwankwo Kanu')",,,,,,,,
+2001-04-13,Bradford City,Charlton Athletic,2,0,"(74, 0, 'Robbie Blake')","(80, 0, 'Benito Carbone')",,,,,,,,,,
+2001-04-13,Liverpool,Leeds United,1,2,"(4, 1, 'Rio Ferdinand')","(33, 1, 'Lee Bowyer')","(55, 0, 'Steven Gerrard')",,,,,,,,,
+2001-04-14,Arsenal,Middlesbrough,0,3,"(34, 1, ' Edu')","(38, 1, ' Silvinho')","(58, 1, 'Hamilton Ricard')",,,,,,,,,
+2001-04-14,Aston Villa,Everton,2,1,"(2, 0, 'Dion Dublin')","(21, 1, 'David Unsworth')","(81, 0, 'Ian Taylor')",,,,,,,,,
+2001-04-14,Chelsea,Southampton,1,0,"(43, 0, 'Gus Poyet')",,,,,,,,,,,
+2001-04-14,Ipswich Town,Newcastle United,1,0,"(76, 0, 'Marcus Stewart')",,,,,,,,,,,
+2001-04-14,Leicester City,Manchester City,1,2,"(17, 1, 'Shaun Goater')","(41, 0, 'Ade Akinbiyi')","(67, 1, 'Paulo Wanchope')",,,,,,,,,
+2001-04-14,Manchester United,Coventry City,4,2,"(10, 1, 'John Hartson')","(12, 0, 'Dwight Yorke')","(27, 0, 'Dwight Yorke')","(33, 1, 'John Hartson')","(81, 0, 'Ryan Giggs')","(87, 0, 'Paul Scholes')",,,,,,
+2001-04-14,Sunderland,Tottenham Hotspur,2,3,"(3, 0, 'Kevin Kilbane')","(12, 0, 'Niall Quinn')","(53, 1, 'Stephen Clemence')","(75, 1, 'Gary Doherty')","(88, 1, 'Gary Doherty')",,,,,,,
+2001-04-14,West Ham United,Derby County,3,1,"(4, 0, 'Frederic Kanoute')","(7, 0, 'Frank Lampard')","(45, 0, 'Joe Cole')","(83, 1, 'Thordur Gudjonsson')",,,,,,,,
+2001-04-16,Coventry City,Sunderland,1,0,"(21, 0, 'John Hartson')",,,,,,,,,,,
+2001-04-16,Derby County,Leicester City,2,0,"(24, 0, 'Paul Boertien')","(90, 0, 'Stefano Eranio')",,,,,,,,,,
+2001-04-16,Everton,Liverpool,2,3,"(5, 1, 'Emile Heskey')","(42, 0, 'Duncan Ferguson')","(57, 1, 'Markus Babbel')","(84, 0, 'David Unsworth')","(90, 1, 'Gary McAllister')",,,,,,,
+2001-04-16,Middlesbrough,Ipswich Town,1,2,"(39, 0, 'Dean Windass')","(46, 1, 'Alun Armstrong')","(50, 1, 'Alun Armstrong')",,,,,,,,,
+2001-04-16,Newcastle United,West Ham United,2,1,"(32, 0, 'Carl Cort')","(56, 0, 'Nolberto Solano')","(80, 1, 'Frank Lampard')",,,,,,,,,
+2001-04-17,Charlton Athletic,Aston Villa,3,3,"(16, 0, 'George Boateng')","(45, 0, 'Claus Jensen')","(59, 1, 'David Ginola')","(75, 1, 'Darius Vassell')","(89, 0, 'Mark Kinsella')","(90, 1, 'Lee Hendrie')",,,,,,
+2001-04-17,Tottenham Hotspur,Chelsea,0,3,"(28, 1, 'Jimmy Floyd Hasselbaink')","(58, 1, 'Gus Poyet')","(90, 1, 'Eidur Gudjohnsen')",,,,,,,,,
+2001-04-21,Arsenal,Everton,4,1,"(21, 0, 'Freddie Ljungberg')","(24, 1, 'Kevin Campbell')","(55, 0, 'Gilles Grimandi')","(67, 0, 'Sylvain Wiltord')","(87, 0, 'Thierry Henry')",,,,,,,
+2001-04-21,Aston Villa,Southampton,0,0,,,,,,,,,,,,
+2001-04-21,Bradford City,Derby County,2,0,"(16, 0, 'Ashley Ward')","(87, 0, 'Ashley Ward')",,,,,,,,,,
+2001-04-21,Chelsea,Charlton Athletic,0,1,"(35, 1, 'Shaun Bartlett')",,,,,,,,,,,
+2001-04-21,Ipswich Town,Coventry City,2,0,"(20, 0, 'Martijn Reuser')","(56, 0, 'Jermaine Wright')",,,,,,,,,,
+2001-04-21,Leicester City,Middlesbrough,0,3,"(12, 1, 'Hamilton Ricard')","(50, 1, 'Alen Boksic')","(52, 1, 'Paul Ince')",,,,,,,,,
+2001-04-21,Manchester United,Manchester City,1,1,"(71, 0, 'Teddy Sheringham')","(84, 1, 'Steve Howey')",,,,,,,,,,
+2001-04-21,Sunderland,Newcastle United,1,1,"(67, 0, 'Patrice Carteron')","(78, 1, ""Andy O'Brien"")",,,,,,,,,,
+2001-04-21,West Ham United,Leeds United,0,2,"(8, 1, 'Robbie Keane')","(47, 1, 'Rio Ferdinand')",,,,,,,,,,
+2001-04-22,Liverpool,Tottenham Hotspur,3,1,"(7, 0, 'Emile Heskey')","(24, 1, 'Willem Korsten')","(73, 0, 'Gary McAllister')","(88, 0, 'Robbie Fowler')",,,,,,,,
+2001-04-28,Coventry City,Liverpool,0,2,"(83, 1, 'Sami Hyypia')","(86, 1, 'Gary McAllister')",,,,,,,,,,
+2001-04-28,Derby County,Arsenal,1,2,"(21, 1, 'Nwankwo Kanu')","(45, 0, 'Stefano Eranio')","(80, 1, 'Robert Pires')",,,,,,,,,
+2001-04-28,Everton,Bradford City,2,1,"(3, 1, 'Andy Myers')","(47, 0, 'Duncan Ferguson')","(64, 0, 'Niclas Alexandersson')",,,,,,,,,
+2001-04-28,Leeds United,Chelsea,2,0,"(86, 0, 'Robbie Keane')","(88, 0, 'Mark Viduka')",,,,,,,,,,
+2001-04-28,Manchester City,West Ham United,1,0,"(23, 0, 'Ian Pearce')",,,,,,,,,,,
+2001-04-28,Middlesbrough,Manchester United,0,2,"(4, 1, 'Phil Neville')","(84, 1, 'David Beckham')",,,,,,,,,,
+2001-04-28,Newcastle United,Leicester City,1,0,"(90, 0, 'Carl Cort')",,,,,,,,,,,
+2001-04-28,Southampton,Sunderland,0,1,"(54, 1, 'Kevin Kilbane')",,,,,,,,,,,
+2001-04-28,Tottenham Hotspur,Aston Villa,0,0,,,,,,,,,,,,
+2001-04-30,Charlton Athletic,Ipswich Town,2,1,"(12, 0, 'Mathias Svensson')","(20, 1, 'Martijn Reuser')","(57, 0, 'Richard Rufus')",,,,,,,,,
+2001-05-01,Bradford City,Liverpool,0,2,"(47, 1, 'Michael Owen')","(67, 1, 'Gary McAllister')",,,,,,,,,,
+2001-05-01,Newcastle United,Southampton,1,1,"(26, 0, 'Kevin Gallacher')","(81, 1, 'Marian Pahars')",,,,,,,,,,
+2001-05-05,Arsenal,Leeds United,2,1,"(17, 0, 'Freddie Ljungberg')","(57, 0, 'Sylvain Wiltord')","(58, 1, 'Ian Harte')",,,,,,,,,
+2001-05-05,Aston Villa,Coventry City,3,2,"(18, 1, 'Mustapha Hadji')","(26, 1, 'Mustapha Hadji')","(61, 0, 'Darius Vassell')","(81, 0, 'Juan Pablo Angel')","(86, 0, 'Paul Merson')",,,,,,,
+2001-05-05,Bradford City,Middlesbrough,1,1,"(38, 0, 'Wayne Jacobs')","(81, 1, 'Christian Karembeu')",,,,,,,,,,
+2001-05-05,Chelsea,Everton,2,1,"(3, 1, 'Kevin Campbell')","(32, 0, 'Jimmy Floyd Hasselbaink')","(35, 0, 'Jimmy Floyd Hasselbaink')",,,,,,,,,
+2001-05-05,Leicester City,Tottenham Hotspur,4,2,"(42, 0, 'Gary Rowett')","(54, 1, 'Simon Davies')","(56, 0, 'Dean Sturridge')","(61, 1, 'Stephen Carr')","(82, 0, 'Steve Guppy')","(90, 0, 'Robbie Savage')",,,,,,
+2001-05-05,Liverpool,Newcastle United,3,0,"(25, 0, 'Michael Owen')","(72, 0, 'Michael Owen')","(81, 0, 'Michael Owen')",,,,,,,,,
+2001-05-05,Manchester United,Derby County,0,1,"(34, 1, 'Malcolm Christie')",,,,,,,,,,,
+2001-05-05,Sunderland,Charlton Athletic,3,2,"(11, 0, 'Kevin Kilbane')","(18, 1, 'Mathias Svensson')","(20, 0, 'Niall Quinn')","(50, 0, 'Kevin Phillips')","(60, 1, 'Claus Jensen')",,,,,,,
+2001-05-05,West Ham United,Southampton,3,0,"(59, 0, 'Joe Cole')","(70, 0, 'Paolo Di Canio')","(90, 0, 'Frederic Kanoute')",,,,,,,,,
+2001-05-07,Ipswich Town,Manchester City,2,1,"(74, 1, 'Shaun Goater')","(78, 0, 'Matt Holland')","(85, 0, 'Martijn Reuser')",,,,,,,,,
+2001-05-08,Liverpool,Chelsea,2,2,"(7, 0, 'Michael Owen')","(13, 1, 'Jimmy Floyd Hasselbaink')","(60, 0, 'Michael Owen')","(66, 1, 'Jimmy Floyd Hasselbaink')",,,,,,,,
+2001-05-13,Leeds United,Bradford City,6,1,"(14, 0, 'Mark Viduka')","(19, 0, 'Ian Harte')","(22, 1, 'Ashley Ward')","(27, 0, 'Eirik Bakke')","(38, 0, 'Alan Smith')","(43, 0, 'Harry Kewell')","(84, 0, 'Lee Bowyer')",,,,,
+2001-05-13,Southampton,Manchester United,2,1,"(11, 0, 'Wes Brown')","(15, 0, 'Marian Pahars')","(71, 1, 'Ryan Giggs')",,,,,,,,,
+2001-05-15,Newcastle United,Arsenal,0,0,,,,,,,,,,,,
+2001-05-19,Charlton Athletic,Liverpool,0,4,"(55, 1, 'Robbie Fowler')","(61, 1, 'Danny Murphy')","(71, 1, 'Robbie Fowler')","(80, 1, 'Michael Owen')",,,,,,,,
+2001-05-19,Coventry City,Bradford City,0,0,,,,,,,,,,,,
+2001-05-19,Derby County,Ipswich Town,1,1,"(31, 0, 'Malcolm Christie')","(46, 1, 'Horacio Carbonari')",,,,,,,,,,
+2001-05-19,Everton,Sunderland,2,2,"(10, 0, 'Idan Tal')","(21, 1, 'Kevin Phillips')","(77, 0, 'Michael Ball')","(83, 1, 'Kevin Phillips')",,,,,,,,
+2001-05-19,Leeds United,Leicester City,3,1,"(27, 0, 'Alan Smith')","(32, 1, 'Rio Ferdinand')","(77, 0, 'Ian Harte')","(90, 0, 'Alan Smith')",,,,,,,,
+2001-05-19,Manchester City,Chelsea,1,2,"(19, 1, 'Dennis Wise')","(39, 0, 'Steve Howey')","(62, 1, 'Jimmy Floyd Hasselbaink')",,,,,,,,,
+2001-05-19,Middlesbrough,West Ham United,2,1,"(21, 0, 'Joseph-Desire Job')","(31, 1, 'Svetoslav Todorov')","(45, 0, 'Christian Karembeu')",,,,,,,,,
+2001-05-19,Newcastle United,Aston Villa,3,0,"(9, 0, 'Stephen Glass')","(13, 0, 'Carl Cort')","(74, 0, 'Mark Delaney')",,,,,,,,,
+2001-05-19,Southampton,Arsenal,3,2,"(28, 1, 'Ashley Cole')","(46, 0, 'Hassan Kachloul')","(54, 1, 'Freddie Ljungberg')","(61, 0, 'Hassan Kachloul')","(89, 0, 'Matt Le Tissier')",,,,,,,
+2001-05-19,Tottenham Hotspur,Manchester United,3,1,"(17, 0, 'Willem Korsten')","(22, 1, 'Paul Scholes')","(67, 0, 'Willem Korsten')","(75, 0, 'Les Ferdinand')",,,,,,,,

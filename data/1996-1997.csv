@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-17/08/1996,Sheffield Wednesday,Aston Villa,2,1,"(56, 0, 'Richie Humphreys')","(84, 0, 'Guy Whittingham')","(88, 1, 'Tommy Johnson')"
-20/08/1996,Leeds United,Sheffield Wednesday,0,2,"(14, 1, 'Richie Humphreys')","(90, 1, 'Andy Booth')"
-24/08/1996,Newcastle United,Sheffield Wednesday,1,2,"(13, 0, 'Alan Shearer')","(15, 1, 'Peter Atherton')","(80, 1, 'Guy Whittingham')"
-02/09/1996,Sheffield Wednesday,Leicester City,2,1,"(25, 0, 'Andy Booth')","(25, 0, 'Richie Humphreys')","(28, 1, 'Steve Claridge')"
-07/09/1996,Sheffield Wednesday,Chelsea,0,2,"(28, 1, 'Craig Burley')","(83, 1, 'Andy Myers')"
-16/09/1996,Arsenal,Sheffield Wednesday,4,1,"(25, 1, 'Andy Booth')","(57, 0, 'David Platt')","(61, 0, 'Ian Wright')","(78, 0, 'Ian Wright')","(89, 0, 'Ian Wright')"
-21/09/1996,Sheffield Wednesday,Derby County,0,0
-28/09/1996,Everton,Sheffield Wednesday,2,0,"(17, 0, 'Andrei Kanchelskis')","(60, 0, 'Graham Stuart')"
-12/10/1996,Wimbledon,Sheffield Wednesday,4,2,"(2, 0, 'Efan Ekoku')","(3, 1, 'Andy Booth')","(31, 0, 'Robbie Earle')","(67, 0, 'Oyvind Leonhardsen')","(72, 1, 'Graham Hyde')","(86, 0, 'Vinnie Jones')"
-19/10/1996,Sheffield Wednesday,Blackburn Rovers,1,1,"(3, 0, 'Andy Booth')","(74, 1, 'Lars Bohinen')"
-26/10/1996,Coventry City,Sheffield Wednesday,0,0
-02/11/1996,Sheffield Wednesday,Southampton,1,1,"(14, 0, 'Jon Newsome')","(50, 1, 'Matt Le Tissier')"
-18/11/1996,Sheffield Wednesday,Nottingham Forest,2,0,"(63, 0, 'Orlando Trustfull')","(85, 0, 'Benito Carbone')"
-23/11/1996,Sunderland,Sheffield Wednesday,1,1,"(66, 1, 'Scott Oakes')","(68, 0, 'Andy Melville')"
-30/11/1996,Sheffield Wednesday,West Ham United,0,0
-07/12/1996,Liverpool,Sheffield Wednesday,0,1,"(22, 1, 'Guy Whittingham')"
-18/12/1996,Sheffield Wednesday,Manchester United,1,1,"(57, 0, 'Benito Carbone')","(61, 1, 'Paul Scholes')"
-21/12/1996,Tottenham Hotspur,Sheffield Wednesday,1,1,"(16, 1, 'Ian Nolan')","(29, 0, 'Allan Nielsen')"
-26/12/1996,Sheffield Wednesday,Arsenal,0,0
-28/12/1996,Chelsea,Sheffield Wednesday,2,2,"(9, 0, 'Gianfranco Zola')","(23, 0, 'Mark Hughes')","(23, 1, 'Mark Pembridge')","(90, 1, 'Dejan Stefanovic')"
-11/01/1997,Sheffield Wednesday,Everton,2,1,"(22, 0, 'Mark Pembridge')","(50, 0, 'David Hirst')","(63, 1, 'Duncan Ferguson')"
-18/01/1997,Middlesbrough,Sheffield Wednesday,4,2,"(14, 0, 'Fabrizio Ravanelli')","(23, 0, 'Gianluca Festa')","(29, 1, 'Mark Pembridge')","(72, 0, ' Emerson')","(80, 1, 'Mark Pembridge')","(90, 0, ' Juninho')"
-29/01/1997,Aston Villa,Sheffield Wednesday,0,1,"(69, 1, 'Andy Booth')"
-01/02/1997,Sheffield Wednesday,Coventry City,0,0
-19/02/1997,Derby County,Sheffield Wednesday,2,2,"(9, 1, 'Wayne Collins')","(34, 0, 'Dean Sturridge')","(71, 0, 'Igor Stimac')","(76, 1, 'David Hirst')"
-22/02/1997,Southampton,Sheffield Wednesday,2,3,"(28, 0, 'Egil Ostenstad')","(33, 0, 'Matt Le Tissier')","(49, 1, 'David Hirst')","(55, 1, 'David Hirst')","(78, 1, 'Andy Booth')"
-01/03/1997,Sheffield Wednesday,Middlesbrough,3,1,"(21, 0, 'Andy Booth')","(43, 0, 'Graham Hyde')","(72, 1, 'Robbie Mustoe')","(90, 0, 'Mark Pembridge')"
-05/03/1997,Nottingham Forest,Sheffield Wednesday,0,3,"(52, 1, 'Benito Carbone')","(58, 1, 'Regi Blinker')","(87, 1, 'Benito Carbone')"
-12/03/1997,Sheffield Wednesday,Sunderland,2,1,"(28, 1, 'Kevin Ball')","(42, 0, 'David Hirst')","(63, 0, 'Dejan Stefanovic')"
-15/03/1997,Manchester United,Sheffield Wednesday,2,0,"(19, 0, 'Andrew Cole')","(61, 0, 'Karel Poborsky')"
-22/03/1997,Sheffield Wednesday,Leeds United,2,2,"(17, 1, 'Lee Sharpe')","(20, 0, 'David Hirst')","(21, 1, 'Rodney Wallace')","(51, 0, 'Andy Booth')"
-09/04/1997,Sheffield Wednesday,Tottenham Hotspur,2,1,"(18, 0, 'Peter Atherton')","(43, 1, 'Allan Nielsen')","(70, 0, 'Andy Booth')"
-13/04/1997,Sheffield Wednesday,Newcastle United,1,1,"(35, 1, 'Robbie Elliott')","(57, 0, 'Mark Pembridge')"
-19/04/1997,Sheffield Wednesday,Wimbledon,3,1,"(42, 0, ""O'Neill Donaldson"")","(78, 0, 'Orlando Trustfull')","(83, 0, 'Orlando Trustfull')","(85, 1, 'Jon Goodman')"
-22/04/1997,Blackburn Rovers,Sheffield Wednesday,4,1,"(5, 0, 'Henning Berg')","(23, 0, 'Tim Sherwood')","(39, 0, 'Graeme Le Saux')","(58, 0, 'Garry Flitcroft')","(83, 1, 'Benito Carbone')"
-03/05/1997,West Ham United,Sheffield Wednesday,5,1,"(5, 0, 'Paul Kitson')","(13, 0, 'Paul Kitson')","(30, 0, 'John Hartson')","(67, 0, 'John Hartson')","(82, 1, 'Benito Carbone')","(89, 0, 'Paul Kitson')"
-07/05/1997,Leicester City,Sheffield Wednesday,1,0,"(86, 0, 'Matt Elliott')"
-11/05/1997,Sheffield Wednesday,Liverpool,1,1,"(75, 0, ""O'Neill Donaldson"")","(83, 1, 'Jamie Redknapp')"
-18/08/1996,Southampton,Chelsea,0,0
-21/08/1996,Chelsea,Middlesbrough,1,0,"(86, 0, 'Roberto Di Matteo')"
-24/08/1996,Chelsea,Coventry City,2,0,"(29, 0, 'Frank Leboeuf')","(74, 0, 'Gianluca Vialli')"
-04/09/1996,Arsenal,Chelsea,3,3,"(6, 1, 'Frank Leboeuf')","(30, 1, 'Gianluca Vialli')","(44, 0, 'Paul Merson')","(64, 0, 'Martin Keown')","(77, 0, 'Ian Wright')","(90, 1, 'Dennis Wise')"
-15/09/1996,Chelsea,Aston Villa,1,1,"(18, 1, 'Andy Townsend')","(45, 0, 'Frank Leboeuf')"
-21/09/1996,Liverpool,Chelsea,5,1,"(15, 0, 'Robbie Fowler')","(42, 0, 'Patrik Berger')","(45, 0, 'Andy Myers')","(49, 0, 'Patrik Berger')","(57, 0, 'John Barnes')","(84, 1, 'Frank Leboeuf')"
-28/09/1996,Chelsea,Nottingham Forest,1,1,"(51, 0, 'Gianluca Vialli')","(90, 1, 'Jason Lee')"
-12/10/1996,Leicester City,Chelsea,1,3,"(44, 0, 'Julian Watts')","(48, 1, 'Gianluca Vialli')","(64, 1, 'Roberto Di Matteo')","(80, 1, 'Mark Hughes')"
-19/10/1996,Chelsea,Wimbledon,2,4,"(4, 1, 'Robbie Earle')","(9, 0, 'Scott Minto')","(16, 1, 'Neal Ardley')","(64, 1, 'Marcus Gayle')","(78, 1, 'Efan Ekoku')","(84, 0, 'Gianluca Vialli')"
-26/10/1996,Chelsea,Tottenham Hotspur,3,1,"(27, 0, 'Ruud Gullit')","(41, 1, 'Chris Armstrong')","(52, 0, 'David Lee')","(80, 0, 'Roberto Di Matteo')"
-02/11/1996,Manchester United,Chelsea,1,2,"(31, 1, 'Michael Duberry')","(61, 1, 'Gianluca Vialli')","(81, 0, 'David May')"
-16/11/1996,Blackburn Rovers,Chelsea,1,1,"(56, 0, 'Kevin Gallacher')","(82, 1, 'Dan Petrescu')"
-23/11/1996,Chelsea,Newcastle United,1,1,"(24, 0, 'Gianluca Vialli')","(41, 1, 'Alan Shearer')"
-01/12/1996,Leeds United,Chelsea,2,0,"(8, 0, 'Brian Deane')","(10, 0, 'Ian Rush')"
-07/12/1996,Chelsea,Everton,2,2,"(12, 0, 'Gianfranco Zola')","(17, 1, 'Michael Branch')","(28, 1, 'Andrei Kanchelskis')","(55, 0, 'Gianluca Vialli')"
-15/12/1996,Sunderland,Chelsea,3,0,"(30, 0, 'Michael Duberry')","(47, 0, 'Kevin Ball')","(67, 0, 'Craig Russell')"
-21/12/1996,Chelsea,West Ham United,3,1,"(6, 0, 'Mark Hughes')","(10, 0, 'Gianfranco Zola')","(11, 1, 'Hugo Porfirio')","(35, 0, 'Mark Hughes')"
-26/12/1996,Aston Villa,Chelsea,0,2,"(66, 1, 'Gianfranco Zola')","(70, 1, 'Gianfranco Zola')"
-01/01/1997,Chelsea,Liverpool,1,0,"(43, 0, 'Roberto Di Matteo')"
-11/01/1997,Nottingham Forest,Chelsea,2,0,"(40, 0, 'Stuart Pearce')","(53, 0, 'Chris Bart-Williams')"
-18/01/1997,Chelsea,Derby County,3,1,"(25, 1, 'Aljosa Asanovic')","(36, 0, 'Dennis Wise')","(44, 0, 'Frank Leboeuf')","(85, 0, 'Paul Hughes')"
-01/02/1997,Tottenham Hotspur,Chelsea,1,2,"(1, 1, 'Sol Campbell')","(53, 1, 'Roberto Di Matteo')","(83, 0, 'David Howells')"
-22/02/1997,Chelsea,Manchester United,1,1,"(2, 0, 'Gianfranco Zola')","(68, 1, 'David Beckham')"
-01/03/1997,Derby County,Chelsea,3,2,"(16, 1, 'Scott Minto')","(51, 0, 'Scott Minto')","(54, 1, 'Frank Leboeuf')","(62, 0, 'Aljosa Asanovic')","(90, 0, 'Ashley Ward')"
-05/03/1997,Chelsea,Blackburn Rovers,1,1,"(62, 1, 'Per Pedersen')","(63, 0, 'Scott Minto')"
-12/03/1997,West Ham United,Chelsea,3,2,"(26, 1, 'Gianluca Vialli')","(55, 0, 'Julian Dicks')","(68, 0, 'Paul Kitson')","(87, 1, 'Mark Hughes')","(90, 0, 'Paul Kitson')"
-16/03/1997,Chelsea,Sunderland,6,2,"(38, 0, 'Gianfranco Zola')","(43, 0, 'Frank Sinclair')","(51, 0, 'Dan Petrescu')","(58, 1, 'Paul Stewart')","(60, 1, 'Alex Rae')","(78, 0, 'Mark Hughes')","(89, 0, 'Mark Hughes')","(90, 0, 'Roberto Di Matteo')"
-19/03/1997,Chelsea,Southampton,1,0,"(22, 0, 'Gianfranco Zola')"
-22/03/1997,Middlesbrough,Chelsea,1,0,"(53, 0, ' Juninho')"
-05/04/1997,Chelsea,Arsenal,0,3,"(22, 1, 'Ian Wright')","(53, 1, 'David Platt')","(80, 1, 'Dennis Bergkamp')"
-09/04/1997,Coventry City,Chelsea,3,1,"(43, 1, 'Paul Hughes')","(49, 0, 'Dion Dublin')","(51, 0, 'Paul D Williams')","(58, 0, 'Noel Whelan')"
-16/04/1997,Newcastle United,Chelsea,3,1,"(12, 0, 'Alan Shearer')","(30, 0, 'Faustino Asprilla')","(35, 0, 'Alan Shearer')","(62, 1, 'Craig Burley')"
-19/04/1997,Chelsea,Leicester City,2,1,"(13, 0, 'Scott Minto')","(47, 1, 'Frank Sinclair')","(73, 0, 'Mark Hughes')"
-22/04/1997,Wimbledon,Chelsea,0,1,"(14, 1, 'Dan Petrescu')"
-03/05/1997,Chelsea,Leeds United,0,0
-11/05/1997,Everton,Chelsea,1,2,"(14, 1, 'Dennis Wise')","(36, 1, 'Roberto Di Matteo')","(77, 0, 'Nick Barmby')"
-17/08/1996,Arsenal,West Ham United,2,0,"(27, 0, 'John Hartson')","(40, 0, 'Dennis Bergkamp')"
-19/08/1996,Liverpool,Arsenal,2,0,"(68, 0, 'Steve McManaman')","(74, 0, 'Steve McManaman')"
-24/08/1996,Leicester City,Arsenal,0,2,"(27, 1, 'Dennis Bergkamp')","(90, 1, 'Ian Wright')"
-07/09/1996,Aston Villa,Arsenal,2,2,"(39, 0, 'Savo Milosevic')","(63, 0, 'Savo Milosevic')","(70, 1, 'Paul Merson')","(90, 1, 'Andy Linighan')"
-21/09/1996,Middlesbrough,Arsenal,0,2,"(3, 1, 'John Hartson')","(27, 1, 'Ian Wright')"
-28/09/1996,Arsenal,Sunderland,2,0,"(73, 0, 'John Hartson')","(88, 0, 'Ray Parlour')"
-12/10/1996,Blackburn Rovers,Arsenal,0,2,"(3, 1, 'Ian Wright')","(51, 1, 'Ian Wright')"
-19/10/1996,Arsenal,Coventry City,0,0
-26/10/1996,Arsenal,Leeds United,3,0,"(1, 0, 'Lee Dixon')","(5, 0, 'Dennis Bergkamp')","(56, 0, 'Ian Wright')"
-02/11/1996,Wimbledon,Arsenal,2,2,"(6, 1, 'Ian Wright')","(44, 0, 'Vinnie Jones')","(64, 1, 'Paul Merson')","(67, 0, 'Marcus Gayle')"
-16/11/1996,Manchester United,Arsenal,1,0,"(63, 0, 'Nigel Winterburn')"
-24/11/1996,Arsenal,Tottenham Hotspur,3,1,"(28, 0, 'Ian Wright')","(57, 1, 'Andy Sinton')","(88, 0, 'Tony Adams')","(90, 0, 'Dennis Bergkamp')"
-30/11/1996,Newcastle United,Arsenal,1,2,"(11, 1, 'Lee Dixon')","(21, 0, 'Alan Shearer')","(60, 1, 'Ian Wright')"
-04/12/1996,Arsenal,Southampton,3,1,"(43, 0, 'Paul Merson')","(57, 0, 'Ian Wright')","(81, 1, 'Eyal Berkovic')","(89, 0, 'Paul Shaw')"
-07/12/1996,Arsenal,Derby County,2,2,"(45, 0, 'Tony Adams')","(62, 1, 'Dean Sturridge')","(71, 1, 'Darryl Powell')","(90, 0, 'Patrick Vieira')"
-21/12/1996,Nottingham Forest,Arsenal,2,1,"(63, 1, 'Ian Wright')","(67, 0, 'Alfe-Inge Haaland')","(89, 0, 'Alfe-Inge Haaland')"
-28/12/1996,Arsenal,Aston Villa,2,2,"(13, 0, 'Ian Wright')","(68, 1, 'Savo Milosevic')","(73, 0, 'Paul Merson')","(74, 1, 'Dwight Yorke')"
-01/01/1997,Arsenal,Middlesbrough,2,0,"(15, 0, 'Dennis Bergkamp')","(44, 0, 'Ian Wright')"
-11/01/1997,Sunderland,Arsenal,1,0,"(66, 0, 'Tony Adams')"
-19/01/1997,Arsenal,Everton,3,1,"(55, 0, 'Dennis Bergkamp')","(57, 0, 'Patrick Vieira')","(69, 0, 'Paul Merson')","(90, 1, 'Duncan Ferguson')"
-29/01/1997,West Ham United,Arsenal,1,2,"(8, 1, 'Ray Parlour')","(63, 0, 'Matthew Rose')","(67, 1, 'Ian Wright')"
-01/02/1997,Leeds United,Arsenal,0,0
-15/02/1997,Tottenham Hotspur,Arsenal,0,0
-19/02/1997,Arsenal,Manchester United,1,2,"(18, 1, 'Andrew Cole')","(32, 1, 'Ole Gunnar Solskjaer')","(69, 0, 'Dennis Bergkamp')"
-23/02/1997,Arsenal,Wimbledon,0,1,"(21, 1, 'Vinnie Jones')"
-01/03/1997,Everton,Arsenal,0,2,"(21, 1, 'Dennis Bergkamp')","(27, 1, 'Ian Wright')"
-08/03/1997,Arsenal,Nottingham Forest,2,0,"(50, 0, 'Dennis Bergkamp')","(79, 0, 'Dennis Bergkamp')"
-15/03/1997,Southampton,Arsenal,0,2,"(41, 1, 'Stephen Hughes')","(72, 1, 'Paul Shaw')"
-24/03/1997,Arsenal,Liverpool,1,2,"(50, 1, 'Stan Collymore')","(65, 1, 'Jason McAteer')","(78, 0, 'Ian Wright')"
-12/04/1997,Arsenal,Leicester City,2,0,"(35, 0, 'Tony Adams')","(66, 0, 'David Platt')"
-19/04/1997,Arsenal,Blackburn Rovers,1,1,"(18, 0, 'David Platt')","(89, 1, 'Garry Flitcroft')"
-21/04/1997,Coventry City,Arsenal,1,1,"(2, 0, 'Dion Dublin')","(19, 1, 'Ian Wright')"
-03/05/1997,Arsenal,Newcastle United,0,1,"(44, 1, 'Robbie Elliott')"
-11/05/1997,Derby County,Arsenal,1,3,"(9, 0, 'Ashley Ward')","(55, 1, 'Ian Wright')","(82, 1, 'Dennis Bergkamp')","(90, 1, 'Ian Wright')"
-21/08/1996,Aston Villa,Blackburn Rovers,1,0,"(64, 0, 'Gareth Southgate')"
-24/08/1996,Aston Villa,Derby County,2,0,"(19, 0, 'Julian Joachim')","(47, 0, 'Tommy Johnson')"
-04/09/1996,Everton,Aston Villa,0,1,"(62, 1, 'Ugo Ehiogu')"
-21/09/1996,Aston Villa,Manchester United,0,0
-30/09/1996,Newcastle United,Aston Villa,4,3,"(4, 1, 'Dwight Yorke')","(5, 0, 'Les Ferdinand')","(22, 0, 'Les Ferdinand')","(38, 0, 'Alan Shearer')","(59, 1, 'Dwight Yorke')","(67, 0, 'Steve Howey')","(69, 1, 'Dwight Yorke')"
-12/10/1996,Tottenham Hotspur,Aston Villa,1,0,"(61, 0, 'Allan Nielsen')"
-19/10/1996,Aston Villa,Leeds United,2,0,"(58, 0, 'Dwight Yorke')","(65, 0, 'Tommy Johnson')"
-26/10/1996,Sunderland,Aston Villa,1,0,"(25, 0, 'Paul Stewart')"
-02/11/1996,Aston Villa,Nottingham Forest,2,0,"(20, 0, 'Carl Tiler')","(65, 0, 'Dwight Yorke')"
-16/11/1996,Aston Villa,Leicester City,1,3,"(8, 1, 'Steve Claridge')","(15, 0, 'Dwight Yorke')","(43, 1, 'Garry Parker')","(85, 1, 'Muzzy Izzet')"
-23/11/1996,Coventry City,Aston Villa,1,2,"(29, 1, 'Julian Joachim')","(75, 0, 'Dion Dublin')","(85, 1, 'Steve Staunton')"
-30/11/1996,Aston Villa,Middlesbrough,1,0,"(39, 0, 'Dwight Yorke')"
-04/12/1996,West Ham United,Aston Villa,0,2,"(38, 1, 'Ugo Ehiogu')","(74, 1, 'Dwight Yorke')"
-07/12/1996,Southampton,Aston Villa,0,1,"(34, 1, 'Andy Townsend')"
-22/12/1996,Aston Villa,Wimbledon,5,0,"(38, 0, 'Dwight Yorke')","(42, 0, 'Savo Milosevic')","(61, 0, 'Ian Taylor')","(75, 0, 'Savo Milosevic')","(86, 0, 'Dwight Yorke')"
-01/01/1997,Manchester United,Aston Villa,0,0
-11/01/1997,Aston Villa,Newcastle United,2,2,"(16, 1, 'Alan Shearer')","(21, 1, 'Lee Clark')","(39, 0, 'Dwight Yorke')","(52, 0, 'Savo Milosevic')"
-18/01/1997,Liverpool,Aston Villa,3,0,"(50, 0, 'Jamie Carragher')","(58, 0, 'Stan Collymore')","(63, 0, 'Robbie Fowler')"
-01/02/1997,Aston Villa,Sunderland,1,0,"(37, 0, 'Savo Milosevic')"
-19/02/1997,Aston Villa,Coventry City,2,1,"(43, 0, 'Dwight Yorke')","(75, 0, 'Dwight Yorke')","(78, 1, 'Steve Staunton')"
-22/02/1997,Nottingham Forest,Aston Villa,0,0
-02/03/1997,Aston Villa,Liverpool,1,0,"(83, 0, 'Ian Taylor')"
-05/03/1997,Leicester City,Aston Villa,1,0,"(66, 0, 'Steve Claridge')"
-15/03/1997,Aston Villa,West Ham United,0,0
-22/03/1997,Blackburn Rovers,Aston Villa,0,2,"(64, 1, 'Tommy Johnson')","(79, 1, 'Dwight Yorke')"
-05/04/1997,Aston Villa,Everton,3,1,"(14, 1, 'David Unsworth')","(41, 0, 'Savo Milosevic')","(50, 0, 'Steve Staunton')","(54, 0, 'Dwight Yorke')"
-09/04/1997,Wimbledon,Aston Villa,0,2,"(26, 1, 'Savo Milosevic')","(78, 1, 'Alan Wright')"
-12/04/1997,Derby County,Aston Villa,2,1,"(21, 0, 'Gary Rowett')","(36, 0, 'Robin van der Laan')","(84, 1, 'Julian Joachim')"
-19/04/1997,Aston Villa,Tottenham Hotspur,1,1,"(54, 1, 'Ramon Vega')","(81, 0, 'Dwight Yorke')"
-22/04/1997,Leeds United,Aston Villa,0,0
-03/05/1997,Middlesbrough,Aston Villa,3,2,"(20, 0, 'Fabrizio Ravanelli')","(34, 0, 'Mikkel Beck')","(58, 1, 'Ugo Ehiogu')","(77, 1, 'Savo Milosevic')","(90, 0, 'Fabrizio Ravanelli')"
-11/05/1997,Aston Villa,Southampton,1,0,"(12, 0, 'Richard Dryden')"
-17/08/1996,Wimbledon,Manchester United,0,3,"(25, 1, 'Eric Cantona')","(38, 1, 'Denis Irwin')","(90, 1, 'David Beckham')"
-21/08/1996,Manchester United,Everton,2,2,"(35, 1, 'Duncan Ferguson')","(41, 1, 'Duncan Ferguson')","(70, 0, 'Jordi Cruyff')","(82, 0, 'David Unsworth')"
-25/08/1996,Manchester United,Blackburn Rovers,2,2,"(34, 1, 'Paul Warhurst')","(39, 0, 'Jordi Cruyff')","(51, 1, 'Lars Bohinen')","(70, 0, 'Ole Gunnar Solskjaer')"
-04/09/1996,Derby County,Manchester United,1,1,"(25, 0, 'Jacob Laursen')","(38, 1, 'David Beckham')"
-07/09/1996,Leeds United,Manchester United,0,4,"(3, 1, 'Nigel Martyn')","(49, 1, 'Nicky Butt')","(77, 1, 'Karel Poborsky')","(90, 1, 'Eric Cantona')"
-14/09/1996,Manchester United,Nottingham Forest,4,1,"(4, 1, 'Alfe-Inge Haaland')","(22, 0, 'Ole Gunnar Solskjaer')","(43, 0, 'Ryan Giggs')","(82, 0, 'Eric Cantona')","(90, 0, 'Eric Cantona')"
-29/09/1996,Manchester United,Tottenham Hotspur,2,0,"(38, 0, 'Ole Gunnar Solskjaer')","(58, 0, 'Ole Gunnar Solskjaer')"
-12/10/1996,Manchester United,Liverpool,1,0,"(23, 0, 'David Beckham')"
-20/10/1996,Newcastle United,Manchester United,5,0,"(12, 0, 'Darren Peacock')","(30, 0, 'David Ginola')","(63, 0, 'Les Ferdinand')","(75, 0, 'Alan Shearer')","(83, 0, 'Philippe Albert')"
-26/10/1996,Southampton,Manchester United,6,3,"(6, 0, 'Eyal Berkovic')","(35, 0, 'Matt Le Tissier')","(41, 1, 'David Beckham')","(45, 0, 'Egil Ostenstad')","(56, 1, 'David May')","(83, 0, 'Eyal Berkovic')","(85, 0, 'Egil Ostenstad')","(89, 1, 'Paul Scholes')","(90, 0, 'Gary Neville')"
-23/11/1996,Middlesbrough,Manchester United,2,2,"(17, 1, 'Roy Keane')","(27, 0, 'Fabrizio Ravanelli')","(72, 1, 'David May')","(83, 0, 'Craig Hignett')"
-30/11/1996,Manchester United,Leicester City,3,1,"(75, 0, 'Nicky Butt')","(85, 0, 'Ole Gunnar Solskjaer')","(87, 0, 'Nicky Butt')","(90, 1, 'Neil Lennon')"
-08/12/1996,West Ham United,Manchester United,2,2,"(54, 1, 'Ole Gunnar Solskjaer')","(75, 1, 'David Beckham')","(78, 0, 'Florin Raducioiu')","(80, 0, 'Julian Dicks')"
-21/12/1996,Manchester United,Sunderland,5,0,"(35, 0, 'Ole Gunnar Solskjaer')","(43, 0, 'Eric Cantona')","(48, 0, 'Ole Gunnar Solskjaer')","(59, 0, 'Nicky Butt')","(80, 0, 'Eric Cantona')"
-26/12/1996,Nottingham Forest,Manchester United,0,4,"(25, 1, 'David Beckham')","(44, 1, 'Nicky Butt')","(67, 1, 'Ole Gunnar Solskjaer')","(76, 1, 'Andrew Cole')"
-28/12/1996,Manchester United,Leeds United,1,0,"(9, 0, 'Eric Cantona')"
-12/01/1997,Tottenham Hotspur,Manchester United,1,2,"(23, 1, 'Ole Gunnar Solskjaer')","(44, 0, 'Rory Allen')","(76, 1, 'David Beckham')"
-18/01/1997,Coventry City,Manchester United,0,2,"(60, 1, 'Ryan Giggs')","(79, 1, 'Ole Gunnar Solskjaer')"
-29/01/1997,Manchester United,Wimbledon,2,1,"(61, 1, 'Chris Perry')","(76, 0, 'Ryan Giggs')","(83, 0, 'Andrew Cole')"
-01/02/1997,Manchester United,Southampton,2,1,"(11, 1, 'Egil Ostenstad')","(19, 0, 'Gary Pallister')","(80, 0, 'Eric Cantona')"
-01/03/1997,Manchester United,Coventry City,3,1,"(4, 0, 'Gary Breen')","(5, 0, 'Eoin Jess')","(47, 0, 'Karel Poborsky')","(86, 1, 'Darren Huckerby')"
-08/03/1997,Sunderland,Manchester United,2,1,"(52, 0, 'Michael Gray')","(76, 0, 'John Mullin')","(78, 1, 'Andy Melville')"
-22/03/1997,Everton,Manchester United,0,2,"(35, 1, 'Ole Gunnar Solskjaer')","(79, 1, 'Eric Cantona')"
-05/04/1997,Manchester United,Derby County,2,3,"(29, 1, 'Ashley Ward')","(35, 1, 'Paulo Wanchope')","(47, 0, 'Eric Cantona')","(75, 1, 'Dean Sturridge')","(76, 0, 'Ole Gunnar Solskjaer')"
-12/04/1997,Blackburn Rovers,Manchester United,2,3,"(32, 1, 'Andrew Cole')","(34, 0, 'Billy McKinlay')","(43, 1, 'Paul Scholes')","(80, 1, 'Eric Cantona')","(88, 0, 'Paul Warhurst')"
-19/04/1997,Liverpool,Manchester United,1,3,"(13, 1, 'Gary Pallister')","(19, 0, 'John Barnes')","(42, 1, 'Gary Pallister')","(63, 1, 'Andrew Cole')"
-03/05/1997,Leicester City,Manchester United,2,2,"(16, 0, 'Steve Walsh')","(20, 0, 'Ian Marshall')","(45, 1, 'Ole Gunnar Solskjaer')","(51, 1, 'Ole Gunnar Solskjaer')"
-05/05/1997,Manchester United,Middlesbrough,3,3,"(15, 1, ' Juninho')","(34, 0, 'Roy Keane')","(37, 1, ' Emerson')","(40, 1, 'Craig Hignett')","(42, 0, 'Gary Neville')","(67, 0, 'Ole Gunnar Solskjaer')"
-08/05/1997,Manchester United,Newcastle United,0,0
-11/05/1997,Manchester United,West Ham United,2,0,"(11, 0, 'Ole Gunnar Solskjaer')","(84, 0, 'Jordi Cruyff')"
-17/08/1996,Sunderland,Leicester City,0,0
-21/08/1996,Nottingham Forest,Sunderland,1,4,"(8, 1, 'Michael Gray')","(17, 1, 'Niall Quinn')","(27, 0, 'Alfe-Inge Haaland')","(31, 1, 'Niall Quinn')","(43, 1, 'Richard Ord')"
-24/08/1996,Liverpool,Sunderland,0,0
-04/09/1996,Sunderland,Newcastle United,1,2,"(19, 0, 'Martin Scott')","(52, 1, 'Peter Beardsley')","(62, 1, 'Les Ferdinand')"
-08/09/1996,Sunderland,West Ham United,0,0
-14/09/1996,Derby County,Sunderland,1,0,"(84, 0, 'Aljosa Asanovic')"
-21/09/1996,Sunderland,Coventry City,1,0,"(51, 0, 'Steve Agnew')"
-14/10/1996,Sunderland,Middlesbrough,2,2,"(18, 1, ' Emerson')","(21, 0, 'Alex Rae')","(53, 1, 'Fabrizio Ravanelli')","(61, 0, 'Craig Russell')"
-19/10/1996,Southampton,Sunderland,3,0,"(38, 0, 'Jason Dodd')","(53, 0, 'Matt Le Tissier')","(89, 0, 'Neil Shipperley')"
-02/11/1996,Leeds United,Sunderland,3,0,"(27, 0, 'Mark Ford')","(62, 0, 'Lee Sharpe')","(68, 0, 'Brian Deane')"
-16/11/1996,Tottenham Hotspur,Sunderland,2,0,"(13, 0, 'Andy Sinton')","(82, 0, 'Teddy Sheringham')"
-30/11/1996,Everton,Sunderland,1,3,"(54, 1, 'Craig Russell')","(64, 0, 'Duncan Ferguson')","(74, 1, 'Michael Bridges')","(87, 1, 'Michael Bridges')"
-07/12/1996,Sunderland,Wimbledon,1,3,"(8, 1, 'Efan Ekoku')","(29, 1, 'Efan Ekoku')","(83, 0, 'Andy Melville')","(89, 1, 'Dean Holdsworth')"
-26/12/1996,Sunderland,Derby County,2,0,"(73, 0, 'Richard Ord')","(87, 0, 'Craig Russell')"
-28/12/1996,West Ham United,Sunderland,2,0,"(37, 0, 'Slaven Bilic')","(90, 0, 'Florin Raducioiu')"
-01/01/1997,Coventry City,Sunderland,2,2,"(6, 1, 'Michael Bridges')","(10, 0, 'Dion Dublin')","(18, 1, 'Steve Agnew')","(28, 0, 'Liam Daish')"
-18/01/1997,Sunderland,Blackburn Rovers,0,0
-29/01/1997,Leicester City,Sunderland,1,1,"(18, 1, 'Darren Williams')","(32, 0, 'Garry Parker')"
-22/02/1997,Sunderland,Leeds United,0,1,"(49, 1, 'Lee Bowyer')"
-01/03/1997,Blackburn Rovers,Sunderland,1,0,"(84, 0, 'Kevin Gallacher')"
-04/03/1997,Sunderland,Tottenham Hotspur,0,4,"(2, 1, 'Steffen Iversen')","(9, 1, 'Steffen Iversen')","(26, 1, 'Allan Nielsen')","(62, 1, 'Steffen Iversen')"
-22/03/1997,Sunderland,Nottingham Forest,1,1,"(61, 0, 'Kevin Ball')","(86, 1, 'Des Lyttle')"
-05/04/1997,Newcastle United,Sunderland,1,1,"(32, 1, 'Michael Gray')","(77, 0, 'Alan Shearer')"
-13/04/1997,Sunderland,Liverpool,1,2,"(33, 1, 'Robbie Fowler')","(47, 1, 'Steve McManaman')","(53, 0, 'Paul Stewart')"
-19/04/1997,Middlesbrough,Sunderland,0,1,"(45, 1, 'Darren Williams')"
-22/04/1997,Sunderland,Southampton,0,1,"(22, 1, 'Egil Ostenstad')"
-03/05/1997,Sunderland,Everton,3,0,"(36, 0, 'Paul Stewart')","(57, 0, 'Chris Waddle')","(68, 0, 'Allan Johnston')"
-11/05/1997,Wimbledon,Sunderland,1,0,"(85, 0, 'Jason Euell')"
-17/08/1996,Middlesbrough,Liverpool,3,3,"(4, 1, 'Stig Inge Bjornebye')","(26, 0, 'Fabrizio Ravanelli')","(29, 1, 'John Barnes')","(36, 0, 'Fabrizio Ravanelli')","(65, 1, 'Robbie Fowler')","(81, 0, 'Fabrizio Ravanelli')"
-04/09/1996,Coventry City,Liverpool,0,1,"(68, 1, 'Phil Babb')"
-07/09/1996,Liverpool,Southampton,2,1,"(39, 0, 'Stan Collymore')","(58, 1, 'Jim Magilton')","(89, 0, 'Steve McManaman')"
-15/09/1996,Leicester City,Liverpool,0,3,"(58, 1, 'Patrik Berger')","(61, 1, 'Michael Thomas')","(77, 1, 'Patrik Berger')"
-29/09/1996,West Ham United,Liverpool,1,2,"(3, 1, 'Stan Collymore')","(15, 0, 'Slaven Bilic')","(55, 1, 'Michael Thomas')"
-27/10/1996,Liverpool,Derby County,2,1,"(47, 0, 'Robbie Fowler')","(51, 0, 'Robbie Fowler')","(89, 1, 'Ashley Ward')"
-03/11/1996,Blackburn Rovers,Liverpool,3,0,"(3, 0, 'Chris Sutton')","(24, 0, 'Jason Wilcox')","(56, 0, 'Chris Sutton')"
-16/11/1996,Leeds United,Liverpool,0,2,"(13, 1, 'Neil Ruddock')","(90, 1, 'Steve McManaman')"
-20/11/1996,Liverpool,Everton,1,1,"(30, 0, 'Robbie Fowler')","(82, 1, 'Gary Speed')"
-23/11/1996,Liverpool,Wimbledon,1,1,"(43, 0, 'Stan Collymore')","(67, 1, 'Oyvind Leonhardsen')"
-02/12/1996,Tottenham Hotspur,Liverpool,0,2,"(45, 1, 'Michael Thomas')","(49, 1, 'Steve McManaman')"
-14/12/1996,Liverpool,Middlesbrough,5,1,"(1, 0, 'Robbie Fowler')","(28, 0, 'Robbie Fowler')","(45, 0, 'Stig Inge Bjornebye')","(75, 1, 'Jan-Aage Fjortoft')","(77, 0, 'Robbie Fowler')","(85, 0, 'Robbie Fowler')"
-17/12/1996,Liverpool,Nottingham Forest,4,2,"(6, 0, 'Stan Collymore')","(27, 0, 'Robbie Fowler')","(34, 1, 'Kevin Campbell')","(51, 0, 'Des Lyttle')","(60, 1, 'Stuart Pearce')","(63, 0, 'Stan Collymore')"
-23/12/1996,Newcastle United,Liverpool,1,1,"(28, 0, 'Alan Shearer')","(45, 1, 'Robbie Fowler')"
-26/12/1996,Liverpool,Leicester City,1,1,"(76, 1, 'Steve Claridge')","(80, 0, 'Stan Collymore')"
-29/12/1996,Southampton,Liverpool,0,1,"(76, 1, 'John Barnes')"
-11/01/1997,Liverpool,West Ham United,0,0
-01/02/1997,Derby County,Liverpool,0,1,"(76, 1, 'Stan Collymore')"
-19/02/1997,Liverpool,Leeds United,4,0,"(21, 0, 'Robbie Fowler')","(36, 0, 'Stan Collymore')","(37, 0, 'Stan Collymore')","(87, 0, 'Jamie Redknapp')"
-22/02/1997,Liverpool,Blackburn Rovers,0,0
-10/03/1997,Liverpool,Newcastle United,4,3,"(29, 0, 'Steve McManaman')","(30, 0, 'Patrik Berger')","(42, 0, 'Robbie Fowler')","(71, 1, 'Keith Gillespie')","(87, 1, 'Faustino Asprilla')","(88, 1, 'Warren Barton')","(90, 0, 'Robbie Fowler')"
-15/03/1997,Nottingham Forest,Liverpool,1,1,"(4, 1, 'Robbie Fowler')","(30, 0, 'Ian Woan')"
-06/04/1997,Liverpool,Coventry City,1,2,"(52, 0, 'Robbie Fowler')","(65, 1, 'Noel Whelan')","(90, 1, 'Dion Dublin')"
-16/04/1997,Everton,Liverpool,1,1,"(26, 1, 'Jamie Redknapp')","(65, 0, 'Duncan Ferguson')"
-03/05/1997,Liverpool,Tottenham Hotspur,2,1,"(5, 1, 'Darren Anderton')","(15, 0, 'Stan Collymore')","(43, 0, 'Patrik Berger')"
-06/05/1997,Wimbledon,Liverpool,2,1,"(43, 0, 'Jason Euell')","(55, 0, 'Dean Holdsworth')","(74, 1, 'Michael Owen')"
-17/08/1996,Everton,Newcastle United,2,0,"(29, 0, 'David Unsworth')","(40, 0, 'Gary Speed')"
-24/08/1996,Tottenham Hotspur,Everton,0,0
-07/09/1996,Wimbledon,Everton,4,0,"(33, 0, 'Neal Ardley')","(46, 0, 'Marcus Gayle')","(59, 0, 'Robbie Earle')","(73, 0, 'Efan Ekoku')"
-14/09/1996,Everton,Middlesbrough,1,2,"(8, 0, 'Craig Short')","(61, 1, 'Nick Barmby')","(81, 1, ' Juninho')"
-21/09/1996,Blackburn Rovers,Everton,1,1,"(32, 0, 'George Donis')","(37, 1, 'David Unsworth')"
-12/10/1996,Everton,West Ham United,2,1,"(14, 0, 'Graham Stuart')","(78, 0, 'Gary Speed')","(86, 1, 'Julian Dicks')"
-28/10/1996,Nottingham Forest,Everton,0,1,"(5, 1, 'Craig Short')"
-04/11/1996,Everton,Coventry City,1,1,"(45, 0, 'Graham Stuart')","(68, 1, 'Gary McAllister')"
-16/11/1996,Everton,Southampton,7,1,"(12, 0, 'Graham Stuart')","(22, 0, 'Andrei Kanchelskis')","(30, 0, 'Gary Speed')","(32, 0, 'Gary Speed')","(35, 0, 'Andrei Kanchelskis')","(39, 1, 'Egil Ostenstad')","(57, 0, 'Nick Barmby')","(72, 0, 'Gary Speed')"
-23/11/1996,Leicester City,Everton,1,2,"(12, 1, 'Andy Hinchcliffe')","(52, 1, 'David Unsworth')","(83, 0, 'Steve Walsh')"
-16/12/1996,Derby County,Everton,0,1,"(86, 1, 'Nick Barmby')"
-21/12/1996,Everton,Leeds United,0,0
-26/12/1996,Middlesbrough,Everton,4,2,"(22, 0, 'Craig Hignett')","(31, 1, 'David Unsworth')","(37, 0, 'Clayton Blackmore')","(45, 1, 'Duncan Ferguson')","(58, 0, ' Juninho')","(74, 0, ' Juninho')"
-28/12/1996,Everton,Wimbledon,1,3,"(23, 0, 'Graham Stuart')","(59, 1, 'Efan Ekoku')","(70, 1, 'Oyvind Leonhardsen')","(76, 1, 'Marcus Gayle')"
-01/01/1997,Everton,Blackburn Rovers,0,2,"(18, 1, 'Tim Sherwood')","(32, 1, 'Chris Sutton')"
-29/01/1997,Newcastle United,Everton,4,1,"(3, 1, 'Gary Speed')","(74, 0, 'Les Ferdinand')","(79, 0, 'Rob Lee')","(83, 0, 'Alan Shearer')","(90, 0, 'Robbie Elliott')"
-01/02/1997,Everton,Nottingham Forest,2,0,"(48, 0, 'Duncan Ferguson')","(67, 0, 'Nick Barmby')"
-22/02/1997,Coventry City,Everton,0,0
-05/03/1997,Southampton,Everton,2,2,"(11, 1, 'Duncan Ferguson')","(27, 1, 'Gary Speed')","(59, 0, 'Robbie Slater')","(61, 0, 'Craig Short')"
-08/03/1997,Leeds United,Everton,1,0,"(28, 0, 'Robert Molenaar')"
-15/03/1997,Everton,Derby County,1,0,"(79, 0, 'Dave Watson')"
-09/04/1997,Everton,Leicester City,1,1,"(17, 0, 'Michael Branch')","(70, 1, 'Ian Marshall')"
-12/04/1997,Everton,Tottenham Hotspur,1,0,"(11, 0, 'Gary Speed')"
-19/04/1997,West Ham United,Everton,2,2,"(10, 0, 'Paul Kitson')","(32, 0, 'Paul Kitson')","(78, 1, 'Michael Branch')","(90, 1, 'Duncan Ferguson')"
-17/08/1996,Blackburn Rovers,Tottenham Hotspur,0,2,"(33, 1, 'Chris Armstrong')","(67, 1, 'Chris Armstrong')"
-21/08/1996,Tottenham Hotspur,Derby County,1,1,"(34, 0, 'Teddy Sheringham')","(90, 1, 'Christian Dailly')"
-04/09/1996,Wimbledon,Tottenham Hotspur,1,0,"(3, 0, 'Robbie Earle')"
-07/09/1996,Tottenham Hotspur,Newcastle United,1,2,"(28, 0, 'Rory Allen')","(37, 1, 'Les Ferdinand')","(61, 1, 'Les Ferdinand')"
-14/09/1996,Southampton,Tottenham Hotspur,0,1,"(66, 1, 'Chris Armstrong')"
-22/09/1996,Tottenham Hotspur,Leicester City,1,2,"(22, 1, 'Steve Claridge')","(64, 0, 'Clive Wilson')","(86, 1, 'Ian Marshall')"
-19/10/1996,Middlesbrough,Tottenham Hotspur,0,3,"(21, 1, 'Teddy Sheringham')","(23, 1, 'Ruel Fox')","(90, 1, 'Teddy Sheringham')"
-02/11/1996,Tottenham Hotspur,West Ham United,1,0,"(67, 0, 'Chris Armstrong')"
-07/12/1996,Coventry City,Tottenham Hotspur,1,2,"(27, 1, 'Teddy Sheringham')","(60, 0, 'Noel Whelan')","(75, 1, 'Andy Sinton')"
-14/12/1996,Leeds United,Tottenham Hotspur,0,0
-26/12/1996,Tottenham Hotspur,Southampton,3,1,"(1, 0, 'Steffen Iversen')","(30, 0, 'Steffen Iversen')","(40, 1, 'Matt Le Tissier')","(64, 0, 'Allan Nielsen')"
-28/12/1996,Newcastle United,Tottenham Hotspur,7,1,"(20, 0, 'Alan Shearer')","(22, 0, 'Les Ferdinand')","(59, 0, 'Les Ferdinand')","(61, 0, 'Rob Lee')","(79, 0, 'Philippe Albert')","(82, 0, 'Alan Shearer')","(88, 0, 'Rob Lee')","(89, 1, 'Allan Nielsen')"
-19/01/1997,Nottingham Forest,Tottenham Hotspur,2,1,"(2, 1, 'Andy Sinton')","(47, 0, 'Bryan Roy')","(72, 0, 'Bryan Roy')"
-29/01/1997,Tottenham Hotspur,Blackburn Rovers,2,1,"(41, 0, 'Steffen Iversen')","(57, 1, 'Colin Hendry')","(83, 0, 'Andy Sinton')"
-24/02/1997,West Ham United,Tottenham Hotspur,4,3,"(8, 1, 'Teddy Sheringham')","(21, 0, 'Julian Dicks')","(22, 0, 'Paul Kitson')","(29, 1, 'Darren Anderton')","(38, 0, 'John Hartson')","(53, 1, 'David Howells')","(72, 0, 'Julian Dicks')"
-01/03/1997,Tottenham Hotspur,Nottingham Forest,0,1,"(18, 1, 'Dean Saunders')"
-15/03/1997,Tottenham Hotspur,Leeds United,1,0,"(26, 0, 'Darren Anderton')"
-19/03/1997,Leicester City,Tottenham Hotspur,1,1,"(74, 0, 'Steve Claridge')","(90, 1, 'Teddy Sheringham')"
-22/03/1997,Derby County,Tottenham Hotspur,4,2,"(10, 0, 'Robin van der Laan')","(22, 0, 'Paul Trollope')","(29, 1, 'Ronny Rosenthal')","(50, 1, 'Jason Dozzell')","(68, 0, 'Dean Sturridge')","(69, 0, 'Ashley Ward')"
-05/04/1997,Tottenham Hotspur,Wimbledon,1,0,"(81, 0, 'Jason Dozzell')"
-24/04/1997,Tottenham Hotspur,Middlesbrough,1,0,"(71, 0, 'Andy Sinton')"
-11/05/1997,Tottenham Hotspur,Coventry City,1,2,"(13, 1, 'Dion Dublin')","(39, 1, 'Paul D Williams')","(44, 0, 'Paul McVeigh')"
-17/08/1996,Coventry City,Nottingham Forest,0,3,"(13, 1, 'Kevin Campbell')","(36, 1, 'Kevin Campbell')","(47, 1, 'Kevin Campbell')"
-24/08/1996,Nottingham Forest,Middlesbrough,1,1,"(68, 0, 'Stuart Pearce')","(90, 1, ' Juninho')"
-04/09/1996,Southampton,Nottingham Forest,2,2,"(4, 1, 'Kevin Campbell')","(23, 1, 'Dean Saunders')","(53, 0, 'Richard Dryden')","(89, 0, 'Matt Le Tissier')"
-07/09/1996,Nottingham Forest,Leicester City,0,0
-21/09/1996,Nottingham Forest,West Ham United,0,2,"(45, 1, 'Mark Bowen')","(54, 1, 'Michael Hughes')"
-12/10/1996,Leeds United,Nottingham Forest,2,0,"(46, 0, 'Rodney Wallace')","(90, 0, 'Rodney Wallace')"
-19/10/1996,Nottingham Forest,Derby County,1,1,"(2, 0, 'Dean Saunders')","(58, 1, 'Christian Dailly')"
-25/11/1996,Nottingham Forest,Blackburn Rovers,2,2,"(45, 0, 'Stuart Pearce')","(54, 1, 'Kevin Gallacher')","(57, 1, 'Jason Wilcox')","(90, 0, 'Colin Cooper')"
-30/11/1996,Wimbledon,Nottingham Forest,1,0,"(37, 0, 'Robbie Earle')"
-09/12/1996,Nottingham Forest,Newcastle United,0,0
-28/12/1996,Leicester City,Nottingham Forest,2,2,"(10, 0, 'Emile Heskey')","(37, 1, 'Nigel Clough')","(63, 0, 'Muzzy Izzet')","(87, 1, 'Colin Cooper')"
-01/01/1997,West Ham United,Nottingham Forest,0,1,"(38, 1, 'Kevin Campbell')"
-29/01/1997,Nottingham Forest,Coventry City,0,1,"(51, 1, 'Darren Huckerby')"
-11/03/1997,Blackburn Rovers,Nottingham Forest,1,1,"(18, 1, 'Alfe-Inge Haaland')","(64, 0, 'Kevin Gallacher')"
-24/03/1997,Middlesbrough,Nottingham Forest,1,1,"(4, 1, 'Alfe-Inge Haaland')","(56, 0, 'Mikkel Beck')"
-05/04/1997,Nottingham Forest,Southampton,1,3,"(8, 1, 'Jim Magilton')","(87, 1, 'Micky Evans')","(88, 0, 'Stuart Pearce')","(89, 1, 'Micky Evans')"
-19/04/1997,Nottingham Forest,Leeds United,1,1,"(6, 0, 'Pierre Van Hooijdonk')","(66, 1, 'Brian Deane')"
-23/04/1997,Derby County,Nottingham Forest,0,0
-03/05/1997,Nottingham Forest,Wimbledon,1,1,"(16, 1, 'Oyvind Leonhardsen')","(59, 0, 'Bryan Roy')"
-11/05/1997,Newcastle United,Nottingham Forest,5,0,"(20, 0, 'Faustino Asprilla')","(23, 0, 'Les Ferdinand')","(26, 0, 'Les Ferdinand')","(36, 0, 'Alan Shearer')","(77, 0, 'Robbie Elliott')"
-17/08/1996,Derby County,Leeds United,3,3,"(19, 1, 'Jacob Laursen')","(72, 1, 'Ian Harte')","(77, 0, 'Dean Sturridge')","(78, 0, 'Paul Simpson')","(85, 1, 'Lee Bowyer')","(88, 0, 'Dean Sturridge')"
-26/08/1996,Leeds United,Wimbledon,1,0,"(58, 0, 'Lee Sharpe')"
-04/09/1996,Blackburn Rovers,Leeds United,0,1,"(40, 1, 'Ian Harte')"
-14/09/1996,Coventry City,Leeds United,2,1,"(1, 1, 'Andy Couzens')","(57, 0, 'John Salako')","(65, 0, 'Noel Whelan')"
-21/09/1996,Leeds United,Newcastle United,0,1,"(59, 1, 'Alan Shearer')"
-28/09/1996,Leicester City,Leeds United,1,0,"(60, 0, 'Emile Heskey')"
-23/11/1996,Southampton,Leeds United,0,2,"(82, 1, 'Garry Kelly')","(89, 1, 'Lee Sharpe')"
-07/12/1996,Middlesbrough,Leeds United,0,0
-26/12/1996,Leeds United,Coventry City,1,3,"(9, 0, 'Brian Deane')","(30, 1, 'Darren Huckerby')","(38, 1, 'Dion Dublin')","(40, 1, 'Gary McAllister')"
-01/01/1997,Newcastle United,Leeds United,3,0,"(4, 0, 'Alan Shearer')","(77, 0, 'Alan Shearer')","(87, 0, 'Les Ferdinand')"
-11/01/1997,Leeds United,Leicester City,3,0,"(40, 0, 'Lee Bowyer')","(45, 0, 'Ian Rush')","(69, 0, 'Ian Rush')"
-20/01/1997,West Ham United,Leeds United,0,2,"(53, 1, 'Garry Kelly')","(70, 1, 'Lee Bowyer')"
-29/01/1997,Leeds United,Derby County,0,0
-01/03/1997,Leeds United,West Ham United,1,0,"(47, 0, 'Lee Sharpe')"
-12/03/1997,Leeds United,Southampton,0,0
-07/04/1997,Leeds United,Blackburn Rovers,0,0
-16/04/1997,Wimbledon,Leeds United,2,0,"(19, 0, 'Dean Holdsworth')","(74, 0, 'Stewart Castledine')"
-11/05/1997,Leeds United,Middlesbrough,1,1,"(77, 0, 'Brian Deane')","(79, 1, ' Juninho')"
-21/08/1996,West Ham United,Coventry City,1,1,"(12, 1, 'Gary McAllister')","(74, 0, 'Marc Rieper')"
-24/08/1996,West Ham United,Southampton,2,1,"(19, 1, 'Neil Heaney')","(73, 0, 'Michael Hughes')","(81, 0, 'Julian Dicks')"
-04/09/1996,Middlesbrough,West Ham United,4,1,"(12, 0, ' Emerson')","(28, 0, 'Robbie Mustoe')","(52, 0, 'Fabrizio Ravanelli')","(57, 1, 'Michael Hughes')","(81, 0, 'Phil Stamp')"
-14/09/1996,West Ham United,Wimbledon,0,2,"(59, 1, 'Andy Clarke')","(86, 1, 'Efan Ekoku')"
-19/10/1996,West Ham United,Leicester City,1,0,"(78, 0, 'John Moncur')"
-26/10/1996,West Ham United,Blackburn Rovers,2,1,"(9, 1, 'Henning Berg')","(77, 0, 'Hugo Porfirio')","(85, 0, 'Henning Berg')"
-16/11/1996,Newcastle United,West Ham United,1,1,"(23, 1, 'Keith Rowland')","(83, 0, 'Peter Beardsley')"
-23/11/1996,West Ham United,Derby County,1,1,"(17, 0, 'Ian Bishop')","(43, 1, 'Dean Sturridge')"
-01/02/1997,Blackburn Rovers,West Ham United,2,1,"(36, 0, 'Kevin Gallacher')","(39, 0, 'Chris Sutton')","(64, 1, 'Rio Ferdinand')"
-15/02/1997,Derby County,West Ham United,1,0,"(53, 0, 'Aljosa Asanovic')"
-18/03/1997,Wimbledon,West Ham United,1,1,"(19, 0, 'Mick Harford')","(89, 1, 'Stan Lazaridis')"
-22/03/1997,Coventry City,West Ham United,1,3,"(9, 0, 'Marc Rieper')","(27, 1, 'John Hartson')","(34, 1, 'Rio Ferdinand')","(49, 1, 'John Hartson')"
-09/04/1997,West Ham United,Middlesbrough,0,0
-12/04/1997,Southampton,West Ham United,2,0,"(13, 0, 'Micky Evans')","(36, 0, 'Eyal Berkovic')"
-23/04/1997,Leicester City,West Ham United,0,1,"(75, 1, 'John Moncur')"
-06/05/1997,West Ham United,Newcastle United,0,0
-21/08/1996,Leicester City,Southampton,2,1,"(6, 0, 'Emile Heskey')","(42, 0, 'Emile Heskey')","(68, 1, 'Matt Le Tissier')"
-26/10/1996,Leicester City,Newcastle United,2,0,"(17, 0, 'Steve Claridge')","(79, 0, 'Emile Heskey')"
-02/11/1996,Derby County,Leicester City,2,0,"(56, 0, 'Ashley Ward')","(89, 0, 'Mike Whitlow')"
-03/12/1996,Middlesbrough,Leicester City,0,2,"(45, 1, 'Steve Claridge')","(46, 1, 'Muzzy Izzet')"
-07/12/1996,Leicester City,Blackburn Rovers,1,1,"(34, 1, 'Chris Sutton')","(78, 0, 'Ian Marshall')"
-21/12/1996,Leicester City,Coventry City,0,2,"(12, 1, 'Dion Dublin')","(72, 1, 'Dion Dublin')"
-18/01/1997,Leicester City,Wimbledon,1,0,"(73, 0, 'Emile Heskey')"
-02/02/1997,Newcastle United,Leicester City,4,3,"(3, 0, 'Robbie Elliott')","(55, 1, 'Matt Elliott')","(60, 1, 'Steve Claridge')","(68, 1, 'Emile Heskey')","(77, 0, 'Alan Shearer')","(83, 0, 'Alan Shearer')","(90, 0, 'Alan Shearer')"
-22/02/1997,Leicester City,Derby County,4,2,"(2, 1, 'Dean Sturridge')","(7, 0, 'Ian Marshall')","(24, 0, 'Ian Marshall')","(27, 0, 'Ian Marshall')","(47, 1, 'Dean Sturridge')","(59, 0, 'Steve Claridge')"
-01/03/1997,Wimbledon,Leicester City,1,3,"(17, 1, 'Matt Elliott')","(27, 1, 'Matt Elliott')","(32, 1, 'Mark Robins')","(66, 0, 'Dean Holdsworth')"
-08/03/1997,Coventry City,Leicester City,0,0
-15/03/1997,Leicester City,Middlesbrough,1,3,"(9, 1, 'Clayton Blackmore')","(27, 1, ' Juninho')","(36, 1, 'Mikkel Beck')","(47, 0, 'Ian Marshall')"
-22/03/1997,Southampton,Leicester City,2,2,"(32, 0, 'Egil Ostenstad')","(46, 1, 'Emile Heskey')","(48, 0, 'Ulrich Van Gobbel')","(70, 1, 'Steve Claridge')"
-11/05/1997,Blackburn Rovers,Leicester City,2,4,"(13, 1, 'Emile Heskey')","(25, 0, 'Garry Flitcroft')","(55, 1, 'Steve Claridge')","(56, 1, 'Emile Heskey')","(66, 0, 'Graham Fenton')","(81, 1, 'Stuart Wilson')"
-21/08/1996,Newcastle United,Wimbledon,2,0,"(3, 0, 'David Batty')","(88, 0, 'Alan Shearer')"
-14/09/1996,Newcastle United,Blackburn Rovers,2,1,"(45, 0, 'Alan Shearer')","(61, 0, 'Les Ferdinand')","(85, 1, 'Chris Sutton')"
-12/10/1996,Derby County,Newcastle United,0,1,"(76, 1, 'Alan Shearer')"
-03/11/1996,Newcastle United,Middlesbrough,3,1,"(40, 0, 'Peter Beardsley')","(69, 0, 'Peter Beardsley')","(74, 0, 'Rob Lee')","(88, 1, 'Mikkel Beck')"
-17/12/1996,Coventry City,Newcastle United,2,1,"(6, 0, 'Darren Huckerby')","(31, 0, 'Gary McAllister')","(61, 1, 'Alan Shearer')"
-26/12/1996,Blackburn Rovers,Newcastle United,1,0,"(75, 0, 'Kevin Gallacher')"
-18/01/1997,Southampton,Newcastle United,2,2,"(14, 1, 'Les Ferdinand')","(82, 1, 'Lee Clark')","(88, 0, 'Neil Maddison')","(89, 0, 'Matt Le Tissier')"
-22/02/1997,Middlesbrough,Newcastle United,0,1,"(8, 1, 'Les Ferdinand')"
-01/03/1997,Newcastle United,Southampton,0,1,"(56, 1, 'Matt Le Tissier')"
-15/03/1997,Newcastle United,Coventry City,4,0,"(12, 0, 'Steve Watson')","(45, 0, 'Rob Lee')","(76, 0, 'Peter Beardsley')","(87, 0, 'Robbie Elliott')"
-23/03/1997,Wimbledon,Newcastle United,1,1,"(28, 0, 'Oyvind Leonhardsen')","(53, 1, 'Faustino Asprilla')"
-19/04/1997,Newcastle United,Derby County,3,1,"(1, 1, 'Dean Sturridge')","(12, 0, 'Robbie Elliott')","(52, 0, 'Les Ferdinand')","(75, 0, 'Alan Shearer')"
-07/09/1996,Middlesbrough,Coventry City,4,0,"(3, 0, 'Fabrizio Ravanelli')","(28, 0, ' Juninho')","(73, 0, 'Fabrizio Ravanelli')","(80, 0, ' Juninho')"
-28/09/1996,Southampton,Middlesbrough,4,0,"(11, 0, 'Matt Oakley')","(29, 0, 'Matt Le Tissier')","(48, 0, 'Matt Le Tissier')","(82, 0, 'Gordon Watson')"
-26/10/1996,Middlesbrough,Wimbledon,0,0
-17/11/1996,Derby County,Middlesbrough,2,1,"(15, 0, 'Aljosa Asanovic')","(47, 0, 'Steve Vickers')","(73, 1, 'Fabrizio Ravanelli')"
-28/12/1996,Coventry City,Middlesbrough,3,0,"(29, 0, 'Darren Huckerby')","(64, 0, 'Gary McAllister')","(85, 0, 'Craig Liddle')"
-11/01/1997,Middlesbrough,Southampton,0,1,"(59, 1, 'Jim Magilton')"
-01/02/1997,Wimbledon,Middlesbrough,1,1,"(22, 0, 'Neil Cox')","(75, 1, 'Robbie Mustoe')"
-05/03/1997,Middlesbrough,Derby County,6,1,"(24, 0, 'Vladimir Kinder')","(54, 0, 'Fabrizio Ravanelli')","(70, 0, 'Craig Hignett')","(81, 0, 'Mikkel Beck')","(82, 0, 'Fabrizio Ravanelli')","(85, 0, 'Fabrizio Ravanelli')","(90, 1, 'Paul Simpson')"
-19/03/1997,Middlesbrough,Blackburn Rovers,2,1,"(44, 0, ' Juninho')","(61, 0, 'Fabrizio Ravanelli')","(68, 1, 'Chris Sutton')"
-08/05/1997,Blackburn Rovers,Middlesbrough,0,0
-09/09/1996,Blackburn Rovers,Derby County,1,2,"(1, 1, 'Ron Willems')","(11, 0, 'Chris Sutton')","(85, 1, 'Sean Flynn')"
-28/09/1996,Derby County,Wimbledon,0,2,"(49, 1, 'Robbie Earle')","(70, 1, 'Marcus Gayle')"
-30/11/1996,Derby County,Coventry City,2,1,"(12, 0, 'Aljosa Asanovic')","(43, 1, 'Dion Dublin')","(79, 0, 'Ashley Ward')"
-21/12/1996,Southampton,Derby County,3,1,"(8, 1, 'Christian Dailly')","(9, 0, 'Gordon Watson')","(13, 0, 'Matt Oakley')","(89, 0, 'Jim Magilton')"
-28/12/1996,Derby County,Blackburn Rovers,0,0
-11/01/1997,Wimbledon,Derby County,1,1,"(60, 0, 'Marcus Gayle')","(84, 1, 'Ron Willems')"
-09/04/1997,Derby County,Southampton,1,1,"(66, 0, 'Ashley Ward')","(90, 1, 'Darryl Powell')"
-03/05/1997,Coventry City,Derby County,1,2,"(49, 1, 'Gary Rowett')","(59, 0, 'Gary McAllister')","(67, 1, 'Dean Sturridge')"
-23/09/1996,Wimbledon,Southampton,3,1,"(12, 0, 'Marcus Gayle')","(38, 0, 'Efan Ekoku')","(73, 0, 'Efan Ekoku')","(77, 1, 'Matt Oakley')"
-13/10/1996,Coventry City,Southampton,1,1,"(17, 1, 'Matt Le Tissier')","(90, 0, 'Dion Dublin')"
-30/11/1996,Blackburn Rovers,Southampton,2,1,"(27, 0, 'Tim Sherwood')","(61, 1, 'Egil Ostenstad')","(87, 0, 'Chris Sutton')"
-26/02/1997,Southampton,Wimbledon,0,0
-19/04/1997,Southampton,Coventry City,2,2,"(27, 0, 'Micky Evans')","(47, 0, 'Egil Ostenstad')","(62, 1, 'Peter Ndlovu')","(74, 1, 'Noel Whelan')"
-03/05/1997,Southampton,Blackburn Rovers,2,0,"(22, 0, 'Robbie Slater')","(74, 0, 'Matt Le Tissier')"
-28/09/1996,Coventry City,Blackburn Rovers,0,0
-14/12/1996,Wimbledon,Blackburn Rovers,1,0,"(85, 0, 'Dean Holdsworth')"
-11/01/1997,Blackburn Rovers,Coventry City,4,0,"(17, 0, 'Chris Sutton')","(30, 0, 'Kevin Gallacher')","(34, 0, 'Chris Sutton')","(76, 0, 'George Donis')"
-15/03/1997,Blackburn Rovers,Wimbledon,3,1,"(7, 0, 'Kevin Gallacher')","(26, 0, 'Kevin Gallacher')","(39, 1, 'Efan Ekoku')","(58, 0, 'Kevin Gallacher')"
-16/11/1996,Wimbledon,Coventry City,2,2,"(45, 0, 'Robbie Earle')","(54, 0, 'Marcus Gayle')","(56, 1, 'Noel Whelan')","(70, 1, 'Dion Dublin')"
-03/03/1997,Coventry City,Wimbledon,1,1,"(32, 1, 'Efan Ekoku')","(37, 0, 'Dion Dublin')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+1996-08-17,Arsenal,West Ham United,2,0,"(27, 0, 'John Hartson')","(40, 0, 'Dennis Bergkamp')",,,,,,,,,,
+1996-08-17,Blackburn Rovers,Tottenham Hotspur,0,2,"(33, 1, 'Chris Armstrong')","(67, 1, 'Chris Armstrong')",,,,,,,,,,
+1996-08-17,Coventry City,Nottingham Forest,0,3,"(13, 1, 'Kevin Campbell')","(36, 1, 'Kevin Campbell')","(47, 1, 'Kevin Campbell')",,,,,,,,,
+1996-08-17,Derby County,Leeds United,3,3,"(19, 1, 'Jacob Laursen')","(72, 1, 'Ian Harte')","(77, 0, 'Dean Sturridge')","(78, 0, 'Paul Simpson')","(85, 1, 'Lee Bowyer')","(88, 0, 'Dean Sturridge')",,,,,,
+1996-08-17,Everton,Newcastle United,2,0,"(29, 0, 'David Unsworth')","(40, 0, 'Gary Speed')",,,,,,,,,,
+1996-08-17,Middlesbrough,Liverpool,3,3,"(4, 1, 'Stig Inge Bjornebye')","(26, 0, 'Fabrizio Ravanelli')","(29, 1, 'John Barnes')","(36, 0, 'Fabrizio Ravanelli')","(65, 1, 'Robbie Fowler')","(81, 0, 'Fabrizio Ravanelli')",,,,,,
+1996-08-17,Sheffield Wednesday,Aston Villa,2,1,"(56, 0, 'Richie Humphreys')","(84, 0, 'Guy Whittingham')","(88, 1, 'Tommy Johnson')",,,,,,,,,
+1996-08-17,Sunderland,Leicester City,0,0,,,,,,,,,,,,
+1996-08-17,Wimbledon,Manchester United,0,3,"(25, 1, 'Eric Cantona')","(38, 1, 'Denis Irwin')","(90, 1, 'David Beckham')",,,,,,,,,
+1996-08-18,Southampton,Chelsea,0,0,,,,,,,,,,,,
+1996-08-19,Liverpool,Arsenal,2,0,"(68, 0, 'Steve McManaman')","(74, 0, 'Steve McManaman')",,,,,,,,,,
+1996-08-20,Leeds United,Sheffield Wednesday,0,2,"(14, 1, 'Richie Humphreys')","(90, 1, 'Andy Booth')",,,,,,,,,,
+1996-08-21,Aston Villa,Blackburn Rovers,1,0,"(64, 0, 'Gareth Southgate')",,,,,,,,,,,
+1996-08-21,Chelsea,Middlesbrough,1,0,"(86, 0, 'Roberto Di Matteo')",,,,,,,,,,,
+1996-08-21,Leicester City,Southampton,2,1,"(6, 0, 'Emile Heskey')","(42, 0, 'Emile Heskey')","(68, 1, 'Matt Le Tissier')",,,,,,,,,
+1996-08-21,Manchester United,Everton,2,2,"(35, 1, 'Duncan Ferguson')","(41, 1, 'Duncan Ferguson')","(70, 0, 'Jordi Cruyff')","(82, 0, 'David Unsworth')",,,,,,,,
+1996-08-21,Newcastle United,Wimbledon,2,0,"(3, 0, 'David Batty')","(88, 0, 'Alan Shearer')",,,,,,,,,,
+1996-08-21,Nottingham Forest,Sunderland,1,4,"(8, 1, 'Michael Gray')","(17, 1, 'Niall Quinn')","(27, 0, 'Alfe-Inge Haaland')","(31, 1, 'Niall Quinn')","(43, 1, 'Richard Ord')",,,,,,,
+1996-08-21,Tottenham Hotspur,Derby County,1,1,"(34, 0, 'Teddy Sheringham')","(90, 1, 'Christian Dailly')",,,,,,,,,,
+1996-08-21,West Ham United,Coventry City,1,1,"(12, 1, 'Gary McAllister')","(74, 0, 'Marc Rieper')",,,,,,,,,,
+1996-08-24,Aston Villa,Derby County,2,0,"(19, 0, 'Julian Joachim')","(47, 0, 'Tommy Johnson')",,,,,,,,,,
+1996-08-24,Chelsea,Coventry City,2,0,"(29, 0, 'Frank Leboeuf')","(74, 0, 'Gianluca Vialli')",,,,,,,,,,
+1996-08-24,Leicester City,Arsenal,0,2,"(27, 1, 'Dennis Bergkamp')","(90, 1, 'Ian Wright')",,,,,,,,,,
+1996-08-24,Liverpool,Sunderland,0,0,,,,,,,,,,,,
+1996-08-24,Newcastle United,Sheffield Wednesday,1,2,"(13, 0, 'Alan Shearer')","(15, 1, 'Peter Atherton')","(80, 1, 'Guy Whittingham')",,,,,,,,,
+1996-08-24,Nottingham Forest,Middlesbrough,1,1,"(68, 0, 'Stuart Pearce')","(90, 1, ' Juninho')",,,,,,,,,,
+1996-08-24,Tottenham Hotspur,Everton,0,0,,,,,,,,,,,,
+1996-08-24,West Ham United,Southampton,2,1,"(19, 1, 'Neil Heaney')","(73, 0, 'Michael Hughes')","(81, 0, 'Julian Dicks')",,,,,,,,,
+1996-08-25,Manchester United,Blackburn Rovers,2,2,"(34, 1, 'Paul Warhurst')","(39, 0, 'Jordi Cruyff')","(51, 1, 'Lars Bohinen')","(70, 0, 'Ole Gunnar Solskjaer')",,,,,,,,
+1996-08-26,Leeds United,Wimbledon,1,0,"(58, 0, 'Lee Sharpe')",,,,,,,,,,,
+1996-09-02,Sheffield Wednesday,Leicester City,2,1,"(25, 0, 'Andy Booth')","(25, 0, 'Richie Humphreys')","(28, 1, 'Steve Claridge')",,,,,,,,,
+1996-09-04,Arsenal,Chelsea,3,3,"(6, 1, 'Frank Leboeuf')","(30, 1, 'Gianluca Vialli')","(44, 0, 'Paul Merson')","(64, 0, 'Martin Keown')","(77, 0, 'Ian Wright')","(90, 1, 'Dennis Wise')",,,,,,
+1996-09-04,Blackburn Rovers,Leeds United,0,1,"(40, 1, 'Ian Harte')",,,,,,,,,,,
+1996-09-04,Coventry City,Liverpool,0,1,"(68, 1, 'Phil Babb')",,,,,,,,,,,
+1996-09-04,Derby County,Manchester United,1,1,"(25, 0, 'Jacob Laursen')","(38, 1, 'David Beckham')",,,,,,,,,,
+1996-09-04,Everton,Aston Villa,0,1,"(62, 1, 'Ugo Ehiogu')",,,,,,,,,,,
+1996-09-04,Middlesbrough,West Ham United,4,1,"(12, 0, ' Emerson')","(28, 0, 'Robbie Mustoe')","(52, 0, 'Fabrizio Ravanelli')","(57, 1, 'Michael Hughes')","(81, 0, 'Phil Stamp')",,,,,,,
+1996-09-04,Southampton,Nottingham Forest,2,2,"(4, 1, 'Kevin Campbell')","(23, 1, 'Dean Saunders')","(53, 0, 'Richard Dryden')","(89, 0, 'Matt Le Tissier')",,,,,,,,
+1996-09-04,Sunderland,Newcastle United,1,2,"(19, 0, 'Martin Scott')","(52, 1, 'Peter Beardsley')","(62, 1, 'Les Ferdinand')",,,,,,,,,
+1996-09-04,Wimbledon,Tottenham Hotspur,1,0,"(3, 0, 'Robbie Earle')",,,,,,,,,,,
+1996-09-07,Aston Villa,Arsenal,2,2,"(39, 0, 'Savo Milosevic')","(63, 0, 'Savo Milosevic')","(70, 1, 'Paul Merson')","(90, 1, 'Andy Linighan')",,,,,,,,
+1996-09-07,Leeds United,Manchester United,0,4,"(3, 1, 'Nigel Martyn')","(49, 1, 'Nicky Butt')","(77, 1, 'Karel Poborsky')","(90, 1, 'Eric Cantona')",,,,,,,,
+1996-09-07,Liverpool,Southampton,2,1,"(39, 0, 'Stan Collymore')","(58, 1, 'Jim Magilton')","(89, 0, 'Steve McManaman')",,,,,,,,,
+1996-09-07,Middlesbrough,Coventry City,4,0,"(3, 0, 'Fabrizio Ravanelli')","(28, 0, ' Juninho')","(73, 0, 'Fabrizio Ravanelli')","(80, 0, ' Juninho')",,,,,,,,
+1996-09-07,Nottingham Forest,Leicester City,0,0,,,,,,,,,,,,
+1996-09-07,Sheffield Wednesday,Chelsea,0,2,"(28, 1, 'Craig Burley')","(83, 1, 'Andy Myers')",,,,,,,,,,
+1996-09-07,Tottenham Hotspur,Newcastle United,1,2,"(28, 0, 'Rory Allen')","(37, 1, 'Les Ferdinand')","(61, 1, 'Les Ferdinand')",,,,,,,,,
+1996-09-07,Wimbledon,Everton,4,0,"(33, 0, 'Neal Ardley')","(46, 0, 'Marcus Gayle')","(59, 0, 'Robbie Earle')","(73, 0, 'Efan Ekoku')",,,,,,,,
+1996-09-08,Sunderland,West Ham United,0,0,,,,,,,,,,,,
+1996-09-09,Blackburn Rovers,Derby County,1,2,"(1, 1, 'Ron Willems')","(11, 0, 'Chris Sutton')","(85, 1, 'Sean Flynn')",,,,,,,,,
+1996-09-14,Coventry City,Leeds United,2,1,"(1, 1, 'Andy Couzens')","(57, 0, 'John Salako')","(65, 0, 'Noel Whelan')",,,,,,,,,
+1996-09-14,Derby County,Sunderland,1,0,"(84, 0, 'Aljosa Asanovic')",,,,,,,,,,,
+1996-09-14,Everton,Middlesbrough,1,2,"(8, 0, 'Craig Short')","(61, 1, 'Nick Barmby')","(81, 1, ' Juninho')",,,,,,,,,
+1996-09-14,Manchester United,Nottingham Forest,4,1,"(4, 1, 'Alfe-Inge Haaland')","(22, 0, 'Ole Gunnar Solskjaer')","(43, 0, 'Ryan Giggs')","(82, 0, 'Eric Cantona')","(90, 0, 'Eric Cantona')",,,,,,,
+1996-09-14,Newcastle United,Blackburn Rovers,2,1,"(45, 0, 'Alan Shearer')","(61, 0, 'Les Ferdinand')","(85, 1, 'Chris Sutton')",,,,,,,,,
+1996-09-14,Southampton,Tottenham Hotspur,0,1,"(66, 1, 'Chris Armstrong')",,,,,,,,,,,
+1996-09-14,West Ham United,Wimbledon,0,2,"(59, 1, 'Andy Clarke')","(86, 1, 'Efan Ekoku')",,,,,,,,,,
+1996-09-15,Chelsea,Aston Villa,1,1,"(18, 1, 'Andy Townsend')","(45, 0, 'Frank Leboeuf')",,,,,,,,,,
+1996-09-15,Leicester City,Liverpool,0,3,"(58, 1, 'Patrik Berger')","(61, 1, 'Michael Thomas')","(77, 1, 'Patrik Berger')",,,,,,,,,
+1996-09-16,Arsenal,Sheffield Wednesday,4,1,"(25, 1, 'Andy Booth')","(57, 0, 'David Platt')","(61, 0, 'Ian Wright')","(78, 0, 'Ian Wright')","(89, 0, 'Ian Wright')",,,,,,,
+1996-09-21,Aston Villa,Manchester United,0,0,,,,,,,,,,,,
+1996-09-21,Blackburn Rovers,Everton,1,1,"(32, 0, 'George Donis')","(37, 1, 'David Unsworth')",,,,,,,,,,
+1996-09-21,Leeds United,Newcastle United,0,1,"(59, 1, 'Alan Shearer')",,,,,,,,,,,
+1996-09-21,Liverpool,Chelsea,5,1,"(15, 0, 'Robbie Fowler')","(42, 0, 'Patrik Berger')","(45, 0, 'Andy Myers')","(49, 0, 'Patrik Berger')","(57, 0, 'John Barnes')","(84, 1, 'Frank Leboeuf')",,,,,,
+1996-09-21,Middlesbrough,Arsenal,0,2,"(3, 1, 'John Hartson')","(27, 1, 'Ian Wright')",,,,,,,,,,
+1996-09-21,Nottingham Forest,West Ham United,0,2,"(45, 1, 'Mark Bowen')","(54, 1, 'Michael Hughes')",,,,,,,,,,
+1996-09-21,Sheffield Wednesday,Derby County,0,0,,,,,,,,,,,,
+1996-09-21,Sunderland,Coventry City,1,0,"(51, 0, 'Steve Agnew')",,,,,,,,,,,
+1996-09-22,Tottenham Hotspur,Leicester City,1,2,"(22, 1, 'Steve Claridge')","(64, 0, 'Clive Wilson')","(86, 1, 'Ian Marshall')",,,,,,,,,
+1996-09-23,Wimbledon,Southampton,3,1,"(12, 0, 'Marcus Gayle')","(38, 0, 'Efan Ekoku')","(73, 0, 'Efan Ekoku')","(77, 1, 'Matt Oakley')",,,,,,,,
+1996-09-28,Arsenal,Sunderland,2,0,"(73, 0, 'John Hartson')","(88, 0, 'Ray Parlour')",,,,,,,,,,
+1996-09-28,Chelsea,Nottingham Forest,1,1,"(51, 0, 'Gianluca Vialli')","(90, 1, 'Jason Lee')",,,,,,,,,,
+1996-09-28,Coventry City,Blackburn Rovers,0,0,,,,,,,,,,,,
+1996-09-28,Derby County,Wimbledon,0,2,"(49, 1, 'Robbie Earle')","(70, 1, 'Marcus Gayle')",,,,,,,,,,
+1996-09-28,Everton,Sheffield Wednesday,2,0,"(17, 0, 'Andrei Kanchelskis')","(60, 0, 'Graham Stuart')",,,,,,,,,,
+1996-09-28,Leicester City,Leeds United,1,0,"(60, 0, 'Emile Heskey')",,,,,,,,,,,
+1996-09-28,Southampton,Middlesbrough,4,0,"(11, 0, 'Matt Oakley')","(29, 0, 'Matt Le Tissier')","(48, 0, 'Matt Le Tissier')","(82, 0, 'Gordon Watson')",,,,,,,,
+1996-09-29,Manchester United,Tottenham Hotspur,2,0,"(38, 0, 'Ole Gunnar Solskjaer')","(58, 0, 'Ole Gunnar Solskjaer')",,,,,,,,,,
+1996-09-29,West Ham United,Liverpool,1,2,"(3, 1, 'Stan Collymore')","(15, 0, 'Slaven Bilic')","(55, 1, 'Michael Thomas')",,,,,,,,,
+1996-09-30,Newcastle United,Aston Villa,4,3,"(4, 1, 'Dwight Yorke')","(5, 0, 'Les Ferdinand')","(22, 0, 'Les Ferdinand')","(38, 0, 'Alan Shearer')","(59, 1, 'Dwight Yorke')","(67, 0, 'Steve Howey')","(69, 1, 'Dwight Yorke')",,,,,
+1996-10-12,Blackburn Rovers,Arsenal,0,2,"(3, 1, 'Ian Wright')","(51, 1, 'Ian Wright')",,,,,,,,,,
+1996-10-12,Derby County,Newcastle United,0,1,"(76, 1, 'Alan Shearer')",,,,,,,,,,,
+1996-10-12,Everton,West Ham United,2,1,"(14, 0, 'Graham Stuart')","(78, 0, 'Gary Speed')","(86, 1, 'Julian Dicks')",,,,,,,,,
+1996-10-12,Leeds United,Nottingham Forest,2,0,"(46, 0, 'Rodney Wallace')","(90, 0, 'Rodney Wallace')",,,,,,,,,,
+1996-10-12,Leicester City,Chelsea,1,3,"(44, 0, 'Julian Watts')","(48, 1, 'Gianluca Vialli')","(64, 1, 'Roberto Di Matteo')","(80, 1, 'Mark Hughes')",,,,,,,,
+1996-10-12,Manchester United,Liverpool,1,0,"(23, 0, 'David Beckham')",,,,,,,,,,,
+1996-10-12,Tottenham Hotspur,Aston Villa,1,0,"(61, 0, 'Allan Nielsen')",,,,,,,,,,,
+1996-10-12,Wimbledon,Sheffield Wednesday,4,2,"(2, 0, 'Efan Ekoku')","(3, 1, 'Andy Booth')","(31, 0, 'Robbie Earle')","(67, 0, 'Oyvind Leonhardsen')","(72, 1, 'Graham Hyde')","(86, 0, 'Vinnie Jones')",,,,,,
+1996-10-13,Coventry City,Southampton,1,1,"(17, 1, 'Matt Le Tissier')","(90, 0, 'Dion Dublin')",,,,,,,,,,
+1996-10-14,Sunderland,Middlesbrough,2,2,"(18, 1, ' Emerson')","(21, 0, 'Alex Rae')","(53, 1, 'Fabrizio Ravanelli')","(61, 0, 'Craig Russell')",,,,,,,,
+1996-10-19,Arsenal,Coventry City,0,0,,,,,,,,,,,,
+1996-10-19,Aston Villa,Leeds United,2,0,"(58, 0, 'Dwight Yorke')","(65, 0, 'Tommy Johnson')",,,,,,,,,,
+1996-10-19,Chelsea,Wimbledon,2,4,"(4, 1, 'Robbie Earle')","(9, 0, 'Scott Minto')","(16, 1, 'Neal Ardley')","(64, 1, 'Marcus Gayle')","(78, 1, 'Efan Ekoku')","(84, 0, 'Gianluca Vialli')",,,,,,
+1996-10-19,Middlesbrough,Tottenham Hotspur,0,3,"(21, 1, 'Teddy Sheringham')","(23, 1, 'Ruel Fox')","(90, 1, 'Teddy Sheringham')",,,,,,,,,
+1996-10-19,Nottingham Forest,Derby County,1,1,"(2, 0, 'Dean Saunders')","(58, 1, 'Christian Dailly')",,,,,,,,,,
+1996-10-19,Sheffield Wednesday,Blackburn Rovers,1,1,"(3, 0, 'Andy Booth')","(74, 1, 'Lars Bohinen')",,,,,,,,,,
+1996-10-19,Southampton,Sunderland,3,0,"(38, 0, 'Jason Dodd')","(53, 0, 'Matt Le Tissier')","(89, 0, 'Neil Shipperley')",,,,,,,,,
+1996-10-19,West Ham United,Leicester City,1,0,"(78, 0, 'John Moncur')",,,,,,,,,,,
+1996-10-20,Newcastle United,Manchester United,5,0,"(12, 0, 'Darren Peacock')","(30, 0, 'David Ginola')","(63, 0, 'Les Ferdinand')","(75, 0, 'Alan Shearer')","(83, 0, 'Philippe Albert')",,,,,,,
+1996-10-26,Arsenal,Leeds United,3,0,"(1, 0, 'Lee Dixon')","(5, 0, 'Dennis Bergkamp')","(56, 0, 'Ian Wright')",,,,,,,,,
+1996-10-26,Chelsea,Tottenham Hotspur,3,1,"(27, 0, 'Ruud Gullit')","(41, 1, 'Chris Armstrong')","(52, 0, 'David Lee')","(80, 0, 'Roberto Di Matteo')",,,,,,,,
+1996-10-26,Coventry City,Sheffield Wednesday,0,0,,,,,,,,,,,,
+1996-10-26,Leicester City,Newcastle United,2,0,"(17, 0, 'Steve Claridge')","(79, 0, 'Emile Heskey')",,,,,,,,,,
+1996-10-26,Middlesbrough,Wimbledon,0,0,,,,,,,,,,,,
+1996-10-26,Southampton,Manchester United,6,3,"(6, 0, 'Eyal Berkovic')","(35, 0, 'Matt Le Tissier')","(41, 1, 'David Beckham')","(45, 0, 'Egil Ostenstad')","(56, 1, 'David May')","(83, 0, 'Eyal Berkovic')","(85, 0, 'Egil Ostenstad')","(89, 1, 'Paul Scholes')","(90, 0, 'Gary Neville')",,,
+1996-10-26,Sunderland,Aston Villa,1,0,"(25, 0, 'Paul Stewart')",,,,,,,,,,,
+1996-10-26,West Ham United,Blackburn Rovers,2,1,"(9, 1, 'Henning Berg')","(77, 0, 'Hugo Porfirio')","(85, 0, 'Henning Berg')",,,,,,,,,
+1996-10-27,Liverpool,Derby County,2,1,"(47, 0, 'Robbie Fowler')","(51, 0, 'Robbie Fowler')","(89, 1, 'Ashley Ward')",,,,,,,,,
+1996-10-28,Nottingham Forest,Everton,0,1,"(5, 1, 'Craig Short')",,,,,,,,,,,
+1996-11-02,Aston Villa,Nottingham Forest,2,0,"(20, 0, 'Carl Tiler')","(65, 0, 'Dwight Yorke')",,,,,,,,,,
+1996-11-02,Derby County,Leicester City,2,0,"(56, 0, 'Ashley Ward')","(89, 0, 'Mike Whitlow')",,,,,,,,,,
+1996-11-02,Leeds United,Sunderland,3,0,"(27, 0, 'Mark Ford')","(62, 0, 'Lee Sharpe')","(68, 0, 'Brian Deane')",,,,,,,,,
+1996-11-02,Manchester United,Chelsea,1,2,"(31, 1, 'Michael Duberry')","(61, 1, 'Gianluca Vialli')","(81, 0, 'David May')",,,,,,,,,
+1996-11-02,Sheffield Wednesday,Southampton,1,1,"(14, 0, 'Jon Newsome')","(50, 1, 'Matt Le Tissier')",,,,,,,,,,
+1996-11-02,Tottenham Hotspur,West Ham United,1,0,"(67, 0, 'Chris Armstrong')",,,,,,,,,,,
+1996-11-02,Wimbledon,Arsenal,2,2,"(6, 1, 'Ian Wright')","(44, 0, 'Vinnie Jones')","(64, 1, 'Paul Merson')","(67, 0, 'Marcus Gayle')",,,,,,,,
+1996-11-03,Blackburn Rovers,Liverpool,3,0,"(3, 0, 'Chris Sutton')","(24, 0, 'Jason Wilcox')","(56, 0, 'Chris Sutton')",,,,,,,,,
+1996-11-03,Newcastle United,Middlesbrough,3,1,"(40, 0, 'Peter Beardsley')","(69, 0, 'Peter Beardsley')","(74, 0, 'Rob Lee')","(88, 1, 'Mikkel Beck')",,,,,,,,
+1996-11-04,Everton,Coventry City,1,1,"(45, 0, 'Graham Stuart')","(68, 1, 'Gary McAllister')",,,,,,,,,,
+1996-11-16,Aston Villa,Leicester City,1,3,"(8, 1, 'Steve Claridge')","(15, 0, 'Dwight Yorke')","(43, 1, 'Garry Parker')","(85, 1, 'Muzzy Izzet')",,,,,,,,
+1996-11-16,Blackburn Rovers,Chelsea,1,1,"(56, 0, 'Kevin Gallacher')","(82, 1, 'Dan Petrescu')",,,,,,,,,,
+1996-11-16,Everton,Southampton,7,1,"(12, 0, 'Graham Stuart')","(22, 0, 'Andrei Kanchelskis')","(30, 0, 'Gary Speed')","(32, 0, 'Gary Speed')","(35, 0, 'Andrei Kanchelskis')","(39, 1, 'Egil Ostenstad')","(57, 0, 'Nick Barmby')","(72, 0, 'Gary Speed')",,,,
+1996-11-16,Leeds United,Liverpool,0,2,"(13, 1, 'Neil Ruddock')","(90, 1, 'Steve McManaman')",,,,,,,,,,
+1996-11-16,Manchester United,Arsenal,1,0,"(63, 0, 'Nigel Winterburn')",,,,,,,,,,,
+1996-11-16,Newcastle United,West Ham United,1,1,"(23, 1, 'Keith Rowland')","(83, 0, 'Peter Beardsley')",,,,,,,,,,
+1996-11-16,Tottenham Hotspur,Sunderland,2,0,"(13, 0, 'Andy Sinton')","(82, 0, 'Teddy Sheringham')",,,,,,,,,,
+1996-11-16,Wimbledon,Coventry City,2,2,"(45, 0, 'Robbie Earle')","(54, 0, 'Marcus Gayle')","(56, 1, 'Noel Whelan')","(70, 1, 'Dion Dublin')",,,,,,,,
+1996-11-17,Derby County,Middlesbrough,2,1,"(15, 0, 'Aljosa Asanovic')","(47, 0, 'Steve Vickers')","(73, 1, 'Fabrizio Ravanelli')",,,,,,,,,
+1996-11-18,Sheffield Wednesday,Nottingham Forest,2,0,"(63, 0, 'Orlando Trustfull')","(85, 0, 'Benito Carbone')",,,,,,,,,,
+1996-11-20,Liverpool,Everton,1,1,"(30, 0, 'Robbie Fowler')","(82, 1, 'Gary Speed')",,,,,,,,,,
+1996-11-23,Chelsea,Newcastle United,1,1,"(24, 0, 'Gianluca Vialli')","(41, 1, 'Alan Shearer')",,,,,,,,,,
+1996-11-23,Coventry City,Aston Villa,1,2,"(29, 1, 'Julian Joachim')","(75, 0, 'Dion Dublin')","(85, 1, 'Steve Staunton')",,,,,,,,,
+1996-11-23,Leicester City,Everton,1,2,"(12, 1, 'Andy Hinchcliffe')","(52, 1, 'David Unsworth')","(83, 0, 'Steve Walsh')",,,,,,,,,
+1996-11-23,Liverpool,Wimbledon,1,1,"(43, 0, 'Stan Collymore')","(67, 1, 'Oyvind Leonhardsen')",,,,,,,,,,
+1996-11-23,Middlesbrough,Manchester United,2,2,"(17, 1, 'Roy Keane')","(27, 0, 'Fabrizio Ravanelli')","(72, 1, 'David May')","(83, 0, 'Craig Hignett')",,,,,,,,
+1996-11-23,Southampton,Leeds United,0,2,"(82, 1, 'Garry Kelly')","(89, 1, 'Lee Sharpe')",,,,,,,,,,
+1996-11-23,Sunderland,Sheffield Wednesday,1,1,"(66, 1, 'Scott Oakes')","(68, 0, 'Andy Melville')",,,,,,,,,,
+1996-11-23,West Ham United,Derby County,1,1,"(17, 0, 'Ian Bishop')","(43, 1, 'Dean Sturridge')",,,,,,,,,,
+1996-11-24,Arsenal,Tottenham Hotspur,3,1,"(28, 0, 'Ian Wright')","(57, 1, 'Andy Sinton')","(88, 0, 'Tony Adams')","(90, 0, 'Dennis Bergkamp')",,,,,,,,
+1996-11-25,Nottingham Forest,Blackburn Rovers,2,2,"(45, 0, 'Stuart Pearce')","(54, 1, 'Kevin Gallacher')","(57, 1, 'Jason Wilcox')","(90, 0, 'Colin Cooper')",,,,,,,,
+1996-11-30,Aston Villa,Middlesbrough,1,0,"(39, 0, 'Dwight Yorke')",,,,,,,,,,,
+1996-11-30,Blackburn Rovers,Southampton,2,1,"(27, 0, 'Tim Sherwood')","(61, 1, 'Egil Ostenstad')","(87, 0, 'Chris Sutton')",,,,,,,,,
+1996-11-30,Derby County,Coventry City,2,1,"(12, 0, 'Aljosa Asanovic')","(43, 1, 'Dion Dublin')","(79, 0, 'Ashley Ward')",,,,,,,,,
+1996-11-30,Everton,Sunderland,1,3,"(54, 1, 'Craig Russell')","(64, 0, 'Duncan Ferguson')","(74, 1, 'Michael Bridges')","(87, 1, 'Michael Bridges')",,,,,,,,
+1996-11-30,Manchester United,Leicester City,3,1,"(75, 0, 'Nicky Butt')","(85, 0, 'Ole Gunnar Solskjaer')","(87, 0, 'Nicky Butt')","(90, 1, 'Neil Lennon')",,,,,,,,
+1996-11-30,Newcastle United,Arsenal,1,2,"(11, 1, 'Lee Dixon')","(21, 0, 'Alan Shearer')","(60, 1, 'Ian Wright')",,,,,,,,,
+1996-11-30,Sheffield Wednesday,West Ham United,0,0,,,,,,,,,,,,
+1996-11-30,Wimbledon,Nottingham Forest,1,0,"(37, 0, 'Robbie Earle')",,,,,,,,,,,
+1996-12-01,Leeds United,Chelsea,2,0,"(8, 0, 'Brian Deane')","(10, 0, 'Ian Rush')",,,,,,,,,,
+1996-12-02,Tottenham Hotspur,Liverpool,0,2,"(45, 1, 'Michael Thomas')","(49, 1, 'Steve McManaman')",,,,,,,,,,
+1996-12-03,Middlesbrough,Leicester City,0,2,"(45, 1, 'Steve Claridge')","(46, 1, 'Muzzy Izzet')",,,,,,,,,,
+1996-12-04,Arsenal,Southampton,3,1,"(43, 0, 'Paul Merson')","(57, 0, 'Ian Wright')","(81, 1, 'Eyal Berkovic')","(89, 0, 'Paul Shaw')",,,,,,,,
+1996-12-04,West Ham United,Aston Villa,0,2,"(38, 1, 'Ugo Ehiogu')","(74, 1, 'Dwight Yorke')",,,,,,,,,,
+1996-12-07,Arsenal,Derby County,2,2,"(45, 0, 'Tony Adams')","(62, 1, 'Dean Sturridge')","(71, 1, 'Darryl Powell')","(90, 0, 'Patrick Vieira')",,,,,,,,
+1996-12-07,Chelsea,Everton,2,2,"(12, 0, 'Gianfranco Zola')","(17, 1, 'Michael Branch')","(28, 1, 'Andrei Kanchelskis')","(55, 0, 'Gianluca Vialli')",,,,,,,,
+1996-12-07,Coventry City,Tottenham Hotspur,1,2,"(27, 1, 'Teddy Sheringham')","(60, 0, 'Noel Whelan')","(75, 1, 'Andy Sinton')",,,,,,,,,
+1996-12-07,Leicester City,Blackburn Rovers,1,1,"(34, 1, 'Chris Sutton')","(78, 0, 'Ian Marshall')",,,,,,,,,,
+1996-12-07,Liverpool,Sheffield Wednesday,0,1,"(22, 1, 'Guy Whittingham')",,,,,,,,,,,
+1996-12-07,Middlesbrough,Leeds United,0,0,,,,,,,,,,,,
+1996-12-07,Southampton,Aston Villa,0,1,"(34, 1, 'Andy Townsend')",,,,,,,,,,,
+1996-12-07,Sunderland,Wimbledon,1,3,"(8, 1, 'Efan Ekoku')","(29, 1, 'Efan Ekoku')","(83, 0, 'Andy Melville')","(89, 1, 'Dean Holdsworth')",,,,,,,,
+1996-12-08,West Ham United,Manchester United,2,2,"(54, 1, 'Ole Gunnar Solskjaer')","(75, 1, 'David Beckham')","(78, 0, 'Florin Raducioiu')","(80, 0, 'Julian Dicks')",,,,,,,,
+1996-12-09,Nottingham Forest,Newcastle United,0,0,,,,,,,,,,,,
+1996-12-14,Leeds United,Tottenham Hotspur,0,0,,,,,,,,,,,,
+1996-12-14,Liverpool,Middlesbrough,5,1,"(1, 0, 'Robbie Fowler')","(28, 0, 'Robbie Fowler')","(45, 0, 'Stig Inge Bjornebye')","(75, 1, 'Jan-Aage Fjortoft')","(77, 0, 'Robbie Fowler')","(85, 0, 'Robbie Fowler')",,,,,,
+1996-12-14,Wimbledon,Blackburn Rovers,1,0,"(85, 0, 'Dean Holdsworth')",,,,,,,,,,,
+1996-12-15,Sunderland,Chelsea,3,0,"(30, 0, 'Michael Duberry')","(47, 0, 'Kevin Ball')","(67, 0, 'Craig Russell')",,,,,,,,,
+1996-12-16,Derby County,Everton,0,1,"(86, 1, 'Nick Barmby')",,,,,,,,,,,
+1996-12-17,Coventry City,Newcastle United,2,1,"(6, 0, 'Darren Huckerby')","(31, 0, 'Gary McAllister')","(61, 1, 'Alan Shearer')",,,,,,,,,
+1996-12-17,Liverpool,Nottingham Forest,4,2,"(6, 0, 'Stan Collymore')","(27, 0, 'Robbie Fowler')","(34, 1, 'Kevin Campbell')","(51, 0, 'Des Lyttle')","(60, 1, 'Stuart Pearce')","(63, 0, 'Stan Collymore')",,,,,,
+1996-12-18,Sheffield Wednesday,Manchester United,1,1,"(57, 0, 'Benito Carbone')","(61, 1, 'Paul Scholes')",,,,,,,,,,
+1996-12-21,Chelsea,West Ham United,3,1,"(6, 0, 'Mark Hughes')","(10, 0, 'Gianfranco Zola')","(11, 1, 'Hugo Porfirio')","(35, 0, 'Mark Hughes')",,,,,,,,
+1996-12-21,Everton,Leeds United,0,0,,,,,,,,,,,,
+1996-12-21,Leicester City,Coventry City,0,2,"(12, 1, 'Dion Dublin')","(72, 1, 'Dion Dublin')",,,,,,,,,,
+1996-12-21,Manchester United,Sunderland,5,0,"(35, 0, 'Ole Gunnar Solskjaer')","(43, 0, 'Eric Cantona')","(48, 0, 'Ole Gunnar Solskjaer')","(59, 0, 'Nicky Butt')","(80, 0, 'Eric Cantona')",,,,,,,
+1996-12-21,Nottingham Forest,Arsenal,2,1,"(63, 1, 'Ian Wright')","(67, 0, 'Alfe-Inge Haaland')","(89, 0, 'Alfe-Inge Haaland')",,,,,,,,,
+1996-12-21,Southampton,Derby County,3,1,"(8, 1, 'Christian Dailly')","(9, 0, 'Gordon Watson')","(13, 0, 'Matt Oakley')","(89, 0, 'Jim Magilton')",,,,,,,,
+1996-12-21,Tottenham Hotspur,Sheffield Wednesday,1,1,"(16, 1, 'Ian Nolan')","(29, 0, 'Allan Nielsen')",,,,,,,,,,
+1996-12-22,Aston Villa,Wimbledon,5,0,"(38, 0, 'Dwight Yorke')","(42, 0, 'Savo Milosevic')","(61, 0, 'Ian Taylor')","(75, 0, 'Savo Milosevic')","(86, 0, 'Dwight Yorke')",,,,,,,
+1996-12-23,Newcastle United,Liverpool,1,1,"(28, 0, 'Alan Shearer')","(45, 1, 'Robbie Fowler')",,,,,,,,,,
+1996-12-26,Aston Villa,Chelsea,0,2,"(66, 1, 'Gianfranco Zola')","(70, 1, 'Gianfranco Zola')",,,,,,,,,,
+1996-12-26,Blackburn Rovers,Newcastle United,1,0,"(75, 0, 'Kevin Gallacher')",,,,,,,,,,,
+1996-12-26,Leeds United,Coventry City,1,3,"(9, 0, 'Brian Deane')","(30, 1, 'Darren Huckerby')","(38, 1, 'Dion Dublin')","(40, 1, 'Gary McAllister')",,,,,,,,
+1996-12-26,Liverpool,Leicester City,1,1,"(76, 1, 'Steve Claridge')","(80, 0, 'Stan Collymore')",,,,,,,,,,
+1996-12-26,Middlesbrough,Everton,4,2,"(22, 0, 'Craig Hignett')","(31, 1, 'David Unsworth')","(37, 0, 'Clayton Blackmore')","(45, 1, 'Duncan Ferguson')","(58, 0, ' Juninho')","(74, 0, ' Juninho')",,,,,,
+1996-12-26,Nottingham Forest,Manchester United,0,4,"(25, 1, 'David Beckham')","(44, 1, 'Nicky Butt')","(67, 1, 'Ole Gunnar Solskjaer')","(76, 1, 'Andrew Cole')",,,,,,,,
+1996-12-26,Sheffield Wednesday,Arsenal,0,0,,,,,,,,,,,,
+1996-12-26,Sunderland,Derby County,2,0,"(73, 0, 'Richard Ord')","(87, 0, 'Craig Russell')",,,,,,,,,,
+1996-12-26,Tottenham Hotspur,Southampton,3,1,"(1, 0, 'Steffen Iversen')","(30, 0, 'Steffen Iversen')","(40, 1, 'Matt Le Tissier')","(64, 0, 'Allan Nielsen')",,,,,,,,
+1996-12-28,Arsenal,Aston Villa,2,2,"(13, 0, 'Ian Wright')","(68, 1, 'Savo Milosevic')","(73, 0, 'Paul Merson')","(74, 1, 'Dwight Yorke')",,,,,,,,
+1996-12-28,Chelsea,Sheffield Wednesday,2,2,"(9, 0, 'Gianfranco Zola')","(23, 0, 'Mark Hughes')","(23, 1, 'Mark Pembridge')","(90, 1, 'Dejan Stefanovic')",,,,,,,,
+1996-12-28,Coventry City,Middlesbrough,3,0,"(29, 0, 'Darren Huckerby')","(64, 0, 'Gary McAllister')","(85, 0, 'Craig Liddle')",,,,,,,,,
+1996-12-28,Derby County,Blackburn Rovers,0,0,,,,,,,,,,,,
+1996-12-28,Everton,Wimbledon,1,3,"(23, 0, 'Graham Stuart')","(59, 1, 'Efan Ekoku')","(70, 1, 'Oyvind Leonhardsen')","(76, 1, 'Marcus Gayle')",,,,,,,,
+1996-12-28,Leicester City,Nottingham Forest,2,2,"(10, 0, 'Emile Heskey')","(37, 1, 'Nigel Clough')","(63, 0, 'Muzzy Izzet')","(87, 1, 'Colin Cooper')",,,,,,,,
+1996-12-28,Manchester United,Leeds United,1,0,"(9, 0, 'Eric Cantona')",,,,,,,,,,,
+1996-12-28,Newcastle United,Tottenham Hotspur,7,1,"(20, 0, 'Alan Shearer')","(22, 0, 'Les Ferdinand')","(59, 0, 'Les Ferdinand')","(61, 0, 'Rob Lee')","(79, 0, 'Philippe Albert')","(82, 0, 'Alan Shearer')","(88, 0, 'Rob Lee')","(89, 1, 'Allan Nielsen')",,,,
+1996-12-28,West Ham United,Sunderland,2,0,"(37, 0, 'Slaven Bilic')","(90, 0, 'Florin Raducioiu')",,,,,,,,,,
+1996-12-29,Southampton,Liverpool,0,1,"(76, 1, 'John Barnes')",,,,,,,,,,,
+1997-01-01,Arsenal,Middlesbrough,2,0,"(15, 0, 'Dennis Bergkamp')","(44, 0, 'Ian Wright')",,,,,,,,,,
+1997-01-01,Chelsea,Liverpool,1,0,"(43, 0, 'Roberto Di Matteo')",,,,,,,,,,,
+1997-01-01,Coventry City,Sunderland,2,2,"(6, 1, 'Michael Bridges')","(10, 0, 'Dion Dublin')","(18, 1, 'Steve Agnew')","(28, 0, 'Liam Daish')",,,,,,,,
+1997-01-01,Everton,Blackburn Rovers,0,2,"(18, 1, 'Tim Sherwood')","(32, 1, 'Chris Sutton')",,,,,,,,,,
+1997-01-01,Manchester United,Aston Villa,0,0,,,,,,,,,,,,
+1997-01-01,Newcastle United,Leeds United,3,0,"(4, 0, 'Alan Shearer')","(77, 0, 'Alan Shearer')","(87, 0, 'Les Ferdinand')",,,,,,,,,
+1997-01-01,West Ham United,Nottingham Forest,0,1,"(38, 1, 'Kevin Campbell')",,,,,,,,,,,
+1997-01-11,Aston Villa,Newcastle United,2,2,"(16, 1, 'Alan Shearer')","(21, 1, 'Lee Clark')","(39, 0, 'Dwight Yorke')","(52, 0, 'Savo Milosevic')",,,,,,,,
+1997-01-11,Blackburn Rovers,Coventry City,4,0,"(17, 0, 'Chris Sutton')","(30, 0, 'Kevin Gallacher')","(34, 0, 'Chris Sutton')","(76, 0, 'George Donis')",,,,,,,,
+1997-01-11,Leeds United,Leicester City,3,0,"(40, 0, 'Lee Bowyer')","(45, 0, 'Ian Rush')","(69, 0, 'Ian Rush')",,,,,,,,,
+1997-01-11,Liverpool,West Ham United,0,0,,,,,,,,,,,,
+1997-01-11,Middlesbrough,Southampton,0,1,"(59, 1, 'Jim Magilton')",,,,,,,,,,,
+1997-01-11,Nottingham Forest,Chelsea,2,0,"(40, 0, 'Stuart Pearce')","(53, 0, 'Chris Bart-Williams')",,,,,,,,,,
+1997-01-11,Sheffield Wednesday,Everton,2,1,"(22, 0, 'Mark Pembridge')","(50, 0, 'David Hirst')","(63, 1, 'Duncan Ferguson')",,,,,,,,,
+1997-01-11,Sunderland,Arsenal,1,0,"(66, 0, 'Tony Adams')",,,,,,,,,,,
+1997-01-11,Wimbledon,Derby County,1,1,"(60, 0, 'Marcus Gayle')","(84, 1, 'Ron Willems')",,,,,,,,,,
+1997-01-12,Tottenham Hotspur,Manchester United,1,2,"(23, 1, 'Ole Gunnar Solskjaer')","(44, 0, 'Rory Allen')","(76, 1, 'David Beckham')",,,,,,,,,
+1997-01-18,Chelsea,Derby County,3,1,"(25, 1, 'Aljosa Asanovic')","(36, 0, 'Dennis Wise')","(44, 0, 'Frank Leboeuf')","(85, 0, 'Paul Hughes')",,,,,,,,
+1997-01-18,Coventry City,Manchester United,0,2,"(60, 1, 'Ryan Giggs')","(79, 1, 'Ole Gunnar Solskjaer')",,,,,,,,,,
+1997-01-18,Leicester City,Wimbledon,1,0,"(73, 0, 'Emile Heskey')",,,,,,,,,,,
+1997-01-18,Liverpool,Aston Villa,3,0,"(50, 0, 'Jamie Carragher')","(58, 0, 'Stan Collymore')","(63, 0, 'Robbie Fowler')",,,,,,,,,
+1997-01-18,Middlesbrough,Sheffield Wednesday,4,2,"(14, 0, 'Fabrizio Ravanelli')","(23, 0, 'Gianluca Festa')","(29, 1, 'Mark Pembridge')","(72, 0, ' Emerson')","(80, 1, 'Mark Pembridge')","(90, 0, ' Juninho')",,,,,,
+1997-01-18,Southampton,Newcastle United,2,2,"(14, 1, 'Les Ferdinand')","(82, 1, 'Lee Clark')","(88, 0, 'Neil Maddison')","(89, 0, 'Matt Le Tissier')",,,,,,,,
+1997-01-18,Sunderland,Blackburn Rovers,0,0,,,,,,,,,,,,
+1997-01-19,Arsenal,Everton,3,1,"(55, 0, 'Dennis Bergkamp')","(57, 0, 'Patrick Vieira')","(69, 0, 'Paul Merson')","(90, 1, 'Duncan Ferguson')",,,,,,,,
+1997-01-19,Nottingham Forest,Tottenham Hotspur,2,1,"(2, 1, 'Andy Sinton')","(47, 0, 'Bryan Roy')","(72, 0, 'Bryan Roy')",,,,,,,,,
+1997-01-20,West Ham United,Leeds United,0,2,"(53, 1, 'Garry Kelly')","(70, 1, 'Lee Bowyer')",,,,,,,,,,
+1997-01-29,Aston Villa,Sheffield Wednesday,0,1,"(69, 1, 'Andy Booth')",,,,,,,,,,,
+1997-01-29,Leeds United,Derby County,0,0,,,,,,,,,,,,
+1997-01-29,Leicester City,Sunderland,1,1,"(18, 1, 'Darren Williams')","(32, 0, 'Garry Parker')",,,,,,,,,,
+1997-01-29,Manchester United,Wimbledon,2,1,"(61, 1, 'Chris Perry')","(76, 0, 'Ryan Giggs')","(83, 0, 'Andrew Cole')",,,,,,,,,
+1997-01-29,Newcastle United,Everton,4,1,"(3, 1, 'Gary Speed')","(74, 0, 'Les Ferdinand')","(79, 0, 'Rob Lee')","(83, 0, 'Alan Shearer')","(90, 0, 'Robbie Elliott')",,,,,,,
+1997-01-29,Nottingham Forest,Coventry City,0,1,"(51, 1, 'Darren Huckerby')",,,,,,,,,,,
+1997-01-29,Tottenham Hotspur,Blackburn Rovers,2,1,"(41, 0, 'Steffen Iversen')","(57, 1, 'Colin Hendry')","(83, 0, 'Andy Sinton')",,,,,,,,,
+1997-01-29,West Ham United,Arsenal,1,2,"(8, 1, 'Ray Parlour')","(63, 0, 'Matthew Rose')","(67, 1, 'Ian Wright')",,,,,,,,,
+1997-02-01,Aston Villa,Sunderland,1,0,"(37, 0, 'Savo Milosevic')",,,,,,,,,,,
+1997-02-01,Blackburn Rovers,West Ham United,2,1,"(36, 0, 'Kevin Gallacher')","(39, 0, 'Chris Sutton')","(64, 1, 'Rio Ferdinand')",,,,,,,,,
+1997-02-01,Derby County,Liverpool,0,1,"(76, 1, 'Stan Collymore')",,,,,,,,,,,
+1997-02-01,Everton,Nottingham Forest,2,0,"(48, 0, 'Duncan Ferguson')","(67, 0, 'Nick Barmby')",,,,,,,,,,
+1997-02-01,Leeds United,Arsenal,0,0,,,,,,,,,,,,
+1997-02-01,Manchester United,Southampton,2,1,"(11, 1, 'Egil Ostenstad')","(19, 0, 'Gary Pallister')","(80, 0, 'Eric Cantona')",,,,,,,,,
+1997-02-01,Sheffield Wednesday,Coventry City,0,0,,,,,,,,,,,,
+1997-02-01,Tottenham Hotspur,Chelsea,1,2,"(1, 1, 'Sol Campbell')","(53, 1, 'Roberto Di Matteo')","(83, 0, 'David Howells')",,,,,,,,,
+1997-02-01,Wimbledon,Middlesbrough,1,1,"(22, 0, 'Neil Cox')","(75, 1, 'Robbie Mustoe')",,,,,,,,,,
+1997-02-02,Newcastle United,Leicester City,4,3,"(3, 0, 'Robbie Elliott')","(55, 1, 'Matt Elliott')","(60, 1, 'Steve Claridge')","(68, 1, 'Emile Heskey')","(77, 0, 'Alan Shearer')","(83, 0, 'Alan Shearer')","(90, 0, 'Alan Shearer')",,,,,
+1997-02-15,Derby County,West Ham United,1,0,"(53, 0, 'Aljosa Asanovic')",,,,,,,,,,,
+1997-02-15,Tottenham Hotspur,Arsenal,0,0,,,,,,,,,,,,
+1997-02-19,Arsenal,Manchester United,1,2,"(18, 1, 'Andrew Cole')","(32, 1, 'Ole Gunnar Solskjaer')","(69, 0, 'Dennis Bergkamp')",,,,,,,,,
+1997-02-19,Aston Villa,Coventry City,2,1,"(43, 0, 'Dwight Yorke')","(75, 0, 'Dwight Yorke')","(78, 1, 'Steve Staunton')",,,,,,,,,
+1997-02-19,Derby County,Sheffield Wednesday,2,2,"(9, 1, 'Wayne Collins')","(34, 0, 'Dean Sturridge')","(71, 0, 'Igor Stimac')","(76, 1, 'David Hirst')",,,,,,,,
+1997-02-19,Liverpool,Leeds United,4,0,"(21, 0, 'Robbie Fowler')","(36, 0, 'Stan Collymore')","(37, 0, 'Stan Collymore')","(87, 0, 'Jamie Redknapp')",,,,,,,,
+1997-02-22,Chelsea,Manchester United,1,1,"(2, 0, 'Gianfranco Zola')","(68, 1, 'David Beckham')",,,,,,,,,,
+1997-02-22,Coventry City,Everton,0,0,,,,,,,,,,,,
+1997-02-22,Leicester City,Derby County,4,2,"(2, 1, 'Dean Sturridge')","(7, 0, 'Ian Marshall')","(24, 0, 'Ian Marshall')","(27, 0, 'Ian Marshall')","(47, 1, 'Dean Sturridge')","(59, 0, 'Steve Claridge')",,,,,,
+1997-02-22,Liverpool,Blackburn Rovers,0,0,,,,,,,,,,,,
+1997-02-22,Middlesbrough,Newcastle United,0,1,"(8, 1, 'Les Ferdinand')",,,,,,,,,,,
+1997-02-22,Nottingham Forest,Aston Villa,0,0,,,,,,,,,,,,
+1997-02-22,Southampton,Sheffield Wednesday,2,3,"(28, 0, 'Egil Ostenstad')","(33, 0, 'Matt Le Tissier')","(49, 1, 'David Hirst')","(55, 1, 'David Hirst')","(78, 1, 'Andy Booth')",,,,,,,
+1997-02-22,Sunderland,Leeds United,0,1,"(49, 1, 'Lee Bowyer')",,,,,,,,,,,
+1997-02-23,Arsenal,Wimbledon,0,1,"(21, 1, 'Vinnie Jones')",,,,,,,,,,,
+1997-02-24,West Ham United,Tottenham Hotspur,4,3,"(8, 1, 'Teddy Sheringham')","(21, 0, 'Julian Dicks')","(22, 0, 'Paul Kitson')","(29, 1, 'Darren Anderton')","(38, 0, 'John Hartson')","(53, 1, 'David Howells')","(72, 0, 'Julian Dicks')",,,,,
+1997-02-26,Southampton,Wimbledon,0,0,,,,,,,,,,,,
+1997-03-01,Blackburn Rovers,Sunderland,1,0,"(84, 0, 'Kevin Gallacher')",,,,,,,,,,,
+1997-03-01,Derby County,Chelsea,3,2,"(16, 1, 'Scott Minto')","(51, 0, 'Scott Minto')","(54, 1, 'Frank Leboeuf')","(62, 0, 'Aljosa Asanovic')","(90, 0, 'Ashley Ward')",,,,,,,
+1997-03-01,Everton,Arsenal,0,2,"(21, 1, 'Dennis Bergkamp')","(27, 1, 'Ian Wright')",,,,,,,,,,
+1997-03-01,Leeds United,West Ham United,1,0,"(47, 0, 'Lee Sharpe')",,,,,,,,,,,
+1997-03-01,Manchester United,Coventry City,3,1,"(4, 0, 'Gary Breen')","(5, 0, 'Eoin Jess')","(47, 0, 'Karel Poborsky')","(86, 1, 'Darren Huckerby')",,,,,,,,
+1997-03-01,Newcastle United,Southampton,0,1,"(56, 1, 'Matt Le Tissier')",,,,,,,,,,,
+1997-03-01,Sheffield Wednesday,Middlesbrough,3,1,"(21, 0, 'Andy Booth')","(43, 0, 'Graham Hyde')","(72, 1, 'Robbie Mustoe')","(90, 0, 'Mark Pembridge')",,,,,,,,
+1997-03-01,Tottenham Hotspur,Nottingham Forest,0,1,"(18, 1, 'Dean Saunders')",,,,,,,,,,,
+1997-03-01,Wimbledon,Leicester City,1,3,"(17, 1, 'Matt Elliott')","(27, 1, 'Matt Elliott')","(32, 1, 'Mark Robins')","(66, 0, 'Dean Holdsworth')",,,,,,,,
+1997-03-02,Aston Villa,Liverpool,1,0,"(83, 0, 'Ian Taylor')",,,,,,,,,,,
+1997-03-03,Coventry City,Wimbledon,1,1,"(32, 1, 'Efan Ekoku')","(37, 0, 'Dion Dublin')",,,,,,,,,,
+1997-03-04,Sunderland,Tottenham Hotspur,0,4,"(2, 1, 'Steffen Iversen')","(9, 1, 'Steffen Iversen')","(26, 1, 'Allan Nielsen')","(62, 1, 'Steffen Iversen')",,,,,,,,
+1997-03-05,Chelsea,Blackburn Rovers,1,1,"(62, 1, 'Per Pedersen')","(63, 0, 'Scott Minto')",,,,,,,,,,
+1997-03-05,Leicester City,Aston Villa,1,0,"(66, 0, 'Steve Claridge')",,,,,,,,,,,
+1997-03-05,Middlesbrough,Derby County,6,1,"(24, 0, 'Vladimir Kinder')","(54, 0, 'Fabrizio Ravanelli')","(70, 0, 'Craig Hignett')","(81, 0, 'Mikkel Beck')","(82, 0, 'Fabrizio Ravanelli')","(85, 0, 'Fabrizio Ravanelli')","(90, 1, 'Paul Simpson')",,,,,
+1997-03-05,Nottingham Forest,Sheffield Wednesday,0,3,"(52, 1, 'Benito Carbone')","(58, 1, 'Regi Blinker')","(87, 1, 'Benito Carbone')",,,,,,,,,
+1997-03-05,Southampton,Everton,2,2,"(11, 1, 'Duncan Ferguson')","(27, 1, 'Gary Speed')","(59, 0, 'Robbie Slater')","(61, 0, 'Craig Short')",,,,,,,,
+1997-03-08,Arsenal,Nottingham Forest,2,0,"(50, 0, 'Dennis Bergkamp')","(79, 0, 'Dennis Bergkamp')",,,,,,,,,,
+1997-03-08,Coventry City,Leicester City,0,0,,,,,,,,,,,,
+1997-03-08,Leeds United,Everton,1,0,"(28, 0, 'Robert Molenaar')",,,,,,,,,,,
+1997-03-08,Sunderland,Manchester United,2,1,"(52, 0, 'Michael Gray')","(76, 0, 'John Mullin')","(78, 1, 'Andy Melville')",,,,,,,,,
+1997-03-10,Liverpool,Newcastle United,4,3,"(29, 0, 'Steve McManaman')","(30, 0, 'Patrik Berger')","(42, 0, 'Robbie Fowler')","(71, 1, 'Keith Gillespie')","(87, 1, 'Faustino Asprilla')","(88, 1, 'Warren Barton')","(90, 0, 'Robbie Fowler')",,,,,
+1997-03-11,Blackburn Rovers,Nottingham Forest,1,1,"(18, 1, 'Alfe-Inge Haaland')","(64, 0, 'Kevin Gallacher')",,,,,,,,,,
+1997-03-12,Leeds United,Southampton,0,0,,,,,,,,,,,,
+1997-03-12,Sheffield Wednesday,Sunderland,2,1,"(28, 1, 'Kevin Ball')","(42, 0, 'David Hirst')","(63, 0, 'Dejan Stefanovic')",,,,,,,,,
+1997-03-12,West Ham United,Chelsea,3,2,"(26, 1, 'Gianluca Vialli')","(55, 0, 'Julian Dicks')","(68, 0, 'Paul Kitson')","(87, 1, 'Mark Hughes')","(90, 0, 'Paul Kitson')",,,,,,,
+1997-03-15,Aston Villa,West Ham United,0,0,,,,,,,,,,,,
+1997-03-15,Blackburn Rovers,Wimbledon,3,1,"(7, 0, 'Kevin Gallacher')","(26, 0, 'Kevin Gallacher')","(39, 1, 'Efan Ekoku')","(58, 0, 'Kevin Gallacher')",,,,,,,,
+1997-03-15,Everton,Derby County,1,0,"(79, 0, 'Dave Watson')",,,,,,,,,,,
+1997-03-15,Leicester City,Middlesbrough,1,3,"(9, 1, 'Clayton Blackmore')","(27, 1, ' Juninho')","(36, 1, 'Mikkel Beck')","(47, 0, 'Ian Marshall')",,,,,,,,
+1997-03-15,Manchester United,Sheffield Wednesday,2,0,"(19, 0, 'Andrew Cole')","(61, 0, 'Karel Poborsky')",,,,,,,,,,
+1997-03-15,Newcastle United,Coventry City,4,0,"(12, 0, 'Steve Watson')","(45, 0, 'Rob Lee')","(76, 0, 'Peter Beardsley')","(87, 0, 'Robbie Elliott')",,,,,,,,
+1997-03-15,Nottingham Forest,Liverpool,1,1,"(4, 1, 'Robbie Fowler')","(30, 0, 'Ian Woan')",,,,,,,,,,
+1997-03-15,Southampton,Arsenal,0,2,"(41, 1, 'Stephen Hughes')","(72, 1, 'Paul Shaw')",,,,,,,,,,
+1997-03-15,Tottenham Hotspur,Leeds United,1,0,"(26, 0, 'Darren Anderton')",,,,,,,,,,,
+1997-03-16,Chelsea,Sunderland,6,2,"(38, 0, 'Gianfranco Zola')","(43, 0, 'Frank Sinclair')","(51, 0, 'Dan Petrescu')","(58, 1, 'Paul Stewart')","(60, 1, 'Alex Rae')","(78, 0, 'Mark Hughes')","(89, 0, 'Mark Hughes')","(90, 0, 'Roberto Di Matteo')",,,,
+1997-03-18,Wimbledon,West Ham United,1,1,"(19, 0, 'Mick Harford')","(89, 1, 'Stan Lazaridis')",,,,,,,,,,
+1997-03-19,Chelsea,Southampton,1,0,"(22, 0, 'Gianfranco Zola')",,,,,,,,,,,
+1997-03-19,Leicester City,Tottenham Hotspur,1,1,"(74, 0, 'Steve Claridge')","(90, 1, 'Teddy Sheringham')",,,,,,,,,,
+1997-03-19,Middlesbrough,Blackburn Rovers,2,1,"(44, 0, ' Juninho')","(61, 0, 'Fabrizio Ravanelli')","(68, 1, 'Chris Sutton')",,,,,,,,,
+1997-03-22,Blackburn Rovers,Aston Villa,0,2,"(64, 1, 'Tommy Johnson')","(79, 1, 'Dwight Yorke')",,,,,,,,,,
+1997-03-22,Coventry City,West Ham United,1,3,"(9, 0, 'Marc Rieper')","(27, 1, 'John Hartson')","(34, 1, 'Rio Ferdinand')","(49, 1, 'John Hartson')",,,,,,,,
+1997-03-22,Derby County,Tottenham Hotspur,4,2,"(10, 0, 'Robin van der Laan')","(22, 0, 'Paul Trollope')","(29, 1, 'Ronny Rosenthal')","(50, 1, 'Jason Dozzell')","(68, 0, 'Dean Sturridge')","(69, 0, 'Ashley Ward')",,,,,,
+1997-03-22,Everton,Manchester United,0,2,"(35, 1, 'Ole Gunnar Solskjaer')","(79, 1, 'Eric Cantona')",,,,,,,,,,
+1997-03-22,Middlesbrough,Chelsea,1,0,"(53, 0, ' Juninho')",,,,,,,,,,,
+1997-03-22,Sheffield Wednesday,Leeds United,2,2,"(17, 1, 'Lee Sharpe')","(20, 0, 'David Hirst')","(21, 1, 'Rodney Wallace')","(51, 0, 'Andy Booth')",,,,,,,,
+1997-03-22,Southampton,Leicester City,2,2,"(32, 0, 'Egil Ostenstad')","(46, 1, 'Emile Heskey')","(48, 0, 'Ulrich Van Gobbel')","(70, 1, 'Steve Claridge')",,,,,,,,
+1997-03-22,Sunderland,Nottingham Forest,1,1,"(61, 0, 'Kevin Ball')","(86, 1, 'Des Lyttle')",,,,,,,,,,
+1997-03-23,Wimbledon,Newcastle United,1,1,"(28, 0, 'Oyvind Leonhardsen')","(53, 1, 'Faustino Asprilla')",,,,,,,,,,
+1997-03-24,Arsenal,Liverpool,1,2,"(50, 1, 'Stan Collymore')","(65, 1, 'Jason McAteer')","(78, 0, 'Ian Wright')",,,,,,,,,
+1997-03-24,Middlesbrough,Nottingham Forest,1,1,"(4, 1, 'Alfe-Inge Haaland')","(56, 0, 'Mikkel Beck')",,,,,,,,,,
+1997-04-05,Aston Villa,Everton,3,1,"(14, 1, 'David Unsworth')","(41, 0, 'Savo Milosevic')","(50, 0, 'Steve Staunton')","(54, 0, 'Dwight Yorke')",,,,,,,,
+1997-04-05,Chelsea,Arsenal,0,3,"(22, 1, 'Ian Wright')","(53, 1, 'David Platt')","(80, 1, 'Dennis Bergkamp')",,,,,,,,,
+1997-04-05,Manchester United,Derby County,2,3,"(29, 1, 'Ashley Ward')","(35, 1, 'Paulo Wanchope')","(47, 0, 'Eric Cantona')","(75, 1, 'Dean Sturridge')","(76, 0, 'Ole Gunnar Solskjaer')",,,,,,,
+1997-04-05,Newcastle United,Sunderland,1,1,"(32, 1, 'Michael Gray')","(77, 0, 'Alan Shearer')",,,,,,,,,,
+1997-04-05,Nottingham Forest,Southampton,1,3,"(8, 1, 'Jim Magilton')","(87, 1, 'Micky Evans')","(88, 0, 'Stuart Pearce')","(89, 1, 'Micky Evans')",,,,,,,,
+1997-04-05,Tottenham Hotspur,Wimbledon,1,0,"(81, 0, 'Jason Dozzell')",,,,,,,,,,,
+1997-04-06,Liverpool,Coventry City,1,2,"(52, 0, 'Robbie Fowler')","(65, 1, 'Noel Whelan')","(90, 1, 'Dion Dublin')",,,,,,,,,
+1997-04-07,Leeds United,Blackburn Rovers,0,0,,,,,,,,,,,,
+1997-04-09,Coventry City,Chelsea,3,1,"(43, 1, 'Paul Hughes')","(49, 0, 'Dion Dublin')","(51, 0, 'Paul D Williams')","(58, 0, 'Noel Whelan')",,,,,,,,
+1997-04-09,Derby County,Southampton,1,1,"(66, 0, 'Ashley Ward')","(90, 1, 'Darryl Powell')",,,,,,,,,,
+1997-04-09,Everton,Leicester City,1,1,"(17, 0, 'Michael Branch')","(70, 1, 'Ian Marshall')",,,,,,,,,,
+1997-04-09,Sheffield Wednesday,Tottenham Hotspur,2,1,"(18, 0, 'Peter Atherton')","(43, 1, 'Allan Nielsen')","(70, 0, 'Andy Booth')",,,,,,,,,
+1997-04-09,West Ham United,Middlesbrough,0,0,,,,,,,,,,,,
+1997-04-09,Wimbledon,Aston Villa,0,2,"(26, 1, 'Savo Milosevic')","(78, 1, 'Alan Wright')",,,,,,,,,,
+1997-04-12,Arsenal,Leicester City,2,0,"(35, 0, 'Tony Adams')","(66, 0, 'David Platt')",,,,,,,,,,
+1997-04-12,Blackburn Rovers,Manchester United,2,3,"(32, 1, 'Andrew Cole')","(34, 0, 'Billy McKinlay')","(43, 1, 'Paul Scholes')","(80, 1, 'Eric Cantona')","(88, 0, 'Paul Warhurst')",,,,,,,
+1997-04-12,Derby County,Aston Villa,2,1,"(21, 0, 'Gary Rowett')","(36, 0, 'Robin van der Laan')","(84, 1, 'Julian Joachim')",,,,,,,,,
+1997-04-12,Everton,Tottenham Hotspur,1,0,"(11, 0, 'Gary Speed')",,,,,,,,,,,
+1997-04-12,Southampton,West Ham United,2,0,"(13, 0, 'Micky Evans')","(36, 0, 'Eyal Berkovic')",,,,,,,,,,
+1997-04-13,Sheffield Wednesday,Newcastle United,1,1,"(35, 1, 'Robbie Elliott')","(57, 0, 'Mark Pembridge')",,,,,,,,,,
+1997-04-13,Sunderland,Liverpool,1,2,"(33, 1, 'Robbie Fowler')","(47, 1, 'Steve McManaman')","(53, 0, 'Paul Stewart')",,,,,,,,,
+1997-04-16,Everton,Liverpool,1,1,"(26, 1, 'Jamie Redknapp')","(65, 0, 'Duncan Ferguson')",,,,,,,,,,
+1997-04-16,Newcastle United,Chelsea,3,1,"(12, 0, 'Alan Shearer')","(30, 0, 'Faustino Asprilla')","(35, 0, 'Alan Shearer')","(62, 1, 'Craig Burley')",,,,,,,,
+1997-04-16,Wimbledon,Leeds United,2,0,"(19, 0, 'Dean Holdsworth')","(74, 0, 'Stewart Castledine')",,,,,,,,,,
+1997-04-19,Arsenal,Blackburn Rovers,1,1,"(18, 0, 'David Platt')","(89, 1, 'Garry Flitcroft')",,,,,,,,,,
+1997-04-19,Aston Villa,Tottenham Hotspur,1,1,"(54, 1, 'Ramon Vega')","(81, 0, 'Dwight Yorke')",,,,,,,,,,
+1997-04-19,Chelsea,Leicester City,2,1,"(13, 0, 'Scott Minto')","(47, 1, 'Frank Sinclair')","(73, 0, 'Mark Hughes')",,,,,,,,,
+1997-04-19,Liverpool,Manchester United,1,3,"(13, 1, 'Gary Pallister')","(19, 0, 'John Barnes')","(42, 1, 'Gary Pallister')","(63, 1, 'Andrew Cole')",,,,,,,,
+1997-04-19,Middlesbrough,Sunderland,0,1,"(45, 1, 'Darren Williams')",,,,,,,,,,,
+1997-04-19,Newcastle United,Derby County,3,1,"(1, 1, 'Dean Sturridge')","(12, 0, 'Robbie Elliott')","(52, 0, 'Les Ferdinand')","(75, 0, 'Alan Shearer')",,,,,,,,
+1997-04-19,Nottingham Forest,Leeds United,1,1,"(6, 0, 'Pierre Van Hooijdonk')","(66, 1, 'Brian Deane')",,,,,,,,,,
+1997-04-19,Sheffield Wednesday,Wimbledon,3,1,"(42, 0, ""O'Neill Donaldson"")","(78, 0, 'Orlando Trustfull')","(83, 0, 'Orlando Trustfull')","(85, 1, 'Jon Goodman')",,,,,,,,
+1997-04-19,Southampton,Coventry City,2,2,"(27, 0, 'Micky Evans')","(47, 0, 'Egil Ostenstad')","(62, 1, 'Peter Ndlovu')","(74, 1, 'Noel Whelan')",,,,,,,,
+1997-04-19,West Ham United,Everton,2,2,"(10, 0, 'Paul Kitson')","(32, 0, 'Paul Kitson')","(78, 1, 'Michael Branch')","(90, 1, 'Duncan Ferguson')",,,,,,,,
+1997-04-21,Coventry City,Arsenal,1,1,"(2, 0, 'Dion Dublin')","(19, 1, 'Ian Wright')",,,,,,,,,,
+1997-04-22,Blackburn Rovers,Sheffield Wednesday,4,1,"(5, 0, 'Henning Berg')","(23, 0, 'Tim Sherwood')","(39, 0, 'Graeme Le Saux')","(58, 0, 'Garry Flitcroft')","(83, 1, 'Benito Carbone')",,,,,,,
+1997-04-22,Leeds United,Aston Villa,0,0,,,,,,,,,,,,
+1997-04-22,Sunderland,Southampton,0,1,"(22, 1, 'Egil Ostenstad')",,,,,,,,,,,
+1997-04-22,Wimbledon,Chelsea,0,1,"(14, 1, 'Dan Petrescu')",,,,,,,,,,,
+1997-04-23,Derby County,Nottingham Forest,0,0,,,,,,,,,,,,
+1997-04-23,Leicester City,West Ham United,0,1,"(75, 1, 'John Moncur')",,,,,,,,,,,
+1997-04-24,Tottenham Hotspur,Middlesbrough,1,0,"(71, 0, 'Andy Sinton')",,,,,,,,,,,
+1997-05-03,Arsenal,Newcastle United,0,1,"(44, 1, 'Robbie Elliott')",,,,,,,,,,,
+1997-05-03,Chelsea,Leeds United,0,0,,,,,,,,,,,,
+1997-05-03,Coventry City,Derby County,1,2,"(49, 1, 'Gary Rowett')","(59, 0, 'Gary McAllister')","(67, 1, 'Dean Sturridge')",,,,,,,,,
+1997-05-03,Leicester City,Manchester United,2,2,"(16, 0, 'Steve Walsh')","(20, 0, 'Ian Marshall')","(45, 1, 'Ole Gunnar Solskjaer')","(51, 1, 'Ole Gunnar Solskjaer')",,,,,,,,
+1997-05-03,Liverpool,Tottenham Hotspur,2,1,"(5, 1, 'Darren Anderton')","(15, 0, 'Stan Collymore')","(43, 0, 'Patrik Berger')",,,,,,,,,
+1997-05-03,Middlesbrough,Aston Villa,3,2,"(20, 0, 'Fabrizio Ravanelli')","(34, 0, 'Mikkel Beck')","(58, 1, 'Ugo Ehiogu')","(77, 1, 'Savo Milosevic')","(90, 0, 'Fabrizio Ravanelli')",,,,,,,
+1997-05-03,Nottingham Forest,Wimbledon,1,1,"(16, 1, 'Oyvind Leonhardsen')","(59, 0, 'Bryan Roy')",,,,,,,,,,
+1997-05-03,Southampton,Blackburn Rovers,2,0,"(22, 0, 'Robbie Slater')","(74, 0, 'Matt Le Tissier')",,,,,,,,,,
+1997-05-03,Sunderland,Everton,3,0,"(36, 0, 'Paul Stewart')","(57, 0, 'Chris Waddle')","(68, 0, 'Allan Johnston')",,,,,,,,,
+1997-05-03,West Ham United,Sheffield Wednesday,5,1,"(5, 0, 'Paul Kitson')","(13, 0, 'Paul Kitson')","(30, 0, 'John Hartson')","(67, 0, 'John Hartson')","(82, 1, 'Benito Carbone')","(89, 0, 'Paul Kitson')",,,,,,
+1997-05-05,Manchester United,Middlesbrough,3,3,"(15, 1, ' Juninho')","(34, 0, 'Roy Keane')","(37, 1, ' Emerson')","(40, 1, 'Craig Hignett')","(42, 0, 'Gary Neville')","(67, 0, 'Ole Gunnar Solskjaer')",,,,,,
+1997-05-06,West Ham United,Newcastle United,0,0,,,,,,,,,,,,
+1997-05-06,Wimbledon,Liverpool,2,1,"(43, 0, 'Jason Euell')","(55, 0, 'Dean Holdsworth')","(74, 1, 'Michael Owen')",,,,,,,,,
+1997-05-07,Leicester City,Sheffield Wednesday,1,0,"(86, 0, 'Matt Elliott')",,,,,,,,,,,
+1997-05-08,Blackburn Rovers,Middlesbrough,0,0,,,,,,,,,,,,
+1997-05-08,Manchester United,Newcastle United,0,0,,,,,,,,,,,,
+1997-05-11,Aston Villa,Southampton,1,0,"(12, 0, 'Richard Dryden')",,,,,,,,,,,
+1997-05-11,Blackburn Rovers,Leicester City,2,4,"(13, 1, 'Emile Heskey')","(25, 0, 'Garry Flitcroft')","(55, 1, 'Steve Claridge')","(56, 1, 'Emile Heskey')","(66, 0, 'Graham Fenton')","(81, 1, 'Stuart Wilson')",,,,,,
+1997-05-11,Derby County,Arsenal,1,3,"(9, 0, 'Ashley Ward')","(55, 1, 'Ian Wright')","(82, 1, 'Dennis Bergkamp')","(90, 1, 'Ian Wright')",,,,,,,,
+1997-05-11,Everton,Chelsea,1,2,"(14, 1, 'Dennis Wise')","(36, 1, 'Roberto Di Matteo')","(77, 0, 'Nick Barmby')",,,,,,,,,
+1997-05-11,Leeds United,Middlesbrough,1,1,"(77, 0, 'Brian Deane')","(79, 1, ' Juninho')",,,,,,,,,,
+1997-05-11,Manchester United,West Ham United,2,0,"(11, 0, 'Ole Gunnar Solskjaer')","(84, 0, 'Jordi Cruyff')",,,,,,,,,,
+1997-05-11,Newcastle United,Nottingham Forest,5,0,"(20, 0, 'Faustino Asprilla')","(23, 0, 'Les Ferdinand')","(26, 0, 'Les Ferdinand')","(36, 0, 'Alan Shearer')","(77, 0, 'Robbie Elliott')",,,,,,,
+1997-05-11,Sheffield Wednesday,Liverpool,1,1,"(75, 0, ""O'Neill Donaldson"")","(83, 1, 'Jamie Redknapp')",,,,,,,,,,
+1997-05-11,Tottenham Hotspur,Coventry City,1,2,"(13, 1, 'Dion Dublin')","(39, 1, 'Paul D Williams')","(44, 0, 'Paul McVeigh')",,,,,,,,,
+1997-05-11,Wimbledon,Sunderland,1,0,"(85, 0, 'Jason Euell')",,,,,,,,,,,

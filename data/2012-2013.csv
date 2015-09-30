@@ -1,381 +1,381 @@
-Date,Home,Away,FTHG,FTAG
-19/08/2012,Wigan Athletic,Chelsea,0,2,"(2, 1, 'Branislav Ivanovic')","(7, 1, 'Frank Lampard')"
-22/08/2012,Chelsea,Reading,4,2,"(18, 0, 'Frank Lampard')","(25, 1, 'Pavel Pogrebnyak')","(29, 1, 'Danny Guthrie')","(69, 0, 'Gary Cahill')","(81, 0, 'Fernando Torres')","(90, 0, 'Branislav Ivanovic')"
-25/08/2012,Chelsea,Newcastle United,2,0,"(22, 0, 'Eden Hazard')","(45, 0, 'Fernando Torres')"
-15/09/2012,Queens Park Rangers,Chelsea,0,0
-22/09/2012,Chelsea,Stoke City,1,0,"(85, 0, 'Ashley Cole')"
-29/09/2012,Arsenal,Chelsea,1,2,"(20, 1, 'Fernando Torres')","(42, 0, ' Gervinho')","(53, 1, 'Juan Mata')"
-06/10/2012,Chelsea,Norwich City,4,1,"(11, 1, 'Grant Holt')","(14, 0, 'Fernando Torres')","(22, 0, 'Frank Lampard')","(31, 0, 'Eden Hazard')","(76, 0, 'Branislav Ivanovic')"
-20/10/2012,Tottenham Hotspur,Chelsea,2,4,"(17, 1, 'Gary Cahill')","(47, 0, 'William Gallas')","(54, 0, 'Jermain Defoe')","(66, 1, 'Juan Mata')","(69, 1, 'Juan Mata')","(90, 1, 'Daniel Sturridge')"
-28/10/2012,Chelsea,Manchester United,2,3,"(4, 1, ' David Luiz')","(12, 1, 'Robin Van Persie')","(44, 0, 'Juan Mata')","(53, 0, ' Ramires')","(75, 1, 'Javier Hernandez')"
-03/11/2012,Swansea City,Chelsea,1,1,"(61, 1, 'Victor Moses')","(88, 0, ' Pablo Hernandez')"
-11/11/2012,Chelsea,Liverpool,1,1,"(20, 0, 'John Terry')","(73, 1, 'Luis Suarez')"
-17/11/2012,West Bromwich Albion,Chelsea,2,1,"(10, 0, 'Shane Long')","(39, 1, 'Eden Hazard')","(50, 0, 'Peter Odemwingie')"
-25/11/2012,Chelsea,Manchester City,0,0
-28/11/2012,Chelsea,Fulham,0,0
-01/12/2012,West Ham United,Chelsea,3,1,"(13, 1, 'Juan Mata')","(63, 0, 'Carlton Cole')","(86, 0, 'Mohamed Diame')","(90, 0, 'Modibo Maiga')"
-08/12/2012,Sunderland,Chelsea,1,3,"(11, 1, 'Fernando Torres')","(45, 1, 'Fernando Torres')","(49, 1, 'Juan Mata')","(66, 0, 'Adam Johnson')"
-23/12/2012,Chelsea,Aston Villa,8,0,"(3, 0, 'Fernando Torres')","(29, 0, ' David Luiz')","(34, 0, 'Branislav Ivanovic')","(58, 0, 'Frank Lampard')","(75, 0, ' Ramires')","(79, 0, ' Oscar')","(83, 0, 'Eden Hazard')","(90, 0, ' Ramires')"
-26/12/2012,Norwich City,Chelsea,0,1,"(38, 1, 'Juan Mata')"
-30/12/2012,Everton,Chelsea,1,2,"(2, 0, 'Steven Pienaar')","(42, 1, 'Frank Lampard')","(72, 1, 'Frank Lampard')"
-02/01/2013,Chelsea,Queens Park Rangers,0,1,"(78, 1, 'Shaun Wright-Phillips')"
-12/01/2013,Stoke City,Chelsea,0,4,"(45, 1, 'Jon Walters')","(62, 1, 'Jon Walters')","(65, 1, 'Frank Lampard')","(73, 1, 'Eden Hazard')"
-16/01/2013,Chelsea,Southampton,2,2,"(25, 0, 'Demba Ba')","(45, 0, 'Eden Hazard')","(58, 1, 'Rickie Lambert')","(75, 1, 'Jason Puncheon')"
-20/01/2013,Chelsea,Arsenal,2,1,"(6, 0, 'Juan Mata')","(16, 0, 'Frank Lampard')","(58, 1, 'Theo Walcott')"
-30/01/2013,Reading,Chelsea,2,2,"(45, 1, 'Juan Mata')","(66, 1, 'Frank Lampard')","(87, 0, 'Adam Le Fondre')","(90, 0, 'Adam Le Fondre')"
-02/02/2013,Newcastle United,Chelsea,3,2,"(41, 0, 'Jonas Gutierrez')","(55, 1, 'Frank Lampard')","(61, 1, 'Juan Mata')","(68, 0, 'Moussa Sissoko')","(90, 0, 'Moussa Sissoko')"
-09/02/2013,Chelsea,Wigan Athletic,4,1,"(23, 0, ' Ramires')","(56, 0, 'Eden Hazard')","(58, 1, 'Shaun Maloney')","(86, 0, 'Frank Lampard')","(90, 0, 'Marko Marin')"
-24/02/2013,Manchester City,Chelsea,2,0,"(63, 0, 'Yaya Toure')","(85, 0, 'Carlos Tevez')"
-02/03/2013,Chelsea,West Bromwich Albion,1,0,"(28, 0, 'Demba Ba')"
-17/03/2013,Chelsea,West Ham United,2,0,"(19, 0, 'Frank Lampard')","(50, 0, 'Eden Hazard')"
-30/03/2013,Southampton,Chelsea,2,1,"(23, 0, 'Jay Rodriguez')","(33, 1, 'John Terry')","(35, 0, 'Rickie Lambert')"
-07/04/2013,Chelsea,Sunderland,2,1,"(45, 1, 'Cesar Azpilicueta')","(47, 0, 'Matthew Kilgallon')","(55, 0, 'Branislav Ivanovic')"
-17/04/2013,Fulham,Chelsea,0,3,"(30, 1, ' David Luiz')","(43, 1, 'John Terry')","(71, 1, 'John Terry')"
-21/04/2013,Liverpool,Chelsea,2,2,"(26, 1, ' Oscar')","(52, 0, 'Daniel Sturridge')","(57, 1, 'Eden Hazard')","(90, 0, 'Luis Suarez')"
-28/04/2013,Chelsea,Swansea City,2,0,"(43, 0, ' Oscar')","(45, 0, 'Frank Lampard')"
-05/05/2013,Manchester United,Chelsea,0,1,"(87, 1, 'Juan Mata')"
-08/05/2013,Chelsea,Tottenham Hotspur,2,2,"(10, 0, ' Oscar')","(26, 1, 'Emmanuel Adebayor')","(39, 0, ' Ramires')","(80, 1, 'Gylfi Sigurdsson')"
-11/05/2013,Aston Villa,Chelsea,1,2,"(14, 0, 'Christian Benteke')","(61, 1, 'Frank Lampard')","(88, 1, 'Frank Lampard')"
-19/05/2013,Chelsea,Everton,2,1,"(7, 0, 'Juan Mata')","(14, 1, 'Steven Naismith')","(76, 0, 'Fernando Torres')"
-18/08/2012,Queens Park Rangers,Swansea City,0,5,"(8, 1, ' Michu')","(53, 1, ' Michu')","(63, 1, 'Nathan Dyer')","(71, 1, 'Nathan Dyer')","(81, 1, 'Scott Sinclair')"
-25/08/2012,Swansea City,West Ham United,3,0,"(20, 0, 'Angel Rangel')","(29, 0, ' Michu')","(64, 0, 'Danny Graham')"
-01/09/2012,Swansea City,Sunderland,2,2,"(40, 1, 'Steven Fletcher')","(45, 0, 'Wayne Routledge')","(45, 1, 'Steven Fletcher')","(66, 0, ' Michu')"
-15/09/2012,Aston Villa,Swansea City,2,0,"(16, 0, 'Matthew Lowton')","(88, 0, 'Christian Benteke')"
-22/09/2012,Swansea City,Everton,0,3,"(21, 1, 'Victor Anichebe')","(43, 1, 'Kevin Mirallas')","(82, 1, 'Marouane Fellaini')"
-29/09/2012,Stoke City,Swansea City,2,0,"(12, 0, 'Peter Crouch')","(36, 0, 'Peter Crouch')"
-06/10/2012,Swansea City,Reading,2,2,"(31, 1, 'Pavel Pogrebnyak')","(44, 1, 'Noel Hunt')","(71, 0, ' Michu')","(78, 0, 'Wayne Routledge')"
-20/10/2012,Swansea City,Wigan Athletic,2,1,"(65, 0, ' Pablo Hernandez')","(67, 0, ' Michu')","(69, 1, 'Emmerson Boyce')"
-27/10/2012,Manchester City,Swansea City,1,0,"(61, 0, 'Carlos Tevez')"
-10/11/2012,Southampton,Swansea City,1,1,"(64, 0, 'Morgan Schneiderlin')","(73, 1, 'Nathan Dyer')"
-17/11/2012,Newcastle United,Swansea City,1,2,"(58, 1, ' Michu')","(87, 1, 'Jonathan De Guzman')","(90, 0, 'Demba Ba')"
-25/11/2012,Swansea City,Liverpool,0,0
-28/11/2012,Swansea City,West Bromwich Albion,3,1,"(9, 0, ' Michu')","(11, 0, 'Wayne Routledge')","(39, 0, 'Wayne Routledge')","(45, 1, 'Romelu Lukaku')"
-01/12/2012,Arsenal,Swansea City,0,2,"(88, 1, ' Michu')","(90, 1, ' Michu')"
-08/12/2012,Swansea City,Norwich City,3,4,"(16, 1, 'Steven Whittaker')","(40, 1, 'Sebastien Bassong')","(44, 1, 'Grant Holt')","(51, 0, ' Michu')","(59, 0, 'Jonathan De Guzman')","(77, 1, 'Robert Snodgrass')","(90, 0, ' Michu')"
-16/12/2012,Tottenham Hotspur,Swansea City,1,0,"(75, 0, 'Jan Vertonghen')"
-23/12/2012,Swansea City,Manchester United,1,1,"(16, 1, 'Patrice Evra')","(29, 0, ' Michu')"
-26/12/2012,Reading,Swansea City,0,0
-29/12/2012,Fulham,Swansea City,1,2,"(19, 1, 'Danny Graham')","(52, 1, 'Jonathan De Guzman')","(56, 0, 'Bryan Ruiz')"
-01/01/2013,Swansea City,Aston Villa,2,2,"(9, 0, 'Wayne Routledge')","(44, 1, 'Andi Weimann')","(84, 1, 'Christian Benteke')","(90, 0, 'Danny Graham')"
-12/01/2013,Everton,Swansea City,0,0
-19/01/2013,Swansea City,Stoke City,3,1,"(49, 0, 'Ben Davies')","(57, 0, 'Jonathan De Guzman')","(80, 0, 'Jonathan De Guzman')","(90, 1, 'Michael Owen')"
-29/01/2013,Sunderland,Swansea City,0,0
-02/02/2013,West Ham United,Swansea City,1,0,"(77, 0, 'Andy Carroll')"
-09/02/2013,Swansea City,Queens Park Rangers,4,1,"(8, 0, ' Michu')","(18, 0, 'Angel Rangel')","(48, 1, 'Bobby Zamora')","(50, 0, ' Pablo Hernandez')","(67, 0, ' Michu')"
-17/02/2013,Liverpool,Swansea City,5,0,"(34, 0, 'Steven Gerrard')","(46, 0, 'Philippe Coutinho')","(50, 0, 'Jose Enrique')","(56, 0, 'Luis Suarez')","(71, 0, 'Daniel Sturridge')"
-02/03/2013,Swansea City,Newcastle United,1,0,"(85, 0, 'Luke Moore')"
-09/03/2013,West Bromwich Albion,Swansea City,2,1,"(33, 1, 'Luke Moore')","(40, 0, 'Romelu Lukaku')","(61, 0, 'Jonathan De Guzman')"
-16/03/2013,Swansea City,Arsenal,0,2,"(74, 1, 'Nacho Monreal')","(90, 1, ' Gervinho')"
-30/03/2013,Swansea City,Tottenham Hotspur,1,2,"(7, 1, 'Jan Vertonghen')","(21, 1, 'Gareth Bale')","(71, 0, ' Michu')"
-06/04/2013,Norwich City,Swansea City,2,2,"(35, 1, ' Michu')","(40, 0, 'Robert Snodgrass')","(60, 0, 'Michael Turner')","(75, 1, 'Luke Moore')"
-20/04/2013,Swansea City,Southampton,0,0
-04/05/2013,Swansea City,Manchester City,0,0
-07/05/2013,Wigan Athletic,Swansea City,2,3,"(45, 0, 'Roger Espinoza')","(50, 1, 'Angel Rangel')","(53, 0, 'James McCarthy')","(59, 1, 'Itay Shechter')","(76, 1, 'Dwight Tiendalli')"
-12/05/2013,Manchester United,Swansea City,2,1,"(39, 0, 'Javier Hernandez')","(49, 1, ' Michu')","(87, 0, 'Rio Ferdinand')"
-19/05/2013,Swansea City,Fulham,0,3,"(22, 1, 'Alex Kacaniklic')","(77, 1, 'Dimitar Berbatov')","(90, 1, 'Urby Emanuelson')"
-18/08/2012,West Bromwich Albion,Liverpool,3,0,"(43, 0, 'Zoltan Gera')","(64, 0, 'Peter Odemwingie')","(77, 0, 'Romelu Lukaku')"
-25/08/2012,Tottenham Hotspur,West Bromwich Albion,1,1,"(74, 0, 'Benoit Assou-Ekotto')","(90, 1, 'James Morrison')"
-01/09/2012,West Bromwich Albion,Everton,2,0,"(65, 0, 'Shane Long')","(82, 0, 'Gareth McAuley')"
-15/09/2012,Fulham,West Bromwich Albion,3,0,"(32, 0, 'Dimitar Berbatov')","(45, 0, 'Dimitar Berbatov')","(89, 0, 'Steve Sidwell')"
-22/09/2012,West Bromwich Albion,Reading,1,0,"(71, 0, 'Romelu Lukaku')"
-30/09/2012,Aston Villa,West Bromwich Albion,1,1,"(51, 1, 'Shane Long')","(80, 0, 'Darren Bent')"
-06/10/2012,West Bromwich Albion,Queens Park Rangers,3,2,"(5, 0, 'James Morrison')","(22, 0, 'Zoltan Gera')","(35, 1, 'Adel Taarabt')","(85, 0, 'Youssef Mulumbu')","(90, 1, 'Esteban Granero')"
-20/10/2012,West Bromwich Albion,Manchester City,1,2,"(67, 0, 'Shane Long')","(80, 1, 'Edin Dzeko')","(90, 1, 'Edin Dzeko')"
-28/10/2012,Newcastle United,West Bromwich Albion,2,1,"(35, 0, 'Demba Ba')","(55, 1, 'Romelu Lukaku')","(90, 0, 'Papiss Cisse')"
-05/11/2012,West Bromwich Albion,Southampton,2,0,"(36, 0, 'Peter Odemwingie')","(60, 0, 'Peter Odemwingie')"
-10/11/2012,Wigan Athletic,West Bromwich Albion,1,2,"(31, 1, 'James Morrison')","(43, 1, 'Gary Caldwell')","(44, 0, 'Arouna Kone')"
-24/11/2012,Sunderland,West Bromwich Albion,2,4,"(30, 1, 'Zoltan Gera')","(44, 1, 'Shane Long')","(73, 0, 'Craig Gardner')","(81, 1, 'Romelu Lukaku')","(87, 0, 'Stephane Sessegnon')","(90, 1, 'Craig Gardner')"
-01/12/2012,West Bromwich Albion,Stoke City,0,1,"(75, 1, 'Dean Whitehead')"
-08/12/2012,Arsenal,West Bromwich Albion,2,0,"(26, 0, 'Mikel Arteta')","(64, 0, 'Mikel Arteta')"
-16/12/2012,West Bromwich Albion,West Ham United,0,0
-22/12/2012,West Bromwich Albion,Norwich City,2,1,"(23, 1, 'Robert Snodgrass')","(43, 0, 'Zoltan Gera')","(82, 0, 'Romelu Lukaku')"
-26/12/2012,Queens Park Rangers,West Bromwich Albion,1,2,"(29, 1, 'Chris Brunt')","(49, 1, 'Robert Green')","(68, 0, 'Djibril Cisse')"
-29/12/2012,Manchester United,West Bromwich Albion,2,0,"(9, 0, 'Gareth McAuley')","(90, 0, 'Robin Van Persie')"
-01/01/2013,West Bromwich Albion,Fulham,1,2,"(39, 1, 'Dimitar Berbatov')","(49, 0, 'Romelu Lukaku')","(58, 1, 'Alex Kacaniklic')"
-12/01/2013,Reading,West Bromwich Albion,3,2,"(19, 1, 'Romelu Lukaku')","(69, 1, 'Romelu Lukaku')","(82, 0, 'Jimmy Kebe')","(88, 0, 'Adam Le Fondre')","(90, 0, 'Pavel Pogrebnyak')"
-19/01/2013,West Bromwich Albion,Aston Villa,2,2,"(12, 1, 'Christian Benteke')","(31, 1, 'Gabby Agbonlahor')","(49, 0, 'Chris Brunt')","(83, 0, 'Peter Odemwingie')"
-30/01/2013,Everton,West Bromwich Albion,2,1,"(29, 0, 'Leighton Baines')","(45, 0, 'Leighton Baines')","(65, 1, 'Shane Long')"
-03/02/2013,West Bromwich Albion,Tottenham Hotspur,0,1,"(67, 1, 'Gareth Bale')"
-11/02/2013,Liverpool,West Bromwich Albion,0,2,"(81, 1, 'Gareth McAuley')","(90, 1, 'Romelu Lukaku')"
-23/02/2013,West Bromwich Albion,Sunderland,2,1,"(35, 0, 'Romelu Lukaku')","(75, 0, 'Romelu Lukaku')","(79, 1, 'Stephane Sessegnon')"
-16/03/2013,Stoke City,West Bromwich Albion,0,0
-30/03/2013,West Ham United,West Bromwich Albion,3,1,"(16, 0, 'Andy Carroll')","(28, 0, ""Gary O'Neil"")","(80, 0, 'Andy Carroll')","(88, 1, 'Graeme Dorrans')"
-06/04/2013,West Bromwich Albion,Arsenal,1,2,"(20, 1, 'Tomas Rosicky')","(50, 1, 'Tomas Rosicky')","(71, 0, 'James Morrison')"
-20/04/2013,West Bromwich Albion,Newcastle United,1,1,"(8, 1, 'Yoan Gouffran')","(64, 0, 'Billy Jones')"
-27/04/2013,Southampton,West Bromwich Albion,0,3,"(6, 1, 'Marc Antoine Fortune')","(67, 1, 'Romelu Lukaku')","(77, 1, 'Shane Long')"
-04/05/2013,West Bromwich Albion,Wigan Athletic,2,3,"(29, 0, 'Shane Long')","(39, 1, 'Arouna Kone')","(50, 0, 'Gareth McAuley')","(58, 1, 'James McArthur')","(80, 1, 'Callum McManaman')"
-07/05/2013,Manchester City,West Bromwich Albion,1,0,"(35, 0, 'Edin Dzeko')"
-12/05/2013,Norwich City,West Bromwich Albion,4,0,"(25, 0, 'Robert Snodgrass')","(62, 0, 'Grant Holt')","(65, 0, 'Gareth McAuley')","(90, 0, 'Jonny Howson')"
-19/05/2013,West Bromwich Albion,Manchester United,5,5,"(6, 1, 'Shinji Kagawa')","(9, 1, 'Jonas Olsson')","(30, 1, 'Alexander Buttner')","(40, 0, 'James Morrison')","(50, 0, 'Romelu Lukaku')","(53, 1, 'Robin Van Persie')","(63, 1, 'Javier Hernandez')","(81, 0, 'Youssef Mulumbu')","(81, 0, 'Romelu Lukaku')","(86, 0, 'Romelu Lukaku')"
-19/08/2012,Manchester City,Southampton,3,2,"(40, 0, 'Carlos Tevez')","(59, 1, 'Rickie Lambert')","(68, 1, 'Steven Davis')","(72, 0, 'Edin Dzeko')","(80, 0, 'Samir Nasri')"
-26/08/2012,Liverpool,Manchester City,2,2,"(34, 0, 'Martin Skrtel')","(63, 1, 'Yaya Toure')","(66, 0, 'Luis Suarez')","(80, 1, 'Carlos Tevez')"
-01/09/2012,Manchester City,Queens Park Rangers,3,1,"(16, 0, 'Yaya Toure')","(59, 1, 'Bobby Zamora')","(61, 0, 'Edin Dzeko')","(90, 0, 'Carlos Tevez')"
-15/09/2012,Stoke City,Manchester City,1,1,"(15, 0, 'Peter Crouch')","(35, 1, ' Javi Garcia')"
-23/09/2012,Manchester City,Arsenal,1,1,"(40, 0, 'Joleon Lescott')","(82, 1, 'Laurent Koscielny')"
-29/09/2012,Fulham,Manchester City,1,2,"(10, 0, 'Mladen Petric')","(43, 1, 'Sergio Aguero')","(87, 1, 'Edin Dzeko')"
-06/10/2012,Manchester City,Sunderland,3,0,"(5, 0, 'Aleksandar Kolarov')","(60, 0, 'Sergio Aguero')","(89, 0, 'James Milner')"
-03/11/2012,West Ham United,Manchester City,0,0
-11/11/2012,Manchester City,Tottenham Hotspur,2,1,"(21, 1, 'Steven Caulker')","(65, 0, 'Sergio Aguero')","(88, 0, 'Edin Dzeko')"
-17/11/2012,Manchester City,Aston Villa,5,0,"(43, 0, 'David Silva')","(54, 0, 'Sergio Aguero')","(65, 0, 'Carlos Tevez')","(67, 0, 'Sergio Aguero')","(74, 0, 'Carlos Tevez')"
-28/11/2012,Wigan Athletic,Manchester City,0,2,"(69, 1, 'Mario Balotelli')","(72, 1, 'James Milner')"
-01/12/2012,Manchester City,Everton,1,1,"(33, 1, 'Marouane Fellaini')","(43, 0, 'Carlos Tevez')"
-09/12/2012,Manchester City,Manchester United,2,3,"(16, 1, 'Wayne Rooney')","(29, 1, 'Wayne Rooney')","(60, 0, 'Yaya Toure')","(86, 0, 'Pablo Zabaleta')","(90, 1, 'Robin Van Persie')"
-15/12/2012,Newcastle United,Manchester City,1,3,"(10, 1, 'Sergio Aguero')","(39, 1, ' Javi Garcia')","(51, 0, 'Demba Ba')","(78, 1, 'Yaya Toure')"
-22/12/2012,Manchester City,Reading,1,0,"(90, 0, 'Gareth Barry')"
-26/12/2012,Sunderland,Manchester City,1,0,"(53, 0, 'Adam Johnson')"
-29/12/2012,Norwich City,Manchester City,3,4,"(2, 1, 'Edin Dzeko')","(4, 1, 'Edin Dzeko')","(15, 0, 'Anthony Pilkington')","(50, 1, 'Sergio Aguero')","(63, 0, 'Russell Martin')","(67, 1, 'Mark Bunn')","(75, 0, 'Russell Martin')"
-01/01/2013,Manchester City,Stoke City,3,0,"(43, 0, 'Pablo Zabaleta')","(56, 0, 'Edin Dzeko')","(74, 0, 'Sergio Aguero')"
-13/01/2013,Arsenal,Manchester City,0,2,"(21, 1, 'James Milner')","(32, 1, 'Edin Dzeko')"
-19/01/2013,Manchester City,Fulham,2,0,"(2, 0, 'David Silva')","(69, 0, 'David Silva')"
-29/01/2013,Queens Park Rangers,Manchester City,0,0
-03/02/2013,Manchester City,Liverpool,2,2,"(23, 0, 'Edin Dzeko')","(29, 1, 'Daniel Sturridge')","(73, 1, 'Steven Gerrard')","(78, 0, 'Sergio Aguero')"
-09/02/2013,Southampton,Manchester City,3,1,"(7, 0, 'Jason Puncheon')","(22, 0, 'Steven Davis')","(39, 1, 'Edin Dzeko')","(48, 0, 'Gareth Barry')"
-04/03/2013,Aston Villa,Manchester City,0,1,"(45, 1, 'Carlos Tevez')"
-16/03/2013,Everton,Manchester City,2,0,"(32, 0, 'Leon Osman')","(90, 0, 'Nikica Jelavic')"
-30/03/2013,Manchester City,Newcastle United,4,0,"(41, 0, 'Carlos Tevez')","(45, 0, 'David Silva')","(56, 0, 'Vincent Kompany')","(69, 0, 'Yaya Toure')"
-08/04/2013,Manchester United,Manchester City,1,2,"(51, 1, 'James Milner')","(59, 0, 'Vincent Kompany')","(78, 1, 'Sergio Aguero')"
-17/04/2013,Manchester City,Wigan Athletic,1,0,"(83, 0, 'Carlos Tevez')"
-21/04/2013,Tottenham Hotspur,Manchester City,3,1,"(5, 1, 'Samir Nasri')","(75, 0, 'Clint Dempsey')","(79, 0, 'Jermain Defoe')","(82, 0, 'Gareth Bale')"
-27/04/2013,Manchester City,West Ham United,2,1,"(28, 0, 'Sergio Aguero')","(83, 0, 'Yaya Toure')","(90, 1, 'Andy Carroll')"
-14/05/2013,Reading,Manchester City,0,2,"(40, 1, 'Sergio Aguero')","(88, 1, 'Edin Dzeko')"
-19/05/2013,Manchester City,Norwich City,2,3,"(26, 1, 'Anthony Pilkington')","(29, 0, 'Jack Rodwell')","(54, 1, 'Grant Holt')","(59, 0, 'Jack Rodwell')","(65, 1, 'Jonny Howson')"
-20/08/2012,Everton,Manchester United,1,0,"(57, 0, 'Marouane Fellaini')"
-25/08/2012,Aston Villa,Everton,1,3,"(3, 1, 'Steven Pienaar')","(31, 1, 'Marouane Fellaini')","(43, 1, 'Nikica Jelavic')","(74, 0, 'Karim El Ahmadi')"
-17/09/2012,Everton,Newcastle United,2,2,"(15, 0, 'Leighton Baines')","(49, 1, 'Demba Ba')","(88, 0, 'Victor Anichebe')","(90, 1, 'Demba Ba')"
-29/09/2012,Everton,Southampton,3,1,"(6, 1, 'Gaston Ramirez')","(25, 0, 'Leon Osman')","(32, 0, 'Nikica Jelavic')","(38, 0, 'Nikica Jelavic')"
-06/10/2012,Wigan Athletic,Everton,2,2,"(10, 0, 'Arouna Kone')","(11, 1, 'Nikica Jelavic')","(23, 0, 'Franco Di Santo')","(87, 1, 'Leighton Baines')"
-21/10/2012,Queens Park Rangers,Everton,1,1,"(2, 0, 'Leighton Baines')","(33, 1, ' Julio Cesar')"
-28/10/2012,Everton,Liverpool,2,2,"(14, 1, 'Leighton Baines')","(20, 1, 'Luis Suarez')","(22, 0, 'Leon Osman')","(35, 0, 'Steven Naismith')"
-03/11/2012,Fulham,Everton,2,2,"(7, 0, 'Bryan Ruiz')","(55, 1, 'Marouane Fellaini')","(72, 1, 'Marouane Fellaini')","(90, 0, 'Steve Sidwell')"
-10/11/2012,Everton,Sunderland,2,1,"(45, 1, 'Adam Johnson')","(76, 0, 'Marouane Fellaini')","(79, 0, 'Nikica Jelavic')"
-17/11/2012,Reading,Everton,2,1,"(10, 1, 'Steven Naismith')","(51, 0, 'Adam Le Fondre')","(79, 0, 'Adam Le Fondre')"
-24/11/2012,Everton,Norwich City,1,1,"(12, 0, 'Steven Naismith')","(90, 1, 'Sebastien Bassong')"
-28/11/2012,Everton,Arsenal,1,1,"(1, 1, 'Theo Walcott')","(28, 0, 'Marouane Fellaini')"
-09/12/2012,Everton,Tottenham Hotspur,2,1,"(76, 1, 'Clint Dempsey')","(90, 0, 'Nikica Jelavic')","(90, 0, 'Steven Pienaar')"
-15/12/2012,Stoke City,Everton,1,1,"(36, 1, 'Ryan Shawcross')","(52, 0, 'Kenwyne Jones')"
-22/12/2012,West Ham United,Everton,1,2,"(14, 0, 'Carlton Cole')","(64, 1, 'Victor Anichebe')","(73, 1, 'Steven Pienaar')"
-26/12/2012,Everton,Wigan Athletic,2,1,"(52, 0, 'Leon Osman')","(77, 0, 'Phil Jagielka')","(82, 1, 'Arouna Kone')"
-02/01/2013,Newcastle United,Everton,1,2,"(2, 0, 'Papiss Cisse')","(43, 1, 'Leighton Baines')","(60, 1, 'Victor Anichebe')"
-21/01/2013,Southampton,Everton,0,0
-02/02/2013,Everton,Aston Villa,3,3,"(2, 1, 'Christian Benteke')","(21, 0, 'Victor Anichebe')","(24, 1, 'Gabby Agbonlahor')","(61, 1, 'Christian Benteke')","(69, 0, 'Marouane Fellaini')","(90, 0, 'Marouane Fellaini')"
-10/02/2013,Manchester United,Everton,2,0,"(13, 0, 'Ryan Giggs')","(45, 0, 'Robin Van Persie')"
-23/02/2013,Norwich City,Everton,2,1,"(39, 1, 'Leon Osman')","(84, 0, 'Kei Kamara')","(90, 0, 'Grant Holt')"
-02/03/2013,Everton,Reading,3,1,"(42, 0, 'Marouane Fellaini')","(59, 0, 'Steven Pienaar')","(66, 0, 'Kevin Mirallas')","(84, 1, 'Hal Robson-Kanu')"
-30/03/2013,Everton,Stoke City,1,0,"(28, 0, 'Kevin Mirallas')"
-07/04/2013,Tottenham Hotspur,Everton,2,2,"(1, 0, 'Emmanuel Adebayor')","(15, 1, 'Phil Jagielka')","(53, 1, 'Kevin Mirallas')","(87, 0, 'Gylfi Sigurdsson')"
-13/04/2013,Everton,Queens Park Rangers,2,0,"(40, 0, 'Darron Gibson')","(56, 0, 'Victor Anichebe')"
-16/04/2013,Arsenal,Everton,0,0
-20/04/2013,Sunderland,Everton,1,0,"(45, 0, 'Stephane Sessegnon')"
-27/04/2013,Everton,Fulham,1,0,"(16, 0, 'Steven Pienaar')"
-05/05/2013,Liverpool,Everton,0,0
-12/05/2013,Everton,West Ham United,2,0,"(6, 0, 'Kevin Mirallas')","(60, 0, 'Kevin Mirallas')"
-18/08/2012,West Ham United,Aston Villa,1,0,"(40, 0, 'Kevin Nolan')"
-01/09/2012,West Ham United,Fulham,3,0,"(1, 0, 'Kevin Nolan')","(29, 0, 'Winston Reid')","(41, 0, 'Matt Taylor')"
-15/09/2012,Norwich City,West Ham United,0,0
-22/09/2012,West Ham United,Sunderland,1,1,"(9, 1, 'Steven Fletcher')","(90, 0, 'Kevin Nolan')"
-01/10/2012,Queens Park Rangers,West Ham United,1,2,"(3, 1, 'Matt Jarvis')","(35, 1, 'Ricardo Vaz Te')","(57, 0, 'Adel Taarabt')"
-06/10/2012,West Ham United,Arsenal,1,3,"(21, 0, 'Mohamed Diame')","(41, 1, 'Olivier Giroud')","(77, 1, 'Theo Walcott')","(83, 1, 'Santi Cazorla')"
-20/10/2012,West Ham United,Southampton,4,1,"(46, 0, 'Mark Noble')","(48, 0, 'Kevin Nolan')","(63, 1, 'Adam Lallana')","(72, 0, 'Mark Noble')","(87, 0, 'Modibo Maiga')"
-27/10/2012,Wigan Athletic,West Ham United,2,1,"(8, 0, 'Ivan Ramis')","(47, 0, 'James McArthur')","(90, 1, 'James Tomkins')"
-11/11/2012,Newcastle United,West Ham United,0,1,"(37, 1, 'Kevin Nolan')"
-19/11/2012,West Ham United,Stoke City,1,1,"(13, 1, 'Jon Walters')","(48, 0, ""Joey O'Brien"")"
-25/11/2012,Tottenham Hotspur,West Ham United,3,1,"(44, 0, 'Jermain Defoe')","(58, 0, 'Gareth Bale')","(64, 0, 'Jermain Defoe')","(82, 1, 'Andy Carroll')"
-28/11/2012,Manchester United,West Ham United,1,0,"(1, 0, 'Robin Van Persie')"
-09/12/2012,West Ham United,Liverpool,2,3,"(11, 1, 'Glen Johnson')","(36, 0, 'Mark Noble')","(43, 0, 'Steven Gerrard')","(76, 1, 'Joe Cole')","(79, 1, 'Jonjo Shelvey')"
-29/12/2012,Reading,West Ham United,1,0,"(5, 0, 'Pavel Pogrebnyak')"
-01/01/2013,West Ham United,Norwich City,2,1,"(3, 0, 'Mark Noble')","(26, 0, ""Joey O'Brien"")","(90, 1, 'Russell Martin')"
-12/01/2013,Sunderland,West Ham United,3,0,"(12, 0, 'Seb Larsson')","(47, 0, 'Adam Johnson')","(74, 0, 'James McClean')"
-19/01/2013,West Ham United,Queens Park Rangers,1,1,"(14, 1, 'Loic Remy')","(68, 0, 'Joe Cole')"
-23/01/2013,Arsenal,West Ham United,5,1,"(18, 1, 'Jack Collison')","(22, 0, 'Lukas Podolski')","(47, 0, 'Olivier Giroud')","(53, 0, 'Santi Cazorla')","(54, 0, 'Theo Walcott')","(57, 0, 'Olivier Giroud')"
-30/01/2013,Fulham,West Ham United,3,1,"(10, 0, 'Dimitar Berbatov')","(48, 1, 'Kevin Nolan')","(49, 0, 'Hugo Rodallega')","(90, 0, ""Joey O'Brien"")"
-10/02/2013,Aston Villa,West Ham United,2,1,"(74, 0, 'Christian Benteke')","(78, 0, ""Charles N'Zogbia"")","(87, 1, 'Ashley R Westwood')"
-25/02/2013,West Ham United,Tottenham Hotspur,2,3,"(13, 1, 'Gareth Bale')","(25, 0, 'Andy Carroll')","(58, 0, 'Joe Cole')","(76, 1, 'Gylfi Sigurdsson')","(90, 1, 'Gareth Bale')"
-02/03/2013,Stoke City,West Ham United,0,1,"(45, 1, 'Jack Collison')"
-07/04/2013,Liverpool,West Ham United,0,0
-13/04/2013,Southampton,West Ham United,1,1,"(59, 0, 'Gaston Ramirez')","(66, 1, 'Andy Carroll')"
-17/04/2013,West Ham United,Manchester United,2,2,"(16, 0, 'Ricardo Vaz Te')","(31, 1, 'Antonio Valencia')","(55, 0, 'Mohamed Diame')","(77, 1, 'Robin Van Persie')"
-20/04/2013,West Ham United,Wigan Athletic,2,0,"(21, 0, 'Matt Jarvis')","(80, 0, 'Kevin Nolan')"
-04/05/2013,West Ham United,Newcastle United,0,0
-19/05/2013,West Ham United,Reading,4,2,"(23, 0, 'Kevin Nolan')","(34, 0, 'Ricardo Vaz Te')","(53, 1, 'Garath McCleary')","(55, 1, 'Adam Le Fondre')","(79, 0, 'Kevin Nolan')","(87, 0, 'Kevin Nolan')"
-25/08/2012,Southampton,Wigan Athletic,0,2,"(51, 1, 'Franco Di Santo')","(89, 1, 'Arouna Kone')"
-01/09/2012,Wigan Athletic,Stoke City,2,2,"(5, 0, 'Shaun Maloney')","(40, 1, 'Jon Walters')","(49, 0, 'Franco Di Santo')","(76, 1, 'Peter Crouch')"
-15/09/2012,Manchester United,Wigan Athletic,4,0,"(51, 0, 'Paul Scholes')","(63, 0, 'Javier Hernandez')","(66, 0, 'Alexander Buttner')","(82, 0, 'Nick Powell')"
-22/09/2012,Wigan Athletic,Fulham,1,2,"(31, 1, 'Hugo Rodallega')","(68, 1, 'Damien Duff')","(90, 0, 'Arouna Kone')"
-29/09/2012,Sunderland,Wigan Athletic,1,0,"(51, 0, 'Steven Fletcher')"
-03/11/2012,Tottenham Hotspur,Wigan Athletic,0,1,"(56, 1, 'Ben Watson')"
-17/11/2012,Liverpool,Wigan Athletic,3,0,"(47, 0, 'Luis Suarez')","(58, 0, 'Luis Suarez')","(65, 0, 'Jose Enrique')"
-24/11/2012,Wigan Athletic,Reading,3,2,"(35, 1, 'Sean Morrison')","(58, 0, 'Jordi Gomez')","(68, 0, 'Jordi Gomez')","(80, 1, 'Ali Al Habsi')","(90, 0, 'Jordi Gomez')"
-03/12/2012,Newcastle United,Wigan Athletic,3,0,"(13, 0, 'Demba Ba')","(21, 0, 'Demba Ba')","(71, 0, 'Gael Bigirimana')"
-08/12/2012,Wigan Athletic,Queens Park Rangers,2,2,"(19, 0, 'James McCarthy')","(26, 1, 'Ryan Nelsen')","(71, 1, 'Djibril Cisse')","(74, 0, 'James McCarthy')"
-15/12/2012,Norwich City,Wigan Athletic,2,1,"(15, 0, 'Anthony Pilkington')","(51, 1, 'Shaun Maloney')","(64, 0, 'Wes Hoolahan')"
-22/12/2012,Wigan Athletic,Arsenal,0,1,"(60, 1, 'Mikel Arteta')"
-29/12/2012,Aston Villa,Wigan Athletic,0,3,"(3, 1, 'Ivan Ramis')","(52, 1, 'Emmerson Boyce')","(56, 1, 'Arouna Kone')"
-01/01/2013,Wigan Athletic,Manchester United,0,4,"(35, 1, 'Javier Hernandez')","(43, 1, 'Robin Van Persie')","(63, 1, 'Javier Hernandez')","(88, 1, 'Robin Van Persie')"
-12/01/2013,Fulham,Wigan Athletic,1,1,"(22, 0, 'Giorgios Karagounis')","(71, 1, 'Franco Di Santo')"
-19/01/2013,Wigan Athletic,Sunderland,2,3,"(4, 0, 'David Vaughan')","(17, 1, 'Craig Gardner')","(20, 1, 'Steven Fletcher')","(42, 1, 'Steven Fletcher')","(79, 0, 'Angelo Henriquez')"
-29/01/2013,Stoke City,Wigan Athletic,2,2,"(23, 0, 'Ryan Shawcross')","(48, 0, 'Peter Crouch')","(50, 1, 'James McArthur')","(61, 1, 'Franco Di Santo')"
-02/02/2013,Wigan Athletic,Southampton,2,2,"(25, 0, 'Gary Caldwell')","(64, 1, 'Rickie Lambert')","(85, 1, 'Morgan Schneiderlin')","(90, 0, 'Shaun Maloney')"
-23/02/2013,Reading,Wigan Athletic,0,3,"(44, 1, 'Arouna Kone')","(45, 1, 'Arouna Kone')","(48, 1, 'Maynor Figueroa')"
-02/03/2013,Wigan Athletic,Liverpool,0,4,"(2, 1, 'Stewart Downing')","(18, 1, 'Luis Suarez')","(34, 1, 'Luis Suarez')","(49, 1, 'Luis Suarez')"
-17/03/2013,Wigan Athletic,Newcastle United,2,1,"(18, 0, 'Jean Beausejour')","(72, 1, 'Davide Santon')","(90, 0, 'Arouna Kone')"
-30/03/2013,Wigan Athletic,Norwich City,1,0,"(81, 0, 'Arouna Kone')"
-07/04/2013,Queens Park Rangers,Wigan Athletic,1,1,"(85, 0, 'Loic Remy')","(90, 1, 'Shaun Maloney')"
-27/04/2013,Wigan Athletic,Tottenham Hotspur,2,2,"(9, 1, 'Gareth Bale')","(11, 0, 'Emmerson Boyce')","(49, 0, 'Callum McManaman')","(90, 1, 'Emmerson Boyce')"
-14/05/2013,Arsenal,Wigan Athletic,4,1,"(11, 0, 'Lukas Podolski')","(45, 1, 'Shaun Maloney')","(63, 0, 'Theo Walcott')","(68, 0, 'Lukas Podolski')","(71, 0, 'Aaron Ramsey')"
-19/05/2013,Wigan Athletic,Aston Villa,2,2,"(5, 1, 'Darren Bent')","(21, 0, 'Emmerson Boyce')","(45, 0, 'Nathan Baker')","(61, 1, 'Ron Vlaar')"
-18/08/2012,Fulham,Norwich City,5,0,"(26, 0, 'Damien Duff')","(41, 0, 'Mladen Petric')","(54, 0, 'Mladen Petric')","(66, 0, 'Alex Kacaniklic')","(87, 0, 'Steve Sidwell')"
-25/08/2012,Manchester United,Fulham,3,2,"(3, 1, 'Damien Duff')","(10, 0, 'Robin Van Persie')","(35, 0, 'Shinji Kagawa')","(41, 0, ' Rafael Da Silva')","(64, 1, 'Nemanja Vidic')"
-07/10/2012,Southampton,Fulham,2,2,"(4, 0, 'Jose Fonte')","(70, 1, 'Jos Hooiveld')","(88, 1, 'Kieran Richardson')","(90, 0, 'Jose Fonte')"
-20/10/2012,Fulham,Aston Villa,1,0,"(84, 0, 'Chris Baird')"
-27/10/2012,Reading,Fulham,3,3,"(26, 0, 'Mikele Leigertwood')","(61, 1, 'Bryan Ruiz')","(77, 1, 'Chris Baird')","(85, 0, 'Garath McCleary')","(88, 1, 'Dimitar Berbatov')","(90, 0, 'Hal Robson-Kanu')"
-10/11/2012,Arsenal,Fulham,3,3,"(11, 0, 'Olivier Giroud')","(23, 0, 'Lukas Podolski')","(29, 1, 'Dimitar Berbatov')","(40, 1, 'Alex Kacaniklic')","(67, 1, 'Dimitar Berbatov')","(69, 0, 'Olivier Giroud')"
-18/11/2012,Fulham,Sunderland,1,3,"(50, 1, 'Steven Fletcher')","(62, 0, 'Mladen Petric')","(65, 1, 'Carlos Cuellar')","(70, 1, 'Stephane Sessegnon')"
-24/11/2012,Stoke City,Fulham,1,0,"(26, 0, 'Charlie Adam')"
-01/12/2012,Fulham,Tottenham Hotspur,0,3,"(55, 1, ' Sandro')","(72, 1, 'Jermain Defoe')","(77, 1, 'Jermain Defoe')"
-10/12/2012,Fulham,Newcastle United,2,1,"(19, 0, 'Steve Sidwell')","(54, 1, 'Hatem Ben Arfa')","(63, 0, 'Hugo Rodallega')"
-15/12/2012,Queens Park Rangers,Fulham,2,1,"(52, 0, 'Adel Taarabt')","(68, 0, 'Adel Taarabt')","(88, 1, 'Mladen Petric')"
-22/12/2012,Liverpool,Fulham,4,0,"(8, 0, 'Martin Skrtel')","(36, 0, 'Steven Gerrard')","(51, 0, 'Stewart Downing')","(90, 0, 'Luis Suarez')"
-26/12/2012,Fulham,Southampton,1,1,"(8, 0, 'Dimitar Berbatov')","(85, 1, 'Rickie Lambert')"
-02/02/2013,Fulham,Manchester United,0,1,"(79, 1, 'Wayne Rooney')"
-09/02/2013,Norwich City,Fulham,0,0
-23/02/2013,Fulham,Stoke City,1,0,"(45, 0, 'Dimitar Berbatov')"
-02/03/2013,Sunderland,Fulham,2,2,"(16, 1, 'Dimitar Berbatov')","(35, 1, 'Sascha Riether')","(37, 0, 'Craig Gardner')","(70, 0, 'Stephane Sessegnon')"
-17/03/2013,Tottenham Hotspur,Fulham,0,1,"(52, 1, 'Dimitar Berbatov')"
-01/04/2013,Fulham,Queens Park Rangers,3,2,"(8, 0, 'Dimitar Berbatov')","(22, 0, 'Dimitar Berbatov')","(41, 0, 'Clint Hill')","(45, 1, 'Adel Taarabt')","(51, 1, 'Loic Remy')"
-07/04/2013,Newcastle United,Fulham,1,0,"(90, 0, 'Papiss Cisse')"
-13/04/2013,Aston Villa,Fulham,1,1,"(55, 0, ""Charles N'Zogbia"")","(66, 1, 'Fabian Delph')"
-20/04/2013,Fulham,Arsenal,0,1,"(43, 1, 'Per Mertesacker')"
-04/05/2013,Fulham,Reading,2,4,"(12, 1, 'Hal Robson-Kanu')","(62, 1, 'Hal Robson-Kanu')","(70, 0, 'Bryan Ruiz')","(75, 1, 'Adam Le Fondre')","(77, 0, 'Bryan Ruiz')","(83, 1, 'Jem Karacan')"
-12/05/2013,Fulham,Liverpool,1,3,"(33, 0, 'Dimitar Berbatov')","(36, 1, 'Daniel Sturridge')","(62, 1, 'Daniel Sturridge')","(85, 1, 'Daniel Sturridge')"
-02/09/2012,Southampton,Manchester United,2,3,"(16, 0, 'Rickie Lambert')","(23, 1, 'Robin Van Persie')","(55, 0, 'Morgan Schneiderlin')","(87, 1, 'Robin Van Persie')","(90, 1, 'Robin Van Persie')"
-23/09/2012,Liverpool,Manchester United,1,2,"(46, 0, 'Steven Gerrard')","(51, 1, ' Rafael Da Silva')","(81, 1, 'Robin Van Persie')"
-29/09/2012,Manchester United,Tottenham Hotspur,2,3,"(2, 1, 'Jonny Evans')","(32, 1, 'Gareth Bale')","(51, 0, ' Nani')","(52, 1, 'Clint Dempsey')","(53, 0, 'Shinji Kagawa')"
-07/10/2012,Newcastle United,Manchester United,0,3,"(8, 1, 'Jonny Evans')","(15, 1, 'Patrice Evra')","(71, 1, 'Tom Cleverley')"
-20/10/2012,Manchester United,Stoke City,4,2,"(11, 1, 'Wayne Rooney')","(27, 0, 'Wayne Rooney')","(44, 0, 'Robin Van Persie')","(46, 0, 'Danny Welbeck')","(58, 1, 'Michael Kightly')","(65, 0, 'Wayne Rooney')"
-03/11/2012,Manchester United,Arsenal,2,1,"(3, 0, 'Robin Van Persie')","(67, 0, 'Patrice Evra')","(90, 1, 'Santi Cazorla')"
-10/11/2012,Aston Villa,Manchester United,2,3,"(45, 0, 'Andi Weimann')","(50, 0, 'Andi Weimann')","(58, 1, 'Javier Hernandez')","(63, 1, 'Ron Vlaar')","(87, 1, 'Javier Hernandez')"
-17/11/2012,Norwich City,Manchester United,1,0,"(60, 0, 'Anthony Pilkington')"
-24/11/2012,Manchester United,Queens Park Rangers,3,1,"(52, 1, 'Jamie Mackie')","(64, 0, 'Jonny Evans')","(68, 0, 'Darren Fletcher')","(72, 0, 'Javier Hernandez')"
-01/12/2012,Reading,Manchester United,3,4,"(8, 0, 'Hal Robson-Kanu')","(13, 1, ' Anderson')","(16, 1, 'Wayne Rooney')","(19, 0, 'Adam Le Fondre')","(23, 0, 'Sean Morrison')","(30, 1, 'Wayne Rooney')","(34, 1, 'Robin Van Persie')"
-15/12/2012,Manchester United,Sunderland,3,1,"(16, 0, 'Robin Van Persie')","(19, 0, 'Tom Cleverley')","(59, 0, 'Wayne Rooney')","(72, 1, 'Fraizer Campbell')"
-26/12/2012,Manchester United,Newcastle United,4,3,"(4, 1, 'James Perch')","(25, 0, 'Jonny Evans')","(28, 1, 'Jonny Evans')","(58, 0, 'Patrice Evra')","(68, 1, 'Papiss Cisse')","(71, 0, 'Robin Van Persie')","(90, 0, 'Javier Hernandez')"
-13/01/2013,Manchester United,Liverpool,2,1,"(19, 0, 'Robin Van Persie')","(54, 0, 'Nemanja Vidic')","(57, 1, 'Daniel Sturridge')"
-20/01/2013,Tottenham Hotspur,Manchester United,1,1,"(25, 1, 'Robin Van Persie')","(90, 0, 'Clint Dempsey')"
-30/01/2013,Manchester United,Southampton,2,1,"(3, 1, 'Jay Rodriguez')","(8, 0, 'Wayne Rooney')","(27, 0, 'Wayne Rooney')"
-23/02/2013,Queens Park Rangers,Manchester United,0,2,"(23, 1, ' Rafael Da Silva')","(80, 1, 'Ryan Giggs')"
-02/03/2013,Manchester United,Norwich City,4,0,"(45, 0, 'Shinji Kagawa')","(76, 0, 'Shinji Kagawa')","(87, 0, 'Shinji Kagawa')","(90, 0, 'Wayne Rooney')"
-16/03/2013,Manchester United,Reading,1,0,"(21, 0, 'Wayne Rooney')"
-30/03/2013,Sunderland,Manchester United,0,1,"(27, 1, 'Titus Bramble')"
-14/04/2013,Stoke City,Manchester United,0,2,"(4, 1, 'Michael Carrick')","(66, 1, 'Robin Van Persie')"
-22/04/2013,Manchester United,Aston Villa,3,0,"(2, 0, 'Robin Van Persie')","(13, 0, 'Robin Van Persie')","(33, 0, 'Robin Van Persie')"
-28/04/2013,Arsenal,Manchester United,1,1,"(2, 0, 'Theo Walcott')","(44, 1, 'Robin Van Persie')"
-18/08/2012,Reading,Stoke City,1,1,"(34, 1, 'Michael Kightly')","(90, 0, 'Adam Le Fondre')"
-26/08/2012,Stoke City,Arsenal,0,0
-07/10/2012,Liverpool,Stoke City,0,0
-27/10/2012,Stoke City,Sunderland,0,0
-03/11/2012,Norwich City,Stoke City,1,0,"(44, 0, 'Bradley Johnson')"
-10/11/2012,Stoke City,Queens Park Rangers,1,0,"(52, 0, 'Charlie Adam')"
-28/11/2012,Stoke City,Newcastle United,2,1,"(47, 1, 'Papiss Cisse')","(81, 0, 'Jon Walters')","(85, 0, 'Cameron Jerome')"
-08/12/2012,Aston Villa,Stoke City,0,0
-22/12/2012,Tottenham Hotspur,Stoke City,0,0
-26/12/2012,Stoke City,Liverpool,3,1,"(2, 1, 'Steven Gerrard')","(5, 0, 'Jon Walters')","(12, 0, 'Kenwyne Jones')","(49, 0, 'Jon Walters')"
-29/12/2012,Stoke City,Southampton,3,3,"(10, 1, 'Rickie Lambert')","(16, 0, 'Kenwyne Jones')","(24, 1, 'Jay Rodriguez')","(36, 1, 'Andy Wilkinson')","(67, 0, 'Matthew Upson')","(90, 0, 'Cameron Jerome')"
-02/02/2013,Arsenal,Stoke City,1,0,"(78, 0, 'Lukas Podolski')"
-09/02/2013,Stoke City,Reading,2,1,"(67, 0, 'Robert Huth')","(81, 0, 'Cameron Jerome')","(83, 1, 'Adrian Mariappa')"
-10/03/2013,Newcastle United,Stoke City,2,1,"(67, 1, 'Jon Walters')","(72, 0, 'Yohan Cabaye')","(90, 0, 'Papiss Cisse')"
-06/04/2013,Stoke City,Aston Villa,1,3,"(9, 1, 'Gabby Agbonlahor')","(80, 0, 'Michael Kightly')","(87, 1, 'Matthew Lowton')","(90, 1, 'Christian Benteke')"
-20/04/2013,Queens Park Rangers,Stoke City,0,2,"(42, 1, 'Peter Crouch')","(77, 1, 'Jon Walters')"
-27/04/2013,Stoke City,Norwich City,1,0,"(46, 0, 'Charlie Adam')"
-06/05/2013,Sunderland,Stoke City,1,1,"(9, 1, 'Jon Walters')","(63, 0, ""John O'Shea"")"
-12/05/2013,Stoke City,Tottenham Hotspur,1,2,"(3, 0, ""Steven N'Zonzi"")","(20, 1, 'Clint Dempsey')","(83, 1, 'Emmanuel Adebayor')"
-19/05/2013,Southampton,Stoke City,1,1,"(47, 1, 'Peter Crouch')","(57, 0, 'Rickie Lambert')"
-18/08/2012,Newcastle United,Tottenham Hotspur,2,1,"(54, 0, 'Demba Ba')","(76, 1, 'Jermain Defoe')","(80, 0, 'Hatem Ben Arfa')"
-02/09/2012,Newcastle United,Aston Villa,1,1,"(22, 1, 'Ciaran Clark')","(59, 0, 'Hatem Ben Arfa')"
-23/09/2012,Newcastle United,Norwich City,1,0,"(19, 0, 'Demba Ba')"
-29/09/2012,Reading,Newcastle United,2,2,"(58, 0, 'Jimmy Kebe')","(58, 1, 'Demba Ba')","(62, 0, 'Noel Hunt')","(83, 1, 'Demba Ba')"
-21/10/2012,Sunderland,Newcastle United,1,1,"(3, 1, 'Yohan Cabaye')","(86, 0, 'Demba Ba')"
-04/11/2012,Liverpool,Newcastle United,1,1,"(43, 1, 'Yohan Cabaye')","(67, 0, 'Luis Suarez')"
-25/11/2012,Southampton,Newcastle United,2,0,"(34, 0, 'Adam Lallana')","(60, 0, 'Gaston Ramirez')"
-22/12/2012,Newcastle United,Queens Park Rangers,1,0,"(81, 0, 'Shola Ameobi')"
-29/12/2012,Arsenal,Newcastle United,7,3,"(20, 0, 'Theo Walcott')","(43, 1, 'Demba Ba')","(50, 0, 'Alex Oxlade-Chamberlain')","(59, 1, 'Sylvain Marveaux')","(64, 0, 'Lukas Podolski')","(69, 1, 'Demba Ba')","(73, 0, 'Theo Walcott')","(84, 0, 'Olivier Giroud')","(87, 0, 'Olivier Giroud')","(90, 0, 'Theo Walcott')"
-12/01/2013,Norwich City,Newcastle United,0,0
-19/01/2013,Newcastle United,Reading,1,2,"(35, 0, 'Yohan Cabaye')","(71, 1, 'Adam Le Fondre')","(77, 1, 'Adam Le Fondre')"
-29/01/2013,Aston Villa,Newcastle United,1,2,"(19, 1, 'Papiss Cisse')","(31, 1, 'Yohan Cabaye')","(49, 0, 'Christian Benteke')"
-09/02/2013,Tottenham Hotspur,Newcastle United,2,1,"(5, 0, 'Gareth Bale')","(24, 1, 'Yoan Gouffran')","(78, 0, 'Gareth Bale')"
-24/02/2013,Newcastle United,Southampton,4,2,"(3, 1, 'Morgan Schneiderlin')","(33, 0, 'Moussa Sissoko')","(42, 0, 'Papiss Cisse')","(50, 1, 'Rickie Lambert')","(67, 0, 'Yohan Cabaye')","(79, 0, 'Jos Hooiveld')"
-14/04/2013,Newcastle United,Sunderland,0,3,"(27, 1, 'Stephane Sessegnon')","(74, 1, 'Adam Johnson')","(82, 1, 'David Vaughan')"
-27/04/2013,Newcastle United,Liverpool,0,6,"(3, 1, 'Daniel Agger')","(17, 1, 'Jordan Henderson')","(54, 1, 'Daniel Sturridge')","(60, 1, 'Daniel Sturridge')","(74, 1, 'Fabio Borini')","(76, 1, 'Jordan Henderson')"
-12/05/2013,Queens Park Rangers,Newcastle United,1,2,"(11, 0, 'Loic Remy')","(18, 1, 'Hatem Ben Arfa')","(35, 1, 'Yoan Gouffran')"
-19/05/2013,Newcastle United,Arsenal,0,1,"(52, 1, 'Laurent Koscielny')"
-18/08/2012,Arsenal,Sunderland,0,0
-15/09/2012,Sunderland,Liverpool,1,1,"(29, 0, 'Steven Fletcher')","(71, 1, 'Luis Suarez')"
-03/11/2012,Sunderland,Aston Villa,0,1,"(57, 1, 'Gabby Agbonlahor')"
-27/11/2012,Sunderland,Queens Park Rangers,0,0
-02/12/2012,Norwich City,Sunderland,2,1,"(8, 0, 'Sebastien Bassong')","(37, 0, 'Anthony Pilkington')","(44, 1, 'Craig Gardner')"
-11/12/2012,Sunderland,Reading,3,0,"(3, 0, 'James McClean')","(28, 0, 'Steven Fletcher')","(90, 0, 'Stephane Sessegnon')"
-22/12/2012,Southampton,Sunderland,0,1,"(42, 1, 'Steven Fletcher')"
-29/12/2012,Sunderland,Tottenham Hotspur,1,2,"(40, 0, ""John O'Shea"")","(48, 1, 'Carlos Cuellar')","(51, 1, 'Aaron Lennon')"
-02/01/2013,Liverpool,Sunderland,3,0,"(19, 0, 'Raheem Sterling')","(26, 0, 'Luis Suarez')","(52, 0, 'Luis Suarez')"
-02/02/2013,Reading,Sunderland,2,1,"(7, 0, 'Jimmy Kebe')","(29, 1, 'Craig Gardner')","(85, 0, 'Jimmy Kebe')"
-09/02/2013,Sunderland,Arsenal,0,1,"(35, 1, 'Santi Cazorla')"
-09/03/2013,Queens Park Rangers,Sunderland,3,1,"(20, 1, 'Steven Fletcher')","(30, 0, 'Loic Remy')","(70, 0, 'Andros Townsend')","(90, 0, 'Jermaine Jenas')"
-17/03/2013,Sunderland,Norwich City,1,1,"(26, 1, 'Wes Hoolahan')","(40, 0, 'Craig Gardner')"
-29/04/2013,Aston Villa,Sunderland,6,1,"(31, 0, 'Ron Vlaar')","(32, 1, 'Danny Rose')","(38, 0, 'Andi Weimann')","(55, 0, 'Christian Benteke')","(59, 0, 'Christian Benteke')","(72, 0, 'Christian Benteke')","(88, 0, 'Gabby Agbonlahor')"
-12/05/2013,Sunderland,Southampton,1,1,"(68, 0, 'Phil Bardsley')","(76, 1, 'Jason Puncheon')"
-19/05/2013,Tottenham Hotspur,Sunderland,1,0,"(90, 0, 'Gareth Bale')"
-02/09/2012,Liverpool,Arsenal,0,2,"(31, 1, 'Lukas Podolski')","(68, 1, 'Santi Cazorla')"
-15/09/2012,Arsenal,Southampton,6,1,"(11, 0, 'Jos Hooiveld')","(31, 0, 'Lukas Podolski')","(35, 0, ' Gervinho')","(37, 0, 'Nathaniel Clyne')","(45, 1, 'Danny Fox')","(71, 0, ' Gervinho')","(88, 0, 'Theo Walcott')"
-20/10/2012,Norwich City,Arsenal,1,0,"(19, 0, 'Grant Holt')"
-27/10/2012,Arsenal,Queens Park Rangers,1,0,"(84, 0, 'Mikel Arteta')"
-17/11/2012,Arsenal,Tottenham Hotspur,5,2,"(10, 1, 'Emmanuel Adebayor')","(24, 0, 'Per Mertesacker')","(42, 0, 'Lukas Podolski')","(45, 0, 'Olivier Giroud')","(60, 0, 'Santi Cazorla')","(71, 1, 'Gareth Bale')","(90, 0, 'Theo Walcott')"
-24/11/2012,Aston Villa,Arsenal,0,0
-17/12/2012,Reading,Arsenal,2,5,"(14, 1, 'Lukas Podolski')","(32, 1, 'Santi Cazorla')","(34, 1, 'Santi Cazorla')","(60, 1, 'Santi Cazorla')","(66, 0, 'Adam Le Fondre')","(71, 0, 'Jimmy Kebe')","(80, 1, 'Theo Walcott')"
-01/01/2013,Southampton,Arsenal,1,1,"(34, 0, 'Gaston Ramirez')","(41, 1, 'Guly Do Prado')"
-30/01/2013,Arsenal,Liverpool,2,2,"(5, 1, 'Luis Suarez')","(60, 1, 'Jordan Henderson')","(64, 0, 'Olivier Giroud')","(67, 0, 'Theo Walcott')"
-23/02/2013,Arsenal,Aston Villa,2,1,"(6, 0, 'Santi Cazorla')","(68, 1, 'Andi Weimann')","(85, 0, 'Santi Cazorla')"
-03/03/2013,Tottenham Hotspur,Arsenal,2,1,"(37, 0, 'Gareth Bale')","(39, 0, 'Aaron Lennon')","(51, 1, 'Per Mertesacker')"
-30/03/2013,Arsenal,Reading,4,1,"(11, 0, ' Gervinho')","(48, 0, 'Santi Cazorla')","(67, 0, 'Olivier Giroud')","(68, 1, 'Hal Robson-Kanu')","(77, 0, 'Mikel Arteta')"
-13/04/2013,Arsenal,Norwich City,3,1,"(56, 1, 'Michael Turner')","(85, 0, 'Mikel Arteta')","(88, 0, 'Olivier Giroud')","(90, 0, 'Lukas Podolski')"
-04/05/2013,Queens Park Rangers,Arsenal,0,1,"(1, 1, 'Theo Walcott')"
-01/09/2012,Tottenham Hotspur,Norwich City,1,1,"(68, 0, 'Moussa Dembele')","(85, 1, 'Robert Snodgrass')"
-16/09/2012,Reading,Tottenham Hotspur,1,3,"(18, 1, 'Jermain Defoe')","(71, 1, 'Gareth Bale')","(74, 1, 'Jermain Defoe')","(90, 0, 'Hal Robson-Kanu')"
-23/09/2012,Tottenham Hotspur,Queens Park Rangers,2,1,"(33, 1, 'Bobby Zamora')","(60, 0, 'Alejandro Faurlin')","(61, 0, 'Jermain Defoe')"
-07/10/2012,Tottenham Hotspur,Aston Villa,2,0,"(58, 0, 'Steven Caulker')","(67, 0, 'Aaron Lennon')"
-28/10/2012,Southampton,Tottenham Hotspur,1,2,"(15, 1, 'Gareth Bale')","(39, 1, 'Clint Dempsey')","(66, 0, 'Jay Rodriguez')"
-28/11/2012,Tottenham Hotspur,Liverpool,2,1,"(7, 0, 'Aaron Lennon')","(16, 0, 'Gareth Bale')","(72, 1, 'Gareth Bale')"
-26/12/2012,Aston Villa,Tottenham Hotspur,0,4,"(57, 1, 'Jermain Defoe')","(61, 1, 'Gareth Bale')","(73, 1, 'Gareth Bale')","(84, 1, 'Gareth Bale')"
-01/01/2013,Tottenham Hotspur,Reading,3,1,"(4, 1, 'Pavel Pogrebnyak')","(9, 0, 'Michael Dawson')","(51, 0, 'Emmanuel Adebayor')","(79, 0, 'Clint Dempsey')"
-12/01/2013,Queens Park Rangers,Tottenham Hotspur,0,0
-30/01/2013,Norwich City,Tottenham Hotspur,1,1,"(32, 0, 'Wes Hoolahan')","(80, 1, 'Gareth Bale')"
-10/03/2013,Liverpool,Tottenham Hotspur,3,2,"(21, 0, 'Luis Suarez')","(45, 1, 'Jan Vertonghen')","(53, 1, 'Jan Vertonghen')","(66, 0, 'Stewart Downing')","(82, 0, 'Steven Gerrard')"
-04/05/2013,Tottenham Hotspur,Southampton,1,0,"(86, 0, 'Gareth Bale')"
-25/08/2012,Norwich City,Queens Park Rangers,1,1,"(11, 0, 'Simeon Jackson')","(19, 1, 'Bobby Zamora')"
-29/09/2012,Norwich City,Liverpool,2,5,"(2, 1, 'Luis Suarez')","(38, 1, 'Luis Suarez')","(47, 1, ' Nuri Sahin')","(57, 1, 'Luis Suarez')","(61, 0, 'Steve Morison')","(68, 1, 'Leon Barnett')","(87, 0, 'Grant Holt')"
-27/10/2012,Aston Villa,Norwich City,1,1,"(27, 0, 'Christian Benteke')","(79, 1, 'Michael Turner')"
-10/11/2012,Reading,Norwich City,0,0
-28/11/2012,Southampton,Norwich City,1,1,"(32, 0, 'Rickie Lambert')","(45, 1, 'Robert Snodgrass')"
-19/01/2013,Liverpool,Norwich City,5,0,"(26, 0, 'Jordan Henderson')","(36, 0, 'Luis Suarez')","(59, 0, 'Daniel Sturridge')","(66, 0, 'Steven Gerrard')","(74, 0, 'Ryan Bennett')"
-02/02/2013,Queens Park Rangers,Norwich City,0,0
-09/03/2013,Norwich City,Southampton,0,0
-20/04/2013,Norwich City,Reading,2,1,"(50, 0, 'Ryan Bennett')","(52, 0, 'Elliott Bennett')","(72, 1, 'Garath McCleary')"
-04/05/2013,Norwich City,Aston Villa,1,2,"(55, 1, 'Gabby Agbonlahor')","(74, 0, 'Grant Holt')","(89, 1, 'Gabby Agbonlahor')"
-20/10/2012,Liverpool,Reading,1,0,"(29, 0, 'Raheem Sterling')"
-04/11/2012,Queens Park Rangers,Reading,1,1,"(16, 1, 'Kaspars Gorkss')","(66, 0, 'Djibril Cisse')"
-27/11/2012,Aston Villa,Reading,1,0,"(80, 0, 'Christian Benteke')"
-08/12/2012,Southampton,Reading,1,0,"(61, 0, 'Jason Puncheon')"
-09/03/2013,Reading,Aston Villa,1,2,"(32, 0, 'Nathan Baker')","(33, 1, 'Christian Benteke')","(45, 1, 'Gabby Agbonlahor')"
-06/04/2013,Reading,Southampton,0,2,"(34, 1, 'Jay Rodriguez')","(72, 1, 'Adam Lallana')"
-13/04/2013,Reading,Liverpool,0,0
-28/04/2013,Reading,Queens Park Rangers,0,0
-01/12/2012,Liverpool,Southampton,1,0,"(43, 0, 'Daniel Agger')"
-15/12/2012,Liverpool,Aston Villa,1,3,"(29, 1, 'Christian Benteke')","(40, 1, 'Andi Weimann')","(51, 1, 'Christian Benteke')","(87, 0, 'Steven Gerrard')"
-30/12/2012,Queens Park Rangers,Liverpool,0,3,"(10, 1, 'Luis Suarez')","(16, 1, 'Luis Suarez')","(28, 1, 'Daniel Agger')"
-16/03/2013,Southampton,Liverpool,3,1,"(6, 0, 'Morgan Schneiderlin')","(33, 0, 'Rickie Lambert')","(45, 1, 'Philippe Coutinho')","(80, 0, 'Jay Rodriguez')"
-31/03/2013,Aston Villa,Liverpool,1,2,"(31, 0, 'Christian Benteke')","(47, 1, 'Jordan Henderson')","(60, 1, 'Steven Gerrard')"
-19/05/2013,Liverpool,Queens Park Rangers,1,0,"(23, 0, 'Philippe Coutinho')"
-17/11/2012,Queens Park Rangers,Southampton,1,3,"(23, 1, 'Rickie Lambert')","(45, 1, 'Jason Puncheon')","(49, 0, 'Junior Hoilett')","(83, 1, 'Anton Ferdinand')"
-01/12/2012,Queens Park Rangers,Aston Villa,1,1,"(8, 1, 'Brett Holman')","(18, 0, 'Jamie Mackie')"
-02/03/2013,Southampton,Queens Park Rangers,1,2,"(14, 1, 'Loic Remy')","(45, 0, 'Gaston Ramirez')","(77, 1, 'Jay Bothroyd')"
-16/03/2013,Aston Villa,Queens Park Rangers,3,2,"(23, 1, 'Jermaine Jenas')","(45, 0, 'Gabby Agbonlahor')","(59, 0, 'Andi Weimann')","(73, 1, 'Andros Townsend')","(81, 0, 'Christian Benteke')"
-22/09/2012,Southampton,Aston Villa,4,1,"(36, 1, 'Darren Bent')","(58, 0, 'Rickie Lambert')","(63, 0, 'Nathaniel Clyne')","(72, 0, 'Jason Puncheon')","(90, 0, 'Rickie Lambert')"
-12/01/2013,Aston Villa,Southampton,0,1,"(34, 1, 'Rickie Lambert')"
+Date,Home,Away,FTHG,FTAG,1 goal,2 goal,3 goal,4 goal,5 goal,6 goal,7 goal,8 goal,9 goal,10 goal,11 goal,12 goal
+2012-08-18,Arsenal,Sunderland,0,0,,,,,,,,,,,,
+2012-08-18,Fulham,Norwich City,5,0,"(26, 0, 'Damien Duff')","(41, 0, 'Mladen Petric')","(54, 0, 'Mladen Petric')","(66, 0, 'Alex Kacaniklic')","(87, 0, 'Steve Sidwell')",,,,,,,
+2012-08-18,Newcastle United,Tottenham Hotspur,2,1,"(54, 0, 'Demba Ba')","(76, 1, 'Jermain Defoe')","(80, 0, 'Hatem Ben Arfa')",,,,,,,,,
+2012-08-18,Queens Park Rangers,Swansea City,0,5,"(8, 1, ' Michu')","(53, 1, ' Michu')","(63, 1, 'Nathan Dyer')","(71, 1, 'Nathan Dyer')","(81, 1, 'Scott Sinclair')",,,,,,,
+2012-08-18,Reading,Stoke City,1,1,"(34, 1, 'Michael Kightly')","(90, 0, 'Adam Le Fondre')",,,,,,,,,,
+2012-08-18,West Bromwich Albion,Liverpool,3,0,"(43, 0, 'Zoltan Gera')","(64, 0, 'Peter Odemwingie')","(77, 0, 'Romelu Lukaku')",,,,,,,,,
+2012-08-18,West Ham United,Aston Villa,1,0,"(40, 0, 'Kevin Nolan')",,,,,,,,,,,
+2012-08-19,Manchester City,Southampton,3,2,"(40, 0, 'Carlos Tevez')","(59, 1, 'Rickie Lambert')","(68, 1, 'Steven Davis')","(72, 0, 'Edin Dzeko')","(80, 0, 'Samir Nasri')",,,,,,,
+2012-08-19,Wigan Athletic,Chelsea,0,2,"(2, 1, 'Branislav Ivanovic')","(7, 1, 'Frank Lampard')",,,,,,,,,,
+2012-08-20,Everton,Manchester United,1,0,"(57, 0, 'Marouane Fellaini')",,,,,,,,,,,
+2012-08-22,Chelsea,Reading,4,2,"(18, 0, 'Frank Lampard')","(25, 1, 'Pavel Pogrebnyak')","(29, 1, 'Danny Guthrie')","(69, 0, 'Gary Cahill')","(81, 0, 'Fernando Torres')","(90, 0, 'Branislav Ivanovic')",,,,,,
+2012-08-25,Aston Villa,Everton,1,3,"(3, 1, 'Steven Pienaar')","(31, 1, 'Marouane Fellaini')","(43, 1, 'Nikica Jelavic')","(74, 0, 'Karim El Ahmadi')",,,,,,,,
+2012-08-25,Chelsea,Newcastle United,2,0,"(22, 0, 'Eden Hazard')","(45, 0, 'Fernando Torres')",,,,,,,,,,
+2012-08-25,Manchester United,Fulham,3,2,"(3, 1, 'Damien Duff')","(10, 0, 'Robin Van Persie')","(35, 0, 'Shinji Kagawa')","(41, 0, ' Rafael Da Silva')","(64, 1, 'Nemanja Vidic')",,,,,,,
+2012-08-25,Norwich City,Queens Park Rangers,1,1,"(11, 0, 'Simeon Jackson')","(19, 1, 'Bobby Zamora')",,,,,,,,,,
+2012-08-25,Southampton,Wigan Athletic,0,2,"(51, 1, 'Franco Di Santo')","(89, 1, 'Arouna Kone')",,,,,,,,,,
+2012-08-25,Swansea City,West Ham United,3,0,"(20, 0, 'Angel Rangel')","(29, 0, ' Michu')","(64, 0, 'Danny Graham')",,,,,,,,,
+2012-08-25,Tottenham Hotspur,West Bromwich Albion,1,1,"(74, 0, 'Benoit Assou-Ekotto')","(90, 1, 'James Morrison')",,,,,,,,,,
+2012-08-26,Liverpool,Manchester City,2,2,"(34, 0, 'Martin Skrtel')","(63, 1, 'Yaya Toure')","(66, 0, 'Luis Suarez')","(80, 1, 'Carlos Tevez')",,,,,,,,
+2012-08-26,Stoke City,Arsenal,0,0,,,,,,,,,,,,
+2012-09-01,Manchester City,Queens Park Rangers,3,1,"(16, 0, 'Yaya Toure')","(59, 1, 'Bobby Zamora')","(61, 0, 'Edin Dzeko')","(90, 0, 'Carlos Tevez')",,,,,,,,
+2012-09-01,Swansea City,Sunderland,2,2,"(40, 1, 'Steven Fletcher')","(45, 0, 'Wayne Routledge')","(45, 1, 'Steven Fletcher')","(66, 0, ' Michu')",,,,,,,,
+2012-09-01,Tottenham Hotspur,Norwich City,1,1,"(68, 0, 'Moussa Dembele')","(85, 1, 'Robert Snodgrass')",,,,,,,,,,
+2012-09-01,West Bromwich Albion,Everton,2,0,"(65, 0, 'Shane Long')","(82, 0, 'Gareth McAuley')",,,,,,,,,,
+2012-09-01,West Ham United,Fulham,3,0,"(1, 0, 'Kevin Nolan')","(29, 0, 'Winston Reid')","(41, 0, 'Matt Taylor')",,,,,,,,,
+2012-09-01,Wigan Athletic,Stoke City,2,2,"(5, 0, 'Shaun Maloney')","(40, 1, 'Jon Walters')","(49, 0, 'Franco Di Santo')","(76, 1, 'Peter Crouch')",,,,,,,,
+2012-09-02,Liverpool,Arsenal,0,2,"(31, 1, 'Lukas Podolski')","(68, 1, 'Santi Cazorla')",,,,,,,,,,
+2012-09-02,Newcastle United,Aston Villa,1,1,"(22, 1, 'Ciaran Clark')","(59, 0, 'Hatem Ben Arfa')",,,,,,,,,,
+2012-09-02,Southampton,Manchester United,2,3,"(16, 0, 'Rickie Lambert')","(23, 1, 'Robin Van Persie')","(55, 0, 'Morgan Schneiderlin')","(87, 1, 'Robin Van Persie')","(90, 1, 'Robin Van Persie')",,,,,,,
+2012-09-15,Arsenal,Southampton,6,1,"(11, 0, 'Jos Hooiveld')","(31, 0, 'Lukas Podolski')","(35, 0, ' Gervinho')","(37, 0, 'Nathaniel Clyne')","(45, 1, 'Danny Fox')","(71, 0, ' Gervinho')","(88, 0, 'Theo Walcott')",,,,,
+2012-09-15,Aston Villa,Swansea City,2,0,"(16, 0, 'Matthew Lowton')","(88, 0, 'Christian Benteke')",,,,,,,,,,
+2012-09-15,Fulham,West Bromwich Albion,3,0,"(32, 0, 'Dimitar Berbatov')","(45, 0, 'Dimitar Berbatov')","(89, 0, 'Steve Sidwell')",,,,,,,,,
+2012-09-15,Manchester United,Wigan Athletic,4,0,"(51, 0, 'Paul Scholes')","(63, 0, 'Javier Hernandez')","(66, 0, 'Alexander Buttner')","(82, 0, 'Nick Powell')",,,,,,,,
+2012-09-15,Norwich City,West Ham United,0,0,,,,,,,,,,,,
+2012-09-15,Queens Park Rangers,Chelsea,0,0,,,,,,,,,,,,
+2012-09-15,Stoke City,Manchester City,1,1,"(15, 0, 'Peter Crouch')","(35, 1, ' Javi Garcia')",,,,,,,,,,
+2012-09-15,Sunderland,Liverpool,1,1,"(29, 0, 'Steven Fletcher')","(71, 1, 'Luis Suarez')",,,,,,,,,,
+2012-09-16,Reading,Tottenham Hotspur,1,3,"(18, 1, 'Jermain Defoe')","(71, 1, 'Gareth Bale')","(74, 1, 'Jermain Defoe')","(90, 0, 'Hal Robson-Kanu')",,,,,,,,
+2012-09-17,Everton,Newcastle United,2,2,"(15, 0, 'Leighton Baines')","(49, 1, 'Demba Ba')","(88, 0, 'Victor Anichebe')","(90, 1, 'Demba Ba')",,,,,,,,
+2012-09-22,Chelsea,Stoke City,1,0,"(85, 0, 'Ashley Cole')",,,,,,,,,,,
+2012-09-22,Southampton,Aston Villa,4,1,"(36, 1, 'Darren Bent')","(58, 0, 'Rickie Lambert')","(63, 0, 'Nathaniel Clyne')","(72, 0, 'Jason Puncheon')","(90, 0, 'Rickie Lambert')",,,,,,,
+2012-09-22,Swansea City,Everton,0,3,"(21, 1, 'Victor Anichebe')","(43, 1, 'Kevin Mirallas')","(82, 1, 'Marouane Fellaini')",,,,,,,,,
+2012-09-22,West Bromwich Albion,Reading,1,0,"(71, 0, 'Romelu Lukaku')",,,,,,,,,,,
+2012-09-22,West Ham United,Sunderland,1,1,"(9, 1, 'Steven Fletcher')","(90, 0, 'Kevin Nolan')",,,,,,,,,,
+2012-09-22,Wigan Athletic,Fulham,1,2,"(31, 1, 'Hugo Rodallega')","(68, 1, 'Damien Duff')","(90, 0, 'Arouna Kone')",,,,,,,,,
+2012-09-23,Liverpool,Manchester United,1,2,"(46, 0, 'Steven Gerrard')","(51, 1, ' Rafael Da Silva')","(81, 1, 'Robin Van Persie')",,,,,,,,,
+2012-09-23,Manchester City,Arsenal,1,1,"(40, 0, 'Joleon Lescott')","(82, 1, 'Laurent Koscielny')",,,,,,,,,,
+2012-09-23,Newcastle United,Norwich City,1,0,"(19, 0, 'Demba Ba')",,,,,,,,,,,
+2012-09-23,Tottenham Hotspur,Queens Park Rangers,2,1,"(33, 1, 'Bobby Zamora')","(60, 0, 'Alejandro Faurlin')","(61, 0, 'Jermain Defoe')",,,,,,,,,
+2012-09-29,Arsenal,Chelsea,1,2,"(20, 1, 'Fernando Torres')","(42, 0, ' Gervinho')","(53, 1, 'Juan Mata')",,,,,,,,,
+2012-09-29,Everton,Southampton,3,1,"(6, 1, 'Gaston Ramirez')","(25, 0, 'Leon Osman')","(32, 0, 'Nikica Jelavic')","(38, 0, 'Nikica Jelavic')",,,,,,,,
+2012-09-29,Fulham,Manchester City,1,2,"(10, 0, 'Mladen Petric')","(43, 1, 'Sergio Aguero')","(87, 1, 'Edin Dzeko')",,,,,,,,,
+2012-09-29,Manchester United,Tottenham Hotspur,2,3,"(2, 1, 'Jonny Evans')","(32, 1, 'Gareth Bale')","(51, 0, ' Nani')","(52, 1, 'Clint Dempsey')","(53, 0, 'Shinji Kagawa')",,,,,,,
+2012-09-29,Norwich City,Liverpool,2,5,"(2, 1, 'Luis Suarez')","(38, 1, 'Luis Suarez')","(47, 1, ' Nuri Sahin')","(57, 1, 'Luis Suarez')","(61, 0, 'Steve Morison')","(68, 1, 'Leon Barnett')","(87, 0, 'Grant Holt')",,,,,
+2012-09-29,Reading,Newcastle United,2,2,"(58, 0, 'Jimmy Kebe')","(58, 1, 'Demba Ba')","(62, 0, 'Noel Hunt')","(83, 1, 'Demba Ba')",,,,,,,,
+2012-09-29,Stoke City,Swansea City,2,0,"(12, 0, 'Peter Crouch')","(36, 0, 'Peter Crouch')",,,,,,,,,,
+2012-09-29,Sunderland,Wigan Athletic,1,0,"(51, 0, 'Steven Fletcher')",,,,,,,,,,,
+2012-09-30,Aston Villa,West Bromwich Albion,1,1,"(51, 1, 'Shane Long')","(80, 0, 'Darren Bent')",,,,,,,,,,
+2012-10-01,Queens Park Rangers,West Ham United,1,2,"(3, 1, 'Matt Jarvis')","(35, 1, 'Ricardo Vaz Te')","(57, 0, 'Adel Taarabt')",,,,,,,,,
+2012-10-06,Chelsea,Norwich City,4,1,"(11, 1, 'Grant Holt')","(14, 0, 'Fernando Torres')","(22, 0, 'Frank Lampard')","(31, 0, 'Eden Hazard')","(76, 0, 'Branislav Ivanovic')",,,,,,,
+2012-10-06,Manchester City,Sunderland,3,0,"(5, 0, 'Aleksandar Kolarov')","(60, 0, 'Sergio Aguero')","(89, 0, 'James Milner')",,,,,,,,,
+2012-10-06,Swansea City,Reading,2,2,"(31, 1, 'Pavel Pogrebnyak')","(44, 1, 'Noel Hunt')","(71, 0, ' Michu')","(78, 0, 'Wayne Routledge')",,,,,,,,
+2012-10-06,West Bromwich Albion,Queens Park Rangers,3,2,"(5, 0, 'James Morrison')","(22, 0, 'Zoltan Gera')","(35, 1, 'Adel Taarabt')","(85, 0, 'Youssef Mulumbu')","(90, 1, 'Esteban Granero')",,,,,,,
+2012-10-06,West Ham United,Arsenal,1,3,"(21, 0, 'Mohamed Diame')","(41, 1, 'Olivier Giroud')","(77, 1, 'Theo Walcott')","(83, 1, 'Santi Cazorla')",,,,,,,,
+2012-10-06,Wigan Athletic,Everton,2,2,"(10, 0, 'Arouna Kone')","(11, 1, 'Nikica Jelavic')","(23, 0, 'Franco Di Santo')","(87, 1, 'Leighton Baines')",,,,,,,,
+2012-10-07,Liverpool,Stoke City,0,0,,,,,,,,,,,,
+2012-10-07,Newcastle United,Manchester United,0,3,"(8, 1, 'Jonny Evans')","(15, 1, 'Patrice Evra')","(71, 1, 'Tom Cleverley')",,,,,,,,,
+2012-10-07,Southampton,Fulham,2,2,"(4, 0, 'Jose Fonte')","(70, 1, 'Jos Hooiveld')","(88, 1, 'Kieran Richardson')","(90, 0, 'Jose Fonte')",,,,,,,,
+2012-10-07,Tottenham Hotspur,Aston Villa,2,0,"(58, 0, 'Steven Caulker')","(67, 0, 'Aaron Lennon')",,,,,,,,,,
+2012-10-20,Fulham,Aston Villa,1,0,"(84, 0, 'Chris Baird')",,,,,,,,,,,
+2012-10-20,Liverpool,Reading,1,0,"(29, 0, 'Raheem Sterling')",,,,,,,,,,,
+2012-10-20,Manchester United,Stoke City,4,2,"(11, 1, 'Wayne Rooney')","(27, 0, 'Wayne Rooney')","(44, 0, 'Robin Van Persie')","(46, 0, 'Danny Welbeck')","(58, 1, 'Michael Kightly')","(65, 0, 'Wayne Rooney')",,,,,,
+2012-10-20,Norwich City,Arsenal,1,0,"(19, 0, 'Grant Holt')",,,,,,,,,,,
+2012-10-20,Swansea City,Wigan Athletic,2,1,"(65, 0, ' Pablo Hernandez')","(67, 0, ' Michu')","(69, 1, 'Emmerson Boyce')",,,,,,,,,
+2012-10-20,Tottenham Hotspur,Chelsea,2,4,"(17, 1, 'Gary Cahill')","(47, 0, 'William Gallas')","(54, 0, 'Jermain Defoe')","(66, 1, 'Juan Mata')","(69, 1, 'Juan Mata')","(90, 1, 'Daniel Sturridge')",,,,,,
+2012-10-20,West Bromwich Albion,Manchester City,1,2,"(67, 0, 'Shane Long')","(80, 1, 'Edin Dzeko')","(90, 1, 'Edin Dzeko')",,,,,,,,,
+2012-10-20,West Ham United,Southampton,4,1,"(46, 0, 'Mark Noble')","(48, 0, 'Kevin Nolan')","(63, 1, 'Adam Lallana')","(72, 0, 'Mark Noble')","(87, 0, 'Modibo Maiga')",,,,,,,
+2012-10-21,Queens Park Rangers,Everton,1,1,"(2, 0, 'Leighton Baines')","(33, 1, ' Julio Cesar')",,,,,,,,,,
+2012-10-21,Sunderland,Newcastle United,1,1,"(3, 1, 'Yohan Cabaye')","(86, 0, 'Demba Ba')",,,,,,,,,,
+2012-10-27,Arsenal,Queens Park Rangers,1,0,"(84, 0, 'Mikel Arteta')",,,,,,,,,,,
+2012-10-27,Aston Villa,Norwich City,1,1,"(27, 0, 'Christian Benteke')","(79, 1, 'Michael Turner')",,,,,,,,,,
+2012-10-27,Manchester City,Swansea City,1,0,"(61, 0, 'Carlos Tevez')",,,,,,,,,,,
+2012-10-27,Reading,Fulham,3,3,"(26, 0, 'Mikele Leigertwood')","(61, 1, 'Bryan Ruiz')","(77, 1, 'Chris Baird')","(85, 0, 'Garath McCleary')","(88, 1, 'Dimitar Berbatov')","(90, 0, 'Hal Robson-Kanu')",,,,,,
+2012-10-27,Stoke City,Sunderland,0,0,,,,,,,,,,,,
+2012-10-27,Wigan Athletic,West Ham United,2,1,"(8, 0, 'Ivan Ramis')","(47, 0, 'James McArthur')","(90, 1, 'James Tomkins')",,,,,,,,,
+2012-10-28,Chelsea,Manchester United,2,3,"(4, 1, ' David Luiz')","(12, 1, 'Robin Van Persie')","(44, 0, 'Juan Mata')","(53, 0, ' Ramires')","(75, 1, 'Javier Hernandez')",,,,,,,
+2012-10-28,Everton,Liverpool,2,2,"(14, 1, 'Leighton Baines')","(20, 1, 'Luis Suarez')","(22, 0, 'Leon Osman')","(35, 0, 'Steven Naismith')",,,,,,,,
+2012-10-28,Newcastle United,West Bromwich Albion,2,1,"(35, 0, 'Demba Ba')","(55, 1, 'Romelu Lukaku')","(90, 0, 'Papiss Cisse')",,,,,,,,,
+2012-10-28,Southampton,Tottenham Hotspur,1,2,"(15, 1, 'Gareth Bale')","(39, 1, 'Clint Dempsey')","(66, 0, 'Jay Rodriguez')",,,,,,,,,
+2012-11-03,Fulham,Everton,2,2,"(7, 0, 'Bryan Ruiz')","(55, 1, 'Marouane Fellaini')","(72, 1, 'Marouane Fellaini')","(90, 0, 'Steve Sidwell')",,,,,,,,
+2012-11-03,Manchester United,Arsenal,2,1,"(3, 0, 'Robin Van Persie')","(67, 0, 'Patrice Evra')","(90, 1, 'Santi Cazorla')",,,,,,,,,
+2012-11-03,Norwich City,Stoke City,1,0,"(44, 0, 'Bradley Johnson')",,,,,,,,,,,
+2012-11-03,Sunderland,Aston Villa,0,1,"(57, 1, 'Gabby Agbonlahor')",,,,,,,,,,,
+2012-11-03,Swansea City,Chelsea,1,1,"(61, 1, 'Victor Moses')","(88, 0, ' Pablo Hernandez')",,,,,,,,,,
+2012-11-03,Tottenham Hotspur,Wigan Athletic,0,1,"(56, 1, 'Ben Watson')",,,,,,,,,,,
+2012-11-03,West Ham United,Manchester City,0,0,,,,,,,,,,,,
+2012-11-04,Liverpool,Newcastle United,1,1,"(43, 1, 'Yohan Cabaye')","(67, 0, 'Luis Suarez')",,,,,,,,,,
+2012-11-04,Queens Park Rangers,Reading,1,1,"(16, 1, 'Kaspars Gorkss')","(66, 0, 'Djibril Cisse')",,,,,,,,,,
+2012-11-05,West Bromwich Albion,Southampton,2,0,"(36, 0, 'Peter Odemwingie')","(60, 0, 'Peter Odemwingie')",,,,,,,,,,
+2012-11-10,Arsenal,Fulham,3,3,"(11, 0, 'Olivier Giroud')","(23, 0, 'Lukas Podolski')","(29, 1, 'Dimitar Berbatov')","(40, 1, 'Alex Kacaniklic')","(67, 1, 'Dimitar Berbatov')","(69, 0, 'Olivier Giroud')",,,,,,
+2012-11-10,Aston Villa,Manchester United,2,3,"(45, 0, 'Andi Weimann')","(50, 0, 'Andi Weimann')","(58, 1, 'Javier Hernandez')","(63, 1, 'Ron Vlaar')","(87, 1, 'Javier Hernandez')",,,,,,,
+2012-11-10,Everton,Sunderland,2,1,"(45, 1, 'Adam Johnson')","(76, 0, 'Marouane Fellaini')","(79, 0, 'Nikica Jelavic')",,,,,,,,,
+2012-11-10,Reading,Norwich City,0,0,,,,,,,,,,,,
+2012-11-10,Southampton,Swansea City,1,1,"(64, 0, 'Morgan Schneiderlin')","(73, 1, 'Nathan Dyer')",,,,,,,,,,
+2012-11-10,Stoke City,Queens Park Rangers,1,0,"(52, 0, 'Charlie Adam')",,,,,,,,,,,
+2012-11-10,Wigan Athletic,West Bromwich Albion,1,2,"(31, 1, 'James Morrison')","(43, 1, 'Gary Caldwell')","(44, 0, 'Arouna Kone')",,,,,,,,,
+2012-11-11,Chelsea,Liverpool,1,1,"(20, 0, 'John Terry')","(73, 1, 'Luis Suarez')",,,,,,,,,,
+2012-11-11,Manchester City,Tottenham Hotspur,2,1,"(21, 1, 'Steven Caulker')","(65, 0, 'Sergio Aguero')","(88, 0, 'Edin Dzeko')",,,,,,,,,
+2012-11-11,Newcastle United,West Ham United,0,1,"(37, 1, 'Kevin Nolan')",,,,,,,,,,,
+2012-11-17,Arsenal,Tottenham Hotspur,5,2,"(10, 1, 'Emmanuel Adebayor')","(24, 0, 'Per Mertesacker')","(42, 0, 'Lukas Podolski')","(45, 0, 'Olivier Giroud')","(60, 0, 'Santi Cazorla')","(71, 1, 'Gareth Bale')","(90, 0, 'Theo Walcott')",,,,,
+2012-11-17,Liverpool,Wigan Athletic,3,0,"(47, 0, 'Luis Suarez')","(58, 0, 'Luis Suarez')","(65, 0, 'Jose Enrique')",,,,,,,,,
+2012-11-17,Manchester City,Aston Villa,5,0,"(43, 0, 'David Silva')","(54, 0, 'Sergio Aguero')","(65, 0, 'Carlos Tevez')","(67, 0, 'Sergio Aguero')","(74, 0, 'Carlos Tevez')",,,,,,,
+2012-11-17,Newcastle United,Swansea City,1,2,"(58, 1, ' Michu')","(87, 1, 'Jonathan De Guzman')","(90, 0, 'Demba Ba')",,,,,,,,,
+2012-11-17,Norwich City,Manchester United,1,0,"(60, 0, 'Anthony Pilkington')",,,,,,,,,,,
+2012-11-17,Queens Park Rangers,Southampton,1,3,"(23, 1, 'Rickie Lambert')","(45, 1, 'Jason Puncheon')","(49, 0, 'Junior Hoilett')","(83, 1, 'Anton Ferdinand')",,,,,,,,
+2012-11-17,Reading,Everton,2,1,"(10, 1, 'Steven Naismith')","(51, 0, 'Adam Le Fondre')","(79, 0, 'Adam Le Fondre')",,,,,,,,,
+2012-11-17,West Bromwich Albion,Chelsea,2,1,"(10, 0, 'Shane Long')","(39, 1, 'Eden Hazard')","(50, 0, 'Peter Odemwingie')",,,,,,,,,
+2012-11-18,Fulham,Sunderland,1,3,"(50, 1, 'Steven Fletcher')","(62, 0, 'Mladen Petric')","(65, 1, 'Carlos Cuellar')","(70, 1, 'Stephane Sessegnon')",,,,,,,,
+2012-11-19,West Ham United,Stoke City,1,1,"(13, 1, 'Jon Walters')","(48, 0, ""Joey O'Brien"")",,,,,,,,,,
+2012-11-24,Aston Villa,Arsenal,0,0,,,,,,,,,,,,
+2012-11-24,Everton,Norwich City,1,1,"(12, 0, 'Steven Naismith')","(90, 1, 'Sebastien Bassong')",,,,,,,,,,
+2012-11-24,Manchester United,Queens Park Rangers,3,1,"(52, 1, 'Jamie Mackie')","(64, 0, 'Jonny Evans')","(68, 0, 'Darren Fletcher')","(72, 0, 'Javier Hernandez')",,,,,,,,
+2012-11-24,Stoke City,Fulham,1,0,"(26, 0, 'Charlie Adam')",,,,,,,,,,,
+2012-11-24,Sunderland,West Bromwich Albion,2,4,"(30, 1, 'Zoltan Gera')","(44, 1, 'Shane Long')","(73, 0, 'Craig Gardner')","(81, 1, 'Romelu Lukaku')","(87, 0, 'Stephane Sessegnon')","(90, 1, 'Craig Gardner')",,,,,,
+2012-11-24,Wigan Athletic,Reading,3,2,"(35, 1, 'Sean Morrison')","(58, 0, 'Jordi Gomez')","(68, 0, 'Jordi Gomez')","(80, 1, 'Ali Al Habsi')","(90, 0, 'Jordi Gomez')",,,,,,,
+2012-11-25,Chelsea,Manchester City,0,0,,,,,,,,,,,,
+2012-11-25,Southampton,Newcastle United,2,0,"(34, 0, 'Adam Lallana')","(60, 0, 'Gaston Ramirez')",,,,,,,,,,
+2012-11-25,Swansea City,Liverpool,0,0,,,,,,,,,,,,
+2012-11-25,Tottenham Hotspur,West Ham United,3,1,"(44, 0, 'Jermain Defoe')","(58, 0, 'Gareth Bale')","(64, 0, 'Jermain Defoe')","(82, 1, 'Andy Carroll')",,,,,,,,
+2012-11-27,Aston Villa,Reading,1,0,"(80, 0, 'Christian Benteke')",,,,,,,,,,,
+2012-11-27,Sunderland,Queens Park Rangers,0,0,,,,,,,,,,,,
+2012-11-28,Chelsea,Fulham,0,0,,,,,,,,,,,,
+2012-11-28,Everton,Arsenal,1,1,"(1, 1, 'Theo Walcott')","(28, 0, 'Marouane Fellaini')",,,,,,,,,,
+2012-11-28,Manchester United,West Ham United,1,0,"(1, 0, 'Robin Van Persie')",,,,,,,,,,,
+2012-11-28,Southampton,Norwich City,1,1,"(32, 0, 'Rickie Lambert')","(45, 1, 'Robert Snodgrass')",,,,,,,,,,
+2012-11-28,Stoke City,Newcastle United,2,1,"(47, 1, 'Papiss Cisse')","(81, 0, 'Jon Walters')","(85, 0, 'Cameron Jerome')",,,,,,,,,
+2012-11-28,Swansea City,West Bromwich Albion,3,1,"(9, 0, ' Michu')","(11, 0, 'Wayne Routledge')","(39, 0, 'Wayne Routledge')","(45, 1, 'Romelu Lukaku')",,,,,,,,
+2012-11-28,Tottenham Hotspur,Liverpool,2,1,"(7, 0, 'Aaron Lennon')","(16, 0, 'Gareth Bale')","(72, 1, 'Gareth Bale')",,,,,,,,,
+2012-11-28,Wigan Athletic,Manchester City,0,2,"(69, 1, 'Mario Balotelli')","(72, 1, 'James Milner')",,,,,,,,,,
+2012-12-01,Arsenal,Swansea City,0,2,"(88, 1, ' Michu')","(90, 1, ' Michu')",,,,,,,,,,
+2012-12-01,Fulham,Tottenham Hotspur,0,3,"(55, 1, ' Sandro')","(72, 1, 'Jermain Defoe')","(77, 1, 'Jermain Defoe')",,,,,,,,,
+2012-12-01,Liverpool,Southampton,1,0,"(43, 0, 'Daniel Agger')",,,,,,,,,,,
+2012-12-01,Manchester City,Everton,1,1,"(33, 1, 'Marouane Fellaini')","(43, 0, 'Carlos Tevez')",,,,,,,,,,
+2012-12-01,Queens Park Rangers,Aston Villa,1,1,"(8, 1, 'Brett Holman')","(18, 0, 'Jamie Mackie')",,,,,,,,,,
+2012-12-01,Reading,Manchester United,3,4,"(8, 0, 'Hal Robson-Kanu')","(13, 1, ' Anderson')","(16, 1, 'Wayne Rooney')","(19, 0, 'Adam Le Fondre')","(23, 0, 'Sean Morrison')","(30, 1, 'Wayne Rooney')","(34, 1, 'Robin Van Persie')",,,,,
+2012-12-01,West Bromwich Albion,Stoke City,0,1,"(75, 1, 'Dean Whitehead')",,,,,,,,,,,
+2012-12-01,West Ham United,Chelsea,3,1,"(13, 1, 'Juan Mata')","(63, 0, 'Carlton Cole')","(86, 0, 'Mohamed Diame')","(90, 0, 'Modibo Maiga')",,,,,,,,
+2012-12-02,Norwich City,Sunderland,2,1,"(8, 0, 'Sebastien Bassong')","(37, 0, 'Anthony Pilkington')","(44, 1, 'Craig Gardner')",,,,,,,,,
+2012-12-03,Newcastle United,Wigan Athletic,3,0,"(13, 0, 'Demba Ba')","(21, 0, 'Demba Ba')","(71, 0, 'Gael Bigirimana')",,,,,,,,,
+2012-12-08,Arsenal,West Bromwich Albion,2,0,"(26, 0, 'Mikel Arteta')","(64, 0, 'Mikel Arteta')",,,,,,,,,,
+2012-12-08,Aston Villa,Stoke City,0,0,,,,,,,,,,,,
+2012-12-08,Southampton,Reading,1,0,"(61, 0, 'Jason Puncheon')",,,,,,,,,,,
+2012-12-08,Sunderland,Chelsea,1,3,"(11, 1, 'Fernando Torres')","(45, 1, 'Fernando Torres')","(49, 1, 'Juan Mata')","(66, 0, 'Adam Johnson')",,,,,,,,
+2012-12-08,Swansea City,Norwich City,3,4,"(16, 1, 'Steven Whittaker')","(40, 1, 'Sebastien Bassong')","(44, 1, 'Grant Holt')","(51, 0, ' Michu')","(59, 0, 'Jonathan De Guzman')","(77, 1, 'Robert Snodgrass')","(90, 0, ' Michu')",,,,,
+2012-12-08,Wigan Athletic,Queens Park Rangers,2,2,"(19, 0, 'James McCarthy')","(26, 1, 'Ryan Nelsen')","(71, 1, 'Djibril Cisse')","(74, 0, 'James McCarthy')",,,,,,,,
+2012-12-09,Everton,Tottenham Hotspur,2,1,"(76, 1, 'Clint Dempsey')","(90, 0, 'Nikica Jelavic')","(90, 0, 'Steven Pienaar')",,,,,,,,,
+2012-12-09,Manchester City,Manchester United,2,3,"(16, 1, 'Wayne Rooney')","(29, 1, 'Wayne Rooney')","(60, 0, 'Yaya Toure')","(86, 0, 'Pablo Zabaleta')","(90, 1, 'Robin Van Persie')",,,,,,,
+2012-12-09,West Ham United,Liverpool,2,3,"(11, 1, 'Glen Johnson')","(36, 0, 'Mark Noble')","(43, 0, 'Steven Gerrard')","(76, 1, 'Joe Cole')","(79, 1, 'Jonjo Shelvey')",,,,,,,
+2012-12-10,Fulham,Newcastle United,2,1,"(19, 0, 'Steve Sidwell')","(54, 1, 'Hatem Ben Arfa')","(63, 0, 'Hugo Rodallega')",,,,,,,,,
+2012-12-11,Sunderland,Reading,3,0,"(3, 0, 'James McClean')","(28, 0, 'Steven Fletcher')","(90, 0, 'Stephane Sessegnon')",,,,,,,,,
+2012-12-15,Liverpool,Aston Villa,1,3,"(29, 1, 'Christian Benteke')","(40, 1, 'Andi Weimann')","(51, 1, 'Christian Benteke')","(87, 0, 'Steven Gerrard')",,,,,,,,
+2012-12-15,Manchester United,Sunderland,3,1,"(16, 0, 'Robin Van Persie')","(19, 0, 'Tom Cleverley')","(59, 0, 'Wayne Rooney')","(72, 1, 'Fraizer Campbell')",,,,,,,,
+2012-12-15,Newcastle United,Manchester City,1,3,"(10, 1, 'Sergio Aguero')","(39, 1, ' Javi Garcia')","(51, 0, 'Demba Ba')","(78, 1, 'Yaya Toure')",,,,,,,,
+2012-12-15,Norwich City,Wigan Athletic,2,1,"(15, 0, 'Anthony Pilkington')","(51, 1, 'Shaun Maloney')","(64, 0, 'Wes Hoolahan')",,,,,,,,,
+2012-12-15,Queens Park Rangers,Fulham,2,1,"(52, 0, 'Adel Taarabt')","(68, 0, 'Adel Taarabt')","(88, 1, 'Mladen Petric')",,,,,,,,,
+2012-12-15,Stoke City,Everton,1,1,"(36, 1, 'Ryan Shawcross')","(52, 0, 'Kenwyne Jones')",,,,,,,,,,
+2012-12-16,Tottenham Hotspur,Swansea City,1,0,"(75, 0, 'Jan Vertonghen')",,,,,,,,,,,
+2012-12-16,West Bromwich Albion,West Ham United,0,0,,,,,,,,,,,,
+2012-12-17,Reading,Arsenal,2,5,"(14, 1, 'Lukas Podolski')","(32, 1, 'Santi Cazorla')","(34, 1, 'Santi Cazorla')","(60, 1, 'Santi Cazorla')","(66, 0, 'Adam Le Fondre')","(71, 0, 'Jimmy Kebe')","(80, 1, 'Theo Walcott')",,,,,
+2012-12-22,Liverpool,Fulham,4,0,"(8, 0, 'Martin Skrtel')","(36, 0, 'Steven Gerrard')","(51, 0, 'Stewart Downing')","(90, 0, 'Luis Suarez')",,,,,,,,
+2012-12-22,Manchester City,Reading,1,0,"(90, 0, 'Gareth Barry')",,,,,,,,,,,
+2012-12-22,Newcastle United,Queens Park Rangers,1,0,"(81, 0, 'Shola Ameobi')",,,,,,,,,,,
+2012-12-22,Southampton,Sunderland,0,1,"(42, 1, 'Steven Fletcher')",,,,,,,,,,,
+2012-12-22,Tottenham Hotspur,Stoke City,0,0,,,,,,,,,,,,
+2012-12-22,West Bromwich Albion,Norwich City,2,1,"(23, 1, 'Robert Snodgrass')","(43, 0, 'Zoltan Gera')","(82, 0, 'Romelu Lukaku')",,,,,,,,,
+2012-12-22,West Ham United,Everton,1,2,"(14, 0, 'Carlton Cole')","(64, 1, 'Victor Anichebe')","(73, 1, 'Steven Pienaar')",,,,,,,,,
+2012-12-22,Wigan Athletic,Arsenal,0,1,"(60, 1, 'Mikel Arteta')",,,,,,,,,,,
+2012-12-23,Chelsea,Aston Villa,8,0,"(3, 0, 'Fernando Torres')","(29, 0, ' David Luiz')","(34, 0, 'Branislav Ivanovic')","(58, 0, 'Frank Lampard')","(75, 0, ' Ramires')","(79, 0, ' Oscar')","(83, 0, 'Eden Hazard')","(90, 0, ' Ramires')",,,,
+2012-12-23,Swansea City,Manchester United,1,1,"(16, 1, 'Patrice Evra')","(29, 0, ' Michu')",,,,,,,,,,
+2012-12-26,Aston Villa,Tottenham Hotspur,0,4,"(57, 1, 'Jermain Defoe')","(61, 1, 'Gareth Bale')","(73, 1, 'Gareth Bale')","(84, 1, 'Gareth Bale')",,,,,,,,
+2012-12-26,Everton,Wigan Athletic,2,1,"(52, 0, 'Leon Osman')","(77, 0, 'Phil Jagielka')","(82, 1, 'Arouna Kone')",,,,,,,,,
+2012-12-26,Fulham,Southampton,1,1,"(8, 0, 'Dimitar Berbatov')","(85, 1, 'Rickie Lambert')",,,,,,,,,,
+2012-12-26,Manchester United,Newcastle United,4,3,"(4, 1, 'James Perch')","(25, 0, 'Jonny Evans')","(28, 1, 'Jonny Evans')","(58, 0, 'Patrice Evra')","(68, 1, 'Papiss Cisse')","(71, 0, 'Robin Van Persie')","(90, 0, 'Javier Hernandez')",,,,,
+2012-12-26,Norwich City,Chelsea,0,1,"(38, 1, 'Juan Mata')",,,,,,,,,,,
+2012-12-26,Queens Park Rangers,West Bromwich Albion,1,2,"(29, 1, 'Chris Brunt')","(49, 1, 'Robert Green')","(68, 0, 'Djibril Cisse')",,,,,,,,,
+2012-12-26,Reading,Swansea City,0,0,,,,,,,,,,,,
+2012-12-26,Stoke City,Liverpool,3,1,"(2, 1, 'Steven Gerrard')","(5, 0, 'Jon Walters')","(12, 0, 'Kenwyne Jones')","(49, 0, 'Jon Walters')",,,,,,,,
+2012-12-26,Sunderland,Manchester City,1,0,"(53, 0, 'Adam Johnson')",,,,,,,,,,,
+2012-12-29,Arsenal,Newcastle United,7,3,"(20, 0, 'Theo Walcott')","(43, 1, 'Demba Ba')","(50, 0, 'Alex Oxlade-Chamberlain')","(59, 1, 'Sylvain Marveaux')","(64, 0, 'Lukas Podolski')","(69, 1, 'Demba Ba')","(73, 0, 'Theo Walcott')","(84, 0, 'Olivier Giroud')","(87, 0, 'Olivier Giroud')","(90, 0, 'Theo Walcott')",,
+2012-12-29,Aston Villa,Wigan Athletic,0,3,"(3, 1, 'Ivan Ramis')","(52, 1, 'Emmerson Boyce')","(56, 1, 'Arouna Kone')",,,,,,,,,
+2012-12-29,Fulham,Swansea City,1,2,"(19, 1, 'Danny Graham')","(52, 1, 'Jonathan De Guzman')","(56, 0, 'Bryan Ruiz')",,,,,,,,,
+2012-12-29,Manchester United,West Bromwich Albion,2,0,"(9, 0, 'Gareth McAuley')","(90, 0, 'Robin Van Persie')",,,,,,,,,,
+2012-12-29,Norwich City,Manchester City,3,4,"(2, 1, 'Edin Dzeko')","(4, 1, 'Edin Dzeko')","(15, 0, 'Anthony Pilkington')","(50, 1, 'Sergio Aguero')","(63, 0, 'Russell Martin')","(67, 1, 'Mark Bunn')","(75, 0, 'Russell Martin')",,,,,
+2012-12-29,Reading,West Ham United,1,0,"(5, 0, 'Pavel Pogrebnyak')",,,,,,,,,,,
+2012-12-29,Stoke City,Southampton,3,3,"(10, 1, 'Rickie Lambert')","(16, 0, 'Kenwyne Jones')","(24, 1, 'Jay Rodriguez')","(36, 1, 'Andy Wilkinson')","(67, 0, 'Matthew Upson')","(90, 0, 'Cameron Jerome')",,,,,,
+2012-12-29,Sunderland,Tottenham Hotspur,1,2,"(40, 0, ""John O'Shea"")","(48, 1, 'Carlos Cuellar')","(51, 1, 'Aaron Lennon')",,,,,,,,,
+2012-12-30,Everton,Chelsea,1,2,"(2, 0, 'Steven Pienaar')","(42, 1, 'Frank Lampard')","(72, 1, 'Frank Lampard')",,,,,,,,,
+2012-12-30,Queens Park Rangers,Liverpool,0,3,"(10, 1, 'Luis Suarez')","(16, 1, 'Luis Suarez')","(28, 1, 'Daniel Agger')",,,,,,,,,
+2013-01-01,Manchester City,Stoke City,3,0,"(43, 0, 'Pablo Zabaleta')","(56, 0, 'Edin Dzeko')","(74, 0, 'Sergio Aguero')",,,,,,,,,
+2013-01-01,Southampton,Arsenal,1,1,"(34, 0, 'Gaston Ramirez')","(41, 1, 'Guly Do Prado')",,,,,,,,,,
+2013-01-01,Swansea City,Aston Villa,2,2,"(9, 0, 'Wayne Routledge')","(44, 1, 'Andi Weimann')","(84, 1, 'Christian Benteke')","(90, 0, 'Danny Graham')",,,,,,,,
+2013-01-01,Tottenham Hotspur,Reading,3,1,"(4, 1, 'Pavel Pogrebnyak')","(9, 0, 'Michael Dawson')","(51, 0, 'Emmanuel Adebayor')","(79, 0, 'Clint Dempsey')",,,,,,,,
+2013-01-01,West Bromwich Albion,Fulham,1,2,"(39, 1, 'Dimitar Berbatov')","(49, 0, 'Romelu Lukaku')","(58, 1, 'Alex Kacaniklic')",,,,,,,,,
+2013-01-01,West Ham United,Norwich City,2,1,"(3, 0, 'Mark Noble')","(26, 0, ""Joey O'Brien"")","(90, 1, 'Russell Martin')",,,,,,,,,
+2013-01-01,Wigan Athletic,Manchester United,0,4,"(35, 1, 'Javier Hernandez')","(43, 1, 'Robin Van Persie')","(63, 1, 'Javier Hernandez')","(88, 1, 'Robin Van Persie')",,,,,,,,
+2013-01-02,Chelsea,Queens Park Rangers,0,1,"(78, 1, 'Shaun Wright-Phillips')",,,,,,,,,,,
+2013-01-02,Liverpool,Sunderland,3,0,"(19, 0, 'Raheem Sterling')","(26, 0, 'Luis Suarez')","(52, 0, 'Luis Suarez')",,,,,,,,,
+2013-01-02,Newcastle United,Everton,1,2,"(2, 0, 'Papiss Cisse')","(43, 1, 'Leighton Baines')","(60, 1, 'Victor Anichebe')",,,,,,,,,
+2013-01-12,Aston Villa,Southampton,0,1,"(34, 1, 'Rickie Lambert')",,,,,,,,,,,
+2013-01-12,Everton,Swansea City,0,0,,,,,,,,,,,,
+2013-01-12,Fulham,Wigan Athletic,1,1,"(22, 0, 'Giorgios Karagounis')","(71, 1, 'Franco Di Santo')",,,,,,,,,,
+2013-01-12,Norwich City,Newcastle United,0,0,,,,,,,,,,,,
+2013-01-12,Queens Park Rangers,Tottenham Hotspur,0,0,,,,,,,,,,,,
+2013-01-12,Reading,West Bromwich Albion,3,2,"(19, 1, 'Romelu Lukaku')","(69, 1, 'Romelu Lukaku')","(82, 0, 'Jimmy Kebe')","(88, 0, 'Adam Le Fondre')","(90, 0, 'Pavel Pogrebnyak')",,,,,,,
+2013-01-12,Stoke City,Chelsea,0,4,"(45, 1, 'Jon Walters')","(62, 1, 'Jon Walters')","(65, 1, 'Frank Lampard')","(73, 1, 'Eden Hazard')",,,,,,,,
+2013-01-12,Sunderland,West Ham United,3,0,"(12, 0, 'Seb Larsson')","(47, 0, 'Adam Johnson')","(74, 0, 'James McClean')",,,,,,,,,
+2013-01-13,Arsenal,Manchester City,0,2,"(21, 1, 'James Milner')","(32, 1, 'Edin Dzeko')",,,,,,,,,,
+2013-01-13,Manchester United,Liverpool,2,1,"(19, 0, 'Robin Van Persie')","(54, 0, 'Nemanja Vidic')","(57, 1, 'Daniel Sturridge')",,,,,,,,,
+2013-01-16,Chelsea,Southampton,2,2,"(25, 0, 'Demba Ba')","(45, 0, 'Eden Hazard')","(58, 1, 'Rickie Lambert')","(75, 1, 'Jason Puncheon')",,,,,,,,
+2013-01-19,Liverpool,Norwich City,5,0,"(26, 0, 'Jordan Henderson')","(36, 0, 'Luis Suarez')","(59, 0, 'Daniel Sturridge')","(66, 0, 'Steven Gerrard')","(74, 0, 'Ryan Bennett')",,,,,,,
+2013-01-19,Manchester City,Fulham,2,0,"(2, 0, 'David Silva')","(69, 0, 'David Silva')",,,,,,,,,,
+2013-01-19,Newcastle United,Reading,1,2,"(35, 0, 'Yohan Cabaye')","(71, 1, 'Adam Le Fondre')","(77, 1, 'Adam Le Fondre')",,,,,,,,,
+2013-01-19,Swansea City,Stoke City,3,1,"(49, 0, 'Ben Davies')","(57, 0, 'Jonathan De Guzman')","(80, 0, 'Jonathan De Guzman')","(90, 1, 'Michael Owen')",,,,,,,,
+2013-01-19,West Bromwich Albion,Aston Villa,2,2,"(12, 1, 'Christian Benteke')","(31, 1, 'Gabby Agbonlahor')","(49, 0, 'Chris Brunt')","(83, 0, 'Peter Odemwingie')",,,,,,,,
+2013-01-19,West Ham United,Queens Park Rangers,1,1,"(14, 1, 'Loic Remy')","(68, 0, 'Joe Cole')",,,,,,,,,,
+2013-01-19,Wigan Athletic,Sunderland,2,3,"(4, 0, 'David Vaughan')","(17, 1, 'Craig Gardner')","(20, 1, 'Steven Fletcher')","(42, 1, 'Steven Fletcher')","(79, 0, 'Angelo Henriquez')",,,,,,,
+2013-01-20,Chelsea,Arsenal,2,1,"(6, 0, 'Juan Mata')","(16, 0, 'Frank Lampard')","(58, 1, 'Theo Walcott')",,,,,,,,,
+2013-01-20,Tottenham Hotspur,Manchester United,1,1,"(25, 1, 'Robin Van Persie')","(90, 0, 'Clint Dempsey')",,,,,,,,,,
+2013-01-21,Southampton,Everton,0,0,,,,,,,,,,,,
+2013-01-23,Arsenal,West Ham United,5,1,"(18, 1, 'Jack Collison')","(22, 0, 'Lukas Podolski')","(47, 0, 'Olivier Giroud')","(53, 0, 'Santi Cazorla')","(54, 0, 'Theo Walcott')","(57, 0, 'Olivier Giroud')",,,,,,
+2013-01-29,Aston Villa,Newcastle United,1,2,"(19, 1, 'Papiss Cisse')","(31, 1, 'Yohan Cabaye')","(49, 0, 'Christian Benteke')",,,,,,,,,
+2013-01-29,Queens Park Rangers,Manchester City,0,0,,,,,,,,,,,,
+2013-01-29,Stoke City,Wigan Athletic,2,2,"(23, 0, 'Ryan Shawcross')","(48, 0, 'Peter Crouch')","(50, 1, 'James McArthur')","(61, 1, 'Franco Di Santo')",,,,,,,,
+2013-01-29,Sunderland,Swansea City,0,0,,,,,,,,,,,,
+2013-01-30,Arsenal,Liverpool,2,2,"(5, 1, 'Luis Suarez')","(60, 1, 'Jordan Henderson')","(64, 0, 'Olivier Giroud')","(67, 0, 'Theo Walcott')",,,,,,,,
+2013-01-30,Everton,West Bromwich Albion,2,1,"(29, 0, 'Leighton Baines')","(45, 0, 'Leighton Baines')","(65, 1, 'Shane Long')",,,,,,,,,
+2013-01-30,Fulham,West Ham United,3,1,"(10, 0, 'Dimitar Berbatov')","(48, 1, 'Kevin Nolan')","(49, 0, 'Hugo Rodallega')","(90, 0, ""Joey O'Brien"")",,,,,,,,
+2013-01-30,Manchester United,Southampton,2,1,"(3, 1, 'Jay Rodriguez')","(8, 0, 'Wayne Rooney')","(27, 0, 'Wayne Rooney')",,,,,,,,,
+2013-01-30,Norwich City,Tottenham Hotspur,1,1,"(32, 0, 'Wes Hoolahan')","(80, 1, 'Gareth Bale')",,,,,,,,,,
+2013-01-30,Reading,Chelsea,2,2,"(45, 1, 'Juan Mata')","(66, 1, 'Frank Lampard')","(87, 0, 'Adam Le Fondre')","(90, 0, 'Adam Le Fondre')",,,,,,,,
+2013-02-02,Arsenal,Stoke City,1,0,"(78, 0, 'Lukas Podolski')",,,,,,,,,,,
+2013-02-02,Everton,Aston Villa,3,3,"(2, 1, 'Christian Benteke')","(21, 0, 'Victor Anichebe')","(24, 1, 'Gabby Agbonlahor')","(61, 1, 'Christian Benteke')","(69, 0, 'Marouane Fellaini')","(90, 0, 'Marouane Fellaini')",,,,,,
+2013-02-02,Fulham,Manchester United,0,1,"(79, 1, 'Wayne Rooney')",,,,,,,,,,,
+2013-02-02,Newcastle United,Chelsea,3,2,"(41, 0, 'Jonas Gutierrez')","(55, 1, 'Frank Lampard')","(61, 1, 'Juan Mata')","(68, 0, 'Moussa Sissoko')","(90, 0, 'Moussa Sissoko')",,,,,,,
+2013-02-02,Queens Park Rangers,Norwich City,0,0,,,,,,,,,,,,
+2013-02-02,Reading,Sunderland,2,1,"(7, 0, 'Jimmy Kebe')","(29, 1, 'Craig Gardner')","(85, 0, 'Jimmy Kebe')",,,,,,,,,
+2013-02-02,West Ham United,Swansea City,1,0,"(77, 0, 'Andy Carroll')",,,,,,,,,,,
+2013-02-02,Wigan Athletic,Southampton,2,2,"(25, 0, 'Gary Caldwell')","(64, 1, 'Rickie Lambert')","(85, 1, 'Morgan Schneiderlin')","(90, 0, 'Shaun Maloney')",,,,,,,,
+2013-02-03,Manchester City,Liverpool,2,2,"(23, 0, 'Edin Dzeko')","(29, 1, 'Daniel Sturridge')","(73, 1, 'Steven Gerrard')","(78, 0, 'Sergio Aguero')",,,,,,,,
+2013-02-03,West Bromwich Albion,Tottenham Hotspur,0,1,"(67, 1, 'Gareth Bale')",,,,,,,,,,,
+2013-02-09,Chelsea,Wigan Athletic,4,1,"(23, 0, ' Ramires')","(56, 0, 'Eden Hazard')","(58, 1, 'Shaun Maloney')","(86, 0, 'Frank Lampard')","(90, 0, 'Marko Marin')",,,,,,,
+2013-02-09,Norwich City,Fulham,0,0,,,,,,,,,,,,
+2013-02-09,Southampton,Manchester City,3,1,"(7, 0, 'Jason Puncheon')","(22, 0, 'Steven Davis')","(39, 1, 'Edin Dzeko')","(48, 0, 'Gareth Barry')",,,,,,,,
+2013-02-09,Stoke City,Reading,2,1,"(67, 0, 'Robert Huth')","(81, 0, 'Cameron Jerome')","(83, 1, 'Adrian Mariappa')",,,,,,,,,
+2013-02-09,Sunderland,Arsenal,0,1,"(35, 1, 'Santi Cazorla')",,,,,,,,,,,
+2013-02-09,Swansea City,Queens Park Rangers,4,1,"(8, 0, ' Michu')","(18, 0, 'Angel Rangel')","(48, 1, 'Bobby Zamora')","(50, 0, ' Pablo Hernandez')","(67, 0, ' Michu')",,,,,,,
+2013-02-09,Tottenham Hotspur,Newcastle United,2,1,"(5, 0, 'Gareth Bale')","(24, 1, 'Yoan Gouffran')","(78, 0, 'Gareth Bale')",,,,,,,,,
+2013-02-10,Aston Villa,West Ham United,2,1,"(74, 0, 'Christian Benteke')","(78, 0, ""Charles N'Zogbia"")","(87, 1, 'Ashley R Westwood')",,,,,,,,,
+2013-02-10,Manchester United,Everton,2,0,"(13, 0, 'Ryan Giggs')","(45, 0, 'Robin Van Persie')",,,,,,,,,,
+2013-02-11,Liverpool,West Bromwich Albion,0,2,"(81, 1, 'Gareth McAuley')","(90, 1, 'Romelu Lukaku')",,,,,,,,,,
+2013-02-17,Liverpool,Swansea City,5,0,"(34, 0, 'Steven Gerrard')","(46, 0, 'Philippe Coutinho')","(50, 0, 'Jose Enrique')","(56, 0, 'Luis Suarez')","(71, 0, 'Daniel Sturridge')",,,,,,,
+2013-02-23,Arsenal,Aston Villa,2,1,"(6, 0, 'Santi Cazorla')","(68, 1, 'Andi Weimann')","(85, 0, 'Santi Cazorla')",,,,,,,,,
+2013-02-23,Fulham,Stoke City,1,0,"(45, 0, 'Dimitar Berbatov')",,,,,,,,,,,
+2013-02-23,Norwich City,Everton,2,1,"(39, 1, 'Leon Osman')","(84, 0, 'Kei Kamara')","(90, 0, 'Grant Holt')",,,,,,,,,
+2013-02-23,Queens Park Rangers,Manchester United,0,2,"(23, 1, ' Rafael Da Silva')","(80, 1, 'Ryan Giggs')",,,,,,,,,,
+2013-02-23,Reading,Wigan Athletic,0,3,"(44, 1, 'Arouna Kone')","(45, 1, 'Arouna Kone')","(48, 1, 'Maynor Figueroa')",,,,,,,,,
+2013-02-23,West Bromwich Albion,Sunderland,2,1,"(35, 0, 'Romelu Lukaku')","(75, 0, 'Romelu Lukaku')","(79, 1, 'Stephane Sessegnon')",,,,,,,,,
+2013-02-24,Manchester City,Chelsea,2,0,"(63, 0, 'Yaya Toure')","(85, 0, 'Carlos Tevez')",,,,,,,,,,
+2013-02-24,Newcastle United,Southampton,4,2,"(3, 1, 'Morgan Schneiderlin')","(33, 0, 'Moussa Sissoko')","(42, 0, 'Papiss Cisse')","(50, 1, 'Rickie Lambert')","(67, 0, 'Yohan Cabaye')","(79, 0, 'Jos Hooiveld')",,,,,,
+2013-02-25,West Ham United,Tottenham Hotspur,2,3,"(13, 1, 'Gareth Bale')","(25, 0, 'Andy Carroll')","(58, 0, 'Joe Cole')","(76, 1, 'Gylfi Sigurdsson')","(90, 1, 'Gareth Bale')",,,,,,,
+2013-03-02,Chelsea,West Bromwich Albion,1,0,"(28, 0, 'Demba Ba')",,,,,,,,,,,
+2013-03-02,Everton,Reading,3,1,"(42, 0, 'Marouane Fellaini')","(59, 0, 'Steven Pienaar')","(66, 0, 'Kevin Mirallas')","(84, 1, 'Hal Robson-Kanu')",,,,,,,,
+2013-03-02,Manchester United,Norwich City,4,0,"(45, 0, 'Shinji Kagawa')","(76, 0, 'Shinji Kagawa')","(87, 0, 'Shinji Kagawa')","(90, 0, 'Wayne Rooney')",,,,,,,,
+2013-03-02,Southampton,Queens Park Rangers,1,2,"(14, 1, 'Loic Remy')","(45, 0, 'Gaston Ramirez')","(77, 1, 'Jay Bothroyd')",,,,,,,,,
+2013-03-02,Stoke City,West Ham United,0,1,"(45, 1, 'Jack Collison')",,,,,,,,,,,
+2013-03-02,Sunderland,Fulham,2,2,"(16, 1, 'Dimitar Berbatov')","(35, 1, 'Sascha Riether')","(37, 0, 'Craig Gardner')","(70, 0, 'Stephane Sessegnon')",,,,,,,,
+2013-03-02,Swansea City,Newcastle United,1,0,"(85, 0, 'Luke Moore')",,,,,,,,,,,
+2013-03-02,Wigan Athletic,Liverpool,0,4,"(2, 1, 'Stewart Downing')","(18, 1, 'Luis Suarez')","(34, 1, 'Luis Suarez')","(49, 1, 'Luis Suarez')",,,,,,,,
+2013-03-03,Tottenham Hotspur,Arsenal,2,1,"(37, 0, 'Gareth Bale')","(39, 0, 'Aaron Lennon')","(51, 1, 'Per Mertesacker')",,,,,,,,,
+2013-03-04,Aston Villa,Manchester City,0,1,"(45, 1, 'Carlos Tevez')",,,,,,,,,,,
+2013-03-09,Norwich City,Southampton,0,0,,,,,,,,,,,,
+2013-03-09,Queens Park Rangers,Sunderland,3,1,"(20, 1, 'Steven Fletcher')","(30, 0, 'Loic Remy')","(70, 0, 'Andros Townsend')","(90, 0, 'Jermaine Jenas')",,,,,,,,
+2013-03-09,Reading,Aston Villa,1,2,"(32, 0, 'Nathan Baker')","(33, 1, 'Christian Benteke')","(45, 1, 'Gabby Agbonlahor')",,,,,,,,,
+2013-03-09,West Bromwich Albion,Swansea City,2,1,"(33, 1, 'Luke Moore')","(40, 0, 'Romelu Lukaku')","(61, 0, 'Jonathan De Guzman')",,,,,,,,,
+2013-03-10,Liverpool,Tottenham Hotspur,3,2,"(21, 0, 'Luis Suarez')","(45, 1, 'Jan Vertonghen')","(53, 1, 'Jan Vertonghen')","(66, 0, 'Stewart Downing')","(82, 0, 'Steven Gerrard')",,,,,,,
+2013-03-10,Newcastle United,Stoke City,2,1,"(67, 1, 'Jon Walters')","(72, 0, 'Yohan Cabaye')","(90, 0, 'Papiss Cisse')",,,,,,,,,
+2013-03-16,Aston Villa,Queens Park Rangers,3,2,"(23, 1, 'Jermaine Jenas')","(45, 0, 'Gabby Agbonlahor')","(59, 0, 'Andi Weimann')","(73, 1, 'Andros Townsend')","(81, 0, 'Christian Benteke')",,,,,,,
+2013-03-16,Everton,Manchester City,2,0,"(32, 0, 'Leon Osman')","(90, 0, 'Nikica Jelavic')",,,,,,,,,,
+2013-03-16,Manchester United,Reading,1,0,"(21, 0, 'Wayne Rooney')",,,,,,,,,,,
+2013-03-16,Southampton,Liverpool,3,1,"(6, 0, 'Morgan Schneiderlin')","(33, 0, 'Rickie Lambert')","(45, 1, 'Philippe Coutinho')","(80, 0, 'Jay Rodriguez')",,,,,,,,
+2013-03-16,Stoke City,West Bromwich Albion,0,0,,,,,,,,,,,,
+2013-03-16,Swansea City,Arsenal,0,2,"(74, 1, 'Nacho Monreal')","(90, 1, ' Gervinho')",,,,,,,,,,
+2013-03-17,Chelsea,West Ham United,2,0,"(19, 0, 'Frank Lampard')","(50, 0, 'Eden Hazard')",,,,,,,,,,
+2013-03-17,Sunderland,Norwich City,1,1,"(26, 1, 'Wes Hoolahan')","(40, 0, 'Craig Gardner')",,,,,,,,,,
+2013-03-17,Tottenham Hotspur,Fulham,0,1,"(52, 1, 'Dimitar Berbatov')",,,,,,,,,,,
+2013-03-17,Wigan Athletic,Newcastle United,2,1,"(18, 0, 'Jean Beausejour')","(72, 1, 'Davide Santon')","(90, 0, 'Arouna Kone')",,,,,,,,,
+2013-03-30,Arsenal,Reading,4,1,"(11, 0, ' Gervinho')","(48, 0, 'Santi Cazorla')","(67, 0, 'Olivier Giroud')","(68, 1, 'Hal Robson-Kanu')","(77, 0, 'Mikel Arteta')",,,,,,,
+2013-03-30,Everton,Stoke City,1,0,"(28, 0, 'Kevin Mirallas')",,,,,,,,,,,
+2013-03-30,Manchester City,Newcastle United,4,0,"(41, 0, 'Carlos Tevez')","(45, 0, 'David Silva')","(56, 0, 'Vincent Kompany')","(69, 0, 'Yaya Toure')",,,,,,,,
+2013-03-30,Southampton,Chelsea,2,1,"(23, 0, 'Jay Rodriguez')","(33, 1, 'John Terry')","(35, 0, 'Rickie Lambert')",,,,,,,,,
+2013-03-30,Sunderland,Manchester United,0,1,"(27, 1, 'Titus Bramble')",,,,,,,,,,,
+2013-03-30,Swansea City,Tottenham Hotspur,1,2,"(7, 1, 'Jan Vertonghen')","(21, 1, 'Gareth Bale')","(71, 0, ' Michu')",,,,,,,,,
+2013-03-30,West Ham United,West Bromwich Albion,3,1,"(16, 0, 'Andy Carroll')","(28, 0, ""Gary O'Neil"")","(80, 0, 'Andy Carroll')","(88, 1, 'Graeme Dorrans')",,,,,,,,
+2013-03-30,Wigan Athletic,Norwich City,1,0,"(81, 0, 'Arouna Kone')",,,,,,,,,,,
+2013-03-31,Aston Villa,Liverpool,1,2,"(31, 0, 'Christian Benteke')","(47, 1, 'Jordan Henderson')","(60, 1, 'Steven Gerrard')",,,,,,,,,
+2013-04-01,Fulham,Queens Park Rangers,3,2,"(8, 0, 'Dimitar Berbatov')","(22, 0, 'Dimitar Berbatov')","(41, 0, 'Clint Hill')","(45, 1, 'Adel Taarabt')","(51, 1, 'Loic Remy')",,,,,,,
+2013-04-06,Norwich City,Swansea City,2,2,"(35, 1, ' Michu')","(40, 0, 'Robert Snodgrass')","(60, 0, 'Michael Turner')","(75, 1, 'Luke Moore')",,,,,,,,
+2013-04-06,Reading,Southampton,0,2,"(34, 1, 'Jay Rodriguez')","(72, 1, 'Adam Lallana')",,,,,,,,,,
+2013-04-06,Stoke City,Aston Villa,1,3,"(9, 1, 'Gabby Agbonlahor')","(80, 0, 'Michael Kightly')","(87, 1, 'Matthew Lowton')","(90, 1, 'Christian Benteke')",,,,,,,,
+2013-04-06,West Bromwich Albion,Arsenal,1,2,"(20, 1, 'Tomas Rosicky')","(50, 1, 'Tomas Rosicky')","(71, 0, 'James Morrison')",,,,,,,,,
+2013-04-07,Chelsea,Sunderland,2,1,"(45, 1, 'Cesar Azpilicueta')","(47, 0, 'Matthew Kilgallon')","(55, 0, 'Branislav Ivanovic')",,,,,,,,,
+2013-04-07,Liverpool,West Ham United,0,0,,,,,,,,,,,,
+2013-04-07,Newcastle United,Fulham,1,0,"(90, 0, 'Papiss Cisse')",,,,,,,,,,,
+2013-04-07,Queens Park Rangers,Wigan Athletic,1,1,"(85, 0, 'Loic Remy')","(90, 1, 'Shaun Maloney')",,,,,,,,,,
+2013-04-07,Tottenham Hotspur,Everton,2,2,"(1, 0, 'Emmanuel Adebayor')","(15, 1, 'Phil Jagielka')","(53, 1, 'Kevin Mirallas')","(87, 0, 'Gylfi Sigurdsson')",,,,,,,,
+2013-04-08,Manchester United,Manchester City,1,2,"(51, 1, 'James Milner')","(59, 0, 'Vincent Kompany')","(78, 1, 'Sergio Aguero')",,,,,,,,,
+2013-04-13,Arsenal,Norwich City,3,1,"(56, 1, 'Michael Turner')","(85, 0, 'Mikel Arteta')","(88, 0, 'Olivier Giroud')","(90, 0, 'Lukas Podolski')",,,,,,,,
+2013-04-13,Aston Villa,Fulham,1,1,"(55, 0, ""Charles N'Zogbia"")","(66, 1, 'Fabian Delph')",,,,,,,,,,
+2013-04-13,Everton,Queens Park Rangers,2,0,"(40, 0, 'Darron Gibson')","(56, 0, 'Victor Anichebe')",,,,,,,,,,
+2013-04-13,Reading,Liverpool,0,0,,,,,,,,,,,,
+2013-04-13,Southampton,West Ham United,1,1,"(59, 0, 'Gaston Ramirez')","(66, 1, 'Andy Carroll')",,,,,,,,,,
+2013-04-14,Newcastle United,Sunderland,0,3,"(27, 1, 'Stephane Sessegnon')","(74, 1, 'Adam Johnson')","(82, 1, 'David Vaughan')",,,,,,,,,
+2013-04-14,Stoke City,Manchester United,0,2,"(4, 1, 'Michael Carrick')","(66, 1, 'Robin Van Persie')",,,,,,,,,,
+2013-04-16,Arsenal,Everton,0,0,,,,,,,,,,,,
+2013-04-17,Fulham,Chelsea,0,3,"(30, 1, ' David Luiz')","(43, 1, 'John Terry')","(71, 1, 'John Terry')",,,,,,,,,
+2013-04-17,Manchester City,Wigan Athletic,1,0,"(83, 0, 'Carlos Tevez')",,,,,,,,,,,
+2013-04-17,West Ham United,Manchester United,2,2,"(16, 0, 'Ricardo Vaz Te')","(31, 1, 'Antonio Valencia')","(55, 0, 'Mohamed Diame')","(77, 1, 'Robin Van Persie')",,,,,,,,
+2013-04-20,Fulham,Arsenal,0,1,"(43, 1, 'Per Mertesacker')",,,,,,,,,,,
+2013-04-20,Norwich City,Reading,2,1,"(50, 0, 'Ryan Bennett')","(52, 0, 'Elliott Bennett')","(72, 1, 'Garath McCleary')",,,,,,,,,
+2013-04-20,Queens Park Rangers,Stoke City,0,2,"(42, 1, 'Peter Crouch')","(77, 1, 'Jon Walters')",,,,,,,,,,
+2013-04-20,Sunderland,Everton,1,0,"(45, 0, 'Stephane Sessegnon')",,,,,,,,,,,
+2013-04-20,Swansea City,Southampton,0,0,,,,,,,,,,,,
+2013-04-20,West Bromwich Albion,Newcastle United,1,1,"(8, 1, 'Yoan Gouffran')","(64, 0, 'Billy Jones')",,,,,,,,,,
+2013-04-20,West Ham United,Wigan Athletic,2,0,"(21, 0, 'Matt Jarvis')","(80, 0, 'Kevin Nolan')",,,,,,,,,,
+2013-04-21,Liverpool,Chelsea,2,2,"(26, 1, ' Oscar')","(52, 0, 'Daniel Sturridge')","(57, 1, 'Eden Hazard')","(90, 0, 'Luis Suarez')",,,,,,,,
+2013-04-21,Tottenham Hotspur,Manchester City,3,1,"(5, 1, 'Samir Nasri')","(75, 0, 'Clint Dempsey')","(79, 0, 'Jermain Defoe')","(82, 0, 'Gareth Bale')",,,,,,,,
+2013-04-22,Manchester United,Aston Villa,3,0,"(2, 0, 'Robin Van Persie')","(13, 0, 'Robin Van Persie')","(33, 0, 'Robin Van Persie')",,,,,,,,,
+2013-04-27,Everton,Fulham,1,0,"(16, 0, 'Steven Pienaar')",,,,,,,,,,,
+2013-04-27,Manchester City,West Ham United,2,1,"(28, 0, 'Sergio Aguero')","(83, 0, 'Yaya Toure')","(90, 1, 'Andy Carroll')",,,,,,,,,
+2013-04-27,Newcastle United,Liverpool,0,6,"(3, 1, 'Daniel Agger')","(17, 1, 'Jordan Henderson')","(54, 1, 'Daniel Sturridge')","(60, 1, 'Daniel Sturridge')","(74, 1, 'Fabio Borini')","(76, 1, 'Jordan Henderson')",,,,,,
+2013-04-27,Southampton,West Bromwich Albion,0,3,"(6, 1, 'Marc Antoine Fortune')","(67, 1, 'Romelu Lukaku')","(77, 1, 'Shane Long')",,,,,,,,,
+2013-04-27,Stoke City,Norwich City,1,0,"(46, 0, 'Charlie Adam')",,,,,,,,,,,
+2013-04-27,Wigan Athletic,Tottenham Hotspur,2,2,"(9, 1, 'Gareth Bale')","(11, 0, 'Emmerson Boyce')","(49, 0, 'Callum McManaman')","(90, 1, 'Emmerson Boyce')",,,,,,,,
+2013-04-28,Arsenal,Manchester United,1,1,"(2, 0, 'Theo Walcott')","(44, 1, 'Robin Van Persie')",,,,,,,,,,
+2013-04-28,Chelsea,Swansea City,2,0,"(43, 0, ' Oscar')","(45, 0, 'Frank Lampard')",,,,,,,,,,
+2013-04-28,Reading,Queens Park Rangers,0,0,,,,,,,,,,,,
+2013-04-29,Aston Villa,Sunderland,6,1,"(31, 0, 'Ron Vlaar')","(32, 1, 'Danny Rose')","(38, 0, 'Andi Weimann')","(55, 0, 'Christian Benteke')","(59, 0, 'Christian Benteke')","(72, 0, 'Christian Benteke')","(88, 0, 'Gabby Agbonlahor')",,,,,
+2013-05-04,Fulham,Reading,2,4,"(12, 1, 'Hal Robson-Kanu')","(62, 1, 'Hal Robson-Kanu')","(70, 0, 'Bryan Ruiz')","(75, 1, 'Adam Le Fondre')","(77, 0, 'Bryan Ruiz')","(83, 1, 'Jem Karacan')",,,,,,
+2013-05-04,Norwich City,Aston Villa,1,2,"(55, 1, 'Gabby Agbonlahor')","(74, 0, 'Grant Holt')","(89, 1, 'Gabby Agbonlahor')",,,,,,,,,
+2013-05-04,Queens Park Rangers,Arsenal,0,1,"(1, 1, 'Theo Walcott')",,,,,,,,,,,
+2013-05-04,Swansea City,Manchester City,0,0,,,,,,,,,,,,
+2013-05-04,Tottenham Hotspur,Southampton,1,0,"(86, 0, 'Gareth Bale')",,,,,,,,,,,
+2013-05-04,West Bromwich Albion,Wigan Athletic,2,3,"(29, 0, 'Shane Long')","(39, 1, 'Arouna Kone')","(50, 0, 'Gareth McAuley')","(58, 1, 'James McArthur')","(80, 1, 'Callum McManaman')",,,,,,,
+2013-05-04,West Ham United,Newcastle United,0,0,,,,,,,,,,,,
+2013-05-05,Liverpool,Everton,0,0,,,,,,,,,,,,
+2013-05-05,Manchester United,Chelsea,0,1,"(87, 1, 'Juan Mata')",,,,,,,,,,,
+2013-05-06,Sunderland,Stoke City,1,1,"(9, 1, 'Jon Walters')","(63, 0, ""John O'Shea"")",,,,,,,,,,
+2013-05-07,Manchester City,West Bromwich Albion,1,0,"(35, 0, 'Edin Dzeko')",,,,,,,,,,,
+2013-05-07,Wigan Athletic,Swansea City,2,3,"(45, 0, 'Roger Espinoza')","(50, 1, 'Angel Rangel')","(53, 0, 'James McCarthy')","(59, 1, 'Itay Shechter')","(76, 1, 'Dwight Tiendalli')",,,,,,,
+2013-05-08,Chelsea,Tottenham Hotspur,2,2,"(10, 0, ' Oscar')","(26, 1, 'Emmanuel Adebayor')","(39, 0, ' Ramires')","(80, 1, 'Gylfi Sigurdsson')",,,,,,,,
+2013-05-11,Aston Villa,Chelsea,1,2,"(14, 0, 'Christian Benteke')","(61, 1, 'Frank Lampard')","(88, 1, 'Frank Lampard')",,,,,,,,,
+2013-05-12,Everton,West Ham United,2,0,"(6, 0, 'Kevin Mirallas')","(60, 0, 'Kevin Mirallas')",,,,,,,,,,
+2013-05-12,Fulham,Liverpool,1,3,"(33, 0, 'Dimitar Berbatov')","(36, 1, 'Daniel Sturridge')","(62, 1, 'Daniel Sturridge')","(85, 1, 'Daniel Sturridge')",,,,,,,,
+2013-05-12,Manchester United,Swansea City,2,1,"(39, 0, 'Javier Hernandez')","(49, 1, ' Michu')","(87, 0, 'Rio Ferdinand')",,,,,,,,,
+2013-05-12,Norwich City,West Bromwich Albion,4,0,"(25, 0, 'Robert Snodgrass')","(62, 0, 'Grant Holt')","(65, 0, 'Gareth McAuley')","(90, 0, 'Jonny Howson')",,,,,,,,
+2013-05-12,Queens Park Rangers,Newcastle United,1,2,"(11, 0, 'Loic Remy')","(18, 1, 'Hatem Ben Arfa')","(35, 1, 'Yoan Gouffran')",,,,,,,,,
+2013-05-12,Stoke City,Tottenham Hotspur,1,2,"(3, 0, ""Steven N'Zonzi"")","(20, 1, 'Clint Dempsey')","(83, 1, 'Emmanuel Adebayor')",,,,,,,,,
+2013-05-12,Sunderland,Southampton,1,1,"(68, 0, 'Phil Bardsley')","(76, 1, 'Jason Puncheon')",,,,,,,,,,
+2013-05-14,Arsenal,Wigan Athletic,4,1,"(11, 0, 'Lukas Podolski')","(45, 1, 'Shaun Maloney')","(63, 0, 'Theo Walcott')","(68, 0, 'Lukas Podolski')","(71, 0, 'Aaron Ramsey')",,,,,,,
+2013-05-14,Reading,Manchester City,0,2,"(40, 1, 'Sergio Aguero')","(88, 1, 'Edin Dzeko')",,,,,,,,,,
+2013-05-19,Chelsea,Everton,2,1,"(7, 0, 'Juan Mata')","(14, 1, 'Steven Naismith')","(76, 0, 'Fernando Torres')",,,,,,,,,
+2013-05-19,Liverpool,Queens Park Rangers,1,0,"(23, 0, 'Philippe Coutinho')",,,,,,,,,,,
+2013-05-19,Manchester City,Norwich City,2,3,"(26, 1, 'Anthony Pilkington')","(29, 0, 'Jack Rodwell')","(54, 1, 'Grant Holt')","(59, 0, 'Jack Rodwell')","(65, 1, 'Jonny Howson')",,,,,,,
+2013-05-19,Newcastle United,Arsenal,0,1,"(52, 1, 'Laurent Koscielny')",,,,,,,,,,,
+2013-05-19,Southampton,Stoke City,1,1,"(47, 1, 'Peter Crouch')","(57, 0, 'Rickie Lambert')",,,,,,,,,,
+2013-05-19,Swansea City,Fulham,0,3,"(22, 1, 'Alex Kacaniklic')","(77, 1, 'Dimitar Berbatov')","(90, 1, 'Urby Emanuelson')",,,,,,,,,
+2013-05-19,Tottenham Hotspur,Sunderland,1,0,"(90, 0, 'Gareth Bale')",,,,,,,,,,,
+2013-05-19,West Bromwich Albion,Manchester United,5,5,"(6, 1, 'Shinji Kagawa')","(9, 1, 'Jonas Olsson')","(30, 1, 'Alexander Buttner')","(40, 0, 'James Morrison')","(50, 0, 'Romelu Lukaku')","(53, 1, 'Robin Van Persie')","(63, 1, 'Javier Hernandez')","(81, 0, 'Youssef Mulumbu')","(81, 0, 'Romelu Lukaku')","(86, 0, 'Romelu Lukaku')",,
+2013-05-19,West Ham United,Reading,4,2,"(23, 0, 'Kevin Nolan')","(34, 0, 'Ricardo Vaz Te')","(53, 1, 'Garath McCleary')","(55, 1, 'Adam Le Fondre')","(79, 0, 'Kevin Nolan')","(87, 0, 'Kevin Nolan')",,,,,,
+2013-05-19,Wigan Athletic,Aston Villa,2,2,"(5, 1, 'Darren Bent')","(21, 0, 'Emmerson Boyce')","(45, 0, 'Nathan Baker')","(61, 1, 'Ron Vlaar')",,,,,,,,
